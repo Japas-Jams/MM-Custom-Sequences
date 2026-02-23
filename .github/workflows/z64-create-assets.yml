@@ -1,0 +1,21 @@
+name: Z64 - Create assets
+
+on:
+  workflow_dispatch:
+  pull_request_target:
+    types:
+      - closed
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: CristobalPenaloza/z64packer-create-assets@v1
+        with:
+          name: "Japas' Jams"
+          description: "Hey... Why don't we forget about waiting for Evan to write a song and just write one ourselves?"
+          binaries-path: 'Music/'
+          previews-path: 'previews/'
+          avatar-url: 'https://avatars.githubusercontent.com/u/263087332?s=96&v=4'
