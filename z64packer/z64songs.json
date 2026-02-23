@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
+    "creationDate": "2026-02-23T16:54:40.535Z",
+    "game": "A Link to the Past",
+    "song": "Dark World",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "A Link to the Past/Dark World.mmrs",
+    "preview": "A Link to the Past/Dark World.mp3"
+  }
+]
