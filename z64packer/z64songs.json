@@ -11,8 +11,12 @@
       "BigBomba88"
     ],
     "isDMCACritical": false,
-    "type": "",
-    "categories": [],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
