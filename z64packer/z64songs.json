@@ -413,5 +413,147 @@
     "usesFormmask": false,
     "file": "Doom II/Running from Evil.mmrs",
     "preview": "Doom II/Running from Evil.mp3"
+  },
+  {
+    "uuid": "7958538f-007a-4e78-9407-95b9f2ef6202",
+    "creationDate": "2026-03-06T03:51:58.752Z",
+    "game": "Super Mario Sunshine",
+    "song": "Shadow Mario",
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Sunshine/Shadow Mario.mmrs",
+    "preview": "Super Mario Sunshine/Shadow Mario.mp3"
+  },
+  {
+    "uuid": "9ca10b0e-f6e1-4283-956a-584c1315f144",
+    "creationDate": "2026-03-06T03:54:15.298Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Hyrule Temple",
+    "composers": [
+      "Akito Nakatsuka",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Hyrule Temple.mmrs",
+    "preview": "Super Smash Bros. Melee/Hyrule Temple.mp3"
+  },
+  {
+    "uuid": "edee24c4-8f71-4774-8178-43c0897d1d8c",
+    "creationDate": "2026-03-06T03:56:09.062Z",
+    "game": "WarioWare: Touched!",
+    "song": "Ashley's Song",
+    "composers": [
+      "Masanobu Matsunaga",
+      "Yasuhisa Baba",
+      "Masaru Tajima"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "WarioWare Touched!/Ashley's Song.mmrs",
+    "preview": "WarioWare Touched!/Ashley's Song.mp3"
+  },
+  {
+    "uuid": "016a055e-cc57-4c6d-8f43-9e88e2b5e3e8",
+    "creationDate": "2026-03-06T04:00:10.290Z",
+    "game": "PokÃ©mon Red, Blue & Yellow",
+    "song": "Battle! Wild PokÃ©mon",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mp3"
+  },
+  {
+    "uuid": "8418e20a-9c44-45db-9033-49e6a7c11278",
+    "creationDate": "2026-03-06T04:01:38.886Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Vs Trainer",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+  },
+  {
+    "uuid": "3891183f-72aa-411f-86a4-8649b95c89d4",
+    "creationDate": "2026-03-06T04:02:53.113Z",
+    "game": "Pok�mon Red, Blue & Yellow",
+    "song": "Battle! Vs Gym Leader",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pok�mon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
+    "preview": "Pok�mon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
   }
 ]
