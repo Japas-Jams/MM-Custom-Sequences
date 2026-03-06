@@ -490,7 +490,7 @@
   {
     "uuid": "3891183f-72aa-411f-86a4-8649b95c89d4",
     "creationDate": "2026-03-06T04:02:53.113Z",
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "Battle! Vs Gym Leader",
     "composers": [
       "Junichi Masuda"
@@ -507,12 +507,12 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
-    "song": "Battle! Wild Pok\u00e9mon",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Battle! Wild Pokémon",
     "composers": [
       "Junichi Masuda"
     ],
@@ -528,13 +528,13 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0494c0f1-616d-4177-aa94-7bbc0d7845dd",
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Battle! Wild Pok\u00e9mon.mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/Battle! Wild Pok\u00e9mon.mp3"
+    "file": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Wild Pokémon.mp3"
   },
   {
     "uuid": "411aebac-754b-43e3-8d9b-9c1f0ff8370f",
     "creationDate": "2026-03-06T04:06:36.242Z",
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Girl)",
     "composers": [
       "Junichi Masuda"
@@ -550,13 +550,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok\u00e9mon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/A Trainer Appears! (Girl).mp3"
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Girl).mp3"
   },
   {
     "uuid": "5d319efc-5b18-47bd-9881-161d668d7c9b",
     "creationDate": "2026-03-06T04:08:59.944Z",
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "Team Rocket Hideout",
     "composers": [
       "Junichi Masuda"
@@ -572,13 +572,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/Team Rocket Hideout.mp3"
+    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mp3"
   },
   {
     "uuid": "0adb2d1b-2349-41ff-80d8-d330409639be",
     "creationDate": "2026-03-06T04:09:59.311Z",
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "Route 1",
     "composers": [
       "Junichi Masuda"
@@ -594,11 +594,11 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Route 1.mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/Route 1.mp3"
+    "file": "Pokémon Red, Blue & Yellow/Route 1.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Route 1.mp3"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "Battle! Vs Trainer",
     "composers": [
       "Junichi Masuda"
@@ -615,11 +615,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "beb91ab3-d064-4ae0-9497-7a106cdc746d",
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+    "file": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Tough Guy)",
     "composers": [
       "Junichi Masuda"
@@ -635,8 +635,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "be458c64-6c49-42ba-848e-8beaea98bdef",
-    "file": "Pok\u00e9mon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mp3"
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mp3"
   },
   {
     "uuid": "53a730b9-009e-439c-9ae2-c5cd40222b61",
@@ -855,7 +855,7 @@
     "preview": "Banjo-Tooie/Hailfire Peak.mp3"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "Pokémon Red, Blue & Yellow",
     "song": "A Trainer Appears! (Boy)",
     "composers": [
       "Junichi Masuda"
@@ -871,8 +871,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "dcfb1296-1053-43cb-9ecd-d0a6ce4e20a4",
-    "file": "Pok\u00e9mon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
+    "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
   },
   {
     "uuid": "af14ce6b-dcbd-48ae-83c8-021438d1b116",
@@ -923,5 +923,29 @@
     "usesFormmask": false,
     "file": "Animal Crossing Series/DJ K.K.mmrs",
     "preview": "Animal Crossing Series/DJ K.K.ogg"
+  },
+  {
+    "uuid": "9ce896bf-6676-456e-b28a-141c92602926",
+    "creationDate": "2026-03-06T23:13:26.629Z",
+    "game": "Breath of Fire Series",
+    "song": "Breath of Fire 2 - Boss Theme",
+    "composers": [
+      "Yuko Takehara"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Breath of Fire Series/Breath of Fire 2 - Boss Theme.mmrs",
+    "preview": "Breath of Fire Series/Breath of Fire 2 - Boss Theme.ogg"
   }
 ]
