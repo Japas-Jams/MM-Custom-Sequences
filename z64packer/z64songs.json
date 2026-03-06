@@ -61,8 +61,13 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
-    "categories": [],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -81,7 +86,7 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "1",
@@ -105,7 +110,7 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "fanfare",
     "categories": [
       "9"
     ],
@@ -127,7 +132,7 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "16"
     ],
@@ -149,7 +154,7 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "11A"
     ],
@@ -171,7 +176,7 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "2"
     ],
@@ -193,7 +198,7 @@
       "ZoeyZolotova"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "3",
       "6",
