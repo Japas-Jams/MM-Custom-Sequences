@@ -1,14 +1,2421 @@
 [
-  {
-    "game": "A Link to the Past",
-    "series": "",
-    "platforms": [],
-    "abbrName": "A Link to the Past"
-  },
-  {
-    "game": "Phoenix Wright Ace Attorney",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Phoenix Wright Ace Attorney"
-  }
+   {
+      "game": "Ace Attorney Investigations: Miles Edgeworth",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/pxqI7IX.png",
+      "short_name": "AA Investigations"
+   },
+   {
+    "game": "Action 52",
+      "icon":"https://i.imgur.com/aIQnKoL.png"
+   },
+   {
+      "game": "ActRaiser",
+      "icon":"https://i.imgur.com/cuUhw5a.png"
+   },
+   {
+      "game": "Adibou 2",
+      "icon":"https://i.imgur.com/NQ92U8u.png"
+   },
+   {
+      "game": "Advance Wars 2: Black Hole Rising",
+      "icon":"https://i.imgur.com/Je48WtD.png"
+   },
+   {
+      "game": "AeroGauge",
+      "icon":"https://i.imgur.com/Okktib5.png"
+   },
+   {
+      "game": "Among Us",
+      "icon":"https://i.imgur.com/gVDhG0z.png"
+   },
+   {
+      "game": "Angry Birds Epic",
+      "icon":"https://i.imgur.com/sfl3PxQ.png"
+   },
+   {
+      "game": "Animal Crossing",
+      "series": "Animal Crossing Series",
+      "icon":"https://i.imgur.com/cHUffII.png"
+   },
+   {
+      "game": "Animal Crossing: New Horizons",
+      "series": "Animal Crossing Series",
+      "icon":"https://i.imgur.com/b674ewz.png"
+   },
+   {
+      "game": "Animal Crossing: New Leaf",
+      "series": "Animal Crossing Series",
+      "icon":"https://i.imgur.com/nPdx0SI.png"
+   },
+   {
+      "game": "Animal Crossing: Wild World",
+      "series": "Animal Crossing Series",
+      "icon":"https://i.imgur.com/rEnaJYG.png"
+   },
+   {
+      "game": "Animaniacs",
+      "icon":"https://i.imgur.com/5Sf4b79.png"
+   },
+   {
+      "game": "Antonball Deluxe",
+      "icon":"https://i.imgur.com/IggSzaY.png"
+   },
+   {
+      "game": "ANTONBLAST",
+      "icon":"https://i.imgur.com/n6hFXXS.png"
+   },
+   {
+      "game": "Ape Escape",
+      "icon":"https://i.imgur.com/Kzodr6h.png"
+   },
+   {
+      "game": "Apollo Justice: Ace Attorney",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/WdyJtpo.png"
+   },
+   {
+      "game": "Arcaea",
+      "icon":"https://i.imgur.com/QEaiSwf.png"
+   },
+   {
+      "game": "B3313",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/0NvdZ7b.png"
+   },
+   {
+      "game": "Baldi's Basics in Education and Learning",
+      "icon":"https://i.imgur.com/JMEArml.png",
+      "short_name": "Baldi's Basics"
+   },
+   {
+      "game": "Banjo-Kazooie",
+      "series": "Banjo-Kazooie Series",
+      "icon":"https://i.imgur.com/wzmwdJg.png"
+   },
+   {
+      "game": "Banjo-Tooie",
+      "series": "Banjo-Kazooie Series",
+      "icon":"https://i.imgur.com/ozJnVGx.png"
+   },
+   {
+      "game": "Barney's Hide & Seek Game",
+      "icon":"https://i.imgur.com/orhnLyC.png"
+   },
+   {
+      "game": "Bermuda Syndrome",
+      "icon":"https://i.imgur.com/GCNi4jC.png"
+   },
+   {
+      "game": "Blast Corps",
+      "icon":"https://i.imgur.com/F09ruyX.png"
+   },
+   {
+      "game": "Blood",
+      "icon":"https://i.imgur.com/QiFpccv.png"
+   },
+   {
+      "game": "Bloodborne",
+      "icon":"https://i.imgur.com/pIf2N8Y.png"
+   },
+   {
+      "game": "Bloons TD 5",
+      "icon":"https://i.imgur.com/tElceFZ.png"
+   },
+   {
+      "game": "Bomberman 64",
+      "series": "Bomberman Series",
+      "icon":"https://i.imgur.com/fsMW70s.png"
+   },
+   {
+      "game": "Bomberman 64: The Second Attack!",
+      "series": "Bomberman Series",
+      "icon":"https://i.imgur.com/4YOkIJD.png",
+      "short_name": "Bomberman 64: Second Attack"
+   },
+   {
+      "game": "Bomberman Tournament",
+      "series": "Bomberman Series",
+      "icon":"https://i.imgur.com/tJuuFmc.png"
+   },
+   {
+      "game": "Bomberman Hero",
+      "series": "Bomberman Series",
+      "icon":"https://i.imgur.com/fOjDoSW.png"
+   },
+   {
+      "game": "Brave Fencer Musashi",
+      "icon":"https://i.imgur.com/XnJOhGG.png"
+   },
+   {
+      "game": "Bubsy in: Claws Encounters of the Furred Kind",
+      "icon":"https://i.imgur.com/jyht3Py.png",
+      "short_name": "Bubsy 1"
+   },
+   {
+      "game": "BUDD",
+      "icon":"https://i.imgur.com/VhBTrrF.png"
+   },
+   {
+      "game": "Call of Duty: Black Ops",
+      "series": "Call of Duty Series",
+      "icon":"https://i.imgur.com/Tfac47Z.png"
+   },
+   {
+      "game": "Call of Duty: World at War",
+      "series": "Call of Duty Series",
+      "icon":"https://i.imgur.com/S00X5cs.png"
+   },
+   {
+      "game": "Capcom vs. SNK 2",
+      "icon":"https://i.imgur.com/L0FanPh.png"
+   },
+   {
+      "game": "Castlevania: Aria of Sorrow",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/0ZhiGbI.png"
+   },
+   {
+      "game": "Castlevania: Circle of the Moon",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/xYTVbRG.png"
+   },
+   {
+      "game": "Castlevania: Dawn of Sorrow",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/8nplboG.png"
+   },
+   {
+      "game": "Castlevania: Symphony of the Night",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/5Bt0WKu.png"
+   },
+   {
+      "game": "Castlevania II: Simon's Quest",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/wN1vswd.png"
+   },
+   {
+      "game": "Castlevania III: Dracula's Curse",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/Xuccpma.png",
+      "short_name": "Castlevania III"
+   },
+   {
+      "game": "Castlevania: Portrait of Ruin",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/SNAHeAi.png"
+   },
+   {
+      "game": "Cave Story",
+      "icon":"https://i.imgur.com/11nLmKz.png"
+   },
+   {
+      "game": "Celeste",
+      "icon":"https://i.imgur.com/5KmeU7L.png"
+   },
+   {
+      "game": "Chameleon Twist",
+      "series": "Chameleon Twist Series",
+      "icon":"https://i.imgur.com/f3uC2bq.png"
+   },
+   {
+      "game": "Chameleon Twist 2",
+      "series": "Chameleon Twist Series",
+      "icon":"https://i.imgur.com/cadLmyb.png"
+   },
+   {
+      "game": "Chip's Challenge",
+      "icon":"https://i.imgur.com/kg0xhQj.png"
+   },
+   {
+      "game": "Chrono Cross",
+      "series": "Chrono Series",
+      "icon":"https://i.imgur.com/dH4rNic.png"
+   },
+   {
+      "game": "Chrono Trigger",
+      "series": "Chrono Series",
+      "icon":"https://i.imgur.com/svNF3mm.png"
+   },
+   {
+      "game": "ClayFighter 63 1/3",
+      "icon":"https://i.imgur.com/vEsh7j9.png"
+   },
+   {
+      "game": "Commander Keen in Goodbye, Galaxy!",
+      "icon":"https://i.imgur.com/9IqIh7P.png"
+   },
+   {
+      "game": "Conker's Bad Fur Day",
+      "icon":"https://i.imgur.com/d4D9oF3.png"
+   },
+   {
+      "game": "Consoles and BIOS",
+      "icon":"https://i.imgur.com/4Sa22o4.png"
+   },
+   {
+      "game": "Corn Kidz 64",
+      "icon":"https://i.imgur.com/7wQHT6n.png"
+   },
+   {
+      "game": "Corpse Party: BloodCovered",
+      "icon":"https://i.imgur.com/FmOpPqG.png"
+   },
+   {
+      "game": "Crash Bandicoot",
+      "series": "Crash Bandicoot Series",
+      "icon":"https://i.imgur.com/9GnBBkE.png"
+   },
+   {
+      "game": "Crash Bandicoot 2: Cortex Strikes Back",
+      "series": "Crash Bandicoot Series",
+      "icon":"https://i.imgur.com/WiLSdWI.png",
+      "short_name": "Crash Bandicoot 2"
+   },
+   {
+      "game": "Crash Bandicoot: Warped",
+      "series": "Crash Bandicoot Series",
+      "icon":"https://i.imgur.com/9egDmAp.png",
+      "short_name": "Crash Bandicoot 3"
+   },
+   {
+      "game": "Crash Bandicoot: The Wrath of Cortex",
+      "series": "Crash Bandicoot Series",
+      "icon":"https://i.imgur.com/2cPnDBE.png",
+      "short_name": "Crash: Wrath of Cortex"
+   },
+   {
+      "game": "Crash Team Racing",
+      "series": "Crash Bandicoot Series",
+      "icon":"https://i.imgur.com/2oj05TQ.png"
+   },
+   {
+      "game": "Crazy Bus",
+      "icon":"https://i.imgur.com/s6H5SI7.png"
+   },
+   {
+      "game": "CrossCode",
+      "icon":"https://i.imgur.com/EEAzPf6.png"
+   },
+   {
+      "game": "Crypt of the NecroDancer",
+      "icon":"https://i.imgur.com/m5O8FlQ.png"
+   },
+   {
+      "game": "Crystar",
+      "icon":"https://i.imgur.com/YmlAvYp.png"
+   },
+   {
+      "game": "Danganronpa 2: Goodbye Despair",
+      "icon":"https://i.imgur.com/Zd8xuGt.png",
+      "short_name": "Danganronpa 2"
+   },
+   {
+      "game": "Dark Cloud",
+      "icon":"https://i.imgur.com/4kZSzUk.png"
+   },
+   {
+      "game": "Dark Souls II",
+      "icon":"https://i.imgur.com/fTA9sgF.png"
+   },
+   {
+      "game": "Deltarune",
+      "icon":"https://i.imgur.com/xMbDSCy.png"
+   },
+   {
+      "game": "Demon's Crest",
+      "icon":"https://i.imgur.com/13kXlFU.png"
+   },
+   {
+      "game": "Deus Ex",
+      "icon":"https://i.imgur.com/OKK74n5.png"
+   },
+   {
+      "game": "Diddy Kong Racing",
+      "icon":"https://i.imgur.com/4xmpHHJ.png"
+   },
+   {
+      "game": "Disney's Aladdin",
+      "icon":"https://i.imgur.com/z8h3fzT.png",
+      "short_name": "Aladdin"
+   },
+   {
+      "game": "Dokapon Kingdom",
+      "icon":"https://i.imgur.com/gbuptP9.png"
+   },
+   {
+      "game": "Doki Doki Literature Club!",
+      "icon":"https://i.imgur.com/6wlms8M.png"
+   },
+   {
+      "game": "Donkey Kong",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/nlV4OlP.png"
+   },
+   {
+      "game": "Donkey Kong: Jungle Climber",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/64DLfcr.png",
+      "short_name": "DK: Jungle Climber"
+   },
+   {
+      "game": "Donkey Kong 64",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/oTs4z32.png"
+   },
+   {
+      "game": "Donkey Kong Bananza",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/1GDhBqk.png"
+   },
+   {
+      "game": "Donkey Kong Country",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/WxSj7Jh.png"
+   },
+   {
+      "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/U85O7EJ.png",
+      "short_name": "Donkey Kong Country 2"
+   },
+   {
+      "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/V4oLVc2.png",
+      "short_name": "Donkey Kong Country 3"
+   },
+   {
+      "game": "Donkey Kong Country Returns",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/0iXmcz3.png",
+      "short_name": "DKC Returns"
+   },
+   {
+      "game": "Donkey Kong Country: Tropical Freeze",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/lyj0gpN.png",
+      "short_name": "DKC Tropical Freeze"
+   },
+   {
+      "game": "Donkey Kong Jungle Beat",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/AA2L9UW.png"
+   },
+   {
+      "game": "Donkey Kong Land",
+      "series": "Donkey Kong Series",
+      "icon":"https://i.imgur.com/ZNV0sO3.png"
+   },
+   {
+      "game": "DOOM (1993)",
+      "icon":"https://i.imgur.com/ykeSbhG.png"
+   },
+   {
+      "game": "Double Dragon",
+      "icon":"https://i.imgur.com/UFno90d.png"
+   },
+   {
+      "game": "Dr. Robotnik's Mean Bean Machine",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/ONTryeR.png",
+      "short_name": "Mean Bean Machine"
+   },
+   {
+      "game": "Drakengard",
+      "icon":"https://i.imgur.com/waFqpsT.png"
+   },
+   {
+      "game": "DuckTales",
+      "icon":"https://i.imgur.com/Lle6c9e.png"
+   },
+   {
+      "game": "Duke Nukem 3D",
+      "icon":"https://i.imgur.com/9MmBEQg.png"
+   },
+   {
+      "game": "EarthBound",
+      "series": "EarthBound Series",
+      "icon":"https://i.imgur.com/Tvw8cMe.png"
+   },
+   {
+      "game": "Earthworm Jim",
+      "series": "Earthworm Jim Series",
+      "icon":"https://i.imgur.com/KnnxCT8.png"
+   },
+   {
+      "game": "Earthworm Jim 3D",
+      "series": "Earthworm Jim Series",
+      "icon":"https://i.imgur.com/tL3jb0s.png"
+   },
+   {
+      "game": "ENA: Dream BBQ",
+      "icon":"https://i.imgur.com/MURwu6c.png"
+   },
+   {
+      "game": "Etrian Odyssey",
+      "icon":"https://i.imgur.com/YRHaZxw.png"
+   },
+   {
+      "game": "Equinox",
+      "icon":"https://i.imgur.com/PUoEDLi.png"
+   },
+   {
+      "game": "F-Zero",
+      "series": "F-Zero Series",
+      "icon":"https://i.imgur.com/V4PwJjH.png"
+   },
+   {
+      "game": "F-Zero: Maximum Velocity",
+      "series": "F-Zero Series",
+      "icon":"https://i.imgur.com/WPiBwoy.png"
+   },
+   {
+      "game": "F-Zero X",
+      "series": "F-Zero Series",
+      "icon":"https://i.imgur.com/EcAqRDA.png"
+   },
+   {
+      "game": "Final Fantasy",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/BzuU1yb.png"
+   },
+   {
+      "game": "Final Fantasy III",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/KFq5YFj.png"
+   },
+   {
+      "game": "Final Fantasy IV",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/VdLXfSF.png"
+   },
+   {
+      "game": "Final Fantasy IX",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/pLp2swG.png"
+   },
+   {
+      "game": "Final Fantasy V",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/73YnJ1s.png"
+   },
+   {
+      "game": "Final Fantasy VI",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/G4PPARq.png"
+   },
+   {
+      "game": "Final Fantasy VII",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/h3tf6xw.png"
+   },
+   {
+      "game": "Final Fantasy VIII",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/8ln1nFK.png"
+   },
+   {
+      "game": "Final Fantasy X",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/PV57lpf.png"
+   },
+   {
+      "game": "Final Fantasy XIV",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/kYvscrN.png"
+   },
+   {
+      "game": "Final Fantasy: Mystic Quest",
+      "series": "Final Fantasy Series",
+      "icon":"https://i.imgur.com/htwi974.png"
+   },
+   {
+      "game": "Fire Emblem: Genealogy of the Holy War",
+      "series": "Fire Emblem Series",
+      "icon":"https://i.imgur.com/1T8bRpy.png",
+      "short_name": "Fire Emblem 4"
+   },
+   {
+      "game": "Fire Emblem: The Blazing Blade",
+      "series": "Fire Emblem Series",
+      "icon":"https://i.imgur.com/JN6OrSX.png",
+      "short_name": "Fire Emblem 7"
+   },
+   {
+      "game": "Five Nights at Freddy's: Sister Location",
+      "series": "Five Nights at Freddy's Series",
+      "icon":"https://i.imgur.com/NDvPUvY.png",
+      "short_name": "FNAF Sister Location"
+   },
+   {
+      "game": "Fortnite",
+      "icon":"https://i.imgur.com/Iykz53s.png"
+   },
+   {
+      "game": "Freddy Fazbear's Pizzeria Simulator",
+      "series": "Five Nights at Freddy's Series",
+      "icon":"https://i.imgur.com/Zx0Vb6N.png",
+      "short_name": "FNAF Pizzeria Simulator"
+   },
+   {
+      "game": "Friday Night Funkin'",
+      "icon":"https://i.imgur.com/I6crXl4.png"
+   },
+   {
+      "game": "Ghost Trick: Phantom Detective",
+      "icon":"https://i.imgur.com/4YALMNg.png",
+      "short_name": "Ghost Trick"
+   },
+   {
+      "game": "Glover",
+      "icon":"https://i.imgur.com/vhaVm6k.png"
+   },
+   {
+      "game": "Golden Sun",
+      "icon":"https://i.imgur.com/i9LarXU.png"
+   },
+   {
+      "game": "GoldenEye 007",
+      "icon":"https://i.imgur.com/wjLLHpS.png"
+   },
+   {
+      "game": "Grand Theft Auto: Vice City",
+      "icon":"https://i.imgur.com/BUwWuud.png"
+   },
+   {
+      "game": "Gremlins 2: The New Batch",
+      "icon":"https://i.imgur.com/Aa2kNYq.png"
+   },
+   {
+      "game": "Gunbound",
+      "icon":"https://i.imgur.com/tkiJN9F.png"
+   },
+   {
+      "game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/4wLExrH.png",
+      "short_name": "AA Investigations 2"
+   },
+   {
+      "game": "Harald Hardtand: Kampen om de rene taender",
+      "icon":"https://i.imgur.com/1QquzWW.png",
+      "short_name": "Harald Hardtand"
+   },
+   {
+      "game": "Hey You, Pikachu!",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/2um3RoP.png"
+   },
+   {
+      "game": "Higurashi: When They Cry Kai",
+      "icon":"https://i.imgur.com/kZzhHjq.png",
+      "short_name": "Higurashi Kai"
+   },
+   {
+      "game": "Hotel Dusk: Room 215",
+      "icon":"https://i.imgur.com/TK6CvDp.png"
+   },
+   {
+      "game": "Hotel Mario",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/Nlt3RHU.png"
+   },
+   {
+      "game": "I Spy: Spooky Mansion",
+      "icon":"https://i.imgur.com/2mXuYYt.png"
+   },
+   {
+      "game": "Iggy's Reckin' Balls",
+      "icon":"https://i.imgur.com/7r3i457.png"
+   },
+   {
+      "game": "Illbleed",
+      "icon":"https://i.imgur.com/9ThKIq8.png"
+   },
+   {
+      "game": "Impossible Creatures",
+      "icon":"https://i.imgur.com/WDRr1Bg.png"
+   },
+   {
+      "game": "International Superstar Soccer 64",
+      "icon":"https://i.imgur.com/jz3SO5d.png",
+      "short_name": "ISS64"
+   },
+   {
+      "game": "Jak 3",
+      "icon":"https://i.imgur.com/jbjqsDo.png"
+   },
+   {
+      "game": "Jet Force Gemini",
+      "icon":"https://i.imgur.com/mDZDVFW.png"
+   },
+   {
+      "game": "Jets'n'Guns",
+      "icon":"https://i.imgur.com/4kZJ5T2.png"
+   },
+   {
+      "game": "Joe & Mac",
+      "icon":"https://i.imgur.com/s3NN56x.png"
+   },
+   {
+      "game": "Journey to Silius",
+      "icon":"https://i.imgur.com/Gd9g2Ye.png"
+   },
+   {
+      "game": "Kahoot!",
+      "icon":"https://i.imgur.com/IQ0q9rz.png"
+   },
+   {
+      "game": "Keroro RPG: Kishi to Musha to Densetsu no Kaizoku",
+      "icon":"https://i.imgur.com/hqRp0kM.png",
+      "short_name": "Keroro RPG"
+   },
+   {
+      "game": "Ketsui: Kizuna Jigoku Tachi",
+      "icon":"https://i.imgur.com/gtP9Hoz.png"
+   },
+   {
+      "game": "Killer Instinct",
+      "series": "Killer Instinct Series",
+      "icon":"https://i.imgur.com/SbzbJV3.png"
+   },
+   {
+      "game": "Killer Instinct 2",
+      "series": "Killer Instinct Series",
+      "icon":"https://i.imgur.com/I7yzOaO.png"
+   },
+   {
+      "game": "Killing Floor",
+      "icon":"https://i.imgur.com/Hl534Ro.png"
+   },
+   {
+      "game": "Kingdom Hearts",
+      "series": "Kingdom Hearts Series",
+      "icon":"https://i.imgur.com/XtYKfIh.png"
+   },
+   {
+      "game": "Kingdom Hearts 358/2 Days",
+      "series": "Kingdom Hearts Series",
+      "icon":"https://i.imgur.com/kVpiRl5.png"
+   },
+   {
+      "game": "Kingdom Hearts II",
+      "series": "Kingdom Hearts Series",
+      "icon":"https://i.imgur.com/JKUN7OV.png"
+   },
+   {
+      "game": "Kingdom Hearts: Chain of Memories",
+      "series": "Kingdom Hearts Series",
+      "icon":"https://i.imgur.com/FIm7LCe.png"
+   },
+   {
+      "game": "Kioh Gyoku",
+      "icon":"https://i.imgur.com/0ppPx7c.png"
+   },
+   {
+      "game": "Kirby 64: The Crystal Shards",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/HKUgH3s.png"
+   },
+   {
+      "game": "Kirby & The Amazing Mirror",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/iLoWFCk.png"
+   },
+   {
+      "game": "Kirby Air Ride",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/mLuXqsj.png"
+   },
+   {
+      "game": "Kirby Mass Attack",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/0GUPWos.png"
+   },
+   {
+      "game": "Kirby Super Star",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/XGx97Q8.png"
+   },
+   {
+      "game": "Kirby: Canvas Curse",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/MZ1l9Rm.png"
+   },
+   {
+      "game": "Kirby: Nightmare in Dream Land",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/fdrw9GV.png"
+   },
+   {
+      "game": "Kirby: Triple Deluxe",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/G7U3KUR.png"
+   },
+   {
+      "game": "Kirby's Adventure",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/dJzyC5R.png"
+   },
+   {
+      "game": "Kirby's Dream Land",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/ly0VVOn.png"
+   },
+   {
+      "game": "Kirby's Dream Land 2",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/RuT4PQA.png"
+   },
+   {
+      "game": "Kirby's Dream Land 3",
+      "series": "Kirby Series",
+      "icon":"https://i.imgur.com/okpsaf3.png"
+   },
+   {
+      "game": "Klonoa: Door to Phantomile",
+      "series": "Klonoa Series",
+      "icon":"https://i.imgur.com/DGpCkMj.png"
+   },
+   {
+      "game": "Klonoa 2: Lunatea's Veil",
+      "series": "Klonoa Series",
+      "icon":"https://i.imgur.com/ugnHRvL.png"
+   },
+   {
+      "game": "La-Mulana",
+      "icon":"https://i.imgur.com/8GcCMYt.png"
+   },
+   {
+      "game": "Lagoon",
+      "icon":"https://i.imgur.com/FdgHMS0.png"
+   },
+   {
+      "game": "Landstalker: The Treasures of King Nole",
+      "icon":"https://i.imgur.com/kQfxnja.png",
+      "short_name": "Landstalker"
+   },
+   {
+      "game": "Last Bible III",
+      "icon":"https://i.imgur.com/XC1it76.png"
+   },
+   {
+      "game": "Leap Day",
+      "icon":"https://i.imgur.com/7yrql2M.png"
+   },
+   {
+      "game": "LEGO Island",
+      "series": "LEGO Series",
+      "icon":"https://i.imgur.com/ZnVwbYZ.png"
+   },
+   {
+      "game": "LEGO Racers 2",
+      "series": "LEGO Series",
+      "icon":"https://i.imgur.com/v9WtbNY.png"
+   },
+   {
+      "game": "Lemmings",
+      "icon":"https://i.imgur.com/igThKZp.png"
+   },
+   {
+      "game": "Live A Live",
+      "icon":"https://i.imgur.com/qWuwIhD.png"
+   },
+   {
+      "game": "Look Outside",
+      "icon":"https://i.imgur.com/C6B3AwE.png"
+   },
+   {
+      "game": "Loop Hero",
+      "icon":"https://i.imgur.com/4R349jj.png"
+   },
+   {
+      "game": "Lufia II: Rise of the Sinistrals",
+      "icon":"https://i.imgur.com/6ZNrARi.png",
+      "short_name": "Lufia II"
+   },
+   {
+      "game": "Luigi's Mansion",
+      "icon":"https://i.imgur.com/YIMnmmn.png"
+   },
+   {
+      "game": "Madou Monogatari 1-2-3",
+      "icon":"https://i.imgur.com/gfsPwtz.png"
+   },
+   {
+      "game": "Mamorukun Curse!",
+      "icon":"https://i.imgur.com/wGVS57B.png"
+   },
+   {
+      "game": "Mario & Luigi: Bowser's Inside Story",
+      "series": "Mario & Luigi Series",
+      "icon":"https://i.imgur.com/v5Ktwmx.png",
+      "short_name": "Bowser's Inside Story"
+   },
+   {
+      "game": "Mario & Luigi: Dream Team",
+      "series": "Mario & Luigi Series",
+      "icon":"https://i.imgur.com/roZJLM0.png"
+   },
+   {
+      "game": "Mario & Luigi: Partners in Time",
+      "series": "Mario & Luigi Series",
+      "icon":"https://i.imgur.com/F8AdF1V.png",
+      "short_name": "Partners in Time"
+   },
+   {
+      "game": "Mario & Luigi: Superstar Saga",
+      "series": "Mario & Luigi Series",
+      "icon":"https://i.imgur.com/ieO06V8.png"
+   },
+   {
+      "game": "Mario Golf",
+      "series": "Mario Sports Series",
+      "icon":"https://i.imgur.com/oaPV1fV.png"
+   },
+   {
+      "game": "Mario Golf: Toadstool Tour",
+      "series": "Mario Sports Series",
+      "icon":"https://i.imgur.com/S6e28aL.png"
+   },
+   {
+      "game": "Mario Hoops 3-on-3",
+      "series": "Mario Sports Series",
+      "icon":"https://i.imgur.com/qNAQEnz.png"
+   },
+   {
+      "game": "Mario is Missing!",
+      "icon":"https://i.imgur.com/LOSpGP7.png"
+   },
+   {
+      "game": "Mario Kart 64",
+      "series": "Mario Kart Series",
+      "icon":"https://i.imgur.com/wZW4dP2.png"
+   },
+   {
+      "game": "Mario Kart: Double Dash!!",
+      "series": "Mario Kart Series",
+      "icon":"https://i.imgur.com/PKtilrA.png"
+   },
+   {
+      "game": "Mario Kart DS",
+      "series": "Mario Kart Series",
+      "icon":"https://i.imgur.com/PBKUm9B.png"
+   },
+   {
+      "game": "Mario Kart Wii",
+      "series": "Mario Kart Series",
+      "icon":"https://i.imgur.com/53weZni.png"
+   },
+   {
+      "game": "Mario Paint",
+      "icon":"https://i.imgur.com/xfYZ00j.png"
+   },
+   {
+      "game": "Mario Party",
+      "series": "Mario Party Series",
+      "icon":"https://i.imgur.com/gkyubSC.png"
+   },
+   {
+      "game": "Mario Party 2",
+      "series": "Mario Party Series",
+      "icon":"https://i.imgur.com/QiBIem5.png"
+   },
+   {
+      "game": "Mario Party 3",
+      "series": "Mario Party Series",
+      "icon":"https://i.imgur.com/Vs7sElB.png"
+   },
+   {
+      "game": "Mario Party 7",
+      "series": "Mario Party Series",
+      "icon":"https://i.imgur.com/9Ih7ggi.png"
+   },
+   {
+      "game": "Mario Pinball Land",
+      "icon":"https://i.imgur.com/bZ8WbfF.png"
+   },
+   {
+      "game": "Mario Power Tennis",
+      "series": "Mario Sports Series",
+      "icon":"https://i.imgur.com/cwe59MV.png"
+   },
+   {
+      "game": "Mario Tennis: Power Tour",
+      "series": "Mario Sports Series",
+      "icon":"https://i.imgur.com/W0bC4X7.png"
+   },
+   {
+      "game": "Mario + Rabbids: Kingdom Battle",
+      "series": "Mario + Rabbids Series",
+      "icon":"https://i.imgur.com/OrwRVSj.png"
+   },
+   {
+      "game": "Mario + Rabbids Sparks of Hope",
+      "series": "Mario + Rabbids Series",
+      "icon":"https://i.imgur.com/LAMojOk.png"
+   },
+   {
+      "game": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
+      "icon":"https://i.imgur.com/la43MV7.png",
+      "short_name": "Mario vs DK: Mini-Land Mayhem"
+   },
+   {
+      "game": "Mega Man 2",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/tXdxxvW.png"
+   },
+   {
+      "game": "Mega Man 6",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/FhgO3Nr.png"
+   },
+   {
+      "game": "Mega Man 8",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/jKy6nxd.png"
+   },
+   {
+      "game": "Mega Man Battle Chip Challenge",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/cfdcJVT.png",
+      "short_name": "Mega Man Battle Chip"
+   },
+   {
+      "game": "Mega Man Battle Network",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/AwuTmJw.png"
+   },
+   {
+      "game": "Mega Man Battle Network 2",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/albtq43.png"
+   },
+   {
+      "game": "Mega Man Battle Network 3",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/g1VQR1N.png"
+   },
+   {
+      "game": "Mega Man Battle Network 4",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/SeYNv9Z.png"
+   },
+   {
+      "game": "Mega Man Battle Network 5",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/orFUypb.png"
+   },
+   {
+      "game": "Mega Man Battle Network 6",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/dTzKZe1.png"
+   },
+   {
+      "game": "Mega Man Legends",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/xObgmfe.png"
+   },
+   {
+      "game": "Mega Man X",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/B2BtFJ5.png"
+   },
+   {
+      "game": "Mega Man X5",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/0Kz3RM5.png"
+   },
+   {
+      "game": "Mega Man X6",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/4LyqpVE.png"
+   },
+   {
+      "game": "Mega Man Zero 4",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/IZqvQFr.png"
+   },
+   {
+      "game": "Mega Man ZX Advent",
+      "series": "Mega Man Series",
+      "icon":"https://i.imgur.com/C5SPJgp.png"
+   },
+   {
+      "game": "Metal Gear Solid",
+      "series": "Metal Gear Series",
+      "icon":"https://i.imgur.com/b5Pug3Z.png"
+   },
+   {
+      "game": "Metal Gear Solid 3: Snake Eater",
+      "series": "Metal Gear Series",
+      "icon":"https://i.imgur.com/KwGxmhz.png",
+      "short_name": "Metal Gear Solid 3"
+   },
+   {
+      "game": "Metal Slug 3",
+      "series": "Metal Slug Series",
+      "icon":"https://i.imgur.com/vuZ98E7.png"
+   },
+   {
+      "game": "Metal Slug 5",
+      "series": "Metal Slug Series",
+      "icon":"https://i.imgur.com/xNBflUD.png"
+   },
+   {
+      "game": "Metal Slug X",
+      "series": "Metal Slug Series",
+      "icon":"https://i.imgur.com/rd0oZbd.png"
+   },
+   {
+      "game": "Metroid II: Return of Samus",
+      "series": "Metroid Series",
+      "icon":"https://i.imgur.com/48MYLIm.png"
+   },
+   {
+      "game": "Metroid Fusion",
+      "series": "Metroid Series",
+      "icon":"https://i.imgur.com/Ltn5DG9.png"
+   },
+   {
+      "game": "Metroid Prime",
+      "series": "Metroid Series",
+      "icon":"https://i.imgur.com/ldfb4wm.png"
+   },
+   {
+      "game": "Metroid Prime 2: Echoes",
+      "series": "Metroid Series",
+      "icon":"https://i.imgur.com/nGgeP8q.png"
+   },
+   {
+      "game": "Metroid: Zero Mission",
+      "series": "Metroid Series",
+      "icon":"https://i.imgur.com/3T75w6t.png"
+   },
+   {
+      "game": "Mickey Mania",
+      "icon":"https://i.imgur.com/qCJqyyM.png"
+   },
+   {
+      "game": "Mickey's Speedway USA",
+      "icon":"https://i.imgur.com/9eEOerA.png"
+   },
+   {
+      "game": "Mighty Morphin Power Rangers",
+      "icon":"https://i.imgur.com/BWhPRu9.png",
+      "short_name": "Power Rangers"
+   },
+   {
+      "game": "Mighty Morphin Power Rangers: The Fighting Edition",
+      "icon":"https://i.imgur.com/7Pc4Nf6.png",
+      "short_name": "MMPR Fighting Edition"
+   },
+   {
+      "game": "Mike Tyson's Punch-Out!!",
+      "icon":"https://i.imgur.com/zH5b0xc.png"
+   },
+   {
+      "game": "Minecraft",
+      "icon":"https://i.imgur.com/hOIM62q.png"
+   },
+   {
+      "game": "Monkey Ball",
+      "icon":"https://i.imgur.com/ysJQoxs.png"
+   },
+   {
+      "game": "Monster Hunter",
+      "series": "Monster Hunter Series",
+      "icon":"https://i.imgur.com/nAfCYx3.png"
+   },
+   {
+      "game": "Monster Hunter Freedom Unite",
+      "series": "Monster Hunter Series",
+      "icon":"https://i.imgur.com/q8nSdp9.png"
+   },
+   {
+      "game": "Mortal Kombat",
+      "series": "Mortal Kombat Series",
+      "icon":"https://i.imgur.com/EikO2DU.png"
+   },
+   {
+      "game": "Mortal Kombat 3",
+      "series": "Mortal Kombat Series",
+      "icon":"https://i.imgur.com/HIy7d1B.png"
+   },
+   {
+      "game": "Mother 3",
+      "series": "EarthBound Series",
+      "icon":"https://i.imgur.com/WZoeeV7.png"
+   },
+   {
+      "game": "Mr. Gimmick!",
+      "icon":"https://i.imgur.com/nDIsDMc.png"
+   },
+   {
+      "game": "Mystical Ninja Starring Goemon",
+      "icon":"https://i.imgur.com/SCNjpeE.png",
+      "short_name": "Mystical Ninja 64"
+   },
+   {
+      "game": "New Super Mario Bros.",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/jFt4AMF.png"
+   },
+   {
+      "game": "Nier",
+      "icon":"https://i.imgur.com/Eoh2nQa.png"
+   },
+   {
+      "game": "NiGHTS into Dreams...",
+      "icon":"https://i.imgur.com/aZ703oq.png"
+   },
+   {
+      "game": "9 Hours, 9 Persons, 9 Doors",
+      "icon":"https://i.imgur.com/msGIsjM.png",
+      "short_name": "999"
+   },
+   {
+      "game": "No More Heroes",
+      "icon":"https://i.imgur.com/4NL1O4o.png"
+   },
+   {
+      "game": "Octopath Traveler",
+      "icon":"https://i.imgur.com/f2qVXTZ.png"
+   },
+   {
+      "game": "Okage: Shadow King",
+      "icon":"https://i.imgur.com/OW3sEAI.png"
+   },
+   {
+      "game": "Okami",
+      "icon":"https://i.imgur.com/AwUeM7I.png"
+   },
+   {
+      "game": "Omori",
+      "icon":"https://i.imgur.com/8X1MVBj.png"
+   },
+   {
+      "game": "OneShot",
+      "icon":"https://i.imgur.com/pRIstH9.png"
+   },
+   {
+      "game": "Ottifanten: Kommando Stoertebeker",
+      "icon":"https://i.imgur.com/XYFOfBH.png"
+   },
+   {
+      "game": "Outer Wilds",
+      "icon":"https://i.imgur.com/7xj7aZj.png"
+   },
+   {
+      "game": "Overwatch 2",
+      "icon":"https://i.imgur.com/bl2BUoz.png"
+   },
+   {
+      "game": "Pac-Man",
+      "series": "Pac-Man Series",
+      "icon":"https://i.imgur.com/v00nHJA.png"
+   },
+   {
+      "game": "Pac-Man World 2",
+      "series": "Pac-Man Series",
+      "icon":"https://i.imgur.com/U91k7Xc.png"
+   },
+   {
+      "game": "Palamedes",
+      "icon":"https://i.imgur.com/abK5RJc.png"
+   },
+   {
+      "game": "Paper Mario",
+      "series": "Paper Mario Series",
+      "icon":"https://i.imgur.com/XF9fQ1G.png"
+   },
+   {
+      "game": "Paper Mario: The Thousand-Year Door",
+      "series": "Paper Mario Series",
+      "icon":"https://i.imgur.com/JzKJGkr.png",
+      "short_name": "Paper Mario: TTYD"
+   },
+   {
+      "game": "Papers, Please",
+      "icon":"https://i.imgur.com/Zx9FQqK.png"
+   },
+   {
+      "game": "PAYDAY 2",
+      "icon":"https://i.imgur.com/4U1KGHL.png"
+   },
+   {
+      "game": "Peglin",
+      "icon":"https://i.imgur.com/NmFu99X.png"
+   },
+   {
+      "game": "Penny Racers",
+      "icon":"https://i.imgur.com/OxVevb1.png"
+   },
+   {
+      "game": "Pepsiman",
+      "icon":"https://i.imgur.com/yP6IBqa.png"
+   },
+   {
+      "game": "Perfect Dark",
+      "icon":"https://i.imgur.com/stLKvoP.png"
+   },
+   {
+      "game": "Persona 2: Innocent Sin",
+      "series": "Persona Series",
+      "icon":"https://i.imgur.com/D7LXH2P.png"
+   },
+   {
+      "game": "Persona 3",
+      "series": "Persona Series",
+      "icon":"https://i.imgur.com/zVT6EfN.png"
+   },
+   {
+      "game": "Persona 4",
+      "series": "Persona Series",
+      "icon":"https://i.imgur.com/HryQ7yX.png"
+   },
+   {
+      "game": "Persona 5",
+      "series": "Persona Series",
+      "icon":"https://i.imgur.com/47qHHu4.png"
+   },
+   {
+      "game": "Phoenix Wright: Ace Attorney",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/Zj0YCtN.png",
+      "short_name": "Ace Attorney"
+   },
+   {
+      "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/VFqOQaS.png",
+      "short_name": "Ace Attorney 5"
+   },
+   {
+      "game": "Phoenix Wright: Ace Attorney - Justice for All",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/7Dr6MWk.png",
+      "short_name": "Ace Attorney 2"
+   },
+   {
+      "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+      "series": "Ace Attorney Series",
+      "icon":"https://i.imgur.com/18kzRwk.png",
+      "short_name": "Ace Attorney 3"
+   },
+   {
+      "game": "Picross DS",
+      "icon":"https://i.imgur.com/I0As6lE.png"
+   },
+   {
+      "game": "Pikmin 2",
+      "series": "Pikmin Series",
+      "icon":"https://i.imgur.com/6VaO7Rz.png"
+   },
+   {
+      "game": "Pilotwings 64",
+      "icon":"https://i.imgur.com/Eq87wTf.png"
+   },
+   {
+      "game": "Pizza Tower",
+      "icon":"https://i.imgur.com/78PxNhd.png"
+   },
+   {
+      "game": "Planet Puzzle League",
+      "icon":"https://i.imgur.com/4wxqF0R.png"
+   },
+   {
+      "game": "Plants vs. Zombies",
+      "icon":"https://i.imgur.com/NAPmEg2.png"
+   },
+   {
+      "game": "Plok",
+      "icon":"https://i.imgur.com/Aid4B9T.png"
+   },
+   {
+      "game": "Pokémon Black & White",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/2ztGqSb.png"
+   },
+   {
+      "game": "Pokémon Black 2 & White 2",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/c5WIW1K.png"
+   },
+   {
+      "game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/h8Su4TH.png",
+      "short_name": "Pokémon TCG 2"
+   },
+   {
+      "game": "Pokémon Colosseum",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/c9o6GNm.png"
+   },
+   {
+      "game": "Pokémon Diamond, Pearl & Platinum",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/Ykk9fjh.png",
+      "short_name": "Pokémon DPPT"
+   },
+   {
+      "game": "Pokémon Gold, Silver & Crystal",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/qsjlr6F.png",
+      "short_name": "Pokémon GSC"
+   },
+   {
+      "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/xOB3NJx.png",
+      "short_name": "Pokémon Mystery Dungeon: Sky"
+   },
+   {
+      "game": "Pokémon Puzzle League",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/IuYzeB6.png"
+   },
+   {
+      "game": "Pokémon Red, Blue & Yellow",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/qTolwwr.png"
+   },
+   {
+      "game": "Pokémon Ruby, Sapphire & Emerald",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/6unIP4M.png",
+      "short_name": "Pokémon RSE"
+   },
+   {
+      "game": "Pokémon Snap",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/qNatVEL.png"
+   },
+   {
+      "game": "Pokémon Stadium",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/mZ37j3w.png"
+   },
+   {
+      "game": "Pokémon Stadium 2",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/xSZxb2f.png"
+   },
+   {
+      "game": "Pokémon Trading Card Game",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/N7NrDJb.png"
+   },
+   {
+      "game": "Pokémon X & Y",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/f3e6U0V.png"
+   },
+   {
+      "game": "Pokémon XD: Gale of Darkness",
+      "series": "Pokémon Series",
+      "icon":"https://i.imgur.com/szZ6kYe.png"
+   },
+   {
+      "game": "Portal",
+      "series": "Portal Series",
+      "icon":"https://i.imgur.com/J5ArI4k.png"
+   },
+   {
+      "game": "Portal 2",
+      "series": "Portal Series",
+      "icon":"https://i.imgur.com/7QmeEwR.png"
+   },
+   {
+      "game": "Professor Layton and the Curious Village",
+      "series": "Professor Layton Series",
+      "icon":"https://i.imgur.com/Lg6pyrf.png",
+      "short_name": "Professor Layton 1"
+   },
+   {
+      "game": "Professor Layton and the Last Specter",
+      "series": "Professor Layton Series",
+      "icon":"https://i.imgur.com/5WcQk8s.png",
+      "short_name": "Professor Layton 4"
+   },
+   {
+      "game": "Pseudoregalia",
+      "icon":"https://i.imgur.com/sFe6Mom.png"
+   },
+   {
+      "game": "Psychopomp",
+      "icon":"https://i.imgur.com/4t1o9rF.png"
+   },
+   {
+      "game": "Puyo Puyo",
+      "icon":"https://i.imgur.com/x3BCTG5.png"
+   },
+   {
+      "game": "Quake",
+      "icon":"https://i.imgur.com/6U8O9X7.png"
+   },
+   {
+      "game": "Ratchet & Clank (2002)",
+      "icon":"https://i.imgur.com/jhmfV7q.png"
+   },
+   {
+      "game": "Rayman",
+      "series": "Rayman Series",
+      "icon":"https://i.imgur.com/inVx78r.png"
+   },
+   {
+      "game": "Rayman 2: The Great Escape",
+      "series": "Rayman Series",
+      "icon":"https://i.imgur.com/v8U2JL2.png",
+      "short_name": "Rayman 2"
+   },
+   {
+      "game": "Rayman 3: Hoodlum Havoc",
+      "series": "Rayman Series",
+      "icon":"https://i.imgur.com/ztMsTpy.png",
+      "short_name": "Rayman 3"
+   },
+   {
+      "game": "Resident Evil: Director's Cut Dual Shock Ver.",
+      "series": "Resident Evil Series",
+      "icon":"https://i.imgur.com/Mlph4is.png",
+      "short_name": "Resident Evil DC"
+   },
+   {
+      "game": "Resident Evil 2 (1998)",
+      "series": "Resident Evil Series",
+      "icon":"https://i.imgur.com/sdIxA6b.png"
+   },
+   {
+      "game": "Resident Evil 2 (2019)",
+      "series": "Resident Evil Series",
+      "icon":"https://i.imgur.com/I65mOUk.png"
+   },
+   {
+      "game": "Return of the Obra Dinn",
+      "icon":"https://i.imgur.com/hWEqkok.png"
+   },
+   {
+      "game": "Rhythm Heaven",
+      "series": "Rhythm Heaven Series",
+      "icon":"https://i.imgur.com/Z4S2YnD.png"
+   },
+   {
+      "game": "Rhythm Heaven Fever",
+      "series": "Rhythm Heaven Series",
+      "icon":"https://i.imgur.com/wZkEmGK.png"
+   },
+   {
+      "game": "Rise Of The Triad",
+      "icon":"https://i.imgur.com/bZRxFow.png"
+   },
+   {
+      "game": "Ristar",
+      "icon":"https://i.imgur.com/EQEP7Kq.png"
+   },
+   {
+      "game": "RoboCop",
+      "icon":"https://i.imgur.com/AMMTAqB.png"
+   },
+   {
+      "game": "Rogue Galaxy",
+      "icon":"https://i.imgur.com/01LARG0.png"
+   },
+   {
+      "game": "Run Saber",
+      "icon":"https://i.imgur.com/87FYQiK.png"
+   },
+   {
+      "game": "Quest 64",
+      "icon":"https://i.imgur.com/hX5vQZE.png"
+   },
+   {
+      "game": "Rugrats: Search for Reptar",
+      "icon":"https://i.imgur.com/CDPvkAg.png"
+   },
+   {
+      "game": "Rush 2: Extreme Racing USA",
+      "series": "Rush Series",
+      "icon":"https://i.imgur.com/Bz7gJeO.png"
+   },
+   {
+      "game": "Bishoujo Senshi Sailor Moon Super S: Zenin Sanka!! Shuyaku Soudatsusen",
+      "icon":"https://i.imgur.com/O9dFrdf.png",
+      "short_name": "Sailor Moon SuperS"
+   },
+   {
+      "game": "San Francisco Rush: Extreme Racing",
+      "series": "Rush Series",
+      "icon":"https://i.imgur.com/G5NaLu8.png",
+      "short_name": "San Francisco Rush"
+   },
+   {
+      "game": "San Francisco Rush 2049",
+      "series": "Rush Series",
+      "icon":"https://i.imgur.com/as1JxD5.png"
+   },
+   {
+      "game": "Secret of Mana",
+      "series": "Mana Series",
+      "icon":"https://i.imgur.com/MDV7JLi.png"
+   },
+   {
+      "game": "Shadowgate",
+      "icon":"https://i.imgur.com/8EL6ySj.png"
+   },
+   {
+      "game": "Shantae and the Pirate's Curse",
+      "icon":"https://i.imgur.com/vWbahWR.png",
+      "short_name": "Shantae 3"
+   },
+   {
+      "game": "Shenmue",
+      "icon":"https://i.imgur.com/fOhoOBz.png"
+   },
+   {
+      "game": "Shin Megami Tensei III: Nocturne",
+      "series": "Shin Megami Tensei Series",
+      "icon":"https://i.imgur.com/nx82XTf.png",
+      "short_name": "Shin Megami Tensei III"
+   },
+   {
+      "game": "Shin Megami Tensei IV",
+      "series": "Shin Megami Tensei Series",
+      "icon":"https://i.imgur.com/vhehCl9.png"
+   },
+   {
+      "game": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+      "series": "Shin Megami Tensei Series",
+      "icon":"https://i.imgur.com/8KURLed.png",
+      "short_name": "Devil Summoner: Soul Hackers"
+   },
+   {
+      "game": "Shining Force: The Legacy of Great Intention",
+      "icon":"https://i.imgur.com/g6F6sAI.png",
+      "short_name": "Shining Force"
+   },
+   {
+      "game": "Shinobi III: Return of the Ninja Master",
+      "icon":"https://i.imgur.com/0gkGUsp.png",
+      "short_name": "Shinobi III"
+   },
+   {
+      "game": "Shovel Knight",
+      "icon":"https://i.imgur.com/omiKAkK.png"
+   },
+   {
+      "game": "Shuusou Gyoku",
+      "icon":"https://i.imgur.com/k1hqybg.png"
+   },
+   {
+      "game": "SimCity",
+      "icon":"https://i.imgur.com/hb1KrAG.png"
+   },
+   {
+      "game": "Skull Island: Rise of Kong",
+      "icon":"https://i.imgur.com/mdZl331.png"
+   },
+   {
+      "game": "Snowboard Kids",
+      "series": "Snowboard Kids Series",
+      "icon":"https://i.imgur.com/moioak0.png"
+   },
+   {
+      "game": "Snowboard Kids 2",
+      "series": "Snowboard Kids Series",
+      "icon":"https://i.imgur.com/UfoVmFH.png"
+   },
+   {
+      "game": "Sonic & Knuckles",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/MOrkGse.png"
+   },
+   {
+      "game": "Sonic 3D Blast",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/dwQMEpq.png"
+   },
+   {
+      "game": "Sonic Advance",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/JxugSoI.png"
+   },
+   {
+      "game": "Sonic Advance 2",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/hFgSFVV.png"
+   },
+   {
+      "game": "Sonic Adventure",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/MbDClSc.png"
+   },
+   {
+      "game": "Sonic Adventure 2",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/aVHEpfm.png"
+   },
+   {
+      "game": "Sonic Chronicles: The Dark Brotherhood",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/qpi9Kb4.png"
+   },
+   {
+      "game": "Sonic Colors",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/yRYspr7.png"
+   },
+   {
+      "game": "Sonic and the Secret Rings",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/2yU1cf1.png"
+   },
+   {
+      "game": "Sonic Heroes",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/PpJkSY9.png"
+   },
+   {
+      "game": "Sonic Lost World",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/xw5QbaS.png"
+   },
+   {
+      "game": "Sonic Mania",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/clThx8u.png"
+   },
+   {
+      "game": "Sonic the Hedgehog",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/CJqq8eD.png"
+   },
+   {
+      "game": "Sonic the Hedgehog 2",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/jAGaUAm.png"
+   },
+   {
+      "game": "Sonic the Hedgehog 3",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/muIG2yP.png"
+   },
+   {
+      "game": "Sonic the Hedgehog 4: Episode II",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/EJON7Qa.png",
+      "short_name": "Sonic 4 Episode II"
+   },
+   {
+      "game": "Sonic the Hedgehog Spinball",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/4QfxupD.png",
+      "short_name": "Sonic Spinball"
+   },
+   {
+      "game": "Sonic Triple Trouble",
+      "series": "Sonic the Hedgehog Series",
+      "icon":"https://i.imgur.com/PG6sCj1.png"
+   },
+   {
+      "game": "Soulcalibur II",
+      "icon":"https://i.imgur.com/SG2MVQu.png"
+   },
+   {
+      "game": "Space Station Silicon Valley",
+      "icon":"https://i.imgur.com/3jlKlTn.png"
+   },
+   {
+      "game": "Spark the Electric Jester",
+      "icon":"https://i.imgur.com/4iBnfX6.png"
+   },
+   {
+      "game": "Spectrobes",
+      "icon":"https://i.imgur.com/noTHiOv.png"
+   },
+   {
+      "game": "Spelunky Classic",
+      "icon":"https://i.imgur.com/Hmzpdzs.png"
+   },
+   {
+      "game": "Spider-Man (Acclaim)",
+      "icon":"https://i.imgur.com/ZztHZxj.png"
+   },
+   {
+      "game": "Splatoon",
+      "series": "Splatoon Series",
+      "icon":"https://i.imgur.com/Q3Acs3B.png"
+   },
+   {
+      "game": "Splatoon 3",
+      "series": "Splatoon Series",
+      "icon":"https://i.imgur.com/75R0IQE.png"
+   },
+   {
+      "game": "Spyro the Dragon",
+      "series": "Spyro Series",
+      "icon":"https://i.imgur.com/xZcFnUa.png"
+   },
+   {
+      "game": "Spyro 2: Ripto's Rage!",
+      "series": "Spyro Series",
+      "icon":"https://i.imgur.com/UtaueTi.png"
+   },
+   {
+      "game": "Star Fox",
+      "series": "Star Fox Series",
+      "icon":"https://i.imgur.com/y5YeNkh.png"
+   },
+   {
+      "game": "Star Fox 64",
+      "series": "Star Fox Series",
+      "icon":"https://i.imgur.com/4Obpm9A.png"
+   },
+   {
+      "game": "Stardew Valley",
+      "icon":"https://i.imgur.com/UNX1YU9.png"
+   },
+   {
+      "game": "StarTropics",
+      "icon":"https://i.imgur.com/q42aeg4.png"
+   },
+   {
+      "game": "Street Fighter II",
+      "series": "Street Fighter Series",
+      "icon":"https://i.imgur.com/AE0yflk.png"
+   },
+   {
+      "game": "Street Fighter III",
+      "series": "Street Fighter Series",
+      "icon":"https://i.imgur.com/ZHng1FA.png"
+   },
+   {
+      "game": "Streets of Rage",
+      "series": "Streets of Rage Series",
+      "icon":"https://i.imgur.com/znu5QCR.png"
+   },
+   {
+      "game": "Streets of Rage 3",
+      "series": "Streets of Rage Series",
+      "icon":"https://i.imgur.com/AMItefp.png"
+   },
+   {
+      "game": "Subway Surfers",
+      "icon":"https://i.imgur.com/cy2qKc3.png"
+   },
+   {
+      "game": "Suika Game",
+      "icon":"https://i.imgur.com/T128ccB.png"
+   },
+   {
+      "game": "Super Bomberman 3",
+      "series": "Bomberman Series",
+      "icon":"https://i.imgur.com/kj3GFmY.png"
+   },
+   {
+      "game": "Super Bomberman 5",
+      "series": "Bomberman Series",
+      "icon":"https://i.imgur.com/1FxcSqC.png"
+   },
+   {
+      "game": "Super Castlevania IV",
+      "series": "Castlevania Series",
+      "icon":"https://i.imgur.com/aDpseHN.png"
+   },
+   {
+      "game": "Super Dodge Ball",
+      "icon":"https://i.imgur.com/wK8xmU5.png"
+   },
+   {
+      "game": "Super Ghouls 'n Ghosts",
+      "icon":"https://i.imgur.com/Q3WMIQk.png"
+   },
+   {
+      "game": "Super Mario 3D Land",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/EZmQBaO.png"
+   },
+   {
+      "game": "Super Mario 3D World",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/BPgVLG2.png"
+   },
+   {
+      "game": "Super Mario 64",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/M2xNyca.png"
+   },
+   {
+      "game": "Super Mario 64 DS",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/w8duxyS.png"
+   },
+   {
+      "game": "Super Mario Bros.",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/J032q4r.png"
+   },
+   {
+      "game": "Super Mario Bros. 2",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/NmIsvfe.png"
+   },
+   {
+      "game": "Super Mario Bros. 3",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/2V40ZEk.png"
+   },
+   {
+      "game": "Super Mario Bros. Wonder",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/AgkFv9A.png"
+   },
+   {
+      "game": "Super Mario Galaxy",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/0XFnNFV.png"
+   },
+   {
+      "game": "Super Mario Galaxy 2",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/2hi1sgE.png"
+   },
+   {
+      "game": "Super Mario Kart",
+      "series": "Mario Kart Series",
+      "icon":"https://i.imgur.com/HnArcxw.png"
+   },
+   {
+      "game": "Super Mario Land",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/GIrqij4.png"
+   },
+   {
+      "game": "Super Mario Land 2: 6 Golden Coins",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/yNrCPhm.png",
+      "short_name": "Super Mario Land 2"
+   },
+   {
+      "game": "Super Mario Maker",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/tZOfhAo.png"
+   },
+   {
+      "game": "Super Mario Odyssey",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/D9KLF7H.png"
+   },
+   {
+      "game": "Super Mario RPG: Legend of the Seven Stars",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/AxwLb9u.png",
+      "short_name": "SMRPG: Legend of the 7 Stars"
+   },
+   {
+      "game": "Super Mario Sunshine",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/Q9K6x5c.png"
+   },
+   {
+      "game": "Super Mario World",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/OAW2jBv.png"
+   },
+   {
+      "game": "Super Mario World 2: Yoshi's Island",
+      "series": "Super Mario Series",
+      "icon":"https://i.imgur.com/mzFBubW.png",
+      "short_name": "Yoshi's Island"
+   },
+   {
+      "game": "Super Metroid",
+      "series": "Metroid Series",
+      "icon":"https://i.imgur.com/4iWk17g.png"
+   },
+   {
+      "game": "Super Smash Bros.",
+      "series": "Super Smash Bros Series",
+      "icon":"https://i.imgur.com/Q7mX5ke.png"
+   },
+   {
+      "game": "Super Smash Bros. Brawl",
+      "series": "Super Smash Bros Series",
+      "icon":"https://i.imgur.com/Cs3xSCg.png"
+   },
+   {
+      "game": "Super Smash Bros. Melee",
+      "series": "Super Smash Bros Series",
+      "icon":"https://i.imgur.com/a8EGmqi.png"
+   },
+   {
+      "game": "Super Smash Bros. Ultimate",
+      "series": "Super Smash Bros Series",
+      "icon":"https://i.imgur.com/VOcHNZ3.png"
+   },
+   {
+      "game": "System Shock",
+      "icon":"https://i.imgur.com/1un7Fks.png"
+   },
+   {
+      "game": "Tales of Symphonia",
+      "icon":"https://i.imgur.com/im2Z5pR.png"
+   },
+   {
+      "game": "Team Fortress 2",
+      "icon":"https://i.imgur.com/ZuNWlLY.png"
+   },
+   {
+      "game": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
+      "series": "Teenage Mutant Ninja Turtles Series",
+      "icon":"https://i.imgur.com/fRNVJP3.png",
+      "short_name": "TMNT II GB"
+   },
+   {
+      "game": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+      "series": "Teenage Mutant Ninja Turtles Series",
+      "icon":"https://i.imgur.com/c4OTxlY.png",
+      "short_name": "TMNT IV"
+   },
+   {
+      "game": "Tetris 99",
+      "series": "Tetris Series",
+      "icon":"https://i.imgur.com/YbIr627.png"
+   },
+   {
+      "game": "Tetris Attack",
+      "series": "Tetris Series",
+      "icon":"https://i.imgur.com/oE7n3LV.png"
+   },
+   {
+      "game": "Tetris DS",
+      "series": "Tetris Series",
+      "icon":"https://i.imgur.com/QrubiPC.png"
+   },
+   {
+      "game": "The Angry Video Game Nerd II: ASSimilation",
+      "icon":"https://i.imgur.com/McR6M1d.png",
+      "short_name": "The Angry Video Game Nerd II"
+   },
+   {
+      "game": "The Binding of Isaac",
+      "icon":"https://i.imgur.com/tgJgzes.png"
+   },
+   {
+      "game": "The Grinch",
+      "icon":"https://i.imgur.com/lwngM3s.png"
+   },
+   {
+      "game": "The King of Fighters 2002: Challenge to Ultimate Battle",
+      "icon":"https://i.imgur.com/Sjpzhra.png",
+      "short_name": "The King of Fighters 2002"
+   },
+   {
+      "game": "The Legend of Banjo-Kazooie: The Jiggies of Time",
+      "series": "Banjo-Kazooie Series",
+      "icon":"https://i.imgur.com/uhMttf9.png",
+      "short_name": "Jiggies of Time"
+   },
+   {
+      "game": "The Legend of Zelda",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/j200D6C.png"
+   },
+   {
+      "game": "The Legend of Zelda: A Link to the Past",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/rfhhH6u.png",
+      "short_name": "Zelda: A Link to the Past"
+   },
+   {
+      "game": "The Legend of Zelda: Link's Awakening",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/a9at4CB.png",
+      "short_name": "Zelda: Link's Awakening"
+   },
+   {
+      "game": "The Legend of Zelda: Majora's Mask",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/KyGsmnE.png",
+      "short_name": "Zelda: Majora's Mask"
+   },
+   {
+      "game": "The Legend of Zelda: Ocarina of Time",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/ahypax2.png",
+      "short_name": "Zelda: Ocarina of Time"
+   },
+   {
+      "game": "The Legend of Zelda: Oracle of Seasons and Ages",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/J13vseH.png",
+      "short_name": "Zelda: Oracle Series"
+   },
+   {
+      "game": "The Legend of Zelda: Phantom Hourglass",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/sJwD9UK.png",
+      "short_name": "Zelda: Phantom Hourglass"
+   },
+   {
+      "game": "The Legend of Zelda: Skyward Sword",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/FxTTpzg.png",
+      "short_name": "Zelda: Skyward Sword"
+   },
+   {
+      "game": "The Legend of Zelda: Spirit Tracks",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/8Jcwd5a.png",
+      "short_name": "Zelda: Spirit Tracks"
+   },
+   {
+      "game": "The Legend of Zelda: The Minish Cap",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/Cp0p7n8.png",
+      "short_name": "Zelda: Minish Cap"
+   },
+   {
+      "game": "The Legend of Zelda: The Wind Waker",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/x5vJGFF.png",
+      "short_name": "Zelda: The Wind Waker"
+   },
+   {
+      "game": "The Legend of Zelda: Twilight Princess",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/924MF1s.png",
+      "short_name": "Zelda: Twilight Princess"
+   },
+   {
+      "game": "The Magical Quest Starring Mickey Mouse",
+      "icon":"https://i.imgur.com/NMC30gq.png",
+      "short_name": "Magical Quest 1"
+   },
+   {
+      "game": "The Room Tribute",
+      "icon":"https://i.imgur.com/rPPQg5V.png"
+   },
+   {
+      "game": "The Sims",
+      "icon":"https://i.imgur.com/eF7plQZ.png"
+   },
+   {
+      "game": "The Town with No Name",
+      "icon":"https://i.imgur.com/fgBn8XA.png"
+   },
+   {
+      "game": "Thunder Force IV",
+      "icon":"https://i.imgur.com/JvpWUSZ.png"
+   },
+   {
+      "game": "to a T",
+      "icon":"https://i.imgur.com/faZSDp5.png"
+   },
+   {
+      "game": "ToeJam & Earl",
+      "icon":"https://i.imgur.com/ubGEgg8.png"
+   },
+   {
+      "game": "Tomodachi Life",
+      "icon":"https://i.imgur.com/WdRrbYA.png"
+   },
+   {
+      "game": "Tony Hawk's Pro Skater",
+      "icon":"https://i.imgur.com/yQXCkLz.png"
+   },
+   {
+      "game": "Toontown: The Grindworks",
+      "icon":"https://i.imgur.com/UJYKnf1.png"
+   },
+   {
+      "game": "Touhou Artificial Dream in Arcadia",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/zxAGNaZ.png",
+      "short_name": "Touhou ADiA"
+   },
+   {
+      "game": "Touhou Chiireiden ~ Subterranean Animism",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/TGbpxDH.png",
+      "short_name": "Touhou 11"
+   },
+   {
+      "game": "Touhou Eiyashou ~ Imperishable Night",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/k7pDWwJ.png",
+      "short_name": "Touhou 8"
+   },
+   {
+      "game": "Touhou Fuujinroku ~ Mountain of Faith",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/j254w8T.png",
+      "short_name": "Touhou 10"
+   },
+   {
+      "game": "Touhou Gensoukyou ~ Lotus Land Story",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/QRTgB7g.png",
+      "short_name": "Touhou 4"
+   },
+   {
+      "game": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/bMzNBDs.png",
+      "short_name": "Touhou 10.5"
+   },
+   {
+      "game": "Touhou Hisoutensoku ~ Choudokyuu Ginryou no Nazo wo Oe",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/uLohFDp.png",
+      "short_name": "Touhou 12.3"
+   },
+   {
+      "game": "Touhou Hyouibana ~ Antinomy of Common Flowers",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/BkSddN5.png",
+      "short_name": "Touhou 15.5"
+   },
+   {
+      "game": "Touhou Jaseishou ~ The Last Comer",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/9lkHQiM.png",
+      "short_name": "The Last Comer"
+   },
+   {
+      "game": "Touhou Kaeidzuka ~ Phantasmagoria of Flower View",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/UAmNF6P.png",
+      "short_name": "Touhou 9"
+   },
+   {
+      "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/PY86OeL.png",
+      "short_name": "Touhou 15"
+   },
+   {
+      "game": "Touhou Kikeijuu ~ Wily Beast and Weakest Creature",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/Iv8mU0s.png",
+      "short_name": "Touhou 17"
+   },
+   {
+      "game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/0f9Uu7j.png",
+      "short_name": "Touhou 6"
+   },
+   {
+      "game": "Touhou Kouryudou ~ Unconnected Marketeers",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/ZDsMCJ5.png",
+      "short_name": "Touhou 18"
+   },
+   {
+      "game": "Touhou Reiiden ~ the Highly Responsive to Prayers",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/u2BfhqJ.png",
+      "short_name": "Touhou 1"
+   },
+   {
+      "game": "Touhou Seireisen ~ Undefined Fantastic Object",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/78T3vVI.png",
+      "short_name":"Touhou 12"
+   },
+   {
+      "game": "Touhou Shinjutou ~ Hollow Song of Birds",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/P2XdJZY.png",
+      "short_name":"Hollow Song of Birds"
+   },
+   {
+      "game": "Touhou Shinreibyou ~ Ten Desires",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/33ciPgY.png",
+      "short_name":"Touhou 13"
+   },
+   {
+      "game": "Touhou Tenkuushou ~ Hidden Star in Four Seasons",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/nQEnuoy.png",
+      "short_name": "Touhou 16"
+   },
+   {
+      "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/UsSPP1a.png",
+      "short_name": "Touhou 7"
+   },
+   {
+      "game": "Touhou Yumejikuu ~ Phantasmagoria of Dim. Dream",
+      "series": "Touhou Series",
+      "icon":"https://i.imgur.com/mzIhPtH.png",
+      "short_name": "Touhou 3"
+   },
+   {
+      "game": "U.N. Squadron",
+      "icon":"https://i.imgur.com/lEe6LJM.png"
+   },
+   {
+      "game": "UFO 50",
+      "icon":"https://i.imgur.com/MkrtKtE.png"
+   },
+   {
+      "game": "Ultimate I SPY",
+      "icon":"https://i.imgur.com/Idajldt.png"
+   },
+   {
+      "game": "ULTRAKILL",
+      "icon":"https://i.imgur.com/2d2aNjo.png"
+   },
+   {
+      "game": "Umamusume: Pretty Derby",
+      "icon":"https://i.imgur.com/pi5Blly.png"
+   },
+   {
+      "game": "Undertale",
+      "icon":"https://i.imgur.com/nbnFGpu.png"
+   },
+   {
+      "game": "Valkyrie Profile",
+      "icon":"https://i.imgur.com/bQpxo04.png"
+   },
+   {
+      "game": "Valkyrie Profile: Covenant of the Plume",
+      "icon":"https://i.imgur.com/Tqst2hR.png",
+      "short_name": "Valkyrie Profile 3"
+   },
+   {
+      "game": "Vampire Survivors",
+      "icon":"https://i.imgur.com/peyc73P.png"
+   },
+   {
+      "game": "Vegas Stakes",
+      "icon":"https://i.imgur.com/sIrvi6e.png"
+   },
+   {
+      "game": "Viva Piñata",
+      "icon":"https://i.imgur.com/JG5CF5Z.png"
+   },
+   {
+      "game": "Waterworld",
+      "icon":"https://i.imgur.com/sMV5zTr.png"
+   },
+   {
+      "game": "Warcraft II: Tides of Darkness",
+      "icon":"https://i.imgur.com/GP6pQnL.png"
+   },
+   {
+      "game": "Warhammer 40,000: Darktide",
+      "icon":"https://i.imgur.com/1GYetQG.png"
+   },
+   {
+      "game": "Wario: Master of Disguise",
+      "series": "Wario Series",
+      "icon":"https://i.imgur.com/r3mk8w7.png"
+   },
+   {
+      "game": "Wario Land 4",
+      "series": "Wario Series",
+      "icon":"https://i.imgur.com/dhvF1RZ.png"
+   },
+   {
+      "game": "WarioWare, Inc.: Mega Microgame$!",
+      "series": "Wario Series",
+      "icon":"https://i.imgur.com/gPyR1Tx.png",
+      "short_name": "WarioWare: Mega Microgame"
+   },
+   {
+      "game": "WarioWare: Twisted!",
+      "series": "Wario Series",
+      "icon":"https://i.imgur.com/dEnrAzt.png"
+   },
+   {
+      "game": "Wave Race 64",
+      "icon":"https://i.imgur.com/ljvsi5r.png"
+   },
+   {
+      "game": "Wolfenstein 3D",
+      "icon":"https://i.imgur.com/pU0BvBC.png"
+   },
+   {
+      "game": "Wii Sports",
+      "icon":"https://i.imgur.com/UsPJrwz.png"
+   },
+   {
+      "game": "X-COM: UFO Defense",
+      "icon":"https://i.imgur.com/1HtjoSp.png"
+   },
+   {
+      "game": "Xenoblade Chronicles",
+      "icon":"https://i.imgur.com/6tgHaQV.png"
+   },
+   {
+      "game": "Yakuza 0",
+      "icon":"https://i.imgur.com/LFahcff.png"
+   },
+   {
+      "game": "Yooka-Laylee",
+      "icon":"https://i.imgur.com/e9DVQUA.png"
+   },
+   {
+      "game": "Yoshi's Island DS",
+      "series": "Yoshi Series",
+      "icon":"https://i.imgur.com/j9lFcHX.png"
+   },
+   {
+      "game": "Yoshi's Story",
+      "series": "Yoshi Series",
+      "icon":"https://i.imgur.com/pdEdjmH.png"
+   },
+   {
+      "game": "Ys III: Wanderers from Ys",
+      "icon":"https://i.imgur.com/1yXwK1E.png",
+      "short_name": "Ys III"
+   },
+   {
+      "game": "Yu-Gi-Oh! Dark Duel Stories",
+      "series": "Yu-Gi-Oh! Series",
+      "icon":"https://i.imgur.com/4ah5HB6.png"
+   },
+   {
+      "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+      "series": "Yu-Gi-Oh! Series",
+      "icon":"https://i.imgur.com/WmG6Y1t.png",
+      "short_name": "Dungeon Dice Monsters"
+   },
+   {
+      "game": "Yu-Gi-Oh! Forbidden Memories",
+      "series": "Yu-Gi-Oh! Series",
+      "icon":"https://i.imgur.com/i6flDcS.png"
+   },
+   {
+      "game": "Yu-Gi-Oh! The Eternal Duelist Soul",
+      "series": "Yu-Gi-Oh! Series",
+      "icon":"https://i.imgur.com/KsFp8xN.png"
+   },
+   {
+      "game": "Yu-Gi-Oh! The Sacred Cards",
+      "series": "Yu-Gi-Oh! Series",
+      "icon":"https://i.imgur.com/kCYP4WY.png"
+   },
+   {
+      "game": "Yume Nikki",
+      "icon":"https://i.imgur.com/ndd6y4A.png"
+   },
+   {
+      "game": "Zelda II: The Adventure of Link",
+      "series": "The Legend of Zelda Series",
+      "icon":"https://i.imgur.com/s1iSdLC.png",
+      "short_name": "Zelda II"
+   },
+   {
+      "game": "Zillion",
+      "icon":"https://i.imgur.com/cVZZUCX.png"
+   }
 ]

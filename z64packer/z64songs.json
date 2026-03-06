@@ -2,7 +2,7 @@
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
-    "game": "A Link to the Past",
+    "game": "The Legend of Zelda: A Link to the Past",
     "song": "Dark World",
     "composers": [
       "Koji Kondo"
@@ -20,13 +20,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "A Link to the Past/Dark World.mmrs",
-    "preview": "A Link to the Past/Dark World.mp3"
+    "file": "The Legend of Zelda A Link to the Past/Dark World.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark World.mp3"
   },
   {
     "uuid": "cc70b4b2-0c9a-44eb-949f-eef9f1f16bc5",
     "creationDate": "2026-03-04T23:58:05.061Z",
-    "game": "Phoenix Wright Ace Attorney",
+    "game": "Phoenix Wright: Ace Attorney",
     "song": "Pursuit ~ Cornered",
     "composers": [
       "Masakazu Sugimor"
