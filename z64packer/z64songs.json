@@ -749,5 +749,28 @@
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Rusty Bucket Bay.mmrs",
     "preview": "Banjo-Kazooie/Rusty Bucket Bay.mp3"
+  },
+  {
+    "uuid": "81d23377-b622-4646-9482-51315e3b7406",
+    "creationDate": "2026-03-06T17:36:51.440Z",
+    "game": "Banjo-Kazooie",
+    "song": "Spiral Mountain",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Banjo-Kazooie/Spiral Mountain.mmrs",
+    "preview": "Banjo-Kazooie/Spiral Mountain.mp3"
   }
 ]
