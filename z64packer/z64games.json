@@ -605,7 +605,7 @@
   },
   {
     "game": "Hey You, Pikachu!",
-    "series": "Pokémon Series",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/2um3RoP.png"
   },
   {
@@ -1335,88 +1335,88 @@
     "logo": "https://i.imgur.com/Aid4B9T.png"
   },
   {
-    "game": "Pokémon Black & White",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Black & White",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/2ztGqSb.png"
   },
   {
-    "game": "Pokémon Black 2 & White 2",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Black 2 & White 2",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/c5WIW1K.png"
   },
   {
-    "game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Card GB2: Great Rocket-Dan Sanjo",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/h8Su4TH.png",
-    "short_name": "Pokémon TCG 2"
+    "short_name": "Pok\u00e9mon TCG 2"
   },
   {
-    "game": "Pokémon Colosseum",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Colosseum",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/c9o6GNm.png"
   },
   {
-    "game": "Pokémon Diamond, Pearl & Platinum",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/Ykk9fjh.png",
-    "short_name": "Pokémon DPPT"
+    "short_name": "Pok\u00e9mon DPPT"
   },
   {
-    "game": "Pokémon Gold, Silver & Crystal",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/qsjlr6F.png",
-    "short_name": "Pokémon GSC"
+    "short_name": "Pok\u00e9mon GSC"
   },
   {
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/xOB3NJx.png",
-    "short_name": "Pokémon Mystery Dungeon: Sky"
+    "short_name": "Pok\u00e9mon Mystery Dungeon: Sky"
   },
   {
-    "game": "Pokémon Puzzle League",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Puzzle League",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/IuYzeB6.png"
   },
   {
-    "game": "Pokémon Red, Blue & Yellow",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/qTolwwr.png"
   },
   {
-    "game": "Pokémon Ruby, Sapphire & Emerald",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/6unIP4M.png",
-    "short_name": "Pokémon RSE"
+    "short_name": "Pok\u00e9mon RSE"
   },
   {
-    "game": "Pokémon Snap",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Snap",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/qNatVEL.png"
   },
   {
-    "game": "Pokémon Stadium",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Stadium",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/mZ37j3w.png"
   },
   {
-    "game": "Pokémon Stadium 2",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Stadium 2",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/xSZxb2f.png"
   },
   {
-    "game": "Pokémon Trading Card Game",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon Trading Card Game",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/N7NrDJb.png"
   },
   {
-    "game": "Pokémon X & Y",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon X & Y",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/f3e6U0V.png"
   },
   {
-    "game": "Pokémon XD: Gale of Darkness",
-    "series": "Pokémon Series",
+    "game": "Pok\u00e9mon XD: Gale of Darkness",
+    "series": "Pok\u00e9mon Series",
     "logo": "https://i.imgur.com/szZ6kYe.png"
   },
   {
@@ -2444,5 +2444,25 @@
     "game": "WarioWare: Touched!",
     "series": "Wario Series",
     "logo": "https://media.vgm.io/products/20/8202/8202-1595293986.png"
+  },
+  {
+    "game": "Phoenix Wright Ace Attorney",
+    "series": ""
+  },
+  {
+    "game": "Age of Empires The Rise of Rome",
+    "series": ""
+  },
+  {
+    "game": "The Legend of Zelda A Link to the Past",
+    "series": ""
+  },
+  {
+    "game": "Dragon Ball Z The Legacy of Goku II",
+    "series": ""
+  },
+  {
+    "game": "WarioWare Touched!",
+    "series": ""
   }
 ]
