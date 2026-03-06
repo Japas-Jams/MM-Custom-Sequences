@@ -231,5 +231,27 @@
     "usesFormmask": false,
     "file": "Banjo-Tooie/Collect Jiggy.mmrs",
     "preview": "Banjo-Tooie/Collect Jiggy.mp3"
+  },
+  {
+    "uuid": "467cb86b-312e-41a0-a720-fe799acf9c94",
+    "creationDate": "2026-03-06T03:36:16.134Z",
+    "game": "Banjo-Tooie",
+    "song": "Ordnance Storage",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Ordnance Storage.mmrs",
+    "preview": "Banjo-Tooie/Ordnance Storage.mp3"
   }
 ]
