@@ -490,7 +490,7 @@
   {
     "uuid": "8418e20a-9c44-45db-9033-49e6a7c11278",
     "creationDate": "2026-03-06T04:01:38.886Z",
-    "game": "Pok\u00c3\u00a9mon Red, Blue & Yellow",
+    "game": "PokÃÂÃÂÃÂÃÂ©mon Red, Blue & Yellow",
     "song": "Battle! Vs Trainer",
     "composers": [
       "Junichi Masuda"
@@ -507,13 +507,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok\u00c3\u00a9mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
-    "preview": "Pok\u00c3\u00a9mon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
+    "file": "PokÃÂÃÂÃÂÃÂ©mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
+    "preview": "PokÃÂÃÂÃÂÃÂ©mon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
   },
   {
     "uuid": "3891183f-72aa-411f-86a4-8649b95c89d4",
     "creationDate": "2026-03-06T04:02:53.113Z",
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "PokÃÂÃÂ©mon Red, Blue & Yellow",
     "song": "Battle! Vs Gym Leader",
     "composers": [
       "Junichi Masuda"
@@ -530,11 +530,11 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
-    "preview": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
+    "file": "PokÃÂÃÂ©mon Red, Blue & Yellow/Battle! Vs Gym Leader.mmrs",
+    "preview": "PokÃÂÃÂ©mon Red, Blue & Yellow/Battle! Vs Gym Leader.mp3"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
+    "game": "PokÃÂÃÂ©mon Red, Blue & Yellow",
     "song": "Battle! Vs Trainer",
     "type": "bgm",
     "categories": [
@@ -545,11 +545,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f43c66c7-a225-4090-b1a6-8e1da87d5d87",
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs"
+    "file": "PokÃÂÃÂ©mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
-    "song": "Battle! Wild Pok\u00e9mon",
+    "game": "PokÃÂÃÂ©mon Red, Blue & Yellow",
+    "song": "Battle! Wild PokÃÂÃÂ©mon",
     "type": "bgm",
     "categories": [
       "4",
@@ -559,6 +559,116 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0494c0f1-616d-4177-aa94-7bbc0d7845dd",
-    "file": "Pok\u00e9mon Red, Blue & Yellow/Battle! Wild Pok\u00e9mon.mmrs"
+    "file": "PokÃÂÃÂ©mon Red, Blue & Yellow/Battle! Wild PokÃÂÃÂ©mon.mmrs"
+  },
+  {
+    "uuid": "696b067c-cceb-4755-a3b5-23a52c36cc96",
+    "creationDate": "2026-03-06T04:05:22.756Z",
+    "game": "PokÃÂÃÂ©mon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Boy)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "PokÃÂÃÂ©mon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs",
+    "preview": "PokÃÂÃÂ©mon Red, Blue & Yellow/A Trainer Appears! (Boy).mp3"
+  },
+  {
+    "uuid": "411aebac-754b-43e3-8d9b-9c1f0ff8370f",
+    "creationDate": "2026-03-06T04:06:36.242Z",
+    "game": "PokÃÂ©mon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Girl)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "PokÃÂ©mon Red, Blue & Yellow/A Trainer Appears! (Girl).mmrs",
+    "preview": "PokÃÂ©mon Red, Blue & Yellow/A Trainer Appears! (Girl).mp3"
+  },
+  {
+    "uuid": "5ea76d9b-dff1-41ed-a2f1-b333f503661c",
+    "creationDate": "2026-03-06T04:07:42.558Z",
+    "game": "PokÃ©mon Red, Blue & Yellow",
+    "song": "A Trainer Appears! (Tough Guy)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "103"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mmrs",
+    "preview": "PokÃ©mon Red, Blue & Yellow/A Trainer Appears! (Tough Guy).mp3"
+  },
+  {
+    "uuid": "5d319efc-5b18-47bd-9881-161d668d7c9b",
+    "creationDate": "2026-03-06T04:08:59.944Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Team Rocket Hideout",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Team Rocket Hideout.mp3"
+  },
+  {
+    "uuid": "0adb2d1b-2349-41ff-80d8-d330409639be",
+    "creationDate": "2026-03-06T04:09:59.311Z",
+    "game": "Pok�mon Red, Blue & Yellow",
+    "song": "Route 1",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pok�mon Red, Blue & Yellow/Route 1.mmrs",
+    "preview": "Pok�mon Red, Blue & Yellow/Route 1.mp3"
   }
 ]
