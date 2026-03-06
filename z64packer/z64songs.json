@@ -796,5 +796,29 @@
     "usesFormmask": true,
     "file": "Banjo-Kazooie/Treasure Trove Cove.mmrs",
     "preview": "Banjo-Kazooie/Treasure Trove Cove.mp3"
+  },
+  {
+    "uuid": "56250c32-1d5e-4eb4-a146-60a27bcc42a9",
+    "creationDate": "2026-03-06T17:38:46.118Z",
+    "game": "Banjo-Tooie",
+    "song": "Grunty Industries",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Banjo-Tooie/Grunty Industries.mmrs",
+    "preview": "Banjo-Tooie/Grunty Industries.mp3"
   }
 ]
