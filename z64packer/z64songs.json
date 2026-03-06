@@ -324,5 +324,27 @@
     "usesFormmask": false,
     "file": "Diablo/Tristram Theme.mmrs",
     "preview": "Diablo/Tristram Theme.mp3"
+  },
+  {
+    "uuid": "f131ba43-ce95-41e9-8e99-281d502a2813",
+    "creationDate": "2026-03-06T03:44:15.396Z",
+    "game": "Duke Nukem 3D",
+    "song": "Stalker",
+    "composers": [
+      "Lee Jackson"
+    ],
+    "converters": [
+      "ZoeyZolotova"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Duke Nukem 3D/Stalker.mmrs",
+    "preview": "Duke Nukem 3D/Stalker.mp3"
   }
 ]
