@@ -1312,5 +1312,267 @@
     "usesFormmask": false,
     "file": "NieR Replicant/The Ultimate Weapon.mmrs",
     "preview": "NieR Replicant/The Ultimate Weapon.ogg"
+  },
+  {
+    "uuid": "533892cb-ab8d-4c0d-b30e-ac9d4030d16a",
+    "creationDate": "2026-03-07T02:49:40.083Z",
+    "game": "Monster Hunter 4 Ultimate",
+    "song": "Proof of a Hero",
+    "composers": [
+      "Kouda Masato"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "11B",
+      "169"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Monster Hunter 4 Ultimate/Proof of a Hero.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-H5IIx7qmyo"
+  },
+  {
+    "uuid": "d191a38a-4f38-4bb9-b093-520405bd328a",
+    "creationDate": "2026-03-07T02:51:53.619Z",
+    "game": "Ultimate Trial",
+    "song": "Catacombs",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Catacombs.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ua7hFlrfQdw"
+  },
+  {
+    "uuid": "8437e211-ef36-47e8-980e-86ae706be060",
+    "creationDate": "2026-03-07T02:53:24.128Z",
+    "game": "Ultimate Trial",
+    "song": "Child Trial",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Child Trial.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aLYT1U-iLCE"
+  },
+  {
+    "uuid": "ab89d339-d580-43cf-94cf-cf45bcd0c4de",
+    "creationDate": "2026-03-07T02:54:23.074Z",
+    "game": "Ultimate Trial",
+    "song": "Dance of the Deku King",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Dance of the Deku King.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ODKLhPh0lTw"
+  },
+  {
+    "uuid": "b14bb5cf-1141-4a89-8019-3aefab573770",
+    "creationDate": "2026-03-07T02:55:43.983Z",
+    "game": "Ultimate Trial",
+    "song": "Grimstalker",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Grimstalker.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oT89nOdi9i4"
+  },
+  {
+    "uuid": "eefe9b7f-f22e-4e1a-8f41-05112f6f92cb",
+    "creationDate": "2026-03-07T02:56:37.699Z",
+    "game": "Ultimate Trial",
+    "song": "Hero Trial",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Hero Trial.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SvBR2jyDDoo"
+  },
+  {
+    "uuid": "f2350af0-3925-4f50-8359-896c3acb2172",
+    "creationDate": "2026-03-07T02:57:36.532Z",
+    "game": "Ultimate Trial",
+    "song": "Hylia's Justiciar (Phase 1)",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Hylia's Justiciar (Phase 1).mmrs",
+    "preview": "https://www.youtube.com/watch?v=hTN1g9W24-I"
+  },
+  {
+    "uuid": "4bb5950a-9305-4a26-80c4-af004f7f8d93",
+    "creationDate": "2026-03-07T02:58:28.046Z",
+    "game": "Ultimate Trial",
+    "song": "Hylia's Justiciar (Phase 2)",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Hylia's Justiciar (Phase 2).mmrs",
+    "preview": "https://www.youtube.com/watch?v=sYmzilJwV4o"
+  },
+  {
+    "uuid": "33eb727d-f26d-4937-965a-9166d6e1775c",
+    "creationDate": "2026-03-07T02:59:12.362Z",
+    "game": "Ultimate Trial",
+    "song": "Rest Stellar Chamber",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Rest Stellar Chamber.mmrs",
+    "preview": "https://www.youtube.com/watch?v=J7QJXrLIyOE"
+  },
+  {
+    "uuid": "942723aa-13d3-4e7b-b598-9abf01320901",
+    "creationDate": "2026-03-07T02:59:59.394Z",
+    "game": "Ultimate Trial",
+    "song": "Reward Room",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Reward Room.mmrs",
+    "preview": "https://www.youtube.com/watch?v=BGV_T3Qt2d8"
+  },
+  {
+    "uuid": "d6f2f86a-5e07-408a-a6b2-8b85c1ae55e5",
+    "creationDate": "2026-03-07T03:00:47.402Z",
+    "game": "Ultimate Trial",
+    "song": "Shiba's Stronghold",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Shiba's Stronghold.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Bq1Jv-GABW4"
   }
 ]
