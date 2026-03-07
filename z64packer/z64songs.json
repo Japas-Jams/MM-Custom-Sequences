@@ -1584,5 +1584,31 @@
     "usesFormmask": false,
     "uuid": "007cfa54-41e2-4cb6-af07-12dcdc7b4d07",
     "file": "Nier Automata/Emil's Shop.mmrs"
+  },
+  {
+    "uuid": "fd11423a-d04a-4890-b44d-ac8b3ae3a77b",
+    "creationDate": "2026-03-07T15:18:46.406Z",
+    "game": "Dragon Quest 4",
+    "song": "Gypsy Dance",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dragon Quest 4/Gypsy Dance.mmrs",
+    "preview": "Dragon Quest 4/Gypsy Dance.ogg"
   }
 ]
