@@ -1072,5 +1072,29 @@
     "usesFormmask": false,
     "file": "Hollow Knight/Reflection.mmrs",
     "preview": "Hollow Knight/Reflection.ogg"
+  },
+  {
+    "uuid": "75259b5f-45c6-462f-bb76-525f295e2d5f",
+    "creationDate": "2026-03-07T02:15:27.084Z",
+    "game": "The Legend of Zelda: Link's Awakening (2019)",
+    "song": "Tal Tal Heights - Heroic",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Link's Awakening (2019)/Tal Tal Heights - Heroic.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wQhrJA0uUpw"
   }
 ]
