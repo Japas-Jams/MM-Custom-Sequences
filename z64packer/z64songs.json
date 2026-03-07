@@ -1953,5 +1953,30 @@
     "usesFormmask": false,
     "file": "Super Metroid/Item Room.mmrs",
     "preview": "Super Metroid/Item Room.ogg"
+  },
+  {
+    "uuid": "49b39d66-6c02-4985-b012-aac1ed9ecdac",
+    "creationDate": "2026-03-07T17:10:49.534Z",
+    "game": "Super Metroid",
+    "song": "Brinstar Overgrowth",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Metroid/Brinstar Overgrowth.mmrs",
+    "preview": "Super Metroid/Brinstar Overgrowth.ogg"
   }
 ]
