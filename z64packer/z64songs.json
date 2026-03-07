@@ -1731,5 +1731,29 @@
     "usesFormmask": false,
     "file": "Mario and Luigi Superstar Saga/Popple Battle Theme.mmrs",
     "preview": "Mario and Luigi Superstar Saga/Popple Battle Theme.ogg"
+  },
+  {
+    "uuid": "b1a176f7-e2ef-4ddf-aa2d-1a3ef0b824e9",
+    "creationDate": "2026-03-07T16:15:04.142Z",
+    "game": "Mario and Luigi Superstar Saga",
+    "song": "Chucklehuck Woods",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario and Luigi Superstar Saga/Chucklehuck Woods.mmrs",
+    "preview": "Mario and Luigi Superstar Saga/Chucklehuck Woods.ogg"
   }
 ]
