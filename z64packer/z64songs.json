@@ -995,5 +995,32 @@
     "usesFormmask": false,
     "file": "Suikoden II/Gothic Neclord.mmrs",
     "preview": "Suikoden II/Gothic Neclord.mp3"
+  },
+  {
+    "uuid": "0be539fb-e23f-444d-b003-bd00a43e44bf",
+    "creationDate": "2026-03-07T02:05:15.826Z",
+    "game": "Hollow Knight",
+    "song": "Dirtmouth",
+    "composers": [
+      "Christopher Larkin"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Hollow Knight/Dirtmouth.mmrs",
+    "preview": "Hollow Knight/Dirtmouth.ogg"
   }
 ]
