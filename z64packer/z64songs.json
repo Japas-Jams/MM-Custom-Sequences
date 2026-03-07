@@ -488,27 +488,6 @@
     "preview": "WarioWare Touched!/Ashley's Song.mp3"
   },
   {
-    "game": "PokÃ©mon Red, Blue & Yellow",
-    "song": "Battle! Wild PokÃ©mon",
-    "composers": [
-      "Junichi Masuda"
-    ],
-    "converters": [
-      "ZoeyZolotova"
-    ],
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "0494c0f1-616d-4177-aa94-7bbc0d7845dd",
-    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mmrs",
-    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Wild PokÃ©mon.mp3"
-  },
-  {
     "uuid": "5d319efc-5b18-47bd-9881-161d668d7c9b",
     "creationDate": "2026-03-06T04:08:59.944Z",
     "game": "PokÃ©mon Red, Blue & Yellow",
@@ -529,27 +508,6 @@
     "usesFormmask": false,
     "file": "PokÃ©mon Red, Blue & Yellow/Team Rocket Hideout.mmrs",
     "preview": "PokÃ©mon Red, Blue & Yellow/Team Rocket Hideout.mp3"
-  },
-  {
-    "game": "PokÃ©mon Red, Blue & Yellow",
-    "song": "Battle! Vs Trainer",
-    "composers": [
-      "Junichi Masuda"
-    ],
-    "converters": [
-      "ZoeyZolotova"
-    ],
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "beb91ab3-d064-4ae0-9497-7a106cdc746d",
-    "file": "PokÃ©mon Red, Blue & Yellow/Battle! Vs Trainer.mmrs",
-    "preview": "PokÃ©mon Red, Blue & Yellow/Battle! Vs Trainer.mp3"
   },
   {
     "uuid": "53a730b9-009e-439c-9ae2-c5cd40222b61",
@@ -1943,7 +1901,7 @@
       "BigBomba88"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "2",
       "3"
@@ -1966,7 +1924,7 @@
       "BigBomba88"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "0",
       "2",
