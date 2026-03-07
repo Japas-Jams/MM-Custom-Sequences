@@ -1022,5 +1022,29 @@
     "usesFormmask": false,
     "file": "Hollow Knight/Dirtmouth.mmrs",
     "preview": "Hollow Knight/Dirtmouth.ogg"
+  },
+  {
+    "uuid": "38b1dd61-7e77-4351-9049-185533e216b9",
+    "creationDate": "2026-03-07T02:06:10.619Z",
+    "game": "Hollow Knight",
+    "song": "Hornet",
+    "composers": [
+      "Christopher Larkin"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Hollow Knight/Hornet.mmrs",
+    "preview": "Hollow Knight/Hornet.ogg"
   }
 ]
