@@ -1779,5 +1779,30 @@
     "usesFormmask": false,
     "file": "Mario and Luigi Superstar Saga/Boss Theme.mmrs",
     "preview": "Mario and Luigi Superstar Saga/Boss Theme.ogg"
+  },
+  {
+    "uuid": "feea9ade-c59d-4c8a-b33d-b9bc62973a13",
+    "creationDate": "2026-03-07T16:25:40.502Z",
+    "game": "Mario Party 1",
+    "song": "Wario's Battle Canyon",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Party 1/Wario's Battle Canyon.mmrs",
+    "preview": "Mario Party 1/Wario's Battle Canyon.ogg"
   }
 ]
