@@ -1610,5 +1610,30 @@
     "usesFormmask": false,
     "file": "Dragon Quest 4/Gypsy Dance.mmrs",
     "preview": "Dragon Quest 4/Gypsy Dance.ogg"
+  },
+  {
+    "uuid": "9f6469c8-5ee9-4169-8057-9c8cb8eaf1be",
+    "creationDate": "2026-03-07T15:28:21.688Z",
+    "game": "Dragon Quest 9",
+    "song": "Observatory",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dragon Quest 9/Observatory.mmrs",
+    "preview": "Dragon Quest 9/Observatory.ogg"
   }
 ]
