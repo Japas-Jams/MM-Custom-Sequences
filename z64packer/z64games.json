@@ -148,6 +148,10 @@
     "logo": "https://i.imgur.com/XnJOhGG.png"
   },
   {
+    "game": "Breath of Fire II",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c5/Breath_of_Fire_logo.png"
+  },
+  {
     "game": "Bubsy in: Claws Encounters of the Furred Kind",
     "logo": "https://i.imgur.com/jyht3Py.png",
     "short_name": "Bubsy 1"
@@ -189,6 +193,11 @@
     "game": "Castlevania: Symphony of the Night",
     "series": "Castlevania Series",
     "logo": "https://i.imgur.com/5Bt0WKu.png"
+  },
+  {
+    "game": "Castlevania",
+    "series": "Castlevania Series",
+    "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9a0b9f63-5664-41f3-bf11-8793f97cf7b8/dg7xopf-67d38144-e0fe-4d1d-8cfd-4b4142702823.png"
   },
   {
     "game": "Castlevania II: Simon's Quest",
@@ -605,7 +614,7 @@
   },
   {
     "game": "Hey You, Pikachu!",
-    "series": "Pok\u00e9mon Series",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/2um3RoP.png"
   },
   {
@@ -1335,88 +1344,88 @@
     "logo": "https://i.imgur.com/Aid4B9T.png"
   },
   {
-    "game": "Pok\u00e9mon Black & White",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Black & White",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/2ztGqSb.png"
   },
   {
-    "game": "Pok\u00e9mon Black 2 & White 2",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Black 2 & White 2",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/c5WIW1K.png"
   },
   {
-    "game": "Pok\u00e9mon Card GB2: Great Rocket-Dan Sanjo",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/h8Su4TH.png",
-    "short_name": "Pok\u00e9mon TCG 2"
+    "short_name": "Pokémon TCG 2"
   },
   {
-    "game": "Pok\u00e9mon Colosseum",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Colosseum",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/c9o6GNm.png"
   },
   {
-    "game": "Pok\u00e9mon Diamond, Pearl & Platinum",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/Ykk9fjh.png",
-    "short_name": "Pok\u00e9mon DPPT"
+    "short_name": "Pokémon DPPT"
   },
   {
-    "game": "Pok\u00e9mon Gold, Silver & Crystal",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/qsjlr6F.png",
-    "short_name": "Pok\u00e9mon GSC"
+    "short_name": "Pokémon GSC"
   },
   {
-    "game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/xOB3NJx.png",
-    "short_name": "Pok\u00e9mon Mystery Dungeon: Sky"
+    "short_name": "Pokémon Mystery Dungeon: Sky"
   },
   {
-    "game": "Pok\u00e9mon Puzzle League",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Puzzle League",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/IuYzeB6.png"
   },
   {
-    "game": "Pok\u00e9mon Red, Blue & Yellow",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Red, Blue & Yellow",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/qTolwwr.png"
   },
   {
-    "game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/6unIP4M.png",
-    "short_name": "Pok\u00e9mon RSE"
+    "short_name": "Pokémon RSE"
   },
   {
-    "game": "Pok\u00e9mon Snap",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Snap",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/qNatVEL.png"
   },
   {
-    "game": "Pok\u00e9mon Stadium",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Stadium",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/mZ37j3w.png"
   },
   {
-    "game": "Pok\u00e9mon Stadium 2",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Stadium 2",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/xSZxb2f.png"
   },
   {
-    "game": "Pok\u00e9mon Trading Card Game",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon Trading Card Game",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/N7NrDJb.png"
   },
   {
-    "game": "Pok\u00e9mon X & Y",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon X & Y",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/f3e6U0V.png"
   },
   {
-    "game": "Pok\u00e9mon XD: Gale of Darkness",
-    "series": "Pok\u00e9mon Series",
+    "game": "Pokémon XD: Gale of Darkness",
+    "series": "Pokémon Series",
     "logo": "https://i.imgur.com/szZ6kYe.png"
   },
   {
