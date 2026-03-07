@@ -2308,7 +2308,7 @@
     "logo": "https://i.imgur.com/sIrvi6e.png"
   },
   {
-    "game": "Viva Pi\u00b1ata",
+    "game": "Viva Pi±ata",
     "logo": "https://i.imgur.com/JG5CF5Z.png"
   },
   {
@@ -2453,5 +2453,20 @@
     "game": "WarioWare: Touched!",
     "series": "Wario Series",
     "logo": "https://media.vgm.io/products/20/8202/8202-1595293986.png"
+  },
+  {
+    "game": "Hollow Knight"
+  },
+  {
+    "game": "Suikoden II"
+  },
+  {
+    "game": "The Legend of Zelda: Link's Awakening (2019)"
+  },
+  {
+    "game": "NieR Replicant"
+  },
+  {
+    "game": "Nier: Automata"
   }
 ]
