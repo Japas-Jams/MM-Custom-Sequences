@@ -1456,5 +1456,27 @@
     "usesFormmask": false,
     "file": "Ultimate Trial/Hero Trial.mmrs",
     "preview": "https://www.youtube.com/watch?v=SvBR2jyDDoo"
+  },
+  {
+    "uuid": "f2350af0-3925-4f50-8359-896c3acb2172",
+    "creationDate": "2026-03-07T02:57:36.532Z",
+    "game": "Ultimate Trial",
+    "song": "Hylia's Justiciar (Phase 1)",
+    "composers": [
+      "Zeraphyr"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ultimate Trial/Hylia's Justiciar (Phase 1).mmrs",
+    "preview": "https://www.youtube.com/watch?v=hTN1g9W24-I"
   }
 ]
