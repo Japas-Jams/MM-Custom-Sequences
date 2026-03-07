@@ -1830,5 +1830,30 @@
     "usesFormmask": false,
     "file": "Mario Party DS/Bowser's Pinball Machine.mmrs",
     "preview": "Mario Party DS/Bowser's Pinball Machine.ogg"
+  },
+  {
+    "uuid": "968aa86e-9b96-499d-b2a2-3a730db7c3b8",
+    "creationDate": "2026-03-07T16:48:37.592Z",
+    "game": "Paper Mario",
+    "song": "Tubba Blubba Battle",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario/Tubba Blubba Battle.mmrs",
+    "preview": "Paper Mario/Tubba Blubba Battle.ogg"
   }
 ]
