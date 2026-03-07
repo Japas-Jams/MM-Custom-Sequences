@@ -1930,5 +1930,28 @@
     "usesFormmask": false,
     "uuid": "54306dd1-7b47-4aad-88e6-542cfc9381d7",
     "file": "Pokémon Red, Blue & Yellow/A Trainer Appears! (Boy).mmrs"
+  },
+  {
+    "uuid": "651b599a-3421-42bb-bec2-c04be3b7088a",
+    "creationDate": "2026-03-07T17:09:23.098Z",
+    "game": "Super Metroid",
+    "song": "Item Room",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Metroid/Item Room.mmrs",
+    "preview": "Super Metroid/Item Room.ogg"
   }
 ]
