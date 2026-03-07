@@ -1570,5 +1570,31 @@
     "uuid": "ede2b508-b8eb-4654-b964-c0b2c45961fb",
     "file": "Nier Automata/Sound of the End - Quiet.mmrs",
     "preview": "Nier Automata/Sound of the End - Quiet.mp3"
+  },
+  {
+    "uuid": "d50138cb-c9c3-4532-a594-44ccb8f7f281",
+    "creationDate": "2026-03-07T15:14:42.071Z",
+    "game": "Castlevania",
+    "song": "Heart of Fire",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania/Heart of Fire.mmrs",
+    "preview": "Castlevania/Heart of Fire.ogg"
   }
 ]
