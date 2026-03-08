@@ -5,7 +5,7 @@
     "game": "Touhou Eiyashou ~ Imperishable Night",
     "song": "Imperishable Night",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN (Jun'ya Åta)"
     ],
     "converters": [
       "Fish"
@@ -23,5 +23,29 @@
     "usesFormmask": false,
     "file": "Touhou Eiyashou ~ Imperishable Night/Imperishable Night.mmrs",
     "preview": "Touhou Eiyashou ~ Imperishable Night/Imperishable Night.mp3"
+  },
+  {
+    "uuid": "0ab0d224-7a4d-4497-abcb-2be1b2eca475",
+    "creationDate": "2026-03-08T04:39:39.585Z",
+    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "song": "Reach for the Moon, Immortal Smoke",
+    "composers": [
+      "ZUN (Jun'ya Ōta)"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Eiyashou ~ Imperishable Night/Reach for the Moon, Immortal Smoke.mmrs",
+    "preview": "Touhou Eiyashou ~ Imperishable Night/Reach for the Moon, Immortal Smoke.mp3"
   }
 ]
