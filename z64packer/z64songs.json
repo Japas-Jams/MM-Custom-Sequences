@@ -1325,32 +1325,6 @@
   },
   {
     "game": "NieR: Automata",
-    "song": "Copied City",
-    "composers": [
-      "Keigo Hoashi"
-    ],
-    "converters": [
-      "Zeraphyr"
-    ],
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "5",
-      "7",
-      "157"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "1b0d2439-90bd-4560-a14a-16dab6498b66",
-    "file": "NieR Automata/Copied City.mmrs",
-    "preview": "https://www.youtube.com/watch?v=onsOGyGrE78"
-  },
-  {
-    "game": "NieR: Automata",
     "song": "Sound of the End - Quiet",
     "composers": [
       "Keigo Hoashi"
@@ -1986,33 +1960,6 @@
     "preview": "Pokémon Snap/Beach.mp3"
   },
   {
-    "game": "NieR: Automata",
-    "song": "Emil's Shop",
-    "composers": [
-      "Keiichi Okabe",
-      "Keigo Hoashi",
-      "Kuniyuki Takahashi",
-      "Kakeru Ishihama"
-    ],
-    "converters": [
-      "Zeraphyr"
-    ],
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3",
-      "4",
-      "6",
-      "16"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "31b0eb34-6fa7-48b1-b081-939f2b4008fc",
-    "file": "NieR Automata/Emil's Shop.mmrs",
-    "preview": "https://www.youtube.com/watch?v=aNWEJH5woNU"
-  },
-  {
     "uuid": "b15479db-9837-4480-853b-4355813e77bc",
     "creationDate": "2026-03-08T04:06:38.967Z",
     "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
@@ -2443,7 +2390,7 @@
       "Yaruzu"
     ],
     "isDMCACritical": false,
-    "type": "",
+    "type": "bgm",
     "categories": [
       "1",
       "2",
@@ -2454,5 +2401,41 @@
     "usesFormmask": false,
     "file": "Pokémon Snap/Volcano.mmrs",
     "preview": "Pokémon Snap/Volcano.mp3"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Emil's Shop",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "47b2344e-0201-4a16-8ccc-84c1989fcd4c",
+    "file": "Nier Automata/Emil's Shop.mmrs"
+  },
+  {
+    "game": "Nier Automata",
+    "song": "Copied City",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "c274b699-1941-4d9e-892a-9cbb16beee8c",
+    "file": "Nier Automata/Copied City.mmrs"
   }
 ]
