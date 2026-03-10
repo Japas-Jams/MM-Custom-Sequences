@@ -2878,5 +2878,32 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Auresco, Royal Capital (Night).mmrs",
     "preview": "https://www.youtube.com/watch?v=GZgYdNxB4Wc"
+  },
+  {
+    "uuid": "c09b632e-efa0-4383-9ccf-3815300ce7b2",
+    "creationDate": "2026-03-10T01:25:03.932Z",
+    "game": "Xenoblade Chronicles 3",
+    "song": "Erythia Sea",
+    "composers": [
+      "ACE (CHiCO)"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 3/Erythia Sea.mmrs",
+    "preview": "https://www.youtube.com/watch?v=JKWJhI4wmeg"
   }
 ]
