@@ -2554,5 +2554,28 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Oracle of Ages/Nayru's Song.mmrs",
     "preview": "https://www.youtube.com/watch?v=4OGDIQYWUgo"
+  },
+  {
+    "uuid": "b925e4c0-0171-4ba2-8695-d89795a9b5d9",
+    "creationDate": "2026-03-10T00:45:21.405Z",
+    "game": "Octopath Traveler",
+    "song": "Settlement in the Red Bluffs",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Settlement in the Red Bluffs.mmrs",
+    "preview": "https://www.youtube.com/watch?v=8DPd2BKqfwA"
   }
 ]
