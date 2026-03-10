@@ -2829,5 +2829,28 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles/Agniratha (Night).mmrs",
     "preview": "Xenoblade Chronicles/Agniratha (Night).mp3"
+  },
+  {
+    "uuid": "c4597bd5-aca9-4e56-b606-699406c7a4f1",
+    "creationDate": "2026-03-10T01:19:52.976Z",
+    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "song": "Lasaria Woodland",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Lasaria Woodland.mmrs",
+    "preview": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Lasaria Woodland.mp3"
   }
 ]
