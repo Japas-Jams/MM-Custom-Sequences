@@ -3109,5 +3109,29 @@
     "usesFormmask": false,
     "file": "Zeraphyr/Spritely Woods.mmrs",
     "preview": "https://www.youtube.com/watch?v=HKCKtDI5Tmg"
+  },
+  {
+    "uuid": "738925ce-c172-44da-ba0f-69b537b2cc99",
+    "creationDate": "2026-03-10T02:16:47.678Z",
+    "game": "Bomberman Hero",
+    "song": "Redial",
+    "composers": [
+      "Jun Chikuma"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bomberman Hero/Redial.mmrs",
+    "preview": "Bomberman Hero/Redial.mp3"
   }
 ]
