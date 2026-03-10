@@ -2905,5 +2905,31 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles 3/Erythia Sea.mmrs",
     "preview": "https://www.youtube.com/watch?v=JKWJhI4wmeg"
+  },
+  {
+    "uuid": "9542ff76-ab7c-4816-a489-569e03fc7387",
+    "creationDate": "2026-03-10T01:29:18.476Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Alcamoth, Imperial Capital",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Alcamoth, Imperial Capital.mmrs",
+    "preview": "Xenoblade Chronicles/Alcamoth, Imperial Capital.ogg"
   }
 ]
