@@ -2958,5 +2958,29 @@
     "usesFormmask": false,
     "file": "Xenoblade Chronicles/Satorl Marsh (Night).mmrs",
     "preview": "Xenoblade Chronicles/Satorl Marsh (Night).ogg"
+  },
+  {
+    "uuid": "44247020-ff37-4549-a756-00a24978e129",
+    "creationDate": "2026-03-10T01:34:21.779Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Sword Valley",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Sword Valley.mmrs",
+    "preview": "https://www.youtube.com/watch?v=FfT17HPB9e0"
   }
 ]
