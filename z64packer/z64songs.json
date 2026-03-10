@@ -2577,5 +2577,30 @@
     "usesFormmask": false,
     "file": "Octopath Traveler/Settlement in the Red Bluffs.mmrs",
     "preview": "https://www.youtube.com/watch?v=8DPd2BKqfwA"
+  },
+  {
+    "uuid": "95e18652-9346-4931-a9ad-36013ba6f354",
+    "creationDate": "2026-03-10T00:47:04.062Z",
+    "game": "Octopath Traveler",
+    "song": "Orewell, Beneath the Crags",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Orewell, Beneath the Crags.mmrs",
+    "preview": "Octopath Traveler/Orewell, Beneath the Crags.mp3"
   }
 ]
