@@ -2528,5 +2528,31 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Oracle of Ages/Moonlit Grotto.mmrs",
     "preview": "https://www.youtube.com/watch?v=4caT5MrLBug"
+  },
+  {
+    "uuid": "9029ad89-5812-455c-8a58-53a7112d1e94",
+    "creationDate": "2026-03-10T00:43:43.398Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Nayru's Song",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4OGDIQYWUgo"
   }
 ]
