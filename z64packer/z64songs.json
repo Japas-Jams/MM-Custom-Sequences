@@ -2674,5 +2674,36 @@
     "usesFormmask": false,
     "file": "Pokémon Colosseum/Cipher Admin.mmrs",
     "preview": "https://www.youtube.com/watch?v=UKC1aSuAE-Y"
+  },
+  {
+    "uuid": "d2b5219b-8269-4068-b9bc-f43a23fe1e44",
+    "creationDate": "2026-03-10T00:52:35.477Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Ghirahim's Theme",
+    "composers": [
+      "Hajime Wakai",
+      "Shiho Fujii",
+      "Mahito Yokota",
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Ghirahim's Theme.ogg"
   }
 ]
