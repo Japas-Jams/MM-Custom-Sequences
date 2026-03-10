@@ -2629,5 +2629,28 @@
     "usesFormmask": false,
     "file": "Octopath Traveler/River of Life.mmrs",
     "preview": "Octopath Traveler/River of Life.mp3"
+  },
+  {
+    "uuid": "45690abc-7a02-4418-9cba-d21df9e3ab3d",
+    "creationDate": "2026-03-10T00:48:46.154Z",
+    "game": "Octopath Traveler",
+    "song": "The Gate of Finis",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "isDMCACritical": false,
+    "type": "",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/The Gate of Finis.mmrs",
+    "preview": "Octopath Traveler/The Gate of Finis.mp3"
   }
 ]
