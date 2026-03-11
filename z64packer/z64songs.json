@@ -3225,5 +3225,29 @@
     "usesFormmask": false,
     "file": "Drakengard/Thirteenth Chapter - Closing.mmrs",
     "preview": "Drakengard/Thirteenth Chapter - Closing.mp3"
+  },
+  {
+    "uuid": "cc9c9c33-8bea-4525-af0c-b0e3821fd9c1",
+    "creationDate": "2026-03-11T22:51:12.383Z",
+    "game": "Super Spamton 64",
+    "song": "Slider",
+    "composers": [
+      "Rosicom"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Spamton 64/Slider.mmrs",
+    "preview": "Super Spamton 64/Slider.ogg"
   }
 ]
