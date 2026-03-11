@@ -3295,5 +3295,31 @@
     "usesFormmask": false,
     "file": "Fire Emblem Three Houses/God Shattering Star.mmrs",
     "preview": "Fire Emblem Three Houses/God Shattering Star.mp3"
+  },
+  {
+    "uuid": "f0cc7a25-66b1-4271-8dd6-4a2e5bd0d6be",
+    "creationDate": "2026-03-11T23:26:22.078Z",
+    "game": "Omori",
+    "song": "World's End Valentine",
+    "composers": [
+      "Bo En",
+      "Jamie Lynn",
+      "and Pedro Silva"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Omori/World's End Valentine.mmrs",
+    "preview": "Omori/World's End Valentine.mp3"
   }
 ]
