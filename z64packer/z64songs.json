@@ -3273,5 +3273,27 @@
     "usesFormmask": false,
     "file": "Pokémon Scarlet & Violet/East Province.mmrs",
     "preview": "Pokémon Scarlet & Violet/East Province.mp3"
+  },
+  {
+    "uuid": "5a4c2700-e802-4f7e-8dbd-1ffdcaf1c43c",
+    "creationDate": "2026-03-11T23:20:11.656Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "God Shattering Star",
+    "composers": [
+      "Rei Kondoh and Hiroki Morishita"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/God Shattering Star.mmrs",
+    "preview": "Fire Emblem Three Houses/God Shattering Star.mp3"
   }
 ]
