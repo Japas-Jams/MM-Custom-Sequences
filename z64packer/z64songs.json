@@ -3346,5 +3346,29 @@
     "usesFormmask": false,
     "file": "Minecraft/Stal.mmrs",
     "preview": "Minecraft/Stal.mp3"
+  },
+  {
+    "uuid": "8bb4748a-eb06-4b6a-a7cf-2e777c4285d3",
+    "creationDate": "2026-03-11T23:35:38.954Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Pursuit ~ Lying Coldly",
+    "composers": [
+      "Noriyuki Iwadare and Yasuko Yamada"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mp3"
   }
 ]
