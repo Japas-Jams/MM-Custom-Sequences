@@ -3598,5 +3598,29 @@
     "usesFormmask": false,
     "file": "Halo Combat Evolved/Brothers in Arms.mmrs",
     "preview": "Halo Combat Evolved/Brothers in Arms.mp3"
+  },
+  {
+    "uuid": "59a0d18a-529d-4926-accb-2b618d0eebee",
+    "creationDate": "2026-03-12T01:07:28.644Z",
+    "game": "Katamari Damacy",
+    "song": "Lonely Rolling Star",
+    "composers": [
+      "Yoshihito Yano"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Katamari Damacy/Lonely Rolling Star.mmrs",
+    "preview": "Katamari Damacy/Lonely Rolling Star.mp3"
   }
 ]
