@@ -3395,5 +3395,33 @@
     "usesFormmask": false,
     "file": "Legend of Zelda Feesh Mode/Invasion.mmrs",
     "preview": "Legend of Zelda Feesh Mode/Invasion.mp3"
+  },
+  {
+    "uuid": "eac39f2e-caf6-45b7-817b-20308715f808",
+    "creationDate": "2026-03-12T00:14:39.033Z",
+    "game": "Omori",
+    "song": "By Your Side",
+    "composers": [
+      "Bo En",
+      "Jamie Lynn",
+      "and Pedro Silva"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Omori/By Your Side.mmrs",
+    "preview": "Omori/By Your Side.mp3"
   }
 ]
