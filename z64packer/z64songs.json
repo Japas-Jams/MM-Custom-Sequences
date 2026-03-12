@@ -3548,5 +3548,30 @@
     "usesFormmask": false,
     "file": "Halo 3/Leonidas Returns.mmrs",
     "preview": "Halo 3/Leonidas Returns.mp3"
+  },
+  {
+    "uuid": "df86dd34-79ec-462b-b369-4f8487617454",
+    "creationDate": "2026-03-12T01:05:19.150Z",
+    "game": "Halo 3: ODST",
+    "song": "No Stone Unturned",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Halo 3 ODST/No Stone Unturned.mmrs",
+    "preview": "Halo 3 ODST/No Stone Unturned.mp3"
   }
 ]
