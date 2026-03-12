@@ -3716,5 +3716,28 @@
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/GCV2005.mmrs",
     "preview": "Melty Blood Actress Again/GCV2005.mp3"
+  },
+  {
+    "uuid": "da21ced4-a058-45d4-b34e-dd6a9132c7db",
+    "creationDate": "2026-03-12T01:14:16.157Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "Modernism Street",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/Modernism Street.mmrs",
+    "preview": "Melty Blood Actress Again/Modernism Street.mp3"
   }
 ]
