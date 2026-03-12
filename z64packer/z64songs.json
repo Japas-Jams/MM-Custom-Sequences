@@ -3762,5 +3762,29 @@
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Rhythmical Bustle.mmrs",
     "preview": "Melty Blood Actress Again/Rhythmical Bustle.mp3"
+  },
+  {
+    "uuid": "966e9e43-9123-4f9d-99b1-d010c1725b32",
+    "creationDate": "2026-03-12T01:15:51.350Z",
+    "game": "Melty Blood: Actress Again",
+    "song": "SAKURA-KOI-UTA",
+    "composers": [
+      "Raito"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Actress Again/SAKURA-KOI-UTA.mmrs",
+    "preview": "Melty Blood Actress Again/SAKURA-KOI-UTA.mp3"
   }
 ]
