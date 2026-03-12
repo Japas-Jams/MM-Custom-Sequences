@@ -1343,7 +1343,7 @@
     "usesFormmask": false,
     "uuid": "ede2b508-b8eb-4654-b964-c0b2c45961fb",
     "file": "NieR Automata/Sound of the End - Quiet.mmrs",
-    "preview": "https://www.youtube.com/watch?v=VkxvpS-Vsi8"
+    "preview": "NieR Automata/Sound of the End - Quiet.mp3"
   },
   {
     "uuid": "d50138cb-c9c3-4532-a594-44ccb8f7f281",
@@ -1597,7 +1597,8 @@
     "game": "Mario Party DS",
     "song": "Bowser's Pinball Machine",
     "composers": [
-      "Hironobu Yahata and Shinya Ohtouge"
+      "Hironobu Yahata",
+      "Shinya Ohtouge"
     ],
     "converters": [
       "BigBomba88"
@@ -1957,7 +1958,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon Snap/Beach.mmrs",
-    "preview": "Pokémon Snap/Beach.mp3"
+    "preview": "https://www.youtube.com/watch?v=pHb6ITguJTQ"
   },
   {
     "uuid": "b15479db-9837-4480-853b-4355813e77bc",
@@ -2478,7 +2479,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon Stadium/Game Demo.mmrs",
-    "preview": "Pokémon Stadium/Game Demo.mp3"
+    "preview": "https://www.youtube.com/watch?v=yRM_n0zFZvM"
   },
   {
     "uuid": "8adb7ed6-94ec-4034-834a-dab34b3fc9fd",
@@ -3132,7 +3133,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Bomberman Hero/Redial.mmrs",
-    "preview": "Bomberman Hero/Redial.mp3"
+    "preview": "https://www.youtube.com/watch?v=QaSk132f--4"
   },
   {
     "uuid": "c95543e5-199a-464a-a35a-a54a8e7b64bb",
@@ -3155,7 +3156,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Dark Souls/Gwyn, Lord of Cinder.mmrs",
-    "preview": "Dark Souls/Gwyn, Lord of Cinder.mp3"
+    "preview": "https://www.youtube.com/watch?v=yCWCSGlSVjw"
   },
   {
     "uuid": "8e172d9a-84bc-42c0-9cdd-29acf5cf3bf7",
@@ -3178,7 +3179,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Card Castle.mmrs",
-    "preview": "Deltarune/Card Castle.mp3"
+    "preview": "https://www.youtube.com/watch?v=3LDRZvbwv2o"
   },
   {
     "uuid": "8ab45f4b-55e3-4f0d-9381-2ad7231bd4a9",
@@ -3202,7 +3203,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/My Castle Town.mmrs",
-    "preview": "Deltarune/My Castle Town.mp3"
+    "preview": "https://www.youtube.com/watch?v=YSgGyiaMGcs"
   },
   {
     "uuid": "72037cb8-fb99-4c4d-81cd-a8774aab9ad2",
@@ -3280,7 +3281,8 @@
     "game": "Fire Emblem: Three Houses",
     "song": "God Shattering Star",
     "composers": [
-      "Rei Kondoh and Hiroki Morishita"
+      "Rei Kondoh",
+      "Hiroki Morishita"
     ],
     "converters": [
       "Fish"
@@ -3353,7 +3355,8 @@
     "game": "Ace Attorney Investigations: Miles Edgeworth",
     "song": "Pursuit ~ Lying Coldly",
     "composers": [
-      "Noriyuki Iwadare and Yasuko Yamada"
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
     ],
     "converters": [
       "Fish"
@@ -3374,8 +3377,8 @@
   {
     "uuid": "f8c3103c-1fbc-47ff-8a7a-3cbaa0152edd",
     "creationDate": "2026-03-11T23:59:21.374Z",
-    "game": "Fish_waffle64",
-    "song": "Invasion",
+    "game": "The Legend of Zelda: Feesh Mode",
+    "song": "The Invasion of Hyrule Castle",
     "composers": [
       "Fish_waffle64"
     ],
@@ -3394,7 +3397,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Legend of Zelda Feesh Mode/Invasion.mmrs",
-    "preview": "Legend of Zelda Feesh Mode/Invasion.mp3"
+    "preview": "https://www.youtube.com/watch?v=Ls58Rn08ThU"
   },
   {
     "uuid": "eac39f2e-caf6-45b7-817b-20308715f808",
@@ -3428,7 +3431,7 @@
     "uuid": "89e7e4da-5982-41f3-b049-db31ca53dc6b",
     "creationDate": "2026-03-12T00:52:04.957Z",
     "game": "EarthBound",
-    "song": "Snowman (Wave)",
+    "song": "Snowman (Wave Instruments)",
     "composers": [
       "Keiichi Suzuki",
       "Hirokazu Tanaka"
@@ -3448,7 +3451,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound/Snowman (Wave).mmrs",
-    "preview": "EarthBound/Snowman (Wave).mp3"
+    "preview": "https://www.youtube.com/watch?v=xFfyPCGHI2I"
   },
   {
     "uuid": "d92aed36-5b7a-476c-9143-13c0af5fae32",
@@ -3474,31 +3477,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound/Snowman.mmrs",
-    "preview": "EarthBound/Snowman.mp3"
-  },
-  {
-    "uuid": "bd53359f-03f4-4241-876c-19b3b790ce1d",
-    "creationDate": "2026-03-12T00:59:57.850Z",
-    "game": "Fate-Extra",
-    "song": "Duel",
-    "composers": [
-      "Shinji Hosoe"
-    ],
-    "converters": [
-      "Yaruzu"
-    ],
-    "isDMCACritical": false,
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Fate-Extra/Duel.mmrs",
-    "preview": "Fate-Extra/Duel.mp3"
+    "preview": "https://www.youtube.com/watch?v=MUrbtBfBFeY"
   },
   {
     "uuid": "41136ca5-c7b7-409c-b7b2-34526d3f0b06",
@@ -3522,7 +3501,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "FateEXTRA/Duel.mmrs",
-    "preview": "FateEXTRA/Duel.mp3"
+    "preview": "https://www.youtube.com/watch?v=kREwxplB4tg"
   },
   {
     "uuid": "df648fd1-7005-44aa-8afa-55b7d1ef0e72",
@@ -3547,7 +3526,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Halo 3/Leonidas Returns.mmrs",
-    "preview": "Halo 3/Leonidas Returns.mp3"
+    "preview": "https://www.youtube.com/watch?v=8DOVphS1nhY"
   },
   {
     "uuid": "df86dd34-79ec-462b-b369-4f8487617454",
@@ -3572,7 +3551,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Halo 3 ODST/No Stone Unturned.mmrs",
-    "preview": "Halo 3 ODST/No Stone Unturned.mp3"
+    "preview": "https://www.youtube.com/watch?v=N-KFaf9ZlOU"
   },
   {
     "uuid": "fd891ea6-2396-4fce-96c5-1b45935c959d",
@@ -3597,7 +3576,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Halo Combat Evolved/Brothers in Arms.mmrs",
-    "preview": "Halo Combat Evolved/Brothers in Arms.mp3"
+    "preview": "https://www.youtube.com/watch?v=7cWzDaVkWQA"
   },
   {
     "uuid": "59a0d18a-529d-4926-accb-2b618d0eebee",
@@ -3621,7 +3600,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Katamari Damacy/Lonely Rolling Star.mmrs",
-    "preview": "Katamari Damacy/Lonely Rolling Star.mp3"
+    "preview": "https://www.youtube.com/watch?v=LNivrqQ2RYs"
   },
   {
     "uuid": "adca5456-d160-4630-b3e2-6e2a2aec844f",
@@ -3645,7 +3624,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Kirby Air Ride/City Trial.mmrs",
-    "preview": "Kirby Air Ride/City Trial.mp3"
+    "preview": "https://www.youtube.com/watch?v=53Fyrap0F2Y"
   },
   {
     "uuid": "fb4782d0-9a51-49c9-8870-ffc20031cfae",
@@ -3668,7 +3647,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Mario's Super Picross/Wario Puzzle 1.mmrs",
-    "preview": "Mario's Super Picross/Wario Puzzle 1.mp3"
+    "preview": "https://www.youtube.com/watch?v=uJrsdoclzq4"
   },
   {
     "uuid": "4e1c4975-bb0e-4cbe-885f-6e6149164723",
@@ -3691,7 +3670,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Elegant Summer.mmrs",
-    "preview": "Melty Blood Actress Again/Elegant Summer.mp3"
+    "preview": "https://www.youtube.com/watch?v=X3hL9wPKbgk"
   },
   {
     "uuid": "d219e948-7634-4250-bebe-759e0d228927",
@@ -3715,7 +3694,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/GCV2005.mmrs",
-    "preview": "Melty Blood Actress Again/GCV2005.mp3"
+    "preview": "https://www.youtube.com/watch?v=g9V1QVU3Hcs"
   },
   {
     "uuid": "da21ced4-a058-45d4-b34e-dd6a9132c7db",
@@ -3738,7 +3717,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Modernism Street.mmrs",
-    "preview": "Melty Blood Actress Again/Modernism Street.mp3"
+    "preview": "https://www.youtube.com/watch?v=VR9vQKyfeyM"
   },
   {
     "uuid": "daededb6-2e53-4cc4-9bfa-3affece09bcb",
@@ -3761,7 +3740,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Rhythmical Bustle.mmrs",
-    "preview": "Melty Blood Actress Again/Rhythmical Bustle.mp3"
+    "preview": "https://www.youtube.com/watch?v=-vdDsUnWx3I"
   },
   {
     "uuid": "966e9e43-9123-4f9d-99b1-d010c1725b32",
@@ -3785,7 +3764,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/SAKURA-KOI-UTA.mmrs",
-    "preview": "Melty Blood Actress Again/SAKURA-KOI-UTA.mp3"
+    "preview": "https://www.youtube.com/watch?v=P4EFIZsu_BI"
   },
   {
     "uuid": "8a98964d-dd97-468f-993b-f1f2a2d2a878",
@@ -3808,6 +3787,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Wonderful boy.mmrs",
-    "preview": "Melty Blood Actress Again/Wonderful boy.mp3"
+    "preview": "https://www.youtube.com/watch?v=vuAA44xVdLk"
   }
 ]

@@ -2472,7 +2472,7 @@
   {
     "game": "NieR: Automata",
     "series": "Nier Series",
-    "logo": "https://www.vhv.rs/dpng/d/435-4350512_nier-automata-logo-png-calligraphy-transparent-png.png"
+    "logo": "https://www.pngmart.com/files/22/Nier-Automata-Logo-PNG.png"
   },
   {
     "game": "Ultimate Trial",
@@ -2547,46 +2547,60 @@
     "logo": "https://mario.wiki.gallery/images/thumb/5/52/WarioLand2Logo.png/1200px-WarioLand2Logo.png"
   },
   {
-    "game": "Dark Souls"
+    "game": "Dark Souls",
+    "series": "Dark Souls Series",
+    "logo": "https://p325k7wa.twic.pics/high/dark-souls/dark-souls-1/00-page-setup/ds1_logo.png"
   },
   {
     "game": "Super Spamton 64",
-    "series": "Super Mario Series"
+    "series": "Super Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo/8d0584dafa9462a7c48608451dd3ea87.png"
   },
   {
     "game": "Pokémon Scarlet & Violet",
-    "series": "Pokémon Series"
+    "series": "Pokémon Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/23/Pok%C3%A9mon_Scarlet_%28US_Logo_2%29.png"
   },
   {
     "game": "Fire Emblem: Three Houses",
-    "series": "Fire Emblem Series"
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo/cacd637d3aca81f3faeb4f148662f7c0.png"
   },
   {
-    "game": "Fish_waffle64",
-    "series": "Original Compositions"
+    "game": "The Legend of Zelda: Feesh Mode",
+    "series": "The Legend of Zelda Series"
   },
   {
-    "game": "Halo 3"
+    "game": "Halo 3",
+    "series": "Halo Series",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Halo_3_Logo.png"
   },
   {
-    "game": "Katamari Damacy"
+    "game": "Katamari Damacy",
+    "series": "Katamari Series",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Katamari_series_logo.svg/1280px-Katamari_series_logo.svg.png"
   },
   {
-    "game": "Mario's Super Picross"
+    "game": "Mario's Super Picross",
+    "series": "Super Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3aa1b54ee156dfd4a5cf24ce3211dd8.png"
   },
   {
-    "game": "Melty Blood: Actress Again"
+    "game": "Melty Blood: Actress Again",
+    "logo": "https://static.wikia.nocookie.net/typemoon/images/b/bd/MBAA_logo.png"
   },
   {
-    "game": "Halo 3: ODST"
+    "game": "Halo 3: ODST",
+    "series": "Halo Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c1/Halo3ODST.png"
   },
   {
-    "game": "Fate-Extra"
+    "game": "Fate/EXTRA",
+    "logo": "https://static.wikia.nocookie.net/typemoon/images/8/89/Fate_EXTRA_Logo.png"
   },
   {
-    "game": "Fate/EXTRA"
-  },
-  {
-    "game": "Halo: Combat Evolved"
+    "game": "Halo: Combat Evolved",
+    "series": "Halo Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/HaloCombatEvolved.png"
   }
 ]
