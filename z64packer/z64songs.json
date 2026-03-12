@@ -3523,5 +3523,30 @@
     "usesFormmask": false,
     "file": "FateEXTRA/Duel.mmrs",
     "preview": "FateEXTRA/Duel.mp3"
+  },
+  {
+    "uuid": "df648fd1-7005-44aa-8afa-55b7d1ef0e72",
+    "creationDate": "2026-03-12T01:04:02.878Z",
+    "game": "Halo 3",
+    "song": "Leonidas Returns",
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Halo 3/Leonidas Returns.mmrs",
+    "preview": "Halo 3/Leonidas Returns.mp3"
   }
 ]
