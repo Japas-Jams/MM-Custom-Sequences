@@ -3811,5 +3811,28 @@
     "usesFormmask": false,
     "file": "Consoles and BIOS/Gamecube Intro.mmrs",
     "preview": "Consoles and BIOS/Gamecube Intro.mp3"
+  },
+  {
+    "uuid": "edac3861-160c-4488-b760-434780b93687",
+    "creationDate": "2026-03-12T04:28:19.448Z",
+    "game": "Consoles and BIOS",
+    "song": "Windows Start Up",
+    "composers": [
+      "Brian Eno"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Consoles and BIOS/Windows Start Up.mmrs",
+    "preview": "Consoles and BIOS/Windows Start Up.mp3"
   }
 ]
