@@ -3499,5 +3499,29 @@
     "usesFormmask": false,
     "file": "Fate-Extra/Duel.mmrs",
     "preview": "Fate-Extra/Duel.mp3"
+  },
+  {
+    "uuid": "41136ca5-c7b7-409c-b7b2-34526d3f0b06",
+    "creationDate": "2026-03-12T01:00:38.988Z",
+    "game": "Fate/EXTRA",
+    "song": "Duel",
+    "composers": [
+      "Shinji Hosoe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "FateEXTRA/Duel.mmrs",
+    "preview": "FateEXTRA/Duel.mp3"
   }
 ]
