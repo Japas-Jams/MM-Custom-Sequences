@@ -3788,5 +3788,74 @@
     "usesFormmask": false,
     "file": "Melty Blood Actress Again/Wonderful boy.mmrs",
     "preview": "https://www.youtube.com/watch?v=vuAA44xVdLk"
+  },
+  {
+    "uuid": "5a3115b2-ef1e-4168-a21b-2fb9ecab62e7",
+    "creationDate": "2026-03-12T04:26:51.342Z",
+    "game": "Consoles and BIOS",
+    "song": "Gamecube Intro",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Consoles and BIOS/Gamecube Intro.mmrs",
+    "preview": "Consoles and BIOS/Gamecube Intro.mp3"
+  },
+  {
+    "uuid": "edac3861-160c-4488-b760-434780b93687",
+    "creationDate": "2026-03-12T04:28:19.448Z",
+    "game": "Consoles and BIOS",
+    "song": "Windows Start Up",
+    "composers": [
+      "Brian Eno"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Consoles and BIOS/Windows Start Up.mmrs",
+    "preview": "Consoles and BIOS/Windows Start Up.mp3"
+  },
+  {
+    "uuid": "2de9037e-0b8a-4f7c-907d-22f693b09f38",
+    "creationDate": "2026-03-12T04:29:15.366Z",
+    "game": "Consoles and BIOS",
+    "song": "Windows - Shut Down",
+    "composers": [
+      "Brian Eno"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Consoles and BIOS/Windows - Shut Down.mmrs",
+    "preview": "Consoles and BIOS/Windows - Shut Down.mp3"
   }
 ]
