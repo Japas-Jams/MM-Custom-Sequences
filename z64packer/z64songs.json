@@ -5050,5 +5050,28 @@
     "usesFormmask": false,
     "file": "A Hat in Time/Train Rush.mmrs",
     "preview": "A Hat in Time/Train Rush.mp3"
+  },
+  {
+    "uuid": "84b431f7-2bea-4541-a0c4-1e5e3879c0d7",
+    "creationDate": "2026-03-13T03:44:32.545Z",
+    "game": "Mario Golf: Toadstool Tour",
+    "song": "Blooper Bay",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Golf Toadstool Tour/Blooper Bay.mmrs",
+    "preview": "Mario Golf Toadstool Tour/Blooper Bay.mp3"
   }
 ]
