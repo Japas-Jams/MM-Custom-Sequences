@@ -5521,5 +5521,50 @@
     "usesFormmask": false,
     "file": "Mega Man 3/Dr. Wily Stage 2.mmrs",
     "preview": "Mega Man 3/Dr. Wily Stage 2.ogg"
+  },
+  {
+    "uuid": "7941c19d-51af-4b8d-85ae-a52f0441b96f",
+    "creationDate": "2026-03-13T22:50:43.866Z",
+    "game": "Banjo-Tooie",
+    "song": "Here Comes Trouble",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Here Comes Trouble.mmrs",
+    "preview": "Banjo-Tooie/Here Comes Trouble.ogg"
+  },
+  {
+    "uuid": "27bb9b95-e406-4c78-8b00-cb4b2d94fe14",
+    "creationDate": "2026-03-13T22:51:35.939Z",
+    "game": "Banjo-Tooie",
+    "song": "Lord Woo Fak Fak",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Lord Woo Fak Fak.mmrs",
+    "preview": "Banjo-Tooie/Lord Woo Fak Fak.ogg"
   }
 ]
