@@ -5120,5 +5120,27 @@
     "usesFormmask": false,
     "file": "New Super Mario Bros. Wii/Volcano.mmrs",
     "preview": "New Super Mario Bros. Wii/Volcano.mp3"
+  },
+  {
+    "uuid": "e9feef41-2f5e-4012-ab8b-2382daac44c8",
+    "creationDate": "2026-03-13T03:59:59.924Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Black Tower",
+    "composers": [
+      "Minako Adachi and Kiyohiro Sada"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Black Tower.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Black Tower.mp3"
   }
 ]
