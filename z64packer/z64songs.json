@@ -3906,5 +3906,100 @@
     "file": "Deltarune/Vs. Susie.mmrs",
     "preview": "Deltarune/Susie.ogg",
     "lastUpdateDate": "2026-03-13T01:45:16.995Z"
+  },
+  {
+    "uuid": "6d7d6283-c1e6-47cd-8fb2-44daf4c3f59b",
+    "creationDate": "2026-03-13T01:46:53.906Z",
+    "game": "Deltarune",
+    "song": "Lost Girl",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Lost Girl.mmrs",
+    "preview": "Deltarune/Lost Girl.mp3"
+  },
+  {
+    "uuid": "b851120b-19b2-4297-9fbc-1d110134e8f1",
+    "creationDate": "2026-03-13T01:48:10.315Z",
+    "game": "Deltarune",
+    "song": "Pandora Palace",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Pandora Palace.mmrs",
+    "preview": "Deltarune/Pandora Palace.mp3"
+  },
+  {
+    "uuid": "57a811f7-58bd-4fda-a779-3e5b85f5beb6",
+    "creationDate": "2026-03-13T01:50:00.276Z",
+    "game": "Deltarune",
+    "song": "Chaos King",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Chaos King.mmrs",
+    "preview": "Deltarune/Chaos King.mp3"
+  },
+  {
+    "uuid": "5e86473f-721d-4246-9fae-9d363a702f0b",
+    "creationDate": "2026-03-13T01:50:43.135Z",
+    "game": "Deltarune",
+    "song": "World Revolving",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/World Revolving.mmrs",
+    "preview": "Deltarune/World Revolving.mp3"
   }
 ]
