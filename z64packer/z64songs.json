@@ -5240,5 +5240,29 @@
     "usesFormmask": false,
     "file": "Stardew Valley/Overture.mmrs",
     "preview": "Stardew Valley/Overture.mp3"
+  },
+  {
+    "uuid": "2d022621-5615-4da1-af11-16ac233638ac",
+    "creationDate": "2026-03-13T04:12:14.193Z",
+    "game": "Tetris",
+    "song": "A-type Theme",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Tetris/A-type Theme.mmrs",
+    "preview": "Tetris/A-type Theme.mp3"
   }
 ]
