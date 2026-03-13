@@ -4155,5 +4155,29 @@
     "usesFormmask": false,
     "file": "StarTropics/Miracola.mmrs",
     "preview": "StarTropics/Miracola.mp3"
+  },
+  {
+    "uuid": "b6c1ccc2-577f-4027-9d11-5cd8ae6e6798",
+    "creationDate": "2026-03-13T02:10:31.330Z",
+    "game": "StarTropics",
+    "song": "Hallways",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Hallways.mmrs",
+    "preview": "StarTropics/Hallways.mp3"
   }
 ]
