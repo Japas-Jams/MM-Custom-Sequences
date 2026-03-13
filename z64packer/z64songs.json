@@ -4980,5 +4980,27 @@
     "usesFormmask": false,
     "file": "Animal Crossing/Rainy Day.mmrs",
     "preview": "Animal Crossing/Rainy Day.mp3"
+  },
+  {
+    "uuid": "de7ca481-dd7b-411d-9dad-054d3fbceae0",
+    "creationDate": "2026-03-13T03:37:45.770Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Champion Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Champion Battle.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Champion Battle.mp3"
   }
 ]
