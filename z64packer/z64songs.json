@@ -4513,5 +4513,30 @@
     "usesFormmask": false,
     "file": "Paper Mario The Origami King/Musee Champignon.mmrs",
     "preview": "Paper Mario The Origami King/Musee Champignon.ogg"
+  },
+  {
+    "uuid": "a40a151d-9813-4e83-9fe7-a240c0a5e7e0",
+    "creationDate": "2026-03-13T02:59:23.240Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Peace Returns",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Minish Cap/Peace Returns.mmrs",
+    "preview": "https://www.youtube.com/watch?v=9aqE-OAJ2pE"
   }
 ]
