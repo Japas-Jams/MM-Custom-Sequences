@@ -5474,5 +5474,28 @@
     "usesFormmask": false,
     "file": "Dark Cloud/Palace of the Sun and Moon.mmrs",
     "preview": "Dark Cloud/Palace of the Sun and Moon.ogg"
+  },
+  {
+    "uuid": "ba1234b6-b7f2-430a-9ddc-3c3df4b92e2e",
+    "creationDate": "2026-03-13T22:46:54.246Z",
+    "game": "Dark Cloud",
+    "song": "A Sinking Ship",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Cloud/A Sinking Ship.mmrs",
+    "preview": "Dark Cloud/A Sinking Ship.ogg"
   }
 ]
