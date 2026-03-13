@@ -4538,5 +4538,29 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda The Minish Cap/Peace Returns.mmrs",
     "preview": "https://www.youtube.com/watch?v=9aqE-OAJ2pE"
+  },
+  {
+    "uuid": "00cffd6f-62b4-4bf6-b104-52355952c7f4",
+    "creationDate": "2026-03-13T03:04:40.078Z",
+    "game": "Mega Man & Bass",
+    "song": "Robot Museum",
+    "composers": [
+      "Akari Kaida"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man & Bass/Robot Museum.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SZ8KmWnD49I"
   }
 ]
