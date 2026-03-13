@@ -4584,5 +4584,27 @@
     "usesFormmask": false,
     "file": "Pokémon Black & White/Ghetsis Battle.mmrs",
     "preview": "Pokémon Black & White/Ghetsis Battle.mp3"
+  },
+  {
+    "uuid": "33a4ac67-b178-4453-bbba-038038222f35",
+    "creationDate": "2026-03-13T03:05:22.983Z",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Ghetsis Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black 2 & White 2/Ghetsis Battle.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Ghetsis Battle.mp3"
   }
 ]
