@@ -4179,5 +4179,52 @@
     "usesFormmask": false,
     "file": "StarTropics/Hallways.mmrs",
     "preview": "StarTropics/Hallways.mp3"
+  },
+  {
+    "uuid": "263e10df-21b4-403d-932a-09ca53838421",
+    "creationDate": "2026-03-13T02:15:40.085Z",
+    "game": "The Legend of Zelda: Master of Time",
+    "song": "Path of Gods",
+    "composers": [
+      "Nitroflasher"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Master of Time/Path of Gods.mmrs",
+    "preview": "The Legend of Zelda Master of Time/Path of Gods.ogg"
+  },
+  {
+    "uuid": "543bec63-ae25-4468-898e-ecfb7c756e25",
+    "creationDate": "2026-03-13T02:17:22.668Z",
+    "game": "The Legend of Zelda: Master of Time",
+    "song": "Sagnol Village",
+    "composers": [
+      "Nitroflasher"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Master of Time/Sagnol Village.mmrs",
+    "preview": "The Legend of Zelda Master of Time/Sagnol Village.ogg"
   }
 ]
