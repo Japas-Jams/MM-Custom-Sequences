@@ -4129,5 +4129,31 @@
     "usesFormmask": false,
     "file": "StarTropics/Boss Theme.mmrs",
     "preview": "StarTropics/Boss Theme.mp3"
+  },
+  {
+    "uuid": "ee837fc3-f4d3-4a54-8caf-4c99d6a0619e",
+    "creationDate": "2026-03-13T02:09:56.557Z",
+    "game": "StarTropics",
+    "song": "Miracola",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Miracola.mmrs",
+    "preview": "StarTropics/Miracola.mp3"
   }
 ]
