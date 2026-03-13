@@ -4028,5 +4028,31 @@
     "usesFormmask": false,
     "file": "Super Mario 3D World/Disaster.mmrs",
     "preview": "Super Mario 3D World/Disaster.mp3"
+  },
+  {
+    "uuid": "58147eee-6cbb-49da-92ba-42983798ae82",
+    "creationDate": "2026-03-13T02:04:15.310Z",
+    "game": "Uru: Ages Beyond Myst",
+    "song": "Convergence",
+    "composers": [
+      "Tim Larkin"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Uru Ages Beyond Myst/Convergence.mmrs",
+    "preview": "Uru Ages Beyond Myst/Convergence.mp3"
   }
 ]
