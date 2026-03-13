@@ -4933,5 +4933,29 @@
     "usesFormmask": false,
     "file": "Animal Crossing/K.K Bossa.mmrs",
     "preview": "Animal Crossing/K.K Bossa.mp3"
+  },
+  {
+    "uuid": "ecba0ed2-4fd1-4dc9-850d-4b177c1d2b6b",
+    "creationDate": "2026-03-13T03:34:32.001Z",
+    "game": "Animal Crossing",
+    "song": "K.K Metal",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing/K.K Metal.mmrs",
+    "preview": "Animal Crossing/K.K Metal.mp3"
   }
 ]
