@@ -4226,5 +4226,27 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Master of Time/Sagnol Village.mmrs",
     "preview": "The Legend of Zelda Master of Time/Sagnol Village.ogg"
+  },
+  {
+    "uuid": "7eaeca4e-d85a-4c80-af76-55314d0674c8",
+    "creationDate": "2026-03-13T02:22:37.819Z",
+    "game": "Hyrule Warriors",
+    "song": "Eclipse of the Moon",
+    "composers": [
+      "Masato Koike and Yuki Matsumura"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Hyrule Warriors/Eclipse of the Moon.mmrs",
+    "preview": "Hyrule Warriors/Eclipse of the Moon.mp3"
   }
 ]
