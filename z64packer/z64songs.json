@@ -4488,5 +4488,30 @@
     "usesFormmask": false,
     "file": "Super Mario Galaxy 2/Speedrun Comet.mmrs",
     "preview": "https://www.youtube.com/watch?v=iye9cC9dBTs"
+  },
+  {
+    "uuid": "61374c34-e9bd-43e5-8db2-77a9c1e79923",
+    "creationDate": "2026-03-13T02:56:11.203Z",
+    "game": "Paper Mario: The Origami King",
+    "song": "Musee Champignon",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario The Origami King/Musee Champignon.mmrs",
+    "preview": "Paper Mario The Origami King/Musee Champignon.ogg"
   }
 ]
