@@ -4105,5 +4105,29 @@
     "usesFormmask": false,
     "file": "StarTropics/Memorial.mmrs",
     "preview": "StarTropics/Memorial.mp3"
+  },
+  {
+    "uuid": "fbbca7fe-364d-4314-ba9a-e80470b56d11",
+    "creationDate": "2026-03-13T02:08:30.009Z",
+    "game": "StarTropics",
+    "song": "Boss Theme",
+    "composers": [
+      "Yoshio Hirai"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "StarTropics/Boss Theme.mmrs",
+    "preview": "StarTropics/Boss Theme.mp3"
   }
 ]
