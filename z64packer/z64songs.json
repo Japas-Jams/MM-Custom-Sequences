@@ -5168,5 +5168,27 @@
     "usesFormmask": false,
     "file": "Pokémon Mystery Dungeon/Sky Tower.mmrs",
     "preview": "Pokémon Mystery Dungeon/Sky Tower.ogg"
+  },
+  {
+    "uuid": "3a9c0d53-8a80-44c8-8ee1-0c78549794f4",
+    "creationDate": "2026-03-13T04:05:44.092Z",
+    "game": "Paper Mario: The Thousand-Year Door",
+    "song": "Vs. Shadow Queen",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario The Thousand-Year Door/Vs. Shadow Queen.mmrs",
+    "preview": "Paper Mario The Thousand-Year Door/Vs. Shadow Queen.mp3"
   }
 ]
