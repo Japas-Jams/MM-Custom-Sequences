@@ -5428,5 +5428,29 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova.mmrs",
     "preview": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova.mp3"
+  },
+  {
+    "uuid": "292e0e26-93b1-454a-a455-f8fa4b4efebf",
+    "creationDate": "2026-03-13T22:43:57.954Z",
+    "game": "Castle Crashers",
+    "song": "Rage of the Champions",
+    "composers": [
+      "Christian Kjeldsen"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castle Crashers/Rage of the Champions.mmrs",
+    "preview": "Castle Crashers/Rage of the Champions.ogg"
   }
 ]
