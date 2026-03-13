@@ -5452,5 +5452,27 @@
     "usesFormmask": false,
     "file": "Castle Crashers/Rage of the Champions.mmrs",
     "preview": "Castle Crashers/Rage of the Champions.ogg"
+  },
+  {
+    "uuid": "e2e8b7c4-6e0c-4b39-bccb-f35b2f343675",
+    "creationDate": "2026-03-13T22:45:22.926Z",
+    "game": "Dark Cloud",
+    "song": "Palace of the Sun and Moon",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Cloud/Palace of the Sun and Moon.mmrs",
+    "preview": "Dark Cloud/Palace of the Sun and Moon.ogg"
   }
 ]
