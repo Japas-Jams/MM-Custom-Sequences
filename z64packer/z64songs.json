@@ -3977,5 +3977,29 @@
     "usesFormmask": false,
     "file": "Deltarune/Chaos King.mmrs",
     "preview": "Deltarune/Chaos King.mp3"
+  },
+  {
+    "uuid": "5e86473f-721d-4246-9fae-9d363a702f0b",
+    "creationDate": "2026-03-13T01:50:43.135Z",
+    "game": "Deltarune",
+    "song": "World Revolving",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/World Revolving.mmrs",
+    "preview": "Deltarune/World Revolving.mp3"
   }
 ]
