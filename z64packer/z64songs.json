@@ -4461,5 +4461,32 @@
     "usesFormmask": false,
     "file": "Metroid Prime/Menu.mmrs",
     "preview": "Metroid Prime/Menu.mp3"
+  },
+  {
+    "uuid": "32a59f5e-c700-4f29-94a5-a32fa73b4d27",
+    "creationDate": "2026-03-13T02:52:15.212Z",
+    "game": "Super Mario Galaxy 2",
+    "song": "Speedrun Comet",
+    "composers": [
+      "Mahito Yokota",
+      "Ryo Nagamatsu",
+      "and Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Galaxy 2/Speedrun Comet.mmrs",
+    "preview": "https://www.youtube.com/watch?v=iye9cC9dBTs"
   }
 ]
