@@ -4538,5 +4538,73 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda The Minish Cap/Peace Returns.mmrs",
     "preview": "https://www.youtube.com/watch?v=9aqE-OAJ2pE"
+  },
+  {
+    "uuid": "98176ce0-861a-4235-8bf7-28b8f052014f",
+    "creationDate": "2026-03-13T03:02:30.088Z",
+    "game": "Pokémon Black & White",
+    "song": "Driftveil City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Driftveil City.mmrs",
+    "preview": "Pokémon Black & White/Driftveil City.mp3"
+  },
+  {
+    "uuid": "db3a776b-e206-4f44-92ad-4792e67b7bd7",
+    "creationDate": "2026-03-13T03:04:38.944Z",
+    "game": "Pokémon Black & White",
+    "song": "Ghetsis Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Ghetsis Battle.mmrs",
+    "preview": "Pokémon Black & White/Ghetsis Battle.mp3"
+  },
+  {
+    "uuid": "33a4ac67-b178-4453-bbba-038038222f35",
+    "creationDate": "2026-03-13T03:05:22.983Z",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Ghetsis Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black 2 & White 2/Ghetsis Battle.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Ghetsis Battle.mp3"
   }
 ]
