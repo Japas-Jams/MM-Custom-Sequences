@@ -5335,5 +5335,27 @@
     "usesFormmask": false,
     "file": "TY the Tasmanian Tiger 2 Bush Rescue/Mission Complete.mmrs",
     "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
+  },
+  {
+    "uuid": "a267de60-468a-4b7c-8b84-058520c14304",
+    "creationDate": "2026-03-13T04:19:13.756Z",
+    "game": "TY the Tasmanian Tiger 2: Bush Rescue",
+    "song": "Bilby Get",
+    "composers": [
+      "George Stamatiadis"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "TY the Tasmanian Tiger 2 Bush Rescue/Bilby Get.mmrs",
+    "preview": "https://www.youtube.com/watch?v=VeEpJuq7MXE"
   }
 ]
