@@ -4908,5 +4908,77 @@
     "usesFormmask": false,
     "file": "Donkey Kong Country 2 Diddy's Kong Quest/Zinger Boss.mmrs",
     "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Zinger Boss.ogg"
+  },
+  {
+    "uuid": "3e4943bc-07f1-4b95-a80d-3bd16d7a4a62",
+    "creationDate": "2026-03-13T03:33:47.028Z",
+    "game": "Animal Crossing",
+    "song": "K.K Bossa",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing/K.K Bossa.mmrs",
+    "preview": "Animal Crossing/K.K Bossa.mp3"
+  },
+  {
+    "uuid": "ecba0ed2-4fd1-4dc9-850d-4b177c1d2b6b",
+    "creationDate": "2026-03-13T03:34:32.001Z",
+    "game": "Animal Crossing",
+    "song": "K.K Metal",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing/K.K Metal.mmrs",
+    "preview": "Animal Crossing/K.K Metal.mp3"
+  },
+  {
+    "uuid": "985c0b53-b457-4c46-b2c1-f64052449fbe",
+    "creationDate": "2026-03-13T03:35:22.979Z",
+    "game": "Animal Crossing",
+    "song": "Rainy Day",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing/Rainy Day.mmrs",
+    "preview": "Animal Crossing/Rainy Day.mp3"
   }
 ]
