@@ -5073,5 +5073,29 @@
     "usesFormmask": false,
     "file": "Mario Golf Toadstool Tour/Blooper Bay.mmrs",
     "preview": "Mario Golf Toadstool Tour/Blooper Bay.mp3"
+  },
+  {
+    "uuid": "a4f91771-1929-4bba-9554-376e29eda531",
+    "creationDate": "2026-03-13T03:56:45.506Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Return of the Hero",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link Between Worlds/Return of the Hero.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Return of the Hero.mp3"
   }
 ]
