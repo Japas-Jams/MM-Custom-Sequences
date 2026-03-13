@@ -4651,5 +4651,29 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Boss Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=40JsCLuRdPg"
+  },
+  {
+    "uuid": "b825b5e8-efae-420f-b991-f7b25fd82243",
+    "creationDate": "2026-03-13T03:13:28.323Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Forest",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Forest.mmrs",
+    "preview": "https://www.youtube.com/watch?v=_Br7rReOXGM"
   }
 ]
