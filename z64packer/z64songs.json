@@ -3857,5 +3857,29 @@
     "usesFormmask": false,
     "file": "Consoles and BIOS/Windows - Shut Down.mmrs",
     "preview": "Consoles and BIOS/Windows - Shut Down.mp3"
+  },
+  {
+    "uuid": "2ee60c63-5b53-4249-8f5c-2fec54cabff1",
+    "creationDate": "2026-03-13T01:41:14.026Z",
+    "game": "OFF",
+    "song": "The Meaning of His Tears",
+    "composers": [
+      "Conrad Coldwood"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "OFF/The Meaning of His Tears.mmrs",
+    "preview": "OFF/The Meaning of His Tears.ogg"
   }
 ]
