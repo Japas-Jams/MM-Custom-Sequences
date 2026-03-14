@@ -7032,5 +7032,29 @@
     "file": "Shin Megami Tensei III Nocturne/Cathedral of Shadows -Full Kagutsuchi-.mmrs",
     "preview": "https://www.youtube.com/watch?v=POrvW63OADo"
   },
+  {
+    "uuid": "43e52977-4019-47ff-b693-d9eeccbd3beb",
+    "creationDate": "2026-03-14T15:03:49.111Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Ginza",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Ginza.mmrs",
+    "preview": "https://www.youtube.com/watch?v=I2762gyWvUU"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
