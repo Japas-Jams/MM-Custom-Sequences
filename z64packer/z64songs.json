@@ -6361,5 +6361,28 @@
     "file": "NieR Automata/Amusement Park.mmrs",
     "preview": "https://www.youtube.com/watch?v=wCPC1ko8iR0"
   },
+  {
+    "uuid": "4beaf462-beca-4989-b16e-ad745d926fa0",
+    "creationDate": "2026-03-14T02:06:33.440Z",
+    "game": "NieR: Automata",
+    "song": "City Ruins (Ray of Light)",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/City Ruins (Ray of Light).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GzAYD2fjQqI"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
