@@ -6695,5 +6695,28 @@
     "file": "Persona 5/The Days When My Mother Was There.mmrs",
     "preview": "https://www.youtube.com/watch?v=-sHHx73FEbY"
   },
+  {
+    "uuid": "682655e9-e2f9-47b7-a15c-cfae23fb0426",
+    "creationDate": "2026-03-14T02:22:00.736Z",
+    "game": "Pizza Tower",
+    "song": "Secret Hoppin' (Tower Mix)",
+    "composers": [
+      "ClascyJitto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "13B"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pizza Tower/Secret Hoppin' (Tower Mix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=VnwGynEUWpw"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
