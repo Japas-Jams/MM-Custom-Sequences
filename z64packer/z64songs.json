@@ -5659,5 +5659,33 @@
     "usesFormmask": false,
     "file": "Animal Crossing/Working for Tom Nook.mmrs",
     "preview": "Animal Crossing/Working for Tom Nook.ogg"
+  },
+  {
+    "uuid": "346b9d7d-5b99-49b3-bc88-acc98cfd4f0c",
+    "creationDate": "2026-03-14T00:34:06.645Z",
+    "game": "Mega Man 10",
+    "song": "Desert Commando",
+    "composers": [
+      "Ippo Yamada",
+      "Ryo Kawakam",
+      "i Yu Shimoda",
+      "Hiroki Isogai",
+      "Manami Matsumae",
+      "and Yasuaki Fujita"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man 10/Desert Commando.mmrs",
+    "preview": "Mega Man 10/Desert Commando.ogg"
   }
 ]
