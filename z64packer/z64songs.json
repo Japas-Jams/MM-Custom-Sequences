@@ -6718,5 +6718,28 @@
     "file": "Pizza Tower/Secret Hoppin' (Tower Mix).mmrs",
     "preview": "https://www.youtube.com/watch?v=VnwGynEUWpw"
   },
+  {
+    "uuid": "b76071ce-7c2f-482c-9e80-ab6e84098d04",
+    "creationDate": "2026-03-14T02:22:51.269Z",
+    "game": "Pizza Tower",
+    "song": "Yeehaw DeliveryBoy",
+    "composers": [
+      "ClascyJitto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pizza Tower/Yeehaw DeliveryBoy.mmrs",
+    "preview": "https://www.youtube.com/watch?v=GTVhtzCZRYM"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
