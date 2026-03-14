@@ -6267,5 +6267,195 @@
     "file": "Castle Crashers/World Map.mmrs",
     "preview": "Castle Crashers/World Map.ogg"
   },
+  {
+    "uuid": "996c7fba-2eeb-440c-ac56-b01c17379a18",
+    "creationDate": "2026-03-14T01:57:53.429Z",
+    "game": "Mega Man & Bass",
+    "song": "Robot Museum",
+    "composers": [
+      "Naoshi Mizuta"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man & Bass/Robot Museum.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SZ8KmWnD49I"
+  },
+  {
+    "uuid": "aa9fc57f-564c-4a34-8ee9-2ee69b3fe715",
+    "creationDate": "2026-03-14T01:59:24.049Z",
+    "game": "NieR Replicant",
+    "song": "Grandma",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Replicant/Grandma.mmrs",
+    "preview": "https://www.youtube.com/watch?v=eWLcDmDv3fk"
+  },
+  {
+    "uuid": "226b2b40-6027-4bbf-9aaa-a4b0ea6b1813",
+    "creationDate": "2026-03-14T02:02:43.860Z",
+    "game": "NieR Replicant",
+    "song": "Snow in Summer",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "NieR Replicant/Snow in Summer.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SIjV5tNldIU"
+  },
+  {
+    "uuid": "7bbff1db-7076-4abb-bac5-3de51fe227ac",
+    "creationDate": "2026-03-14T02:03:34.119Z",
+    "game": "NieR: Automata",
+    "song": "Amusement Park",
+    "composers": [
+      "Keigo Hoashi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "106"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/Amusement Park.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wCPC1ko8iR0"
+  },
+  {
+    "uuid": "4beaf462-beca-4989-b16e-ad745d926fa0",
+    "creationDate": "2026-03-14T02:06:33.440Z",
+    "game": "NieR: Automata",
+    "song": "City Ruins (Ray of Light)",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/City Ruins (Ray of Light).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GzAYD2fjQqI"
+  },
+  {
+    "uuid": "9d4eb5b5-bd6f-48ee-b10d-2ff7db5c43cb",
+    "creationDate": "2026-03-14T02:07:34.542Z",
+    "game": "NieR: Automata",
+    "song": "City Ruins (8bit Version)",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/City Ruins (8bit Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=8YF_ZleUYIQ"
+  },
+  {
+    "uuid": "5a0dbe05-ce70-40ad-9b88-3d01e13cd8a4",
+    "creationDate": "2026-03-14T02:08:29.259Z",
+    "game": "NieR: Automata",
+    "song": "Mourning",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16f",
+      "106",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/Mourning.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Lg6QSGpANPU"
+  },
+  {
+    "uuid": "ee3121f2-0f7f-4adb-82d4-e47e9e6173d3",
+    "creationDate": "2026-03-14T02:09:21.715Z",
+    "game": "NieR: Automata",
+    "song": "Peaceful Sleep",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "NieR Automata/Peaceful Sleep.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TbidWbxA7Jw"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
