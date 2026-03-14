@@ -7918,5 +7918,29 @@
     "file": "Old School RuneScape/Marooned.mmrs",
     "preview": "Old School RuneScape/Marooned.mp3"
   },
+  {
+    "uuid": "d6aa08a7-5451-4467-913c-e324a7d39bad",
+    "creationDate": "2026-03-14T16:37:37.636Z",
+    "game": "Pokémon Black & White",
+    "song": "Opelucid City (Black)",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Opelucid City (Black).mmrs",
+    "preview": "Pokémon Black & White/Opelucid City (Black).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
