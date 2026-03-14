@@ -8179,5 +8179,29 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Do Your Best, As Always!.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Do Your Best, As Always!.ogg"
   },
+  {
+    "uuid": "a599fa8d-4174-455c-bae6-fd53bd89aaa5",
+    "creationDate": "2026-03-14T18:06:14.518Z",
+    "game": "Old School RuneScape",
+    "song": "Country Jig",
+    "composers": [
+      "Adam Bond"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Country Jig.mmrs",
+    "preview": "Old School RuneScape/Country Jig.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
