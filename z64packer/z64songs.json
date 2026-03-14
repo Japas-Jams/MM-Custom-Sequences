@@ -7394,5 +7394,30 @@
     "file": "Sonic Adventure/Twinkle Cart ...for Twinkle Park.mmrs",
     "preview": "https://www.youtube.com/watch?v=m4QrqdSqd5M"
   },
+  {
+    "uuid": "f92d5ea5-8406-4042-b268-a6aeafb15452",
+    "creationDate": "2026-03-14T15:33:36.275Z",
+    "game": "Sonic Adventure 2",
+    "song": "Dive Into The Mellow... for Aquatic Mine",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Dive Into The Mellow... for Aquatic Mine.mmrs",
+    "preview": "https://www.youtube.com/watch?v=BVCxFqIRZmc"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
