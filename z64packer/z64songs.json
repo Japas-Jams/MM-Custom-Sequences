@@ -7607,5 +7607,27 @@
     "file": "Super Mario Galaxy/Egg Planet.mmrs",
     "preview": "https://www.youtube.com/watch?v=xN54gBe-1qo"
   },
+  {
+    "uuid": "081a9f03-7d96-48b3-9437-c4870b2e7ff7",
+    "creationDate": "2026-03-14T15:50:09.698Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Light World Dungeon",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Light World Dungeon.mmrs",
+    "preview": "https://www.youtube.com/watch?v=T4BTq1maS3M"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
