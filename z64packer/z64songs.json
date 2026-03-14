@@ -6741,5 +6741,30 @@
     "file": "Pizza Tower/Yeehaw DeliveryBoy.mmrs",
     "preview": "https://www.youtube.com/watch?v=GTVhtzCZRYM"
   },
+  {
+    "uuid": "81df3562-9cb9-41bb-8422-e486d08e12f5",
+    "creationDate": "2026-03-14T02:26:18.752Z",
+    "game": "Silent Hill 2",
+    "song": "Dog Ending",
+    "composers": [
+      "Akira Yamaoka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "13b"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Silent Hill 2/Dog Ending.mmrs",
+    "preview": "https://www.youtube.com/watch?v=x83VizkmZuQ"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
