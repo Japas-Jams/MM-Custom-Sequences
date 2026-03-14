@@ -7942,5 +7942,29 @@
     "file": "Pokémon Black & White/Opelucid City (Black).mmrs",
     "preview": "Pokémon Black & White/Opelucid City (Black).ogg"
   },
+  {
+    "uuid": "a689bbca-1c23-4236-8fc8-ca858587c4cd",
+    "creationDate": "2026-03-14T16:39:05.911Z",
+    "game": "Cave Story",
+    "song": "Moonsong",
+    "composers": [
+      "Daisuke Amaya"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Moonsong.mmrs",
+    "preview": "Cave Story/Moonsong.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
