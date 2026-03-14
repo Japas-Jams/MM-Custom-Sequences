@@ -6987,5 +6987,412 @@
     "file": "The Elder Scrolls V Skyrim/Ancient Stones.mmrs",
     "preview": "https://www.youtube.com/watch?v=5znP1IT7Se4"
   },
+  {
+    "uuid": "723cadaa-3afd-411c-a519-bffcb4ab281a",
+    "creationDate": "2026-03-14T14:54:45.439Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Boss Battle",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZVSMYdNQcRQ"
+  },
+  {
+    "uuid": "5157d20c-c1b5-4423-b712-a315edf4a9a6",
+    "creationDate": "2026-03-14T15:03:01.801Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Cathedral of Shadows -Full Kagutsuchi-",
+    "composers": [
+      "Kenichi Tsuchiya"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Cathedral of Shadows -Full Kagutsuchi-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=POrvW63OADo"
+  },
+  {
+    "uuid": "43e52977-4019-47ff-b693-d9eeccbd3beb",
+    "creationDate": "2026-03-14T15:03:49.111Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Ginza",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Ginza.mmrs",
+    "preview": "https://www.youtube.com/watch?v=I2762gyWvUU"
+  },
+  {
+    "uuid": "44430d7d-ee97-4d55-b540-e25c0b28f583",
+    "creationDate": "2026-03-14T15:05:55.373Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Metatron",
+    "composers": [
+      "Kenichi Tsuchiya"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Metatron.mmrs",
+    "preview": "https://www.youtube.com/watch?v=BNV4r5RuKfk"
+  },
+  {
+    "uuid": "b778ee25-f147-4fec-ad9d-6d9103980bfa",
+    "creationDate": "2026-03-14T15:07:16.476Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Puzzle Boy",
+    "composers": [
+      "Kenichi Tsuchiya"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy.mmrs",
+    "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM"
+  },
+  {
+    "uuid": "f090e4b1-a9d2-4bba-bd19-7ea56e05fc48",
+    "creationDate": "2026-03-14T15:12:28.863Z",
+    "game": "Shin Megami Tensei V",
+    "song": "Battle -humans, demons, and...-",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V/Battle -humans, demons, and...-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=jU0OazZqMrY"
+  },
+  {
+    "uuid": "d213bcc0-dfef-4d22-9733-820a8c096044",
+    "creationDate": "2026-03-14T15:13:39.266Z",
+    "game": "Shin Megami Tensei V",
+    "song": "Tokyo -Daybreak-",
+    "composers": [
+      "Toshiki Konishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V/Tokyo -Daybreak-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=U9jPp-LPmBg"
+  },
+  {
+    "uuid": "ad9b868e-6df4-4ca4-8f27-014076e7cf95",
+    "creationDate": "2026-03-14T15:17:19.262Z",
+    "game": "Shin Megami Tensei V",
+    "song": "World of Shadows",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V/World of Shadows.mmrs",
+    "preview": "https://www.youtube.com/watch?v=aNcTGl3fCrU"
+  },
+  {
+    "uuid": "5df0ba48-a253-4e3f-b55a-5c039d269832",
+    "creationDate": "2026-03-14T15:19:31.580Z",
+    "game": "Shin Megami Tensei V: Vengeance",
+    "song": "Battle -the adversary-",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V Vengeance/Battle -the adversary-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=kSQ817Z4ZWA"
+  },
+  {
+    "uuid": "ac4ee64c-0090-4f00-8045-7d14bae31708",
+    "creationDate": "2026-03-14T15:21:40.340Z",
+    "game": "Snowboard Kids",
+    "song": "Big Snowman",
+    "composers": [
+      "Isao Kasai",
+      "Tomohiko Sato"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Snowboard Kids/Big Snowman.mmrs",
+    "preview": "Snowboard Kids/Big Snowman.mp3"
+  },
+  {
+    "uuid": "705a080e-b74b-4913-8723-53da9bd366e3",
+    "creationDate": "2026-03-14T15:22:36.319Z",
+    "game": "Snowboard Kids",
+    "song": "Board Shop",
+    "composers": [
+      "Isao Kasai",
+      "Tomohiko Sato"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Snowboard Kids/Board Shop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZDefyMZBc_E"
+  },
+  {
+    "uuid": "b6a34633-6487-4819-a5c6-769d84736377",
+    "creationDate": "2026-03-14T15:23:34.400Z",
+    "game": "Snowboard Kids",
+    "song": "Dizzy Land",
+    "composers": [
+      "Isao Kasai",
+      "Tomohiko Sato"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Snowboard Kids/Dizzy Land.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PTZqCeJYmNA"
+  },
+  {
+    "uuid": "06530159-424f-4868-b6d2-9e525ba9e538",
+    "creationDate": "2026-03-14T15:24:55.603Z",
+    "game": "Snowboard Kids 2",
+    "song": "Haunted House",
+    "composers": [
+      "Isao Kasai",
+      "Tomohiko Sato",
+      "Sayuri Yamamoto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Snowboard Kids 2/Haunted House.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5ccZI-XC9B8"
+  },
+  {
+    "uuid": "77df6986-13a1-429b-bd8f-ef755c707f44",
+    "creationDate": "2026-03-14T15:27:04.260Z",
+    "game": "Sonic the Hedgehog (2006)",
+    "song": "Aquatic Base -Level 1-",
+    "composers": [
+      "Mariko Nanba"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog (2006)/Aquatic Base -Level 1-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=QuVMoTrmbEo"
+  },
+  {
+    "uuid": "ff4df758-3915-46c9-b73d-9acabf54bf9d",
+    "creationDate": "2026-03-14T15:28:35.036Z",
+    "game": "Sonic the Hedgehog (2006)",
+    "song": "Kingdom Valley",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog (2006)/Kingdom Valley.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Ts2fxhXTAd0"
+  },
+  {
+    "uuid": "ce95c800-65b5-42ec-a69e-d644d6a90dc5",
+    "creationDate": "2026-03-14T15:29:50.760Z",
+    "game": "Sonic Adventure",
+    "song": "At Dawn ...for Speed Highway",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/At Dawn ...for Speed Highway.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Q6WgY-1X8aI"
+  },
+  {
+    "uuid": "9782c9b8-2175-4481-aabd-93563f43e5a2",
+    "creationDate": "2026-03-14T15:31:29.991Z",
+    "game": "Sonic Adventure",
+    "song": "Twinkle Cart ...for Twinkle Park",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/Twinkle Cart ...for Twinkle Park.mmrs",
+    "preview": "https://www.youtube.com/watch?v=m4QrqdSqd5M"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
