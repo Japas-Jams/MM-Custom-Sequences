@@ -6597,5 +6597,29 @@
     "file": "Persona 5/Layer Cake.mmrs",
     "preview": "https://www.youtube.com/watch?v=E-aU6MkA-w8"
   },
+  {
+    "uuid": "c52971b1-04fa-4656-9e47-997ac0d11be9",
+    "creationDate": "2026-03-14T02:18:03.039Z",
+    "game": "Persona 5",
+    "song": "Life Goes On",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Life Goes On.mmrs",
+    "preview": "https://www.youtube.com/watch?v=yHJxUMHQEBc"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
