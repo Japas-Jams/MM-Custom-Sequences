@@ -6217,5 +6217,32 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Link's Awakening/Animal Village.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Animal Village.ogg"
+  },
+  {
+    "uuid": "27fffc54-b819-4a2b-88b0-44919a7c420d",
+    "creationDate": "2026-03-14T01:34:23.965Z",
+    "game": "Mega Man 10",
+    "song": "Solarman Stage",
+    "composers": [
+      "Ippo Yamada",
+      "Ryo Kawakami",
+      "Yu Shimoda",
+      "Hiroki Isogai",
+      "Manami Matsumae",
+      "and Yasuaki Fujita"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man 10/Solarman Stage.mmrs",
+    "preview": "Mega Man 10/Solarman Stage.ogg"
   }
 ]
