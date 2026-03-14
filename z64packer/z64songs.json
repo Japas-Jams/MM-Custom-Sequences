@@ -5787,5 +5787,30 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Link's Awakening/Level 5 Catfish's Maw.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Level 5 Catfish's Maw.ogg"
+  },
+  {
+    "uuid": "65273bb1-38fa-4de8-93fe-0166c97fcb56",
+    "creationDate": "2026-03-14T01:04:47.210Z",
+    "game": "Okami",
+    "song": "Ushiwaka's Appearance",
+    "composers": [
+      "Masami Ueda",
+      "Hiroshi Yamaguchi",
+      "Rei Kondoh",
+      "and Akari Kaida"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Okami/Ushiwaka's Appearance.mmrs",
+    "preview": "Okami/Ushiwaka's Appearance.ogg"
   }
 ]
