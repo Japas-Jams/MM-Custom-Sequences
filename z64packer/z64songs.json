@@ -7514,5 +7514,30 @@
     "file": "Sonic R/Can You Feel the Sunshine.mmrs",
     "preview": "https://www.youtube.com/watch?v=RiGVKi2cUx4"
   },
+  {
+    "uuid": "2f238014-85b5-495c-a863-001f6b38b84b",
+    "creationDate": "2026-03-14T15:42:32.670Z",
+    "game": "Space Harrier",
+    "song": "Main Theme",
+    "composers": [
+      "Hiroshi Kawaguchi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Space Harrier/Main Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SDjOnyslhOg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
