@@ -7126,5 +7126,28 @@
     "file": "Shin Megami Tensei V/Battle -humans, demons, and...-.mmrs",
     "preview": "https://www.youtube.com/watch?v=jU0OazZqMrY"
   },
+  {
+    "uuid": "d213bcc0-dfef-4d22-9733-820a8c096044",
+    "creationDate": "2026-03-14T15:13:39.266Z",
+    "game": "Shin Megami Tensei V",
+    "song": "Tokyo -Daybreak-",
+    "composers": [
+      "Toshiki Konishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei V/Tokyo -Daybreak-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=U9jPp-LPmBg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
