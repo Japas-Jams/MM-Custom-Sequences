@@ -5911,5 +5911,28 @@
     "usesFormmask": false,
     "file": "Pokémon Gold, Silver & Crystal/Kanto Gym Leader Battle.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Kanto Gym Leader Battle.ogg"
+  },
+  {
+    "uuid": "398169b4-99eb-443a-b00e-0738f59a3ffc",
+    "creationDate": "2026-03-14T01:12:37.958Z",
+    "game": "Animal Crossing",
+    "song": "2 AM",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing/2 AM.mmrs",
+    "preview": "Animal Crossing/2 AM.ogg"
   }
 ]
