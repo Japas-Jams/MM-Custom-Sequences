@@ -6791,5 +6791,201 @@
     "file": "Resident Evil Director's Cut Dual Shock Ver./Mansion Basement.mmrs",
     "preview": "https://www.youtube.com/watch?v=C-FVILoMH_U"
   },
+  {
+    "uuid": "03bc01dd-0d4c-436d-a061-84530f1129ce",
+    "creationDate": "2026-03-14T02:30:28.267Z",
+    "game": "Pokémon Stadium",
+    "song": "Gym Leader Battle",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium/Gym Leader Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Ry18lXyIb3Q"
+  },
+  {
+    "uuid": "c0bbc073-fddc-4aea-84c3-f969f3475fb4",
+    "creationDate": "2026-03-14T02:32:45.016Z",
+    "game": "Pokémon Stadium",
+    "song": "P97+98 Cup Battles (Trainer Battles Rounds 4-6)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium/P97+98 Cup Battles (Trainer Battles Rounds 4-6).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZNKLPp56Zoc"
+  },
+  {
+    "uuid": "3a798203-3a42-4e1c-bf6a-99d9426a1818",
+    "creationDate": "2026-03-14T02:40:36.783Z",
+    "game": "Pokémon Stadium",
+    "song": "P97+98 Cup (Battles 4-6)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium/P97+98 Cup (Battles 4-6).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZNKLPp56Zoc"
+  },
+  {
+    "uuid": "ab3623aa-57c7-40dd-9aac-626549694b3a",
+    "creationDate": "2026-03-14T02:42:05.849Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Elite Four Battle",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Elite Four Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xboKqGdUX50"
+  },
+  {
+    "uuid": "9762a9dc-7d30-446b-80d3-e3bd7550ff6a",
+    "creationDate": "2026-03-14T02:44:03.786Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Little Cup (Semifinals)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Little Cup (Semifinals).mmrs",
+    "preview": "https://www.youtube.com/watch?v=kkYQhPyKnIY"
+  },
+  {
+    "uuid": "853af044-07db-461c-b279-f7676a1e88f5",
+    "creationDate": "2026-03-14T02:44:55.796Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Rival Battle",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7",
+      "10D"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Rival Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=dInHgcQptq4"
+  },
+  {
+    "uuid": "aa478932-df9b-41c8-a0c7-7496f19fb9c9",
+    "creationDate": "2026-03-14T02:45:51.030Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Team Rocket Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Team Rocket Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=S258IDji7_o"
+  },
+  {
+    "uuid": "e9d03728-8188-428e-ba04-345ed1ee7776",
+    "creationDate": "2026-03-14T02:47:02.951Z",
+    "game": "The Elder Scrolls V: Skyrim",
+    "song": "Ancient Stones",
+    "composers": [
+      "Jeremy Soule"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Elder Scrolls V Skyrim/Ancient Stones.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5znP1IT7Se4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
