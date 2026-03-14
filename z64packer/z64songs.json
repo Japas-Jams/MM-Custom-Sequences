@@ -7839,5 +7839,29 @@
     "file": "Xenoblade Chronicles/Gaur Plain.mmrs",
     "preview": "https://www.youtube.com/watch?v=RiAjuWf8b-o"
   },
+  {
+    "uuid": "000b0a80-c55e-4e4b-960b-96c1c023a7a4",
+    "creationDate": "2026-03-14T16:05:23.260Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Hidden Machina Village",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "114"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles/Hidden Machina Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=9sUSHDTZ7yw"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
