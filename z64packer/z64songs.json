@@ -7770,5 +7770,28 @@
     "file": "The Legend of Zelda Twilight Princess/Snowpeak Ruins.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Snowpeak Ruins.mp3"
   },
+  {
+    "uuid": "9fa74d08-942e-4c80-a1d9-355bf72ec568",
+    "creationDate": "2026-03-14T16:01:36.052Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Temple of Time",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Temple of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-pzy0n_uAFs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
