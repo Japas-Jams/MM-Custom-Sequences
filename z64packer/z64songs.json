@@ -7887,5 +7887,392 @@
     "file": "The Legend of Zelda Four Swords Adventures/Field Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=mQ7U1vbcwp4"
   },
+  {
+    "uuid": "b97894ae-49a5-471f-bd84-8c4659f0bb2a",
+    "creationDate": "2026-03-14T16:32:10.662Z",
+    "game": "Old School RuneScape",
+    "song": "Marooned",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Wishengrad"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "136",
+      "130",
+      "10D",
+      "118",
+      "173",
+      "12D",
+      "176"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Marooned.mmrs",
+    "preview": "Old School RuneScape/Marooned.mp3"
+  },
+  {
+    "uuid": "d6aa08a7-5451-4467-913c-e324a7d39bad",
+    "creationDate": "2026-03-14T16:37:37.636Z",
+    "game": "Pokémon Black & White",
+    "song": "Opelucid City (Black)",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Opelucid City (Black).mmrs",
+    "preview": "Pokémon Black & White/Opelucid City (Black).ogg"
+  },
+  {
+    "uuid": "a689bbca-1c23-4236-8fc8-ca858587c4cd",
+    "creationDate": "2026-03-14T16:39:05.911Z",
+    "game": "Cave Story",
+    "song": "Moonsong",
+    "composers": [
+      "Daisuke Amaya"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Moonsong.mmrs",
+    "preview": "Cave Story/Moonsong.ogg"
+  },
+  {
+    "uuid": "467bf572-d419-48bb-8c27-8bae8fe6e96a",
+    "creationDate": "2026-03-14T16:41:47.569Z",
+    "game": "Chrono Cross",
+    "song": "The Dead Sea -Tower of Geddon-",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Cross/The Dead Sea -Tower of Geddon-.mmrs",
+    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon-.ogg"
+  },
+  {
+    "uuid": "e9d6c389-0ddd-442e-93f6-4335250f3201",
+    "creationDate": "2026-03-14T16:42:30.790Z",
+    "game": "Mother 3",
+    "song": "Monkey's Delivery Service",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Monkey's Delivery Service.mmrs",
+    "preview": "Mother 3/Monkey's Delivery Service.ogg"
+  },
+  {
+    "uuid": "2acc1714-0dfa-4b06-80d7-328c6a9330ee",
+    "creationDate": "2026-03-14T17:54:53.498Z",
+    "game": "Pokémon Black & White",
+    "song": "Gate",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Gate.mmrs",
+    "preview": "Pokémon Black & White/Gate.ogg"
+  },
+  {
+    "uuid": "cf2e6382-ecad-4fbb-8cc0-0935faf9c5dc",
+    "creationDate": "2026-03-14T17:55:43.683Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "National Park",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/National Park.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park.ogg"
+  },
+  {
+    "uuid": "4fd81c16-87d1-4200-952e-17ce8406eafc",
+    "creationDate": "2026-03-14T17:56:43.122Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Safari Zone Gate",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Safari Zone Gate.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Safari Zone Gate.ogg"
+  },
+  {
+    "uuid": "796593d0-bed5-4ee0-9438-6274970ad025",
+    "creationDate": "2026-03-14T17:59:05.107Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Mt. Pyre Exterior",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Mt. Pyre Exterior.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Mt. Pyre Exterior.ogg"
+  },
+  {
+    "uuid": "cf713df7-e9e6-4e93-be04-0e00918cd447",
+    "creationDate": "2026-03-14T18:00:01.647Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Shoal Cave",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Shoal Cave.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Shoal Cave.ogg"
+  },
+  {
+    "uuid": "625e5405-dd61-4d03-9f6b-f59969a15fa9",
+    "creationDate": "2026-03-14T18:03:01.234Z",
+    "game": "Pokémon Trading Card Game",
+    "song": "Normal Battle",
+    "composers": [
+      "Ichirō Shimakura"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Trading Card Game/Normal Battle.mmrs",
+    "preview": "Pokémon Trading Card Game/Normal Battle.ogg"
+  },
+  {
+    "uuid": "ce5079ea-be9c-4511-b328-adfaf2476600",
+    "creationDate": "2026-03-14T18:05:04.287Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Do Your Best, As Always!",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Do Your Best, As Always!.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Do Your Best, As Always!.ogg"
+  },
+  {
+    "uuid": "a599fa8d-4174-455c-bae6-fd53bd89aaa5",
+    "creationDate": "2026-03-14T18:06:14.518Z",
+    "game": "Old School RuneScape",
+    "song": "Country Jig",
+    "composers": [
+      "Adam Bond"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Country Jig.mmrs",
+    "preview": "Old School RuneScape/Country Jig.ogg"
+  },
+  {
+    "uuid": "6f06aa10-9feb-47df-8296-1e04c50da8b6",
+    "creationDate": "2026-03-14T18:06:57.491Z",
+    "game": "Old School RuneScape",
+    "song": "Yesteryear",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Yesteryear.mmrs",
+    "preview": "Old School RuneScape/Yesteryear.ogg"
+  },
+  {
+    "uuid": "c440303e-0afb-485c-8e66-78c0e3cd0de0",
+    "creationDate": "2026-03-14T18:14:10.775Z",
+    "game": "Pokémon Pinball",
+    "song": "Blue Field",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Pokémon Pinball/Blue Field.mmrs",
+    "preview": "Pokémon Pinball/Blue Field.mp3"
+  },
+  {
+    "uuid": "9c4b1979-d1cb-466d-83a7-e0eb98c65cec",
+    "creationDate": "2026-03-14T18:18:03.916Z",
+    "game": "Outer Wilds",
+    "song": "Travelers",
+    "composers": [
+      "Andrew Prahlow"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Outer Wilds/Travelers.mmrs",
+    "preview": "Outer Wilds/Travelers.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
