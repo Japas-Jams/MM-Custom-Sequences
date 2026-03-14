@@ -7490,5 +7490,29 @@
     "file": "Sonic Colors/Tropical Resort - Act 1.mmrs",
     "preview": "https://www.youtube.com/watch?v=-sve5G6FRxs"
   },
+  {
+    "uuid": "0bf2847b-f94e-4834-9b63-aef4505a22ad",
+    "creationDate": "2026-03-14T15:41:11.279Z",
+    "game": "Sonic R",
+    "song": "Can You Feel the Sunshine",
+    "composers": [
+      "Richard Jacques"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic R/Can You Feel the Sunshine.mmrs",
+    "preview": "https://www.youtube.com/watch?v=RiGVKi2cUx4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
