@@ -5687,5 +5687,55 @@
     "usesFormmask": false,
     "file": "Mega Man 10/Desert Commando.mmrs",
     "preview": "Mega Man 10/Desert Commando.ogg"
+  },
+  {
+    "uuid": "a7035edb-9b99-4bd8-8b79-e17e6f39c9ff",
+    "creationDate": "2026-03-14T00:37:19.091Z",
+    "game": "Omori",
+    "song": "Stationary Rose (Piano)",
+    "composers": [
+      "Bo En",
+      "Jamie Lynn",
+      "and Pedro Silva"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Omori/Stationary Rose (Piano).mmrs",
+    "preview": "Omori/Stationary Rose (Piano).ogg"
+  },
+  {
+    "uuid": "ed8510d8-becc-411b-b36d-f90c4ba8ca35",
+    "creationDate": "2026-03-14T00:38:07.746Z",
+    "game": "Omori",
+    "song": "Stationary Rose",
+    "composers": [
+      "Bo En",
+      "Jamie Lynn",
+      "and Pedro Silva"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Omori/Stationary Rose.mmrs",
+    "preview": "Omori/Stationary Rose.ogg"
   }
 ]
