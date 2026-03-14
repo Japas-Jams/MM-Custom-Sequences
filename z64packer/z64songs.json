@@ -6457,5 +6457,339 @@
     "file": "NieR Automata/Peaceful Sleep.mmrs",
     "preview": "https://www.youtube.com/watch?v=TbidWbxA7Jw"
   },
+  {
+    "uuid": "1de41a59-efe2-4d6f-a8bc-4db3f7c66603",
+    "creationDate": "2026-03-14T02:12:08.017Z",
+    "game": "Persona 3",
+    "song": "Iwatodai Dorm",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/Iwatodai Dorm.mmrs",
+    "preview": "https://www.youtube.com/watch?v=iIARUz3J_ew"
+  },
+  {
+    "uuid": "38c3cc30-0899-4f79-a41d-128c51736edb",
+    "creationDate": "2026-03-14T02:13:22.805Z",
+    "game": "Persona 3",
+    "song": "The Battle for Everyone's Souls",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/The Battle for Everyone's Souls.mmrs",
+    "preview": "https://www.youtube.com/watch?v=WRgZ0tmrmqE"
+  },
+  {
+    "uuid": "ee84a8f1-04f0-4f78-8769-77607486fa9a",
+    "creationDate": "2026-03-14T02:14:39.367Z",
+    "game": "Persona 3 FES",
+    "song": "3/31",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3 FES/331.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wq4FBwlmzoE"
+  },
+  {
+    "uuid": "c530fb76-ee84-434b-a2e2-38890a241b2f",
+    "creationDate": "2026-03-14T02:15:33.373Z",
+    "game": "Persona 4",
+    "song": "Deduction",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 4/Deduction.mmrs",
+    "preview": "https://www.youtube.com/watch?v=j9tznBKiyAY"
+  },
+  {
+    "uuid": "0006a2bf-f3f5-4d15-bef4-ce3ace59756d",
+    "creationDate": "2026-03-14T02:16:31.141Z",
+    "game": "Persona 5",
+    "song": "Beneath the Mask",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Beneath the Mask.mmrs",
+    "preview": "https://www.youtube.com/watch?v=BNnwBiY_kEU"
+  },
+  {
+    "uuid": "6ec5a72a-5f96-41e6-a2bf-5c870612007c",
+    "creationDate": "2026-03-14T02:17:18.785Z",
+    "game": "Persona 5",
+    "song": "Layer Cake",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Layer Cake.mmrs",
+    "preview": "https://www.youtube.com/watch?v=E-aU6MkA-w8"
+  },
+  {
+    "uuid": "c52971b1-04fa-4656-9e47-997ac0d11be9",
+    "creationDate": "2026-03-14T02:18:03.039Z",
+    "game": "Persona 5",
+    "song": "Life Goes On",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Life Goes On.mmrs",
+    "preview": "https://www.youtube.com/watch?v=yHJxUMHQEBc"
+  },
+  {
+    "uuid": "07d1bd77-b790-40fc-96e1-d878bb635aca",
+    "creationDate": "2026-03-14T02:18:48.297Z",
+    "game": "Persona 5",
+    "song": "Life Will Change",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Life Will Change.mmrs",
+    "preview": "https://www.youtube.com/watch?v=h7ck5NBYk0c"
+  },
+  {
+    "uuid": "07456dc4-f60c-4619-b12c-06110cbafa7e",
+    "creationDate": "2026-03-14T02:19:29.298Z",
+    "game": "Persona 5",
+    "song": "Rivers in the Desert",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Rivers in the Desert.mmrs",
+    "preview": "https://www.youtube.com/watch?v=E6MO4AXfcgU"
+  },
+  {
+    "uuid": "0c608139-1fba-49fb-a8d4-e7a10ccae4a9",
+    "creationDate": "2026-03-14T02:20:27.307Z",
+    "game": "Persona 5",
+    "song": "The Days When My Mother Was There",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/The Days When My Mother Was There.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-sHHx73FEbY"
+  },
+  {
+    "uuid": "682655e9-e2f9-47b7-a15c-cfae23fb0426",
+    "creationDate": "2026-03-14T02:22:00.736Z",
+    "game": "Pizza Tower",
+    "song": "Secret Hoppin' (Tower Mix)",
+    "composers": [
+      "ClascyJitto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "13B"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pizza Tower/Secret Hoppin' (Tower Mix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=VnwGynEUWpw"
+  },
+  {
+    "uuid": "b76071ce-7c2f-482c-9e80-ab6e84098d04",
+    "creationDate": "2026-03-14T02:22:51.269Z",
+    "game": "Pizza Tower",
+    "song": "Yeehaw DeliveryBoy",
+    "composers": [
+      "ClascyJitto"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pizza Tower/Yeehaw DeliveryBoy.mmrs",
+    "preview": "https://www.youtube.com/watch?v=GTVhtzCZRYM"
+  },
+  {
+    "uuid": "81df3562-9cb9-41bb-8422-e486d08e12f5",
+    "creationDate": "2026-03-14T02:26:18.752Z",
+    "game": "Silent Hill 2",
+    "song": "Dog Ending",
+    "composers": [
+      "Akira Yamaoka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "13b"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Silent Hill 2/Dog Ending.mmrs",
+    "preview": "https://www.youtube.com/watch?v=x83VizkmZuQ"
+  },
+  {
+    "uuid": "886fef33-4560-4f93-9088-1c3ff4473547",
+    "creationDate": "2026-03-14T02:27:31.021Z",
+    "game": "Resident Evil: Director's Cut Dual Shock Ver.",
+    "song": "Mansion Basement",
+    "composers": [
+      "Takashi Niigaki"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Resident Evil Director's Cut Dual Shock Ver./Mansion Basement.mmrs",
+    "preview": "https://www.youtube.com/watch?v=C-FVILoMH_U"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
