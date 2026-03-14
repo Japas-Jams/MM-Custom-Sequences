@@ -7443,5 +7443,28 @@
     "file": "Sonic Adventure 2/Deeper ...for Death Chamber.mmrs",
     "preview": "https://www.youtube.com/watch?v=qNwN2xw7j2o"
   },
+  {
+    "uuid": "6ba74017-b43f-426d-98ac-ccbef062d053",
+    "creationDate": "2026-03-14T15:37:04.449Z",
+    "game": "Sonic Adventure 2",
+    "song": "Space Trip Steps ...for Meteor Herd",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Space Trip Steps ...for Meteor Herd.mmrs",
+    "preview": "https://www.youtube.com/watch?v=fn4vlNOpkfs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
