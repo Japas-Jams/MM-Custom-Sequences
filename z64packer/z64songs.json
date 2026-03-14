@@ -6916,5 +6916,29 @@
     "file": "Pokémon Stadium 2/Little Cup (Semifinals).mmrs",
     "preview": "https://www.youtube.com/watch?v=kkYQhPyKnIY"
   },
+  {
+    "uuid": "853af044-07db-461c-b279-f7676a1e88f5",
+    "creationDate": "2026-03-14T02:44:55.796Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Rival Battle",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7",
+      "10D"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Rival Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=dInHgcQptq4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
