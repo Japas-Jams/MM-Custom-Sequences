@@ -5812,5 +5812,30 @@
     "usesFormmask": false,
     "file": "Okami/Ushiwaka's Appearance.mmrs",
     "preview": "Okami/Ushiwaka's Appearance.ogg"
+  },
+  {
+    "uuid": "8e089f61-f554-4948-95d6-5a4566cbe947",
+    "creationDate": "2026-03-14T01:06:42.554Z",
+    "game": "Okami",
+    "song": "Ryoshima Coast",
+    "composers": [
+      "Masami Ueda",
+      "Hiroshi Yamaguchi",
+      "Rei Kondoh",
+      "and Akari Kaida"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Okami/Ryoshima Coast.mmrs",
+    "preview": "Okami/Ryoshima Coast.ogg"
   }
 ]
