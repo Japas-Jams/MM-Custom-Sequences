@@ -6987,5 +6987,27 @@
     "file": "The Elder Scrolls V Skyrim/Ancient Stones.mmrs",
     "preview": "https://www.youtube.com/watch?v=5znP1IT7Se4"
   },
+  {
+    "uuid": "723cadaa-3afd-411c-a519-bffcb4ab281a",
+    "creationDate": "2026-03-14T14:54:45.439Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Boss Battle",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZVSMYdNQcRQ"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
