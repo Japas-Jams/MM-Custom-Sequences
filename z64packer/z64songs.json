@@ -6816,5 +6816,31 @@
     "file": "Pokémon Stadium/Gym Leader Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=Ry18lXyIb3Q"
   },
+  {
+    "uuid": "c0bbc073-fddc-4aea-84c3-f969f3475fb4",
+    "creationDate": "2026-03-14T02:32:45.016Z",
+    "game": "Pokémon Stadium",
+    "song": "P97+98 Cup Battles (Trainer Battles Rounds 4-6)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium/P97+98 Cup Battles (Trainer Battles Rounds 4-6).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ZNKLPp56Zoc"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
