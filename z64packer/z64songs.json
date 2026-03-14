@@ -8108,5 +8108,28 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Mt. Pyre Exterior.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Mt. Pyre Exterior.ogg"
   },
+  {
+    "uuid": "cf713df7-e9e6-4e93-be04-0e00918cd447",
+    "creationDate": "2026-03-14T18:00:01.647Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Shoal Cave",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Shoal Cave.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Shoal Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
