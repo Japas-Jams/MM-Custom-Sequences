@@ -7419,5 +7419,29 @@
     "file": "Sonic Adventure 2/Dive Into The Mellow... for Aquatic Mine.mmrs",
     "preview": "https://www.youtube.com/watch?v=BVCxFqIRZmc"
   },
+  {
+    "uuid": "d81caf56-9e14-4abe-bffb-9d0159d7fc88",
+    "creationDate": "2026-03-14T15:35:41.962Z",
+    "game": "Sonic Adventure 2",
+    "song": "Deeper ...for Death Chamber",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Deeper ...for Death Chamber.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qNwN2xw7j2o"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
