@@ -8203,5 +8203,28 @@
     "file": "Old School RuneScape/Country Jig.mmrs",
     "preview": "Old School RuneScape/Country Jig.ogg"
   },
+  {
+    "uuid": "6f06aa10-9feb-47df-8296-1e04c50da8b6",
+    "creationDate": "2026-03-14T18:06:57.491Z",
+    "game": "Old School RuneScape",
+    "song": "Yesteryear",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Yesteryear.mmrs",
+    "preview": "Old School RuneScape/Yesteryear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
