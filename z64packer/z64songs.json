@@ -6573,5 +6573,29 @@
     "file": "Persona 5/Beneath the Mask.mmrs",
     "preview": "https://www.youtube.com/watch?v=BNnwBiY_kEU"
   },
+  {
+    "uuid": "6ec5a72a-5f96-41e6-a2bf-5c870612007c",
+    "creationDate": "2026-03-14T02:17:18.785Z",
+    "game": "Persona 5",
+    "song": "Layer Cake",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Layer Cake.mmrs",
+    "preview": "https://www.youtube.com/watch?v=E-aU6MkA-w8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
