@@ -7629,5 +7629,28 @@
     "file": "The Legend of Zelda A Link to the Past/Light World Dungeon.mmrs",
     "preview": "https://www.youtube.com/watch?v=T4BTq1maS3M"
   },
+  {
+    "uuid": "3a961696-ebed-4190-a6d8-20b45bfd3208",
+    "creationDate": "2026-03-14T15:51:19.897Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Skyloft",
+    "composers": [
+      "Shiho Fujii"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Skyloft.mmrs",
+    "preview": "https://www.youtube.com/watch?v=7YW_6rU5GFg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
