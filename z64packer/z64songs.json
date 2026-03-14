@@ -6940,5 +6940,29 @@
     "file": "Pokémon Stadium 2/Rival Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=dInHgcQptq4"
   },
+  {
+    "uuid": "aa478932-df9b-41c8-a0c7-7496f19fb9c9",
+    "creationDate": "2026-03-14T02:45:51.030Z",
+    "game": "Pokémon Stadium 2",
+    "song": "Team Rocket Battle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium 2/Team Rocket Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=S258IDji7_o"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
