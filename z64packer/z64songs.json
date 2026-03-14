@@ -5957,5 +5957,27 @@
     "usesFormmask": false,
     "file": "Wario Land Super Mario Land 3/Final Course.mmrs",
     "preview": "Wario Land Super Mario Land 3/Final Course.ogg"
+  },
+  {
+    "uuid": "31985e57-b4a5-4f6d-849e-49154763d624",
+    "creationDate": "2026-03-14T01:17:53.117Z",
+    "game": "Dark Cloud",
+    "song": "Divine Beast Cave",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Cloud/Divine Beast Cave.mmrs",
+    "preview": "Dark Cloud/Divine Beast Cave.ogg"
   }
 ]
