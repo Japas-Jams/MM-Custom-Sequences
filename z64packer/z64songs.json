@@ -6119,5 +6119,28 @@
     "usesFormmask": false,
     "file": "Mario Party/Mario's Rainbow Castle.mmrs",
     "preview": "Mario Party/Mario's Rainbow Castle.ogg"
+  },
+  {
+    "uuid": "7f08fcd4-6566-4465-96c7-ea86507249a5",
+    "creationDate": "2026-03-14T01:27:38.038Z",
+    "game": "Demon's Souls",
+    "song": "Maiden Astraea",
+    "composers": [
+      "Shunsuke Kida"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Demon's Souls/Maiden Astraea.mmrs",
+    "preview": "Demon's Souls/Maiden Astraea.ogg"
   }
 ]
