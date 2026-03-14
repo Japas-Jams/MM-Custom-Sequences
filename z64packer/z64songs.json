@@ -6315,5 +6315,27 @@
     "file": "NieR Replicant/Grandma.mmrs",
     "preview": "https://www.youtube.com/watch?v=eWLcDmDv3fk"
   },
+  {
+    "uuid": "226b2b40-6027-4bbf-9aaa-a4b0ea6b1813",
+    "creationDate": "2026-03-14T02:02:43.860Z",
+    "game": "NieR Replicant",
+    "song": "Snow in Summer",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "NieR Replicant/Snow in Summer.mmrs",
+    "preview": "https://www.youtube.com/watch?v=SIjV5tNldIU"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
