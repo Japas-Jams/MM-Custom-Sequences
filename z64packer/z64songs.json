@@ -7675,5 +7675,29 @@
     "file": "The Legend of Zelda Skyward Sword/Lumpy Pumpkin.mmrs",
     "preview": "https://www.youtube.com/watch?v=I3VJ4TyGBKg"
   },
+  {
+    "uuid": "44898cc8-2ce8-4440-9759-759a81716542",
+    "creationDate": "2026-03-14T15:53:26.008Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Kakariko Village",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Kakariko Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xWbcgIq9LJw"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
