@@ -2750,5 +2750,11 @@
     "game": "Space Harrier",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/a20dca2e74f89e00176b027012317173.png"
   },
+  {
+    "game": "Pokémon Pinball"
+  },
+  {
+    "game": "Old School RuneScape"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
