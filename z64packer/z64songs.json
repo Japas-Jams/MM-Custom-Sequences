@@ -7009,5 +7009,28 @@
     "file": "Shin Megami Tensei III Nocturne/Boss Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=ZVSMYdNQcRQ"
   },
+  {
+    "uuid": "5157d20c-c1b5-4423-b712-a315edf4a9a6",
+    "creationDate": "2026-03-14T15:03:01.801Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Cathedral of Shadows -Full Kagutsuchi-",
+    "composers": [
+      "Kenichi Tsuchiya"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Cathedral of Shadows -Full Kagutsuchi-.mmrs",
+    "preview": "https://www.youtube.com/watch?v=POrvW63OADo"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
