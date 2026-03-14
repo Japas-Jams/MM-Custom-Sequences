@@ -8060,5 +8060,30 @@
     "file": "Pokémon Gold, Silver & Crystal/National Park.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/National Park.ogg"
   },
+  {
+    "uuid": "4fd81c16-87d1-4200-952e-17ce8406eafc",
+    "creationDate": "2026-03-14T17:56:43.122Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Safari Zone Gate",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "WEEMS"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Safari Zone Gate.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Safari Zone Gate.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
