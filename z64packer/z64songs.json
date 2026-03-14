@@ -5737,5 +5737,30 @@
     "usesFormmask": false,
     "file": "Omori/Stationary Rose.mmrs",
     "preview": "Omori/Stationary Rose.ogg"
+  },
+  {
+    "uuid": "2fc7c74d-8730-49c7-acdf-fe56e96cf030",
+    "creationDate": "2026-03-14T00:40:00.104Z",
+    "game": "Dark Souls III",
+    "song": "Secret Betrayal",
+    "composers": [
+      "Yuka Kitamura"
+    ],
+    "converters": [
+      "Dark_Evan"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "115",
+      "116",
+      "117",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Souls III/Secret Betrayal.mmrs",
+    "preview": "Dark Souls III/Secret Betrayal.ogg"
   }
 ]
