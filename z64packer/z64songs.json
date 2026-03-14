@@ -7079,5 +7079,29 @@
     "file": "Shin Megami Tensei III Nocturne/Metatron.mmrs",
     "preview": "https://www.youtube.com/watch?v=BNV4r5RuKfk"
   },
+  {
+    "uuid": "b778ee25-f147-4fec-ad9d-6d9103980bfa",
+    "creationDate": "2026-03-14T15:07:16.476Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Puzzle Boy",
+    "composers": [
+      "Kenichi Tsuchiya"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy.mmrs",
+    "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
