@@ -6791,5 +6791,30 @@
     "file": "Resident Evil Director's Cut Dual Shock Ver./Mansion Basement.mmrs",
     "preview": "https://www.youtube.com/watch?v=C-FVILoMH_U"
   },
+  {
+    "uuid": "03bc01dd-0d4c-436d-a061-84530f1129ce",
+    "creationDate": "2026-03-14T02:30:28.267Z",
+    "game": "Pokémon Stadium",
+    "song": "Gym Leader Battle",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Stadium/Gym Leader Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Ry18lXyIb3Q"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
