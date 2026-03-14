@@ -7370,5 +7370,29 @@
     "file": "Sonic Adventure/At Dawn ...for Speed Highway.mmrs",
     "preview": "https://www.youtube.com/watch?v=Q6WgY-1X8aI"
   },
+  {
+    "uuid": "9782c9b8-2175-4481-aabd-93563f43e5a2",
+    "creationDate": "2026-03-14T15:31:29.991Z",
+    "game": "Sonic Adventure",
+    "song": "Twinkle Cart ...for Twinkle Park",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/Twinkle Cart ...for Twinkle Park.mmrs",
+    "preview": "https://www.youtube.com/watch?v=m4QrqdSqd5M"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
