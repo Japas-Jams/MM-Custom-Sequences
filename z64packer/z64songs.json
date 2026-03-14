@@ -6671,5 +6671,29 @@
     "file": "Persona 5/Rivers in the Desert.mmrs",
     "preview": "https://www.youtube.com/watch?v=E6MO4AXfcgU"
   },
+  {
+    "uuid": "0c608139-1fba-49fb-a8d4-e7a10ccae4a9",
+    "creationDate": "2026-03-14T02:20:27.307Z",
+    "game": "Persona 5",
+    "song": "The Days When My Mother Was There",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/The Days When My Mother Was There.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-sHHx73FEbY"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
