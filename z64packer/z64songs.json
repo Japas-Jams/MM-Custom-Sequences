@@ -7466,5 +7466,29 @@
     "file": "Sonic Adventure 2/Space Trip Steps ...for Meteor Herd.mmrs",
     "preview": "https://www.youtube.com/watch?v=fn4vlNOpkfs"
   },
+  {
+    "uuid": "ed11b324-263c-46fd-8037-e3f26d277bae",
+    "creationDate": "2026-03-14T15:38:37.697Z",
+    "game": "Sonic Colors",
+    "song": "Tropical Resort - Act 1",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Colors/Tropical Resort - Act 1.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-sve5G6FRxs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
