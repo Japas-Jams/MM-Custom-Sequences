@@ -8458,5 +8458,35 @@
     "file": "Kingdom Hearts II/The 13th Struggle.mmrs",
     "preview": "Kingdom Hearts II/The 13th Struggle.ogg"
   },
+  {
+    "uuid": "1d0613f3-7816-45f5-a1f9-95fe9d2cb45c",
+    "creationDate": "2026-03-15T00:57:36.445Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Critical Drive",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts 3582 Days/Critical Drive.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Critical Drive.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
