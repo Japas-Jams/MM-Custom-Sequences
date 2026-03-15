@@ -8274,5 +8274,37 @@
     "file": "Outer Wilds/Travelers.mmrs",
     "preview": "Outer Wilds/Travelers.mp3"
   },
+  {
+    "uuid": "b458b001-d580-4293-9253-5e6058f8547b",
+    "creationDate": "2026-03-15T00:48:38.264Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Nintendo Switch Presentation 2017 Trailer",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Nintendo Switch Presentation 2017 Trailer.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Nintendo Switch Presentation 2017 Trailer.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
