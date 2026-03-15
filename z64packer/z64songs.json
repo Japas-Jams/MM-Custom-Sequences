@@ -8274,5 +8274,309 @@
     "file": "Outer Wilds/Travelers.mmrs",
     "preview": "Outer Wilds/Travelers.mp3"
   },
+  {
+    "uuid": "b458b001-d580-4293-9253-5e6058f8547b",
+    "creationDate": "2026-03-15T00:48:38.264Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Nintendo Switch Presentation 2017 Trailer",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Nintendo Switch Presentation 2017 Trailer.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Nintendo Switch Presentation 2017 Trailer.ogg"
+  },
+  {
+    "uuid": "93f597cf-af13-4c9b-b323-b9f446654a7a",
+    "creationDate": "2026-03-15T00:50:04.717Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Dark Beast Ganon",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Dark Beast Ganon.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Dark Beast Ganon.ogg"
+  },
+  {
+    "uuid": "ca35a125-3ec3-43d5-8f92-b8425134468b",
+    "creationDate": "2026-03-15T00:53:36.733Z",
+    "game": "Donkey Kong 64",
+    "song": "Army Dillo 2",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Army Dillo 2.mmrs",
+    "preview": "Donkey Kong 64/Army Dillo 2.ogg"
+  },
+  {
+    "uuid": "0b1dda97-7ba6-4747-871e-cbca650def59",
+    "creationDate": "2026-03-15T00:54:28.048Z",
+    "game": "Donkey Kong 64",
+    "song": "Hideout Helm",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Hideout Helm.mmrs",
+    "preview": "Donkey Kong 64/Hideout Helm.ogg"
+  },
+  {
+    "uuid": "cf370701-009c-4961-bc92-0a7d8760205b",
+    "creationDate": "2026-03-15T00:55:06.948Z",
+    "game": "Donkey Kong 64",
+    "song": "Mad Jack",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Mad Jack.mmrs",
+    "preview": "Donkey Kong 64/Mad Jack.ogg"
+  },
+  {
+    "uuid": "3eb5d284-2ac6-4ba5-8cc6-5166575e7744",
+    "creationDate": "2026-03-15T00:56:43.566Z",
+    "game": "Kingdom Hearts II",
+    "song": "The 13th Struggle",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts II/The 13th Struggle.mmrs",
+    "preview": "Kingdom Hearts II/The 13th Struggle.ogg"
+  },
+  {
+    "uuid": "1d0613f3-7816-45f5-a1f9-95fe9d2cb45c",
+    "creationDate": "2026-03-15T00:57:36.445Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Critical Drive",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts 3582 Days/Critical Drive.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Critical Drive.ogg"
+  },
+  {
+    "uuid": "1f39f8c9-5939-498a-82e3-4f65b7edcd26",
+    "creationDate": "2026-03-15T01:01:32.632Z",
+    "game": "Kingdom Hearts",
+    "song": "Dive into the Heart -Destati-",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts/Dive into the Heart -Destati-.mmrs",
+    "preview": "Kingdom Hearts/Dive into the Heart -Destati-.ogg"
+  },
+  {
+    "uuid": "02e5799a-84a5-4c46-8f59-ac38e40eb4dc",
+    "creationDate": "2026-03-15T01:02:36.920Z",
+    "game": "Shadow the Hedgehog",
+    "song": "I Am... All of Me",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shadow the Hedgehog/I Am... All of Me.mmrs",
+    "preview": "Shadow the Hedgehog/I Am... All of Me.ogg"
+  },
+  {
+    "uuid": "c702fd9f-d94a-4f4b-a415-14b8153f160c",
+    "creationDate": "2026-03-15T01:03:28.118Z",
+    "game": "Super Smash Bros.",
+    "song": "Dream Land",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros./Dream Land.mmrs",
+    "preview": "Super Smash Bros./Dream Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
