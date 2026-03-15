@@ -8488,5 +8488,35 @@
     "file": "Kingdom Hearts 3582 Days/Critical Drive.mmrs",
     "preview": "Kingdom Hearts 3582 Days/Critical Drive.ogg"
   },
+  {
+    "uuid": "1f39f8c9-5939-498a-82e3-4f65b7edcd26",
+    "creationDate": "2026-03-15T01:01:32.632Z",
+    "game": "Kingdom Hearts",
+    "song": "Dive into the Heart -Destati-",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Ultimario"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts/Dive into the Heart -Destati-.mmrs",
+    "preview": "Kingdom Hearts/Dive into the Heart -Destati-.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
