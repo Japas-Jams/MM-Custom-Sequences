@@ -8781,5 +8781,28 @@
     "file": "Robotsonn/The Deep.mmrs",
     "preview": "Robotsonn/The Deep.ogg"
   },
+  {
+    "uuid": "7a5290ef-9a31-4abb-8167-4a6e31cd932f",
+    "creationDate": "2026-03-15T03:35:39.610Z",
+    "game": "Mega Man ZX",
+    "song": "Area A",
+    "composers": [
+      "Ippo Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man ZX/Area A.mmrs",
+    "preview": "Mega Man ZX/Area A.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
