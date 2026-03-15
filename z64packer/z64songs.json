@@ -8602,5 +8602,27 @@
     "file": "Sheriff Domestic/Middle Dave.mmrs",
     "preview": "Sheriff Domestic/Middle Dave.ogg"
   },
+  {
+    "uuid": "925d827f-a067-4bb3-b3ef-e9d77ec90e91",
+    "creationDate": "2026-03-15T02:18:59.363Z",
+    "game": "Sheriff Domestic",
+    "song": "Boss",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Boss.mmrs",
+    "preview": "Sheriff Domestic/Boss.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
