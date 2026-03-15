@@ -8624,5 +8624,27 @@
     "file": "Sheriff Domestic/Boss.mmrs",
     "preview": "Sheriff Domestic/Boss.ogg"
   },
+  {
+    "uuid": "e9cd3b00-9dfb-4b48-993b-1e0525eb821d",
+    "creationDate": "2026-03-15T02:19:34.025Z",
+    "game": "Sheriff Domestic",
+    "song": "Got Disk",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Got Disk.mmrs",
+    "preview": "Sheriff Domestic/Got Disk.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
