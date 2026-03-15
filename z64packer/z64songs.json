@@ -8692,5 +8692,28 @@
     "file": "KinzokuMusic/Warp A.mmrs",
     "preview": "KinzokuMusic/Warp A.ogg"
   },
+  {
+    "uuid": "3f37b259-c109-46e1-859f-8670d466bce0",
+    "creationDate": "2026-03-15T02:28:14.077Z",
+    "game": "Old School RuneScape",
+    "song": "Ferox",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Ferox.mmrs",
+    "preview": "Old School RuneScape/Ferox.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
