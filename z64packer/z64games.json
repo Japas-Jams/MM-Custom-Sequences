@@ -2751,16 +2751,23 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/a20dca2e74f89e00176b027012317173.png"
   },
   {
-    "game": "Pokémon Pinball"
+    "game": "Pokémon Pinball",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/79ec2a4246feb2126ecf43c4a4418002.png"
   },
   {
-    "game": "Old School RuneScape"
+    "game": "Old School RuneScape",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a39878ae282a18ea051ad89e7875a272.png"
   },
   {
-    "game": "The Legend of Zelda: Breath of the Wild"
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/24df88ee05eb50db7d1d083a37f49b0b.png"
   },
   {
-    "game": "Shadow the Hedgehog"
+    "game": "Shadow the Hedgehog",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/701a41e8e3ae2362bf739e5768569eb2.png"
   },
   {
     "game": "Robotsonn",
@@ -2771,11 +2778,13 @@
     "series": "Original Compositions"
   },
   {
-    "game": "Sheriff Domestic"
+    "game": "Sheriff Domestic",
+    "logo": "https://i.imgur.com/KCjFLzq.png"
   },
   {
     "game": "Mega Man ZX",
-    "series": "Mega Man Series"
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5c6ef67e6079f0cdd640a5ad7c288e36.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
