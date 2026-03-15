@@ -8646,5 +8646,29 @@
     "file": "Sheriff Domestic/Got Disk.mmrs",
     "preview": "Sheriff Domestic/Got Disk.ogg"
   },
+  {
+    "uuid": "b8455ebe-d007-4a05-b131-0afd39ff9766",
+    "creationDate": "2026-03-15T02:21:00.937Z",
+    "game": "RoboCop",
+    "song": "Title Theme",
+    "composers": [
+      "Jonathan Dunn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "13C"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "RoboCop/Title Theme.mmrs",
+    "preview": "RoboCop/Title Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
