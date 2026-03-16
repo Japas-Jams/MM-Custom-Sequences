@@ -9715,5 +9715,28 @@
     "file": "Zelda II The Adventure of Link/Great Palace.mmrs",
     "preview": "Zelda II The Adventure of Link/Great Palace.ogg"
   },
+  {
+    "uuid": "e18a0955-70e7-45ff-aec8-d146abc6a54e",
+    "creationDate": "2026-03-16T23:11:14.778Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Encounter",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Encounter.mmrs",
+    "preview": "Zelda II The Adventure of Link/Encounter.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
