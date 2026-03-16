@@ -9507,5 +9507,29 @@
     "file": "Kirby Mass Attack/Title Theme.mmrs",
     "preview": "Kirby Mass Attack/Title Theme.ogg"
   },
+  {
+    "uuid": "75ee6af2-3ae1-4690-882a-6aee9a00f4c9",
+    "creationDate": "2026-03-16T22:55:51.848Z",
+    "game": "Kirby Mass Attack",
+    "song": "RPG Battle Theme",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Mass Attack/RPG Battle Theme.mmrs",
+    "preview": "Kirby Mass Attack/RPG Battle Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
