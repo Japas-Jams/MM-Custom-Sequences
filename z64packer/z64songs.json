@@ -9577,5 +9577,30 @@
     "file": "Kirby Mass Attack/Ice.mmrs",
     "preview": "Kirby Mass Attack/Ice.ogg"
   },
+  {
+    "uuid": "4f579be5-2fac-4db0-992e-d232b692761a",
+    "creationDate": "2026-03-16T23:00:45.873Z",
+    "game": "Wario Land 4",
+    "song": "Monsoon Jungle",
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 4/Monsoon Jungle.mmrs",
+    "preview": "Wario Land 4/Monsoon Jungle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
