@@ -9531,5 +9531,28 @@
     "file": "Kirby Mass Attack/RPG Battle Theme.mmrs",
     "preview": "Kirby Mass Attack/RPG Battle Theme.ogg"
   },
+  {
+    "uuid": "23bdab3b-d5e1-4f94-aae5-2f3959ac088c",
+    "creationDate": "2026-03-16T22:56:38.796Z",
+    "game": "Kirby Mass Attack",
+    "song": "Clear Theme",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Mass Attack/Clear Theme.mmrs",
+    "preview": "Kirby Mass Attack/Clear Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
