@@ -9417,5 +9417,27 @@
     "file": "Old School RuneScape/Zulrah.mmrs",
     "preview": "Old School RuneScape/Zulrah.ogg"
   },
+  {
+    "uuid": "18b4ef7b-935f-42f5-9350-84e58c858d2c",
+    "creationDate": "2026-03-16T22:48:53.685Z",
+    "game": "Chip's Challenege",
+    "song": "Chip 02",
+    "composers": [
+      "David Whittaker"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chip's Challenege/Chip 02.mmrs",
+    "preview": "Chip's Challenege/Chip 02.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
