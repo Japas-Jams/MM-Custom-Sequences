@@ -9693,5 +9693,27 @@
     "file": "Wario Land 4/Toy Block Tower.mmrs",
     "preview": "Wario Land 4/Toy Block Tower.ogg"
   },
+  {
+    "uuid": "9dc1411c-bf07-4a93-9fd2-de355d1765d7",
+    "creationDate": "2026-03-16T23:10:38.826Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Great Palace",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Great Palace.mmrs",
+    "preview": "Zelda II The Adventure of Link/Great Palace.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
