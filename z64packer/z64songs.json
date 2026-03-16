@@ -9670,5 +9670,28 @@
     "file": "Wario Land 4/Hotel Horror.mmrs",
     "preview": "Wario Land 4/Hotel Horror.ogg"
   },
+  {
+    "uuid": "0af82c12-c4bd-47e4-a8fc-40b3c11ba7fa",
+    "creationDate": "2026-03-16T23:03:29.199Z",
+    "game": "Wario Land 4",
+    "song": "Toy Block Tower",
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 4/Toy Block Tower.mmrs",
+    "preview": "Wario Land 4/Toy Block Tower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
