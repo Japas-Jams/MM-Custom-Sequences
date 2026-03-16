@@ -8804,5 +8804,375 @@
     "file": "Mega Man ZX/Area A.mmrs",
     "preview": "Mega Man ZX/Area A.ogg"
   },
+  {
+    "uuid": "7cdfb057-e3f0-4547-87d6-69ef421b313c",
+    "creationDate": "2026-03-16T00:00:29.128Z",
+    "game": "Nokia 1208",
+    "song": "Espionage",
+    "composers": [
+      "Mikko Tillander"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nokia 1208/Espionage.mmrs",
+    "preview": "Nokia 1208/Espionage.ogg"
+  },
+  {
+    "uuid": "39b1af16-46d3-4580-81ef-dd6905a7ee78",
+    "creationDate": "2026-03-16T00:02:00.879Z",
+    "game": "Yoshi's Island DS",
+    "song": "Wildlands",
+    "composers": [
+      "Chamy Ishi",
+      "Yutaka Minobe"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Yoshi's Island DS/Wildlands.mmrs",
+    "preview": "Yoshi's Island DS/Wildlands.ogg"
+  },
+  {
+    "uuid": "f7f6b9a8-d596-4b17-895b-906c2469dc51",
+    "creationDate": "2026-03-16T00:03:18.922Z",
+    "game": "Mario Kart DS",
+    "song": "Waluigi Pinball",
+    "composers": [
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/Waluigi Pinball.mmrs",
+    "preview": "Mario Kart DS/Waluigi Pinball.ogg"
+  },
+  {
+    "uuid": "6d6dd2be-6809-45f2-98a1-e1b643d08c06",
+    "creationDate": "2026-03-16T00:05:02.282Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Athletic",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Athletic.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Athletic.ogg"
+  },
+  {
+    "uuid": "4a899fbd-4411-44ab-b4f5-7dfb245c910c",
+    "creationDate": "2026-03-16T00:05:35.563Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Flower Garden",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Flower Garden.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Flower Garden.ogg"
+  },
+  {
+    "uuid": "e8fd1bf1-edff-4d94-b59c-7a6174be46a2",
+    "creationDate": "2026-03-16T00:06:40.797Z",
+    "game": "Robotsonn",
+    "song": "Temple of Ages",
+    "composers": [
+      "Robotsonn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Robotsonn/Temple of Ages.mmrs",
+    "preview": "Robotsonn/Temple of Ages.ogg"
+  },
+  {
+    "uuid": "5e282bc5-48ed-4cbe-8df3-e21b75af5003",
+    "creationDate": "2026-03-16T00:07:57.096Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Above Ground",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Above Ground.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Above Ground.ogg"
+  },
+  {
+    "uuid": "d1c6949e-1caf-48db-afd9-0bd69edc4fba",
+    "creationDate": "2026-03-16T00:10:50.505Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Player Down",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Player Down.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Player Down.ogg"
+  },
+  {
+    "uuid": "ec94e23d-aa2d-4334-8237-bb56dcead41e",
+    "creationDate": "2026-03-16T00:13:25.616Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Mini Boss Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Mini Boss Theme.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Mini Boss Theme.ogg"
+  },
+  {
+    "uuid": "bbb3f793-57ab-4d2a-85f7-18782a5d2994",
+    "creationDate": "2026-03-16T00:14:20.004Z",
+    "game": "Robotsonn",
+    "song": "Adventure Town",
+    "composers": [
+      "Robotsonn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Robotsonn/Adventure Town.mmrs",
+    "preview": "Robotsonn/Adventure Town.ogg"
+  },
+  {
+    "uuid": "e752f229-ade0-4e40-8a93-0dafa7ee9d74",
+    "creationDate": "2026-03-16T00:15:32.343Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Castle Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Castle Theme.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Castle Theme.ogg"
+  },
+  {
+    "uuid": "480444cb-9ac9-4a15-899e-f3ae9b60e4c8",
+    "creationDate": "2026-03-16T00:17:50.137Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Skypeak Final Pass",
+    "composers": [
+      "Arata Iiyoshi",
+      "Hideki Sakamoto",
+      "Keisuke Ito",
+      "Ryoma Nakamura",
+      "Kenichi Saito"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "111"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Skypeak Final Pass.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Skypeak Final Pass.ogg"
+  },
+  {
+    "uuid": "bdef7c70-727c-4383-903c-cfc398ac0712",
+    "creationDate": "2026-03-16T00:22:27.777Z",
+    "game": "EarthBound Beginnings",
+    "song": "Youngtown",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Youngtown.mmrs",
+    "preview": "EarthBound Beginnings/Youngtown.ogg"
+  },
+  {
+    "uuid": "4db37bf3-4c20-49f8-86ac-6a4d0bb496b1",
+    "creationDate": "2026-03-16T00:23:53.549Z",
+    "game": "The Legend of Zelda",
+    "song": "Dungeon",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Dungeon.mmrs",
+    "preview": "The Legend of Zelda/Dungeon.ogg"
+  },
+  {
+    "uuid": "5a79483e-7305-44db-9c83-612d08c75ac1",
+    "creationDate": "2026-03-16T00:25:01.994Z",
+    "game": "The Legend of Zelda",
+    "song": "Death Mountain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Death Mountain.mmrs",
+    "preview": "The Legend of Zelda/Death Mountain.ogg"
+  },
+  {
+    "uuid": "76342525-3b13-44ce-8e15-82bb59380557",
+    "creationDate": "2026-03-16T00:26:20.597Z",
+    "game": "The Legend of Zelda",
+    "song": "Temple Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Temple Clear.mmrs",
+    "preview": "The Legend of Zelda/Temple Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
