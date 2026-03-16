@@ -9219,5 +9219,29 @@
     "file": "Zelda II The Adventure of Link/Level Up.mmrs",
     "preview": "Zelda II The Adventure of Link/Level Up.ogg"
   },
+  {
+    "uuid": "e80c7af8-d55b-4ce8-8a40-866f9f6e38ee",
+    "creationDate": "2026-03-16T22:34:28.080Z",
+    "game": "EarthBound Beginnings",
+    "song": "Castle",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Castle.mmrs",
+    "preview": "EarthBound Beginnings/Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
