@@ -9901,5 +9901,29 @@
     "file": "Bastion/Mother, I'm Here (Zulf's Theme).mmrs",
     "preview": "Bastion/Mother, I'm Here (Zulf's Theme).ogg"
   },
+  {
+    "uuid": "6a1ead7e-7401-44ea-943b-ee11477bbf74",
+    "creationDate": "2026-03-16T23:51:50.845Z",
+    "game": "Breath of Fire III",
+    "song": "Do Your Best!",
+    "composers": [
+      "Yoshino Aoki",
+      "Akari Kaida"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "11A",
+      "138"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Breath of Fire III/Do Your Best!.mmrs",
+    "preview": "Breath of Fire III/Do Your Best!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
