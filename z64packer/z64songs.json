@@ -9877,5 +9877,29 @@
     "file": "Super Mario RPG Legend of the Seven Stars/And My Name's Booster.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/And My Name's Booster.ogg"
   },
+  {
+    "uuid": "7f4eff14-5945-4a55-984f-f75492e49e83",
+    "creationDate": "2026-03-16T23:48:22.833Z",
+    "game": "Bastion",
+    "song": "Mother, I'm Here (Zulf's Theme)",
+    "composers": [
+      "Darren Korb"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "12E"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bastion/Mother, I'm Here (Zulf's Theme).mmrs",
+    "preview": "Bastion/Mother, I'm Here (Zulf's Theme).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
