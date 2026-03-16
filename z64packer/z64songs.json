@@ -9083,5 +9083,30 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Skypeak Final Pass.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Skypeak Final Pass.ogg"
   },
+  {
+    "uuid": "bdef7c70-727c-4383-903c-cfc398ac0712",
+    "creationDate": "2026-03-16T00:22:27.777Z",
+    "game": "EarthBound Beginnings",
+    "song": "Youngtown",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Youngtown.mmrs",
+    "preview": "EarthBound Beginnings/Youngtown.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
