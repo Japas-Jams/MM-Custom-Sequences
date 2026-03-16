@@ -8876,5 +8876,28 @@
     "file": "Mario Kart DS/Waluigi Pinball.mmrs",
     "preview": "Mario Kart DS/Waluigi Pinball.ogg"
   },
+  {
+    "uuid": "6d6dd2be-6809-45f2-98a1-e1b643d08c06",
+    "creationDate": "2026-03-16T00:05:02.282Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Athletic",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Athletic.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Athletic.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
