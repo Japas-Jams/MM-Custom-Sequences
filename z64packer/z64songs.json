@@ -9294,5 +9294,31 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Highland.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Highland.ogg"
   },
+  {
+    "uuid": "22857dac-1a44-4438-a43e-33ac08b95794",
+    "creationDate": "2026-03-16T22:38:21.819Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Hidden Land",
+    "composers": [
+      "Arata Iiyoshi",
+      "Keisuke Ito",
+      "and Hideki Sakamoto"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Hidden Land.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Hidden Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
