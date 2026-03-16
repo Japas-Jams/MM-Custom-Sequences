@@ -9012,5 +9012,27 @@
     "file": "Super Mario World 2 Yoshi's Island/Mini Boss Theme.mmrs",
     "preview": "Super Mario World 2 Yoshi's Island/Mini Boss Theme.ogg"
   },
+  {
+    "uuid": "bbb3f793-57ab-4d2a-85f7-18782a5d2994",
+    "creationDate": "2026-03-16T00:14:20.004Z",
+    "game": "Robotsonn",
+    "song": "Adventure Town",
+    "composers": [
+      "Robotsonn"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Robotsonn/Adventure Town.mmrs",
+    "preview": "Robotsonn/Adventure Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
