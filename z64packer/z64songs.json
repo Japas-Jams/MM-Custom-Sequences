@@ -9602,5 +9602,28 @@
     "file": "Wario Land 4/Monsoon Jungle.mmrs",
     "preview": "Wario Land 4/Monsoon Jungle.ogg"
   },
+  {
+    "uuid": "006f1d6c-d822-440f-acd3-800bccc28b94",
+    "creationDate": "2026-03-16T23:01:33.627Z",
+    "game": "Wario Land 4",
+    "song": "The Big Board",
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 4/The Big Board.mmrs",
+    "preview": "Wario Land 4/The Big Board.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
