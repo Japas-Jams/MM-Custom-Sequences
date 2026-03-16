@@ -9152,5 +9152,27 @@
     "file": "The Legend of Zelda/Death Mountain.mmrs",
     "preview": "The Legend of Zelda/Death Mountain.ogg"
   },
+  {
+    "uuid": "76342525-3b13-44ce-8e15-82bb59380557",
+    "creationDate": "2026-03-16T00:26:20.597Z",
+    "game": "The Legend of Zelda",
+    "song": "Temple Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Temple Clear.mmrs",
+    "preview": "The Legend of Zelda/Temple Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
