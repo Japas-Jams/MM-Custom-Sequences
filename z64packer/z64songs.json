@@ -11118,5 +11118,27 @@
     "file": "EarthBound Beginnings/School.mmrs",
     "preview": "EarthBound Beginnings/School.ogg"
   },
+  {
+    "uuid": "6b1574e0-2fbd-4574-8110-40ca39eb90e8",
+    "creationDate": "2026-03-17T23:47:07.494Z",
+    "game": "Kirby's Adventure",
+    "song": "I'm Hit",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/I'm Hit.mmrs",
+    "preview": "Kirby's Adventure/I'm Hit.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
