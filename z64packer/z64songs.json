@@ -10584,5 +10584,30 @@
     "file": "Wonder Boy III The Dragon's Trap/Last Dungeon.mmrs",
     "preview": "Wonder Boy III The Dragon's Trap/Last Dungeon.mp3"
   },
+  {
+    "uuid": "26142a5d-9ed2-49b8-9efc-ab3d7d80de0d",
+    "creationDate": "2026-03-17T16:15:29.664Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Spring)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Click Clock Wood (Spring).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Spring).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
