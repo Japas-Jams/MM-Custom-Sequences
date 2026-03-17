@@ -10864,5 +10864,28 @@
     "file": "Phoenix Wright Ace Attorney/Turnabout Sisters' Ballad.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Turnabout Sisters' Ballad.ogg"
   },
+  {
+    "uuid": "0d52c165-4a8b-4825-b961-d0eac348c0f9",
+    "creationDate": "2026-03-17T16:36:59.258Z",
+    "game": "Super Mario Galaxy",
+    "song": "Beach Bowl Galaxy",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Galaxy/Beach Bowl Galaxy.mmrs",
+    "preview": "Super Mario Galaxy/Beach Bowl Galaxy.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
