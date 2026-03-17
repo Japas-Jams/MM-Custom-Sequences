@@ -9973,5 +9973,30 @@
     "file": "Donkey Kong 64/Angry Aztec.mmrs",
     "preview": "Donkey Kong 64/Angry Aztec.mp3"
   },
+  {
+    "uuid": "79651545-7ee2-4c20-b884-cb86f85614cf",
+    "creationDate": "2026-03-17T00:00:23.669Z",
+    "game": "Donkey Kong 64",
+    "song": "Creepy Castle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "16F"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "file": "Donkey Kong 64/Creepy Castle.mmrs",
+    "preview": "Donkey Kong 64/Creepy Castle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
