@@ -11045,5 +11045,29 @@
     "file": "EarthBound Beginnings/Love.mmrs",
     "preview": "EarthBound Beginnings/Love.ogg"
   },
+  {
+    "uuid": "c67718a8-01b4-4584-88b2-fd71b2bafa5a",
+    "creationDate": "2026-03-17T23:43:03.966Z",
+    "game": "EarthBound Beginnings",
+    "song": "Pollyanna",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Pollyanna.mmrs",
+    "preview": "EarthBound Beginnings/Pollyanna.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
