@@ -10999,5 +10999,28 @@
     "file": "Sonic Colors/Planet Wisp - Act 1.mmrs",
     "preview": "Sonic Colors/Planet Wisp - Act 1.ogg"
   },
+  {
+    "uuid": "810199f2-df11-482f-a815-b2b898dd76d1",
+    "creationDate": "2026-03-17T16:43:50.743Z",
+    "game": "Sonic & Knuckles",
+    "song": "Sky Sanctuary Zone",
+    "composers": [
+      "Howard Drossin"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic & Knuckles/Sky Sanctuary Zone.mmrs",
+    "preview": "Sonic & Knuckles/Sky Sanctuary Zone.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
