@@ -10633,5 +10633,27 @@
     "file": "Celeste/Reach for the Summit.mmrs",
     "preview": "Celeste/Reach for the Summit.ogg"
   },
+  {
+    "uuid": "43589ed2-b71e-44aa-9c1e-6a860d994fd9",
+    "creationDate": "2026-03-17T16:19:42.475Z",
+    "game": "Chrono Trigger",
+    "song": "Guardia Millennial Fair",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Guardia Millennial Fair.mmrs",
+    "preview": "Chrono Trigger/Guardia Millennial Fair.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
