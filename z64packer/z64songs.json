@@ -10207,5 +10207,28 @@
     "file": "Hollow Knight/Mantis Lords.mmrs",
     "preview": "Hollow Knight/Mantis Lords.mp3"
   },
+  {
+    "uuid": "136f6f2c-337b-4134-9669-c2168e0c81ac",
+    "creationDate": "2026-03-17T00:16:37.097Z",
+    "game": "Illusion of Gaia",
+    "song": "Clash of Light and Shadow",
+    "composers": [
+      "Yasuhiro Kawasaki"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Illusion of Gaia/Clash of Light and Shadow.mmrs",
+    "preview": "Illusion of Gaia/Clash of Light and Shadow.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
