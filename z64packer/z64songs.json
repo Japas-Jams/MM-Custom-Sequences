@@ -11140,5 +11140,32 @@
     "file": "Kirby's Adventure/I'm Hit.mmrs",
     "preview": "Kirby's Adventure/I'm Hit.ogg"
   },
+  {
+    "uuid": "7ee353c8-3d46-4352-9f07-0eaf5e680e37",
+    "creationDate": "2026-03-17T23:50:42.086Z",
+    "game": "Kirby: Squeak Squad",
+    "song": "Here Come the Squeaks!",
+    "composers": [
+      "Hirokazu Ando",
+      "Jun Ishikawa",
+      "Tadashi Ikegami",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby Squeak Squad/Here Come the Squeaks!.mmrs",
+    "preview": "Kirby Squeak Squad/Here Come the Squeaks!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
