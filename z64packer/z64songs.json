@@ -10380,5 +10380,29 @@
     "file": "Professor Layton and the Curious Village/Professor Layton's Theme.mmrs",
     "preview": "Professor Layton and the Curious Village/Professor Layton's Theme.mp3"
   },
+  {
+    "uuid": "45df697e-0c71-469b-96a0-1d29133c090e",
+    "creationDate": "2026-03-17T00:31:59.410Z",
+    "game": "Professor Layton and the Curious Village",
+    "song": "Puzzles",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Curious Village/Puzzles.mmrs",
+    "preview": "Professor Layton and the Curious Village/Puzzles.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
