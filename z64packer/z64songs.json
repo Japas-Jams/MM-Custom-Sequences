@@ -10887,5 +10887,27 @@
     "file": "Super Mario Galaxy/Beach Bowl Galaxy.mmrs",
     "preview": "Super Mario Galaxy/Beach Bowl Galaxy.mp3"
   },
+  {
+    "uuid": "81c78347-a6ce-4b85-9099-51decd2382a5",
+    "creationDate": "2026-03-17T16:37:59.608Z",
+    "game": "Sonic the Hedgehog",
+    "song": "Chaos Emerald",
+    "composers": [
+      "Yukifumi Makino"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog/Chaos Emerald.mmrs",
+    "preview": "Sonic the Hedgehog/Chaos Emerald.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
