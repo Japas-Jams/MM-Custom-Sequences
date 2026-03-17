@@ -10726,5 +10726,28 @@
     "file": "Donkey Kong Country/DK Island Swing.mmrs",
     "preview": "Donkey Kong Country/DK Island Swing.ogg"
   },
+  {
+    "uuid": "24d82e63-4e59-4559-8a9f-2fd2c82c2e04",
+    "creationDate": "2026-03-17T16:28:14.194Z",
+    "game": "Diddy Kong Racing",
+    "song": "First Place",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Diddy Kong Racing/First Place.mmrs",
+    "preview": "Diddy Kong Racing/First Place.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
