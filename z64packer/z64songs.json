@@ -10559,5 +10559,28 @@
     "file": "Terranigma/Call at a Port.mmrs",
     "preview": "Terranigma/Call at a Port.mp3"
   },
+  {
+    "uuid": "2a362772-ab83-4c3d-b41d-3e1bd1bc22ac",
+    "creationDate": "2026-03-17T00:48:24.832Z",
+    "game": "Wonder Boy: The Dragon's Trap",
+    "song": "Last Dungeon",
+    "composers": [
+      "Shinichi Sakamoto"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wonder Boy The Dragon's Trap/Last Dungeon.mmrs",
+    "preview": "Wonder Boy The Dragon's Trap/Last Dungeon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
