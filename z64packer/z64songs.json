@@ -10230,5 +10230,30 @@
     "file": "Illusion of Gaia/Clash of Light and Shadow.mmrs",
     "preview": "Illusion of Gaia/Clash of Light and Shadow.mp3"
   },
+  {
+    "uuid": "8ab0cc84-5e3b-432f-b4d3-0dd9c635b7ca",
+    "creationDate": "2026-03-17T00:17:44.826Z",
+    "game": "Kingdom Hearts II",
+    "song": "Waltz of the Damned",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts II/Waltz of the Damned.mmrs",
+    "preview": "Kingdom Hearts II/Waltz of the Damned.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
