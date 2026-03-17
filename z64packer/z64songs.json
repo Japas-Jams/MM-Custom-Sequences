@@ -10795,5 +10795,27 @@
     "file": "The Legend of Zelda Spirit Tracks/Realm Overworld.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld.ogg"
   },
+  {
+    "uuid": "2c1fe19d-c0cb-47db-ae48-faa3b1a2bdf7",
+    "creationDate": "2026-03-17T16:31:41.190Z",
+    "game": "Paper Mario",
+    "song": "Toad Town",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario/Toad Town.mmrs",
+    "preview": "Paper Mario/Toad Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
