@@ -11093,5 +11093,30 @@
     "file": "EarthBound Beginnings/Hippy.mmrs",
     "preview": "EarthBound Beginnings/Hippy.ogg"
   },
+  {
+    "uuid": "00dde5fb-6cd0-4169-a74b-6daf3444f8fb",
+    "creationDate": "2026-03-17T23:44:22.310Z",
+    "game": "EarthBound Beginnings",
+    "song": "School",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/School.mmrs",
+    "preview": "EarthBound Beginnings/School.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
