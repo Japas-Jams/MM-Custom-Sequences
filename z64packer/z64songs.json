@@ -10404,5 +10404,32 @@
     "file": "Professor Layton and the Curious Village/Puzzles.mmrs",
     "preview": "Professor Layton and the Curious Village/Puzzles.mp3"
   },
+  {
+    "uuid": "db67b04d-3edb-4a54-ad2d-4a1c86895bc3",
+    "creationDate": "2026-03-17T00:34:57.102Z",
+    "game": "Professor Layton and the Curious Village",
+    "song": "The Village Awakens",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "115",
+      "116",
+      "117",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Professor Layton and the Curious Village/The Village Awakens.mmrs",
+    "preview": "Professor Layton and the Curious Village/The Village Awakens.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
