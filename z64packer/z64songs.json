@@ -11167,5 +11167,27 @@
     "file": "Kirby Squeak Squad/Here Come the Squeaks!.mmrs",
     "preview": "Kirby Squeak Squad/Here Come the Squeaks!.ogg"
   },
+  {
+    "uuid": "36c288d8-a66d-4d05-9421-b793b752e841",
+    "creationDate": "2026-03-17T23:55:58.652Z",
+    "game": "Air Fortresss",
+    "song": "Level Clear",
+    "composers": [
+      "Hideki Kanazashi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Air Fortresss/Level Clear.mmrs",
+    "preview": "Air Fortresss/Level Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
