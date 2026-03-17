@@ -10091,5 +10091,28 @@
     "file": "Donkey Kong Country 2 Diddy's Kong Quest/Krook's March.mmrs",
     "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Krook's March.mp3"
   },
+  {
+    "uuid": "bf36d3a4-b932-4445-9f2c-6b1c3669e82e",
+    "creationDate": "2026-03-17T00:09:14.833Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Lockjaw's Saga",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Lockjaw's Saga.mmrs",
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Lockjaw's Saga.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
