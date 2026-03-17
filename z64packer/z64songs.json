@@ -10977,5 +10977,27 @@
     "file": "Sonic Chronicles The Dark Brotherhood/Central City.mmrs",
     "preview": "Sonic Chronicles The Dark Brotherhood/Central City.ogg"
   },
+  {
+    "uuid": "8cb8dfee-0c5e-454c-a170-478b426869f7",
+    "creationDate": "2026-03-17T16:42:57.547Z",
+    "game": "Sonic Colors",
+    "song": "Planet Wisp - Act 1",
+    "composers": [
+      "Kenichi Tokoi"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Colors/Planet Wisp - Act 1.mmrs",
+    "preview": "Sonic Colors/Planet Wisp - Act 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
