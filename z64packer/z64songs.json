@@ -11022,5 +11022,28 @@
     "file": "Sonic & Knuckles/Sky Sanctuary Zone.mmrs",
     "preview": "Sonic & Knuckles/Sky Sanctuary Zone.ogg"
   },
+  {
+    "uuid": "bc93cb2c-4a0e-4837-b6c2-12a238fd630e",
+    "creationDate": "2026-03-17T23:42:03.126Z",
+    "game": "EarthBound Beginnings",
+    "song": "Love",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Love.mmrs",
+    "preview": "EarthBound Beginnings/Love.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
