@@ -10933,5 +10933,27 @@
     "file": "Sonic the Hedgehog/Star Light Zone.mmrs",
     "preview": "Sonic the Hedgehog/Star Light Zone.ogg"
   },
+  {
+    "uuid": "ce4373c2-c6b2-4a9a-a53e-bf0080da97f3",
+    "creationDate": "2026-03-17T16:40:58.040Z",
+    "game": "Sonic the Hedgehog (2006)",
+    "song": "Solaris Phase 2",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "The Sound Defense"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog (2006)/Solaris Phase 2.mmrs",
+    "preview": "Sonic the Hedgehog (2006)/Solaris Phase 2.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
