@@ -10328,5 +10328,33 @@
     "file": "Mega Man Zero 4/Falling Down.mmrs",
     "preview": "Mega Man Zero 4/Falling Down.ogg"
   },
+  {
+    "uuid": "8e8bda91-c47b-4d90-bd77-9292b4930c05",
+    "creationDate": "2026-03-17T00:26:20.116Z",
+    "game": "Mega Man Battle Network 3",
+    "song": "Farewell",
+    "composers": [
+      "Yoshino Aoki"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Battle Network 3/Farewell.mmrs",
+    "preview": "Mega Man Battle Network 3/Farewell.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
