@@ -10278,5 +10278,32 @@
     "file": "Mega Man Legends/Apple Market.mmrs",
     "preview": "Mega Man Legends/Apple Market.mp3"
   },
+  {
+    "uuid": "c4f40289-fdc3-4527-932a-6ab0dcf19136",
+    "creationDate": "2026-03-17T00:23:05.728Z",
+    "game": "Mega Man X2",
+    "song": "Zero's Theme Intro",
+    "composers": [
+      "Yuki Iwai"
+    ],
+    "converters": [
+      "TheRealPixelShake"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "122",
+      "124",
+      "137",
+      "139",
+      "141"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man X2/Zero's Theme Intro.mmrs",
+    "preview": "Mega Man X2/Zero's Theme Intro.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
