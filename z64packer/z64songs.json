@@ -11282,5 +11282,28 @@
     "file": "Xexyz/Shop.mmrs",
     "preview": "Xexyz/Shop.ogg"
   },
+  {
+    "uuid": "1e2abc88-ae85-4ddd-a768-9a9435fbb0dc",
+    "creationDate": "2026-03-18T00:01:07.872Z",
+    "game": "Xexyz",
+    "song": "Game Over",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Game Over.mmrs",
+    "preview": "Xexyz/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
