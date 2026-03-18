@@ -11417,5 +11417,27 @@
     "file": "Perfect Dark/Chicago Stealth.mmrs",
     "preview": "Perfect Dark/Chicago Stealth.ogg"
   },
+  {
+    "uuid": "9d253506-75c2-43db-a915-7426b445247e",
+    "creationDate": "2026-03-18T02:39:26.664Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Trade",
+    "composers": [
+      "Gō Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Trade.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Trade.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
