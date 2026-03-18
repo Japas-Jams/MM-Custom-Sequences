@@ -11,6 +11,7 @@
   },
   {
     "game": "ActRaiser",
+    "series": "ActRaiser Series",
     "logo": "https://i.imgur.com/cuUhw5a.png"
   },
   {
@@ -2838,26 +2839,31 @@
     "logo": "https://i.imgur.com/Mj5hz5p.png"
   },
   {
-    "game": "Castlevania II: Belmont's Revenge"
+    "game": "Castlevania II: Belmont's Revenge",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d98c1545b7619bd99b817cb3169cdfde.png"
   },
   {
-    "game": "Xexyz"
+    "game": "Xexyz",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a4bcf365c96b467b6edf604779a30311.png"
   },
   {
     "game": "Kirby: Squeak Squad",
-    "series": "Kirby Series"
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5b92e4945eb3a04990671a4da604ff17.png"
   },
   {
-    "game": "Air Fortress"
+    "game": "Air Fortress",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0867b8dcfcd80f0f71a959ae1b6fa181.png"
   },
   {
-    "game": "Air Fortresss"
+    "game": "Command & Conquer: Red Alert",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1f539471127c904e22309f6fa599e98f.png"
   },
   {
-    "game": "Command & Conquer: Red Alert"
-  },
-  {
-    "game": "ActRaiser 2"
+    "game": "ActRaiser 2",
+    "series": "ActRaiser Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e32cc80bf07915058ce90722ee17bb71.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
