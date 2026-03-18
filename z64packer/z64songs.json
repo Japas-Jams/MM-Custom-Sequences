@@ -11505,5 +11505,27 @@
     "file": "Pokémon Red, Blue & Yellow/Level Up.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Level Up.ogg"
   },
+  {
+    "uuid": "d525477a-0b37-49d3-86f5-164c88e3c3e7",
+    "creationDate": "2026-03-18T02:43:58.218Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Giovanni's Theme (Unused)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Giovanni's Theme (Unused).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Giovanni's Theme (Unused).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
