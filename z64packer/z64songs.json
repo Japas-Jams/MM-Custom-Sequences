@@ -11989,5 +11989,28 @@
     "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).mmrs",
     "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).ogg"
   },
+  {
+    "uuid": "40660925-20b5-4397-9649-b48f77d528c8",
+    "creationDate": "2026-03-18T22:55:32.421Z",
+    "game": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
+    "song": "Godot ~ The Fragrance of Dark Colored Coffee",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney – Trials and Tribulations/Godot ~ The Fragrance of Dark Colored Coffee.mmrs",
+    "preview": "Phoenix Wright Ace Attorney – Trials and Tribulations/Godot ~ The Fragrance of Dark Colored Coffee.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
