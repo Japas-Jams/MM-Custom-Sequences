@@ -12058,5 +12058,30 @@
     "file": "Mario & Luigi Bowser's Inside Story/Castle Theme.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Castle Theme.ogg"
   },
+  {
+    "uuid": "4fae02a7-af27-4beb-8b7b-63d340f10ba8",
+    "creationDate": "2026-03-18T23:00:30.879Z",
+    "game": "Animal Crossing: Wild World",
+    "song": "Cafe Theme",
+    "composers": [
+      "Kazumi Totaka",
+      "Asuka Hayazaki"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16E"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing Wild World/Cafe Theme.mmrs",
+    "preview": "Animal Crossing Wild World/Cafe Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
