@@ -12109,5 +12109,29 @@
     "file": "Ace Attorney Investigations Miles Edgeworth/Yumihiko Ichiyanagi ~ Ichiryuu's Farewell.mmrs",
     "preview": "Ace Attorney Investigations Miles Edgeworth/Yumihiko Ichiyanagi ~ Ichiryuu's Farewell.ogg"
   },
+  {
+    "uuid": "3c18cb45-625b-4dce-af24-adf2b2a81ddf",
+    "creationDate": "2026-03-18T23:04:10.279Z",
+    "game": "Advance Wars 2: Black Hole Rising",
+    "song": "Grit's Theme",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Advance Wars 2 Black Hole Rising/Grit's Theme.mmrs",
+    "preview": "Advance Wars 2 Black Hole Rising/Grit's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
