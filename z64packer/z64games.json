@@ -2870,5 +2870,20 @@
     "series": "Super Mario Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/03d43fdf92b0155912c46d8cea46a874.png"
   },
+  {
+    "game": "Mega Man Zero 3"
+  },
+  {
+    "game": "Mario Tennis"
+  },
+  {
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland"
+  },
+  {
+    "game": "Mega Man Zero 2"
+  },
+  {
+    "game": "Phoenix Wright: Ace Attorney – Trials and Tribulations"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
