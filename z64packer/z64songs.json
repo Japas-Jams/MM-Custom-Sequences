@@ -11772,5 +11772,32 @@
     "file": "Super Mario Bros. 3/Encounter.mmrs",
     "preview": "Super Mario Bros. 3/Encounter.ogg"
   },
+  {
+    "uuid": "79d4ec3f-e615-4d1a-ac07-89e7c7122a63",
+    "creationDate": "2026-03-18T22:36:17.612Z",
+    "game": "Mega Man Zero 3",
+    "song": "Vs. Omega",
+    "composers": [
+      "Ippo Yamada",
+      "along",
+      "Masaki Suzuki",
+      "Tsutomu Kurihara",
+      "Luna Umegaki"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 3/Vs. Omega.mmrs",
+    "preview": "Mega Man Zero 3/Vs. Omega.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
