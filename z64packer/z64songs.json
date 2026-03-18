@@ -11236,5 +11236,29 @@
     "file": "Xexyz/Inside.mmrs",
     "preview": "Xexyz/Inside.ogg"
   },
+  {
+    "uuid": "15ed6bdc-0c26-4dab-892e-d89a54f84c67",
+    "creationDate": "2026-03-18T00:00:01.787Z",
+    "game": "Xexyz",
+    "song": "Outside",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Outside.mmrs",
+    "preview": "Xexyz/Outside.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
