@@ -11395,5 +11395,27 @@
     "file": "Mario Paint/Creative Exercise.mmrs",
     "preview": "Mario Paint/Creative Exercise.ogg"
   },
+  {
+    "uuid": "e464f50d-ad5f-43d7-8fea-ad31cda3f67a",
+    "creationDate": "2026-03-18T02:38:22.838Z",
+    "game": "Perfect Dark",
+    "song": "Chicago: Stealth",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "13A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Perfect Dark/Chicago Stealth.mmrs",
+    "preview": "Perfect Dark/Chicago Stealth.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
