@@ -11681,5 +11681,27 @@
     "file": "Pokémon Red, Blue & Yellow/Mt. Moon.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Mt. Moon.ogg"
   },
+  {
+    "uuid": "27d52756-0ffd-491c-b421-45e976fe62d5",
+    "creationDate": "2026-03-18T02:54:58.874Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pokémon Center",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
