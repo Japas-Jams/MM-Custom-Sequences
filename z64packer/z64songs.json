@@ -12012,5 +12012,29 @@
     "file": "Phoenix Wright Ace Attorney – Trials and Tribulations/Godot ~ The Fragrance of Dark Colored Coffee.mmrs",
     "preview": "Phoenix Wright Ace Attorney – Trials and Tribulations/Godot ~ The Fragrance of Dark Colored Coffee.ogg"
   },
+  {
+    "uuid": "2ff99f7b-04f2-42ac-88e4-71ca58c2d4eb",
+    "creationDate": "2026-03-18T22:57:44.321Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Sebastian Debeste ~ First-Class Farewell",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Sebastian Debeste ~ First-Class Farewell.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Sebastian Debeste ~ First-Class Farewell.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
