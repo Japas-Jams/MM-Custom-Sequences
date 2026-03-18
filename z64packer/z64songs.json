@@ -11703,5 +11703,27 @@
     "file": "Kirby's Adventure/Bonus (Perfect).mmrs",
     "preview": "Kirby's Adventure/Bonus (Perfect).ogg"
   },
+  {
+    "uuid": "82fc6ddc-30fe-46b3-90a0-209689874d84",
+    "creationDate": "2026-03-18T22:18:28.099Z",
+    "game": "Kirby's Adventure",
+    "song": "Bonus (Clear)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Bonus (Clear).mmrs",
+    "preview": "Kirby's Adventure/Bonus (Clear).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
