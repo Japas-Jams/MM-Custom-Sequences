@@ -11680,5 +11680,28 @@
     "file": "Kirby Super Star/Rest Area.mmrs",
     "preview": "Kirby Super Star/Rest Area.ogg"
   },
+  {
+    "uuid": "d622c076-cf11-4e28-a325-1aa7a65d415a",
+    "creationDate": "2026-03-18T22:17:57.562Z",
+    "game": "Kirby's Adventure",
+    "song": "Bonus (Perfect)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Bonus (Perfect).mmrs",
+    "preview": "Kirby's Adventure/Bonus (Perfect).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
