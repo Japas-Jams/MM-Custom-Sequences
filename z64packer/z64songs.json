@@ -11919,5 +11919,27 @@
     "file": "Paper Mario/Vs. Crystal King.mmrs",
     "preview": "Paper Mario/Vs. Crystal King.ogg"
   },
+  {
+    "uuid": "0ceb431b-c90f-4bb6-a03f-d9b28d933f2b",
+    "creationDate": "2026-03-18T22:47:32.491Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Boss Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Boss Theme.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Boss Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
