@@ -11725,5 +11725,28 @@
     "file": "Kirby's Adventure/Bonus (Clear).mmrs",
     "preview": "Kirby's Adventure/Bonus (Clear).ogg"
   },
+  {
+    "uuid": "75319b8e-0255-4304-aec6-7ff4eb915c91",
+    "creationDate": "2026-03-18T22:30:52.907Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Dora Dora",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Dora Dora.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Dora Dora.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
