@@ -11349,5 +11349,29 @@
     "file": "Command & Conquer Red Alert/Hell March.mmrs",
     "preview": "Command & Conquer Red Alert/Hell March.ogg"
   },
+  {
+    "uuid": "7f2cd6f8-c376-423e-80e9-11d784bb42b0",
+    "creationDate": "2026-03-18T02:35:52.834Z",
+    "game": "Glover",
+    "song": "Carnival Lobby & Level 1",
+    "composers": [
+      "Rob Lord",
+      "Paul Weir",
+      "Mark Bandola"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Glover/Carnival Lobby & Level 1.mmrs",
+    "preview": "Glover/Carnival Lobby & Level 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
