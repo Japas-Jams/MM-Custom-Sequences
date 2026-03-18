@@ -11799,5 +11799,29 @@
     "file": "Mega Man Zero 3/Vs. Omega.mmrs",
     "preview": "Mega Man Zero 3/Vs. Omega.ogg"
   },
+  {
+    "uuid": "2f39bcfc-05cb-4cbf-b5ff-222080fe5149",
+    "creationDate": "2026-03-18T22:37:32.724Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Confrontation ~ Presto",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Confrontation ~ Presto.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Confrontation ~ Presto.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
