@@ -2865,5 +2865,10 @@
     "series": "ActRaiser Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e32cc80bf07915058ce90722ee17bb71.png"
   },
+  {
+    "game": "Super Mario 3D World + Bowser's Fury",
+    "series": "Super Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/03d43fdf92b0155912c46d8cea46a874.png"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

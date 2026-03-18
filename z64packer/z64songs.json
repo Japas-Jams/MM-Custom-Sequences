@@ -3930,7 +3930,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Lost Girl.mmrs",
-    "preview": "Deltarune/Lost Girl.mp3"
+    "preview": "https://www.youtube.com/watch?v=NDCZuPFEYPM"
   },
   {
     "uuid": "b851120b-19b2-4297-9fbc-1d110134e8f1",
@@ -3955,7 +3955,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Pandora Palace.mmrs",
-    "preview": "Deltarune/Pandora Palace.mp3"
+    "preview": "https://www.youtube.com/watch?v=p9vyiTQdgd4"
   },
   {
     "uuid": "57a811f7-58bd-4fda-a779-3e5b85f5beb6",
@@ -3977,7 +3977,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Chaos King.mmrs",
-    "preview": "Deltarune/Chaos King.mp3"
+    "preview": "https://www.youtube.com/watch?v=EVUjOvL1Q0c"
   },
   {
     "uuid": "5e86473f-721d-4246-9fae-9d363a702f0b",
@@ -4001,12 +4001,12 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/World Revolving.mmrs",
-    "preview": "Deltarune/World Revolving.mp3"
+    "preview": "https://www.youtube.com/watch?v=O5Of6JmcQyg"
   },
   {
     "uuid": "5e4d44f4-e8fc-4409-9bee-8e9b74188d8e",
     "creationDate": "2026-03-13T02:01:04.435Z",
-    "game": "Super Mario 3D World",
+    "game": "Super Mario 3D World + Bowser's Fury",
     "song": "Disaster",
     "composers": [
       "Mahito Yokota",
@@ -4027,8 +4027,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario 3D World/Disaster.mmrs",
-    "preview": "Super Mario 3D World/Disaster.mp3"
+    "file": "Super Mario 3D World + Bowser's Fury/Disaster.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-JKPft9t4mk"
   },
   {
     "uuid": "58147eee-6cbb-49da-92ba-42983798ae82",
@@ -4054,7 +4054,7 @@
     "usesCustomSamples": true,
     "usesFormmask": false,
     "file": "Uru Ages Beyond Myst/Convergence.mmrs",
-    "preview": "Uru Ages Beyond Myst/Convergence.mp3"
+    "preview": "https://www.youtube.com/watch?v=CNX__2QsCTY"
   },
   {
     "uuid": "03fb5739-b284-4805-8980-df259255fecc",
@@ -4079,13 +4079,13 @@
     "usesCustomSamples": true,
     "usesFormmask": false,
     "file": "StarTropics/Dungeon.mmrs",
-    "preview": "StarTropics/Dungeon.mp3"
+    "preview": "https://www.youtube.com/watch?v=Umj7w_PxlCI"
   },
   {
     "uuid": "a142296c-41ff-43e3-802c-8e16ca54f322",
     "creationDate": "2026-03-13T02:07:55.822Z",
     "game": "StarTropics",
-    "song": "Memorial",
+    "song": "Captain Bell's Memorial",
     "composers": [
       "Yoshio Hirai"
     ],
@@ -4104,14 +4104,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "StarTropics/Memorial.mmrs",
-    "preview": "StarTropics/Memorial.mp3"
+    "file": "StarTropics/Captain Bell's Memorial.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5If4DKDNbMA"
   },
   {
     "uuid": "fbbca7fe-364d-4314-ba9a-e80470b56d11",
     "creationDate": "2026-03-13T02:08:30.009Z",
     "game": "StarTropics",
-    "song": "Boss Theme",
+    "song": "Boss Battle",
     "composers": [
       "Yoshio Hirai"
     ],
@@ -4128,14 +4128,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "StarTropics/Boss Theme.mmrs",
-    "preview": "StarTropics/Boss Theme.mp3"
+    "file": "StarTropics/Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=mvnXC4OKtak"
   },
   {
     "uuid": "ee837fc3-f4d3-4a54-8caf-4c99d6a0619e",
     "creationDate": "2026-03-13T02:09:56.557Z",
     "game": "StarTropics",
-    "song": "Miracola",
+    "song": "Miracola Village",
     "composers": [
       "Yoshio Hirai"
     ],
@@ -4154,8 +4154,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "StarTropics/Miracola.mmrs",
-    "preview": "StarTropics/Miracola.mp3"
+    "file": "StarTropics/Miracola Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=dSPBKd3qFBM"
   },
   {
     "uuid": "b6c1ccc2-577f-4027-9d11-5cd8ae6e6798",
@@ -4179,7 +4179,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "StarTropics/Hallways.mmrs",
-    "preview": "StarTropics/Hallways.mp3"
+    "preview": "https://www.youtube.com/watch?v=NZQtWC3VqRY"
   },
   {
     "uuid": "263e10df-21b4-403d-932a-09ca53838421",
@@ -4248,7 +4248,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Hyrule Warriors/Eclipse of the Moon.mmrs",
-    "preview": "Hyrule Warriors/Eclipse of the Moon.mp3"
+    "preview": "https://www.youtube.com/watch?v=ae1xymNTvSE"
   },
   {
     "uuid": "b93d8e1e-ca72-4403-ae12-1994ad940273",
@@ -4299,7 +4299,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Hyrule Warriors Age of Calamity/Growing Sorrow.mmrs",
-    "preview": "Hyrule Warriors Age of Calamity/Growing Sorrow.mp3"
+    "preview": "https://www.youtube.com/watch?v=aIEO845dszM"
   },
   {
     "uuid": "04f52c3a-1de4-425f-8a59-0e48c5454f91",
@@ -4321,7 +4321,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound/Pokey Means Business.mmrs",
-    "preview": "EarthBound/Pokey Means Business.mp3"
+    "preview": "https://www.youtube.com/watch?v=LkgkxlJR6jw"
   },
   {
     "uuid": "d4ca2832-eebf-4900-85aa-276b3883370e",
@@ -4345,13 +4345,13 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda Feesh Mode/High Noon.mmrs",
-    "preview": "The Legend of Zelda Feesh Mode/High Noon.mp3"
+    "preview": "https://www.youtube.com/watch?v=0dsQQUQPvUc"
   },
   {
     "uuid": "b36ac604-211f-4c71-aa67-7e9699516c3a",
     "creationDate": "2026-03-13T02:40:25.644Z",
     "game": "Metroid Prime 2: Echoes",
-    "song": "Emperor Ing",
+    "song": "Emperor Ing (2nd Phase)",
     "composers": [
       "Kenji Yamamoto"
     ],
@@ -4366,8 +4366,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Metroid Prime 2 Echoes/Emperor Ing.mmrs",
-    "preview": "Metroid Prime 2 Echoes/Emperor Ing.ogg"
+    "file": "Metroid Prime 2 Echoes/Emperor Ing (2nd Phase).mmrs",
+    "preview": "https://www.youtube.com/watch?v=pYCsBMwzv2U"
   },
   {
     "uuid": "fdc9b22b-45cb-4777-bb2b-93bbd4e1a04a",
@@ -4415,7 +4415,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Metroid/Kraid's Lair.mmrs",
-    "preview": "Metroid/Kraid's Lair.mp3"
+    "preview": "https://www.youtube.com/watch?v=39NCMtvijdA"
   },
   {
     "uuid": "ac6d384a-b79e-4c59-8fb8-b0b5e604b57d",
@@ -4438,7 +4438,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Metroid/Brinstar.mmrs",
-    "preview": "Metroid/Brinstar.mp3"
+    "preview": "https://www.youtube.com/watch?v=85tjXRZ6A7U"
   },
   {
     "uuid": "bc4794f6-7d7a-4419-aeed-7b9b977c53aa",
@@ -4461,7 +4461,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Metroid Prime/Menu.mmrs",
-    "preview": "Metroid Prime/Menu.mp3"
+    "preview": "https://www.youtube.com/watch?v=0_vPGD_UFl8"
   },
   {
     "uuid": "32a59f5e-c700-4f29-94a5-a32fa73b4d27",
@@ -4494,7 +4494,7 @@
     "uuid": "61374c34-e9bd-43e5-8db2-77a9c1e79923",
     "creationDate": "2026-03-13T02:56:11.203Z",
     "game": "Paper Mario: The Origami King",
-    "song": "Musee Champignon",
+    "song": "Museé Champignon",
     "composers": [
       "Hiroki Morishita"
     ],
@@ -4513,7 +4513,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Paper Mario The Origami King/Musee Champignon.mmrs",
-    "preview": "Paper Mario The Origami King/Musee Champignon.ogg"
+    "preview": "https://www.youtube.com/watch?v=VJZ5chMthUw"
   },
   {
     "uuid": "a40a151d-9813-4e83-9fe7-a240c0a5e7e0",
@@ -4562,7 +4562,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon Black & White/Driftveil City.mmrs",
-    "preview": "Pokémon Black & White/Driftveil City.mp3"
+    "preview": "https://www.youtube.com/watch?v=gWULamNreCs"
   },
   {
     "uuid": "db3a776b-e206-4f44-92ad-4792e67b7bd7",
@@ -4584,7 +4584,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon Black & White/Ghetsis Battle.mmrs",
-    "preview": "Pokémon Black & White/Ghetsis Battle.mp3"
+    "preview": "https://www.youtube.com/watch?v=LRip6_8-kow"
   },
   {
     "uuid": "33a4ac67-b178-4453-bbba-038038222f35",
@@ -4606,7 +4606,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon Black 2 & White 2/Ghetsis Battle.mmrs",
-    "preview": "Pokémon Black 2 & White 2/Ghetsis Battle.mp3"
+    "preview": "https://www.youtube.com/watch?v=LUgyl7-TqL0"
   },
   {
     "uuid": "370c2336-796b-44d7-9194-6e4bc071b091",
@@ -4699,7 +4699,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mp3",
+    "preview": "https://www.youtube.com/watch?v=hRdi9gdxM2I",
     "lastUpdateDate": "2026-03-13T03:24:08.540Z"
   },
   {
@@ -4724,7 +4724,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Death Mountain.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Death Mountain.mp3"
+    "preview": "https://www.youtube.com/watch?v=qNlPGwOWpi0"
   },
   {
     "uuid": "9c75635e-fff3-41ed-8076-3f00f3cee5c3",
@@ -4747,7 +4747,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Ganon.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Ganon.mp3"
+    "preview": "https://www.youtube.com/watch?v=fRghlfFYbYU"
   },
   {
     "uuid": "5ddaf10e-ea83-4657-b852-e2042213407c",
@@ -4770,7 +4770,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Sanctuary.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Sanctuary.mp3"
+    "preview": "https://www.youtube.com/watch?v=uJejWbfRUQk"
   },
   {
     "uuid": "b107012d-a533-4aef-8d8c-e95419d1709b",
@@ -4838,7 +4838,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Mini-game.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Mini-game.mp3"
+    "preview": "https://www.youtube.com/watch?v=qqFi4Uc7VfU"
   },
   {
     "uuid": "a62c29ac-0337-4be1-aecf-160a94dc559d",
@@ -4860,7 +4860,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda Feesh Mode/Eleventh Hour.mmrs",
-    "preview": "The Legend of Zelda Feesh Mode/Eleventh Hour.mp3"
+    "preview": "https://www.youtube.com/watch?v=4poq3JSaXi0"
   },
   {
     "uuid": "333dbc70-bba5-4c8c-b99f-c318a0dd8675",
@@ -4888,7 +4888,7 @@
     "uuid": "78ea6309-05a5-41d1-9ee2-eb3a582161d7",
     "creationDate": "2026-03-13T03:31:57.127Z",
     "game": "Donkey Kong Country 2: Diddy's Kong Quest",
-    "song": "Zinger Boss",
+    "song": "Flight of the Zinger",
     "composers": [
       "David Wise"
     ],
@@ -4906,8 +4906,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Zinger Boss.mmrs",
-    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Zinger Boss.ogg"
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Flight of the Zinger.mmrs",
+    "preview": "https://www.youtube.com/watch?v=GilHmdjeogI"
   },
   {
     "uuid": "3e4943bc-07f1-4b95-a80d-3bd16d7a4a62",
@@ -4932,7 +4932,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Animal Crossing/K.K Bossa.mmrs",
-    "preview": "Animal Crossing/K.K Bossa.mp3"
+    "preview": "https://www.youtube.com/watch?v=4xgdbbK5low"
   },
   {
     "uuid": "ecba0ed2-4fd1-4dc9-850d-4b177c1d2b6b",
@@ -4956,7 +4956,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Animal Crossing/K.K Metal.mmrs",
-    "preview": "Animal Crossing/K.K Metal.mp3"
+    "preview": "https://www.youtube.com/watch?v=cEi_Mm-P_kE"
   },
   {
     "uuid": "985c0b53-b457-4c46-b2c1-f64052449fbe",
@@ -4979,7 +4979,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Animal Crossing/Rainy Day.mmrs",
-    "preview": "Animal Crossing/Rainy Day.mp3"
+    "preview": "https://www.youtube.com/watch?v=seCnjld7yFM"
   },
   {
     "uuid": "de7ca481-dd7b-411d-9dad-054d3fbceae0",
@@ -5001,7 +5001,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon HeartGold & SoulSilver/Champion Battle.mmrs",
-    "preview": "Pokémon HeartGold & SoulSilver/Champion Battle.mp3"
+    "preview": "https://www.youtube.com/watch?v=_DRnRhYrAek"
   },
   {
     "uuid": "52452139-9e9e-4553-bd39-49c0fcdfbfe9",
@@ -5025,7 +5025,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Luigi's Mansion/Bogmire Theme.mmrs",
-    "preview": "Luigi's Mansion/Bogmire Theme.mp3"
+    "preview": "https://www.youtube.com/watch?v=NXUHuumSe1E"
   },
   {
     "uuid": "99e08953-e677-4bc9-9efb-f90c7177e6e0",
@@ -5049,7 +5049,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "A Hat in Time/Train Rush.mmrs",
-    "preview": "A Hat in Time/Train Rush.mp3"
+    "preview": "https://www.youtube.com/watch?v=g8yN0GyS_ik"
   },
   {
     "uuid": "84b431f7-2bea-4541-a0c4-1e5e3879c0d7",
@@ -5072,7 +5072,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Mario Golf Toadstool Tour/Blooper Bay.mmrs",
-    "preview": "Mario Golf Toadstool Tour/Blooper Bay.mp3"
+    "preview": "https://www.youtube.com/watch?v=XFJbwhMTLlw"
   },
   {
     "uuid": "a4f91771-1929-4bba-9554-376e29eda531",
@@ -5096,7 +5096,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda A Link Between Worlds/Return of the Hero.mmrs",
-    "preview": "The Legend of Zelda A Link Between Worlds/Return of the Hero.mp3"
+    "preview": "https://www.youtube.com/watch?v=-aN7b9TtSFw"
   },
   {
     "uuid": "dbf2acd7-e474-430b-9269-b2ab52469c52",
@@ -5119,7 +5119,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "New Super Mario Bros. Wii/Volcano.mmrs",
-    "preview": "New Super Mario Bros. Wii/Volcano.mp3"
+    "preview": "https://www.youtube.com/watch?v=5ma99uf590A"
   },
   {
     "uuid": "e9feef41-2f5e-4012-ab8b-2382daac44c8",
@@ -5141,7 +5141,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda Oracle of Ages/Black Tower.mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Black Tower.mp3"
+    "preview": "https://www.youtube.com/watch?v=aWLO9twy7Lg"
   },
   {
     "uuid": "32ac9b94-d2b7-4e09-8a86-e3c63d537750",
@@ -5189,7 +5189,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Paper Mario The Thousand-Year Door/Vs. Shadow Queen.mmrs",
-    "preview": "Paper Mario The Thousand-Year Door/Vs. Shadow Queen.mp3"
+    "preview": "https://www.youtube.com/watch?v=ncXclK_yca4"
   },
   {
     "uuid": "f3c78144-cec1-49eb-a0c8-cb124c838e38",
@@ -5214,7 +5214,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Sonic & Knuckles/Flying Battery Zone (Variant A).mmrs",
-    "preview": "Sonic & Knuckles/Flying Battery Zone (Variant A).mp3"
+    "preview": "https://www.youtube.com/watch?v=3I8_cElYGiY"
   },
   {
     "uuid": "c0eba601-9fc5-4be2-82be-4bb4212cce25",
@@ -5239,7 +5239,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Stardew Valley/Overture.mmrs",
-    "preview": "Stardew Valley/Overture.mp3"
+    "preview": "https://www.youtube.com/watch?v=Wh-hjksGB1s"
   },
   {
     "uuid": "2d022621-5615-4da1-af11-16ac233638ac",
@@ -5263,7 +5263,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Tetris/A-type Theme.mmrs",
-    "preview": "Tetris/A-type Theme.mp3"
+    "preview": "https://www.youtube.com/watch?v=8UxX70pfQIE"
   },
   {
     "uuid": "4b9062ad-08b3-435b-b8ed-27f3918b68d5",
@@ -5290,7 +5290,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant A).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant A).mp3"
+    "preview": "https://www.youtube.com/watch?v=NrdQkoAHZwQ"
   },
   {
     "uuid": "227b4d5a-f882-4924-b2f2-248aeaac9cf3",
@@ -5381,7 +5381,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda The Wind Waker/Molgera (Variant A).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Molgera (Variant A).mp3"
+    "preview": "https://www.youtube.com/watch?v=4MAKcGuXyno"
   },
   {
     "uuid": "004e2094-4ef7-4c39-9ca8-479c5c414afe",
@@ -5405,13 +5405,13 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Pokémon XD Gale of Darkness/Miror B. Theme (Variant A).mmrs",
-    "preview": "Pokémon XD Gale of Darkness/Miror B. Theme (Variant A).mp3"
+    "preview": "https://www.youtube.com/watch?v=--XddepDGfs"
   },
   {
     "uuid": "ef337287-5396-448b-8543-14d8476bdba6",
     "creationDate": "2026-03-13T19:38:24.452Z",
     "game": "The Legend of Zelda: Majora's Mask",
-    "song": "New Wave Bossa Nova",
+    "song": "New Wave Bossa Nova (Vocal Version)",
     "composers": [
       "Koji Kondo"
     ],
@@ -5426,8 +5426,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova.mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova.mp3"
+    "file": "The Legend of Zelda Majora's Mask/New Wave Bossa Nova (Vocal Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=S3q-6r3GP-Y"
   },
   {
     "uuid": "292e0e26-93b1-454a-a455-f8fa4b4efebf",
