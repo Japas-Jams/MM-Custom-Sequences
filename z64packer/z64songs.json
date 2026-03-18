@@ -11439,5 +11439,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Trade.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Trade.ogg"
   },
+  {
+    "uuid": "e80944bf-0eb7-4960-beea-a8d1a325fb32",
+    "creationDate": "2026-03-18T02:40:46.705Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Evolution",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Evolution.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Evolution.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
