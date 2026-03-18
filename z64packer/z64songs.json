@@ -11947,7 +11947,7 @@
     "uuid": "494b3dbb-5b11-4326-926c-2d99a1c9da13",
     "creationDate": "2026-03-18T22:48:22.215Z",
     "game": "Ace Attorney Investigations: Miles Edgeworth",
-    "song": "Mastermind",
+    "song": "The Man Who Masterminds the Game",
     "composers": [
       "Noriyuki Iwadare",
       "Yasuko Yamada"
@@ -11963,8 +11963,9 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Ace Attorney Investigations Miles Edgeworth/Mastermind.mmrs",
-    "preview": "Ace Attorney Investigations Miles Edgeworth/Mastermind.ogg"
+    "file": "Ace Attorney Investigations Miles Edgeworth/The Man Who Masterminds the Game.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Mastermind.ogg",
+    "lastUpdateDate": "2026-03-18T23:03:14.494Z"
   },
   {
     "uuid": "0609b1ab-255e-4927-8237-b1977560909b",
