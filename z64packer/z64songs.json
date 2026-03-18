@@ -3354,7 +3354,7 @@
     "uuid": "8bb4748a-eb06-4b6a-a7cf-2e777c4285d3",
     "creationDate": "2026-03-11T23:35:38.954Z",
     "game": "Ace Attorney Investigations: Miles Edgeworth",
-    "song": "Pursuit ~ Lying Coldly",
+    "song": "Pursuit ~ Lying Coldly (Variant A)",
     "composers": [
       "Noriyuki Iwadare",
       "Yasuko Yamada"
@@ -3372,8 +3372,9 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mmrs",
-    "preview": "https://www.youtube.com/watch?v=ejOU2tWMMgM"
+    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ejOU2tWMMgM",
+    "lastUpdateDate": "2026-03-18T22:50:57.822Z"
   },
   {
     "uuid": "f8c3103c-1fbc-47ff-8a7a-3cbaa0152edd",
@@ -11655,6 +11656,506 @@
     "usesFormmask": false,
     "file": "Pokémon Red, Blue & Yellow/Pokémon Center.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Pokémon Center.ogg"
+  },
+  {
+    "uuid": "fcb085bd-6aea-4a7c-9258-fd46fdf5412f",
+    "creationDate": "2026-03-18T22:16:41.897Z",
+    "game": "Kirby Super Star",
+    "song": "Rest Area",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Super Star/Rest Area.mmrs",
+    "preview": "Kirby Super Star/Rest Area.ogg"
+  },
+  {
+    "uuid": "d622c076-cf11-4e28-a325-1aa7a65d415a",
+    "creationDate": "2026-03-18T22:17:57.562Z",
+    "game": "Kirby's Adventure",
+    "song": "Bonus (Perfect)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Bonus (Perfect).mmrs",
+    "preview": "Kirby's Adventure/Bonus (Perfect).ogg"
+  },
+  {
+    "uuid": "82fc6ddc-30fe-46b3-90a0-209689874d84",
+    "creationDate": "2026-03-18T22:18:28.099Z",
+    "game": "Kirby's Adventure",
+    "song": "Bonus (Clear)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Bonus (Clear).mmrs",
+    "preview": "Kirby's Adventure/Bonus (Clear).ogg"
+  },
+  {
+    "uuid": "75319b8e-0255-4304-aec6-7ff4eb915c91",
+    "creationDate": "2026-03-18T22:30:52.907Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Dora Dora",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Dora Dora.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Dora Dora.ogg"
+  },
+  {
+    "uuid": "a103bff6-c4c2-42d8-8cc9-860d7f0d3624",
+    "creationDate": "2026-03-18T22:31:59.188Z",
+    "game": "Super Mario Bros. 3",
+    "song": "Encounter",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Bros. 3/Encounter.mmrs",
+    "preview": "Super Mario Bros. 3/Encounter.ogg"
+  },
+  {
+    "uuid": "79d4ec3f-e615-4d1a-ac07-89e7c7122a63",
+    "creationDate": "2026-03-18T22:36:17.612Z",
+    "game": "Mega Man Zero 3",
+    "song": "Vs. Omega",
+    "composers": [
+      "Ippo Yamada",
+      "along",
+      "Masaki Suzuki",
+      "Tsutomu Kurihara",
+      "Luna Umegaki"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 3/Vs. Omega.mmrs",
+    "preview": "Mega Man Zero 3/Vs. Omega.ogg"
+  },
+  {
+    "uuid": "2f39bcfc-05cb-4cbf-b5ff-222080fe5149",
+    "creationDate": "2026-03-18T22:37:32.724Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Confrontation ~ Presto",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Confrontation ~ Presto.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Confrontation ~ Presto.ogg"
+  },
+  {
+    "uuid": "6039b530-76e4-4374-9301-cddf072cb83b",
+    "creationDate": "2026-03-18T22:38:38.040Z",
+    "game": "Action 52",
+    "song": "Cheetahmen",
+    "composers": [
+      "Mario González"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Cheetahmen.mmrs",
+    "preview": "Action 52/Cheetahmen.ogg"
+  },
+  {
+    "uuid": "507f426b-973a-4e1a-8d3e-3b794d57e330",
+    "creationDate": "2026-03-18T22:43:16.297Z",
+    "game": "Mega Man Zero 2",
+    "song": "Intro",
+    "composers": [
+      "Masaki Suzuki"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 2/Intro.mmrs",
+    "preview": "Mega Man Zero 2/Intro.ogg"
+  },
+  {
+    "uuid": "b53a24af-ec65-4445-a2df-c1863302321a",
+    "creationDate": "2026-03-18T22:44:05.922Z",
+    "game": "Mario Tennis",
+    "song": "Game Point",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Tennis/Game Point.mmrs",
+    "preview": "Mario Tennis/Game Point.ogg",
+    "lastUpdateDate": "2026-03-18T22:52:53.404Z"
+  },
+  {
+    "uuid": "b790cced-2e50-4300-888e-30329e39be09",
+    "creationDate": "2026-03-18T22:46:29.134Z",
+    "game": "Paper Mario",
+    "song": "Vs. Crystal King",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario/Vs. Crystal King.mmrs",
+    "preview": "Paper Mario/Vs. Crystal King.ogg"
+  },
+  {
+    "uuid": "0ceb431b-c90f-4bb6-a03f-d9b28d933f2b",
+    "creationDate": "2026-03-18T22:47:32.491Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Boss Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Boss Theme.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Boss Theme.ogg"
+  },
+  {
+    "uuid": "494b3dbb-5b11-4326-926c-2d99a1c9da13",
+    "creationDate": "2026-03-18T22:48:22.215Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "The Man Who Masterminds the Game",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/The Man Who Masterminds the Game.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Mastermind.ogg",
+    "lastUpdateDate": "2026-03-18T23:03:14.494Z"
+  },
+  {
+    "uuid": "0609b1ab-255e-4927-8237-b1977560909b",
+    "creationDate": "2026-03-18T22:49:51.826Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Pursuit ~ Lying Coldly (Variant B)",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).ogg"
+  },
+  {
+    "uuid": "40660925-20b5-4397-9649-b48f77d528c8",
+    "creationDate": "2026-03-18T22:55:32.421Z",
+    "game": "Phoenix Wright: Ace Attorney – Trials and Tribulations",
+    "song": "Godot ~ The Fragrance of Dark Colored Coffee",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney – Trials and Tribulations/Godot ~ The Fragrance of Dark Colored Coffee.mmrs",
+    "preview": "Phoenix Wright Ace Attorney – Trials and Tribulations/Godot ~ The Fragrance of Dark Colored Coffee.ogg"
+  },
+  {
+    "uuid": "2ff99f7b-04f2-42ac-88e4-71ca58c2d4eb",
+    "creationDate": "2026-03-18T22:57:44.321Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Sebastian Debeste ~ First-Class Farewell",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Sebastian Debeste ~ First-Class Farewell.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Sebastian Debeste ~ First-Class Farewell.ogg"
+  },
+  {
+    "uuid": "47ac2906-6380-43c9-907d-551386b39310",
+    "creationDate": "2026-03-18T22:58:23.485Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Castle Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Castle Theme.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Castle Theme.ogg"
+  },
+  {
+    "uuid": "4fae02a7-af27-4beb-8b7b-63d340f10ba8",
+    "creationDate": "2026-03-18T23:00:30.879Z",
+    "game": "Animal Crossing: Wild World",
+    "song": "Cafe Theme",
+    "composers": [
+      "Kazumi Totaka",
+      "Asuka Hayazaki"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16E"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Animal Crossing Wild World/Cafe Theme.mmrs",
+    "preview": "Animal Crossing Wild World/Cafe Theme.ogg"
+  },
+  {
+    "uuid": "105c5ad2-8eac-40c0-bf84-b8b7815664ce",
+    "creationDate": "2026-03-18T23:01:59.638Z",
+    "game": "Ace Attorney Investigations: Miles Edgeworth",
+    "song": "Yumihiko Ichiyanagi ~ Ichiryuu's Farewell",
+    "composers": [
+      "Noriyuki Iwadare",
+      "Yasuko Yamada"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ace Attorney Investigations Miles Edgeworth/Yumihiko Ichiyanagi ~ Ichiryuu's Farewell.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Yumihiko Ichiyanagi ~ Ichiryuu's Farewell.ogg"
+  },
+  {
+    "uuid": "3c18cb45-625b-4dce-af24-adf2b2a81ddf",
+    "creationDate": "2026-03-18T23:04:10.279Z",
+    "game": "Advance Wars 2: Black Hole Rising",
+    "song": "Grit's Theme",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Advance Wars 2 Black Hole Rising/Grit's Theme.mmrs",
+    "preview": "Advance Wars 2 Black Hole Rising/Grit's Theme.ogg"
+  },
+  {
+    "uuid": "ceb4d311-1c64-4c51-aa4b-0e30613617e0",
+    "creationDate": "2026-03-18T23:05:36.631Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Factory Inspection",
+    "composers": [
+      "Jun Ishikawa",
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Factory Inspection.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Factory Inspection.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
