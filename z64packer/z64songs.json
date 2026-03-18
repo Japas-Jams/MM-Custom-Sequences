@@ -11260,5 +11260,27 @@
     "file": "Xexyz/Outside.mmrs",
     "preview": "Xexyz/Outside.ogg"
   },
+  {
+    "uuid": "661340b7-ce23-494f-9d1f-86c9d283b795",
+    "creationDate": "2026-03-18T00:00:33.032Z",
+    "game": "Xexyz",
+    "song": "Shop",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "144"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Shop.mmrs",
+    "preview": "Xexyz/Shop.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
