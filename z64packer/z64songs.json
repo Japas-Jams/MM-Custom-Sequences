@@ -11872,5 +11872,28 @@
     "file": "Mega Man Zero 2/Intro.mmrs",
     "preview": "Mega Man Zero 2/Intro.ogg"
   },
+  {
+    "uuid": "b53a24af-ec65-4445-a2df-c1863302321a",
+    "creationDate": "2026-03-18T22:44:05.922Z",
+    "game": "Mario Tennis",
+    "song": "Game Point",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Tennis/Game Point.mmrs",
+    "preview": "Mario Tennis/Game Point.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
