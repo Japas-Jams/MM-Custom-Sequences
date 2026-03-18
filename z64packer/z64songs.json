@@ -3374,7 +3374,7 @@
     "usesFormmask": false,
     "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=ejOU2tWMMgM",
-    "lastUpdateDate": "2026-03-18T22:50:57.822Z"
+    "lastUpdateDate": "2026-03-18T23:25:58.773Z"
   },
   {
     "uuid": "f8c3103c-1fbc-47ff-8a7a-3cbaa0152edd",
@@ -11971,7 +11971,7 @@
     "uuid": "0609b1ab-255e-4927-8237-b1977560909b",
     "creationDate": "2026-03-18T22:49:51.826Z",
     "game": "Ace Attorney Investigations: Miles Edgeworth",
-    "song": "Pursuit ~ Lying Coldly (Variant B)",
+    "song": "Pursuit ~ Wanting to Find the Truth",
     "composers": [
       "Noriyuki Iwadare",
       "Yasuko Yamada"
@@ -11987,8 +11987,9 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).mmrs",
-    "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).ogg"
+    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Wanting to Find the Truth.mmrs",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).ogg",
+    "lastUpdateDate": "2026-03-18T23:25:05.877Z"
   },
   {
     "uuid": "40660925-20b5-4397-9649-b48f77d528c8",
