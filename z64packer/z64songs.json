@@ -11748,5 +11748,29 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Dora Dora.mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Dora Dora.ogg"
   },
+  {
+    "uuid": "a103bff6-c4c2-42d8-8cc9-860d7f0d3624",
+    "creationDate": "2026-03-18T22:31:59.188Z",
+    "game": "Super Mario Bros. 3",
+    "song": "Encounter",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Bros. 3/Encounter.mmrs",
+    "preview": "Super Mario Bros. 3/Encounter.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
