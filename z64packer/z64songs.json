@@ -11327,5 +11327,27 @@
     "file": "ActRaiser 2/Death Field.mmrs",
     "preview": "ActRaiser 2/Death Field.ogg"
   },
+  {
+    "uuid": "6dabd4b3-66e9-427a-85ea-3487c35d61f3",
+    "creationDate": "2026-03-18T02:34:05.839Z",
+    "game": "Command & Conquer: Red Alert",
+    "song": "Hell March",
+    "composers": [
+      "Frank Klepacki"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "106"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Command & Conquer Red Alert/Hell March.mmrs",
+    "preview": "Command & Conquer Red Alert/Hell March.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
