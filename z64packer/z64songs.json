@@ -11461,5 +11461,27 @@
     "file": "Pokémon Red, Blue & Yellow/Evolution.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Evolution.ogg"
   },
+  {
+    "uuid": "e5a1abb4-003d-41e6-a201-12736aaddef2",
+    "creationDate": "2026-03-18T02:41:40.494Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Item Obtained",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Item Obtained.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Item Obtained.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
