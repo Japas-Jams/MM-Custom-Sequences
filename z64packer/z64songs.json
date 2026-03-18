@@ -11615,5 +11615,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.ogg"
   },
+  {
+    "uuid": "217d79d3-844d-4e2c-ba14-0731205ee79a",
+    "creationDate": "2026-03-18T02:52:37.250Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "National Park (SerenadeOfWalters version)",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
