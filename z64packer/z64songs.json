@@ -11305,5 +11305,403 @@
     "file": "Xexyz/Game Over.mmrs",
     "preview": "Xexyz/Game Over.ogg"
   },
+  {
+    "uuid": "6bbbd1da-1558-45c1-b74f-90d867bcc327",
+    "creationDate": "2026-03-18T02:32:29.855Z",
+    "game": "ActRaiser 2",
+    "song": "Death Field",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16F"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "ActRaiser 2/Death Field.mmrs",
+    "preview": "ActRaiser 2/Death Field.ogg"
+  },
+  {
+    "uuid": "6dabd4b3-66e9-427a-85ea-3487c35d61f3",
+    "creationDate": "2026-03-18T02:34:05.839Z",
+    "game": "Command & Conquer: Red Alert",
+    "song": "Hell March",
+    "composers": [
+      "Frank Klepacki"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "106"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Command & Conquer Red Alert/Hell March.mmrs",
+    "preview": "Command & Conquer Red Alert/Hell March.ogg"
+  },
+  {
+    "uuid": "7f2cd6f8-c376-423e-80e9-11d784bb42b0",
+    "creationDate": "2026-03-18T02:35:52.834Z",
+    "game": "Glover",
+    "song": "Carnival Lobby & Level 1",
+    "composers": [
+      "Rob Lord",
+      "Paul Weir",
+      "Mark Bandola"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Glover/Carnival Lobby & Level 1.mmrs",
+    "preview": "Glover/Carnival Lobby & Level 1.ogg"
+  },
+  {
+    "uuid": "78c339cf-9404-4c57-998b-ca63c4db083e",
+    "creationDate": "2026-03-18T02:37:05.381Z",
+    "game": "Mario Paint",
+    "song": "Creative Exercise",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "11F"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Paint/Creative Exercise.mmrs",
+    "preview": "Mario Paint/Creative Exercise.ogg"
+  },
+  {
+    "uuid": "e464f50d-ad5f-43d7-8fea-ad31cda3f67a",
+    "creationDate": "2026-03-18T02:38:22.838Z",
+    "game": "Perfect Dark",
+    "song": "Chicago: Stealth",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "13A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Perfect Dark/Chicago Stealth.mmrs",
+    "preview": "Perfect Dark/Chicago Stealth.ogg"
+  },
+  {
+    "uuid": "9d253506-75c2-43db-a915-7426b445247e",
+    "creationDate": "2026-03-18T02:39:26.664Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Trade",
+    "composers": [
+      "Gō Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Trade.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Trade.ogg"
+  },
+  {
+    "uuid": "e80944bf-0eb7-4960-beea-a8d1a325fb32",
+    "creationDate": "2026-03-18T02:40:46.705Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Evolution",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Evolution.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Evolution.ogg"
+  },
+  {
+    "uuid": "e5a1abb4-003d-41e6-a201-12736aaddef2",
+    "creationDate": "2026-03-18T02:41:40.494Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Item Obtained",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Item Obtained.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Item Obtained.ogg"
+  },
+  {
+    "uuid": "735d8483-111d-4a7f-9817-7841f0c23fe3",
+    "creationDate": "2026-03-18T02:42:38.832Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Level Up",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Level Up.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Level Up.ogg"
+  },
+  {
+    "uuid": "d525477a-0b37-49d3-86f5-164c88e3c3e7",
+    "creationDate": "2026-03-18T02:43:58.218Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Giovanni's Theme (Unused)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Giovanni's Theme (Unused).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Giovanni's Theme (Unused).ogg"
+  },
+  {
+    "uuid": "39625bd0-857e-4e0a-be2d-d430257d18a0",
+    "creationDate": "2026-03-18T02:46:57.059Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Introduction/Routes 122 & 123",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "102"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.ogg"
+  },
+  {
+    "uuid": "2d6cb3dd-e14a-4386-9921-e0bb6fbb5116",
+    "creationDate": "2026-03-18T02:47:39.854Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Dragon's Den",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Dragon's Den.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Dragon's Den.ogg"
+  },
+  {
+    "uuid": "70190da4-15ff-4bd0-bbcd-61310470bc52",
+    "creationDate": "2026-03-18T02:49:56.681Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Received a TM!",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Received a TM!.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Received a TM!.ogg"
+  },
+  {
+    "uuid": "758793ea-0c5d-4e50-82d7-d479b9635486",
+    "creationDate": "2026-03-18T02:51:23.138Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Ecruteak City/Cianwood City",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "110"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.ogg"
+  },
+  {
+    "uuid": "217d79d3-844d-4e2c-ba14-0731205ee79a",
+    "creationDate": "2026-03-18T02:52:37.250Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "National Park (SerenadeOfWalters version)",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).ogg"
+  },
+  {
+    "uuid": "93be2938-8be4-4cf9-be0f-cddee069f7f4",
+    "creationDate": "2026-03-18T02:53:21.958Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Celadon City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Celadon City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City.ogg"
+  },
+  {
+    "uuid": "74796081-0922-48c1-821f-a632c78dd7b8",
+    "creationDate": "2026-03-18T02:54:02.263Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Mt. Moon",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon.ogg"
+  },
+  {
+    "uuid": "27d52756-0ffd-491c-b421-45e976fe62d5",
+    "creationDate": "2026-03-18T02:54:58.874Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pokémon Center",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
