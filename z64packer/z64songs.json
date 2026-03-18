@@ -11637,5 +11637,27 @@
     "file": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).ogg"
   },
+  {
+    "uuid": "93be2938-8be4-4cf9-be0f-cddee069f7f4",
+    "creationDate": "2026-03-18T02:53:21.958Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Celadon City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Celadon City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
