@@ -11373,5 +11373,27 @@
     "file": "Glover/Carnival Lobby & Level 1.mmrs",
     "preview": "Glover/Carnival Lobby & Level 1.ogg"
   },
+  {
+    "uuid": "78c339cf-9404-4c57-998b-ca63c4db083e",
+    "creationDate": "2026-03-18T02:37:05.381Z",
+    "game": "Mario Paint",
+    "song": "Creative Exercise",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "SerenadeOfWalters"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "11F"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Paint/Creative Exercise.mmrs",
+    "preview": "Mario Paint/Creative Exercise.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
