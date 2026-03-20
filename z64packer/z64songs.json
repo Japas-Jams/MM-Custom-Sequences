@@ -12860,5 +12860,27 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Ever Grande City.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Ever Grande City.ogg"
   },
+  {
+    "uuid": "5daa5332-97f1-4118-a95d-71d9581b9f5d",
+    "creationDate": "2026-03-20T02:42:09.438Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Fortree City",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Fortree City.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Fortree City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
