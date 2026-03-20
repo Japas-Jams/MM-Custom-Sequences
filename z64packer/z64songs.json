@@ -13046,5 +13046,28 @@
     "file": "Pokémon Black & White/Dragonspiral Tower.mmrs",
     "preview": "Pokémon Black & White/Dragonspiral Tower.ogg"
   },
+  {
+    "uuid": "84fd3366-7a05-4c66-9f98-797b3c0b4a01",
+    "creationDate": "2026-03-20T03:03:18.809Z",
+    "game": "Pokémon Black & White",
+    "song": "Lacunosa Town",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Lacunosa Town.mmrs",
+    "preview": "Pokémon Black & White/Lacunosa Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
