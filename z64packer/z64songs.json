@@ -13091,5 +13091,834 @@
     "file": "Pokémon Black & White/Route 10.mmrs",
     "preview": "Pokémon Black & White/Route 10.ogg"
   },
+  {
+    "uuid": "4f934008-d379-4fcc-b64c-e112a4591f43",
+    "creationDate": "2026-03-20T21:13:29.063Z",
+    "game": "An Untitled Story",
+    "song": "Bonus Theme",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Bonus Theme.mmrs",
+    "preview": "An Untitled Story/Bonus Theme.ogg"
+  },
+  {
+    "uuid": "6f583097-caf1-47ef-a5ae-46051055c9d8",
+    "creationDate": "2026-03-20T21:14:14.228Z",
+    "game": "An Untitled Story",
+    "song": "Nightwalk",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Nightwalk.mmrs",
+    "preview": "An Untitled Story/Nightwalk.ogg"
+  },
+  {
+    "uuid": "4529c97d-1e21-4634-ba21-bb608fabe1d5",
+    "creationDate": "2026-03-20T21:25:51.436Z",
+    "game": "An Untitled Story",
+    "song": "Cloudrun",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "116"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Cloudrun.mmrs",
+    "preview": "An Untitled Story/Cloudrun.ogg"
+  },
+  {
+    "uuid": "a73081f1-1f13-4685-8a03-4ec68c8fccf0",
+    "creationDate": "2026-03-20T21:26:28.607Z",
+    "game": "An Untitled Story",
+    "song": "Stone Castle",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Stone Castle.mmrs",
+    "preview": "An Untitled Story/Stone Castle.ogg"
+  },
+  {
+    "uuid": "1ae59d98-361d-4845-b37d-b1a634a86ea8",
+    "creationDate": "2026-03-20T21:27:05.862Z",
+    "game": "An Untitled Story",
+    "song": "Staircase",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "113",
+      "165",
+      "106"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Staircase.mmrs",
+    "preview": "An Untitled Story/Staircase.ogg"
+  },
+  {
+    "uuid": "4441d5dc-8687-411e-86ea-4b4861fe10d3",
+    "creationDate": "2026-03-20T21:28:13.938Z",
+    "game": "An Untitled Story",
+    "song": "Boss Theme",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Boss Theme.mmrs",
+    "preview": "An Untitled Story/Boss Theme.ogg"
+  },
+  {
+    "uuid": "e3d67a32-1565-4c1c-b9e2-5fa770bd1da5",
+    "creationDate": "2026-03-20T21:29:03.695Z",
+    "game": "An Untitled Story",
+    "song": "Puzzle Box",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Puzzle Box.mmrs",
+    "preview": "An Untitled Story/Puzzle Box.ogg"
+  },
+  {
+    "uuid": "de1e0a8a-9ac2-4b6e-91bc-1ccd56f1ace2",
+    "creationDate": "2026-03-20T21:29:44.067Z",
+    "game": "An Untitled Story",
+    "song": "Ninja",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Ninja.mmrs",
+    "preview": "An Untitled Story/Ninja.ogg"
+  },
+  {
+    "uuid": "ca74d497-f5f9-45eb-bb5a-67f7966b1c0d",
+    "creationDate": "2026-03-20T21:30:27.970Z",
+    "game": "An Untitled Story",
+    "song": "Blackjack",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Blackjack.mmrs",
+    "preview": "An Untitled Story/Blackjack.ogg"
+  },
+  {
+    "uuid": "36d5c5df-f297-4055-950e-8f5a649a2123",
+    "creationDate": "2026-03-20T21:31:08.576Z",
+    "game": "An Untitled Story",
+    "song": "Mountside",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "106",
+      "107",
+      "165",
+      "11c"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Mountside.mmrs",
+    "preview": "An Untitled Story/Mountside.ogg"
+  },
+  {
+    "uuid": "88bf226d-e854-4090-86de-63d9b2f6fa88",
+    "creationDate": "2026-03-20T21:31:46.926Z",
+    "game": "An Untitled Story",
+    "song": "Skysand",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Skysand.mmrs",
+    "preview": "An Untitled Story/Skysand.ogg"
+  },
+  {
+    "uuid": "8d255bd6-4837-45f4-9b98-8413f731e0f2",
+    "creationDate": "2026-03-20T21:38:16.128Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Endless Mine",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "4",
+      "13B"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Endless Mine.mmrs",
+    "preview": "Sonic the Hedgehog 3/Endless Mine.ogg"
+  },
+  {
+    "uuid": "31c7e500-4e7c-4190-9815-b40caef51fcf",
+    "creationDate": "2026-03-20T21:38:54.779Z",
+    "game": "Windows XP",
+    "song": "Town",
+    "composers": [
+      "Nathan Grigg"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Windows XP/Town.mmrs",
+    "preview": "Windows XP/Town.ogg"
+  },
+  {
+    "uuid": "9f906843-7688-4ffa-ba5c-15965d884da8",
+    "creationDate": "2026-03-20T21:39:44.388Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Special Stage",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Special Stage.mmrs",
+    "preview": "Sonic the Hedgehog 3/Special Stage.ogg"
+  },
+  {
+    "uuid": "55aa3444-d694-4c91-893a-0b638f62ddbc",
+    "creationDate": "2026-03-20T21:44:35.583Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Botanic Base",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Botanic Base.mmrs",
+    "preview": "Knuckles' Chaotix/Botanic Base.ogg"
+  },
+  {
+    "uuid": "19cd2287-e441-44b7-9e45-60e69afc7c99",
+    "creationDate": "2026-03-20T21:45:13.388Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Intro",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Intro.mmrs",
+    "preview": "Knuckles' Chaotix/Intro.ogg"
+  },
+  {
+    "uuid": "9c94e1c2-cd79-4fb0-84a6-7df55342f77c",
+    "creationDate": "2026-03-20T21:45:57.174Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Special Stage (Clear)",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Special Stage (Clear).mmrs",
+    "preview": "Knuckles' Chaotix/Special Stage (Clear).ogg"
+  },
+  {
+    "uuid": "13dc925e-6699-4b92-add3-33137307cbfb",
+    "creationDate": "2026-03-20T21:46:34.051Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Arena Off",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "13b"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Arena Off.mmrs",
+    "preview": "Knuckles' Chaotix/Arena Off.ogg"
+  },
+  {
+    "uuid": "6fcd4a4c-543b-4c59-a9d1-014fc105fe3e",
+    "creationDate": "2026-03-20T21:47:14.274Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Island",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Island.mmrs",
+    "preview": "Knuckles' Chaotix/Island.ogg"
+  },
+  {
+    "uuid": "10cb9b07-de71-433b-98f6-02ba4dd35be4",
+    "creationDate": "2026-03-20T21:51:35.424Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Marina",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Marina.mmrs",
+    "preview": "Knuckles' Chaotix/Marina.ogg"
+  },
+  {
+    "uuid": "a3453b94-f058-412e-8f44-47ed7423c070",
+    "creationDate": "2026-03-20T21:58:37.466Z",
+    "game": "Action 52",
+    "song": "Streemerz",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Streemerz.mmrs",
+    "preview": "Action 52/Streemerz.ogg"
+  },
+  {
+    "uuid": "08ecbda6-dd53-4586-87b6-7fa1e7049411",
+    "creationDate": "2026-03-20T21:59:22.198Z",
+    "game": "Action 52",
+    "song": "Silver Sword",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Silver Sword.mmrs",
+    "preview": "Action 52/Silver Sword.ogg"
+  },
+  {
+    "uuid": "a79db028-dd32-4db3-8f52-6c8824521810",
+    "creationDate": "2026-03-20T21:59:54.100Z",
+    "game": "Action 52",
+    "song": "Time Warp",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Time Warp.mmrs",
+    "preview": "Action 52/Time Warp.ogg",
+    "lastUpdateDate": "2026-03-20T22:00:12.439Z"
+  },
+  {
+    "uuid": "659377d6-52de-436f-b077-bf891ae3e68f",
+    "creationDate": "2026-03-20T22:00:44.357Z",
+    "game": "Action 52",
+    "song": "Dam Busters",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Dam Busters.mmrs",
+    "preview": "Action 52/Dam Busters.ogg"
+  },
+  {
+    "uuid": "fcd82664-9d54-43e3-a626-ba5ae29e505e",
+    "creationDate": "2026-03-20T22:07:45.384Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Star Piece Obtained",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Star Piece Obtained.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Star Piece Obtained.ogg"
+  },
+  {
+    "uuid": "8085e931-32cc-4c76-93e1-5409dca10ef4",
+    "creationDate": "2026-03-20T22:08:27.661Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Koopa Paratroopa Trio Battle Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Koopa Paratroopa Trio Battle Theme.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Koopa Paratroopa Trio Battle Theme.ogg"
+  },
+  {
+    "uuid": "3d481fd0-6fac-4c90-a5fd-47784479bb34",
+    "creationDate": "2026-03-20T22:09:31.587Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Have a Nice Talk",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Have a Nice Talk.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Have a Nice Talk.ogg"
+  },
+  {
+    "uuid": "8990c93b-f28a-40f5-82b6-32ad592ae2e2",
+    "creationDate": "2026-03-20T22:10:05.546Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Victory",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Victory.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Victory.ogg"
+  },
+  {
+    "uuid": "4cdce499-1847-4090-b4d3-30ec97cabc8c",
+    "creationDate": "2026-03-20T22:12:29.511Z",
+    "game": "Action 52",
+    "song": "Fuzz Power",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Fuzz Power.mmrs",
+    "preview": "Action 52/Fuzz Power.ogg"
+  },
+  {
+    "uuid": "3705a49f-5803-47e6-8ddc-0e44a6736d14",
+    "creationDate": "2026-03-20T22:13:15.052Z",
+    "game": "Bomberman Hero",
+    "song": "Redial (Variant B)",
+    "composers": [
+      "Jun Chikuma"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bomberman Hero/Redial (Variant B).mmrs",
+    "preview": "Bomberman Hero/Redial (Variant B).ogg"
+  },
+  {
+    "uuid": "3c07668e-6016-482d-bfc5-980619ce6f14",
+    "creationDate": "2026-03-20T22:14:44.219Z",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Thwomp Volcano",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Partners in Time/Thwomp Volcano.mmrs",
+    "preview": "Mario & Luigi Partners in Time/Thwomp Volcano.ogg"
+  },
+  {
+    "uuid": "8178ae2b-b99d-448b-9726-ba0d9afbc951",
+    "creationDate": "2026-03-20T22:15:21.186Z",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Gritzy Desert",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Partners in Time/Gritzy Desert.mmrs",
+    "preview": "Mario & Luigi Partners in Time/Gritzy Desert.ogg"
+  },
+  {
+    "uuid": "c872ef45-d614-4ae3-800b-b1cd66678536",
+    "creationDate": "2026-03-20T22:15:53.497Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Cavi Cape",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "13B",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Cavi Cape.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Cavi Cape.ogg"
+  },
+  {
+    "uuid": "d76c4fc7-beaf-46bb-9be6-4a9c833e5040",
+    "creationDate": "2026-03-20T22:16:28.369Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Bumpsy Plains",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Bumpsy Plains.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Bumpsy Plains.ogg"
+  },
+  {
+    "uuid": "71721d8b-ce82-4be0-abdb-062d2e156d0b",
+    "creationDate": "2026-03-20T22:17:08.189Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Toad Town",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Toad Town.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Toad Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
