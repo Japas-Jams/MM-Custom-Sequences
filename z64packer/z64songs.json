@@ -12977,5 +12977,28 @@
     "file": "Pokémon Black 2 & White 2/Encounter! Colress.mmrs",
     "preview": "Pokémon Black 2 & White 2/Encounter! Colress.ogg"
   },
+  {
+    "uuid": "cc3cd4f4-1b83-4051-b474-60abf7f12657",
+    "creationDate": "2026-03-20T03:00:16.465Z",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Join Avenue",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black 2 & White 2/Join Avenue.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Join Avenue.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
