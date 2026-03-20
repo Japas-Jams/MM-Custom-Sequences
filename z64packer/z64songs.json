@@ -12339,5 +12339,28 @@
     "file": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.mmrs",
     "preview": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.ogg"
   },
+  {
+    "uuid": "7a251f83-7373-4419-8ac8-5e841d4aac79",
+    "creationDate": "2026-03-20T00:46:51.785Z",
+    "game": "Metroid Prime 3: Corruption",
+    "song": "Title Theme",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "16",
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 3 Corruption/Title Theme.mmrs",
+    "preview": "Metroid Prime 3 Corruption/Title Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
