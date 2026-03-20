@@ -13711,5 +13711,28 @@
     "file": "Mario & Luigi Bowser's Inside Story/Koopa Paratroopa Trio Battle Theme.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Koopa Paratroopa Trio Battle Theme.ogg"
   },
+  {
+    "uuid": "3d481fd0-6fac-4c90-a5fd-47784479bb34",
+    "creationDate": "2026-03-20T22:09:31.587Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Have a Nice Talk",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Have a Nice Talk.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Have a Nice Talk.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
