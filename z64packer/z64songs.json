@@ -13182,5 +13182,31 @@
     "file": "An Untitled Story/Stone Castle.mmrs",
     "preview": "An Untitled Story/Stone Castle.ogg"
   },
+  {
+    "uuid": "1ae59d98-361d-4845-b37d-b1a634a86ea8",
+    "creationDate": "2026-03-20T21:27:05.862Z",
+    "game": "An Untitled Story",
+    "song": "Staircase",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "113",
+      "165",
+      "106"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Staircase.mmrs",
+    "preview": "An Untitled Story/Staircase.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
