@@ -12557,5 +12557,31 @@
     "file": "Pokémon Ranger Shadows of Almia/Darkrai Battle.mmrs",
     "preview": "Pokémon Ranger Shadows of Almia/Darkrai Battle.ogg"
   },
+  {
+    "uuid": "8f82f04d-349f-452e-a3ee-286f9fd5d67c",
+    "creationDate": "2026-03-20T01:11:51.037Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Sinis Trio Battle",
+    "composers": [
+      "Kinta Sato",
+      "Takuto Kitsuta",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Sinis Trio Battle.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Sinis Trio Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
