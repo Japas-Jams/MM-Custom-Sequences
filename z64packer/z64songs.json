@@ -13734,5 +13734,27 @@
     "file": "Mario & Luigi Bowser's Inside Story/Have a Nice Talk.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Have a Nice Talk.ogg"
   },
+  {
+    "uuid": "8990c93b-f28a-40f5-82b6-32ad592ae2e2",
+    "creationDate": "2026-03-20T22:10:05.546Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Victory",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Victory.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
