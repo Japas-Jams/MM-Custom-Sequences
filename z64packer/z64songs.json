@@ -12203,5 +12203,29 @@
     "file": "Fire Emblem Three Houses/Fódlan Winds (Piano).mmrs",
     "preview": "Fire Emblem Three Houses/Fódlan Winds (Piano).ogg"
   },
+  {
+    "uuid": "164be58f-9992-4447-84aa-b55fdb8c93cb",
+    "creationDate": "2026-03-20T00:35:46.023Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Tempest of Seasons (Piano)",
+    "composers": [
+      "Takeru Kanazaki",
+      "Hiroki Morishita",
+      "Rei Kondoh"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Tempest of Seasons (Piano).mmrs",
+    "preview": "Fire Emblem Three Houses/Tempest of Seasons (Piano).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
