@@ -12531,5 +12531,31 @@
     "file": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.mmrs",
     "preview": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.ogg"
   },
+  {
+    "uuid": "4fdb3c51-5ddf-4b5f-9b75-fc6fddf93b51",
+    "creationDate": "2026-03-20T01:10:32.195Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Darkrai Battle",
+    "composers": [
+      "Kinta Sato",
+      "Takuto Kitsuta",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Darkrai Battle.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Darkrai Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
