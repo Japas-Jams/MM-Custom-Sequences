@@ -13642,5 +13642,29 @@
     "preview": "Action 52/Time Warp.ogg",
     "lastUpdateDate": "2026-03-20T22:00:12.439Z"
   },
+  {
+    "uuid": "659377d6-52de-436f-b077-bf891ae3e68f",
+    "creationDate": "2026-03-20T22:00:44.357Z",
+    "game": "Action 52",
+    "song": "Dam Busters",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Dam Busters.mmrs",
+    "preview": "Action 52/Dam Busters.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
