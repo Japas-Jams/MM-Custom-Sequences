@@ -13567,5 +13567,30 @@
     "file": "Knuckles' Chaotix/Marina.mmrs",
     "preview": "Knuckles' Chaotix/Marina.ogg"
   },
+  {
+    "uuid": "a3453b94-f058-412e-8f44-47ed7423c070",
+    "creationDate": "2026-03-20T21:58:37.466Z",
+    "game": "Action 52",
+    "song": "Streemerz",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Streemerz.mmrs",
+    "preview": "Action 52/Streemerz.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
