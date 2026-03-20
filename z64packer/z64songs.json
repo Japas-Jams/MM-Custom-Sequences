@@ -12790,5 +12790,27 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Level Up!.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Level Up!.ogg"
   },
+  {
+    "uuid": "b93b06a3-0894-41e1-8b53-6a041af7c39a",
+    "creationDate": "2026-03-20T02:36:55.414Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Dewford Town",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Dewford Town.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Dewford Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
