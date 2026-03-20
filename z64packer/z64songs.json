@@ -13617,5 +13617,29 @@
     "file": "Action 52/Silver Sword.mmrs",
     "preview": "Action 52/Silver Sword.ogg"
   },
+  {
+    "uuid": "a79db028-dd32-4db3-8f52-6c8824521810",
+    "creationDate": "2026-03-20T21:59:54.100Z",
+    "game": "Action 52",
+    "song": "Time Warp",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Time Warp.mmrs",
+    "preview": "Action 52/Time Warp.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
