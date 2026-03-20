@@ -13277,5 +13277,29 @@
     "file": "An Untitled Story/Ninja.mmrs",
     "preview": "An Untitled Story/Ninja.ogg"
   },
+  {
+    "uuid": "ca74d497-f5f9-45eb-bb5a-67f7966b1c0d",
+    "creationDate": "2026-03-20T21:30:27.970Z",
+    "game": "An Untitled Story",
+    "song": "Blackjack",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Blackjack.mmrs",
+    "preview": "An Untitled Story/Blackjack.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
