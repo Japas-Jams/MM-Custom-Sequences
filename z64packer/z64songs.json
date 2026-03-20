@@ -12609,5 +12609,27 @@
     "file": "Pokémon Ranger Shadows of Almia/Wild Pokémon Battle.mmrs",
     "preview": "Pokémon Ranger Shadows of Almia/Wild Pokémon Battle.ogg"
   },
+  {
+    "uuid": "921f454f-bedd-467b-ad04-5d59976b688e",
+    "creationDate": "2026-03-20T01:18:39.047Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Battle! Regirock/Regice/Registeel",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
