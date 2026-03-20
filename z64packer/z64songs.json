@@ -13807,5 +13807,27 @@
     "file": "Bomberman Hero/Redial (Variant B).mmrs",
     "preview": "Bomberman Hero/Redial (Variant B).ogg"
   },
+  {
+    "uuid": "3c07668e-6016-482d-bfc5-980619ce6f14",
+    "creationDate": "2026-03-20T22:14:44.219Z",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Thwomp Volcano",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Partners in Time/Thwomp Volcano.mmrs",
+    "preview": "Mario & Luigi Partners in Time/Thwomp Volcano.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
