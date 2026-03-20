@@ -13921,5 +13921,28 @@
     "file": "Mario & Luigi Bowser's Inside Story/Toad Town.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Toad Town.ogg"
   },
+  {
+    "uuid": "27f14c5c-9907-4b6c-804b-c251bd7c10f0",
+    "creationDate": "2026-03-20T22:21:00.870Z",
+    "game": "Paper Mario",
+    "song": "Toad Town (Variant B)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Paper Mario/Toad Town (Variant B).mmrs",
+    "preview": "Paper Mario/Toad Town (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
