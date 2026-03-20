@@ -12409,5 +12409,29 @@
     "file": "Xenoblade Chronicles X/Uncontrollable.mmrs",
     "preview": "Xenoblade Chronicles X/Uncontrollable.ogg"
   },
+  {
+    "uuid": "92e41f17-8ecc-4909-ac74-0ed509487e00",
+    "creationDate": "2026-03-20T00:56:41.770Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Champion Cynthia",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Champion Cynthia.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Battle! Champion Cynthia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
