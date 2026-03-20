@@ -12317,5 +12317,27 @@
     "file": "Metroid Prime 2 Echoes/Menu Theme.mmrs",
     "preview": "Metroid Prime 2 Echoes/Menu Theme.ogg"
   },
+  {
+    "uuid": "cb6f703c-174a-4aa7-82f8-68f66a08cda9",
+    "creationDate": "2026-03-20T00:45:03.035Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Torvus Bog Subterranean",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
