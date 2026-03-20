@@ -13000,5 +13000,28 @@
     "file": "Pokémon Black 2 & White 2/Join Avenue.mmrs",
     "preview": "Pokémon Black 2 & White 2/Join Avenue.ogg"
   },
+  {
+    "uuid": "13e4ce5c-c67e-4b27-8d8d-cf9b6cd01d13",
+    "creationDate": "2026-03-20T03:01:20.802Z",
+    "game": "Pokémon Black & White",
+    "song": "Bianca's Theme",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Bianca's Theme.mmrs",
+    "preview": "Pokémon Black & White/Bianca's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
