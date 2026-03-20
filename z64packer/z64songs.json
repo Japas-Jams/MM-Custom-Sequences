@@ -13666,5 +13666,28 @@
     "file": "Action 52/Dam Busters.mmrs",
     "preview": "Action 52/Dam Busters.ogg"
   },
+  {
+    "uuid": "fcd82664-9d54-43e3-a626-ba5ae29e505e",
+    "creationDate": "2026-03-20T22:07:45.384Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Star Piece Obtained",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Star Piece Obtained.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Star Piece Obtained.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
