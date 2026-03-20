@@ -13897,5 +13897,28 @@
     "file": "Mario & Luigi Bowser's Inside Story/Bumpsy Plains.mmrs",
     "preview": "Mario & Luigi Bowser's Inside Story/Bumpsy Plains.ogg"
   },
+  {
+    "uuid": "71721d8b-ce82-4be0-abdb-062d2e156d0b",
+    "creationDate": "2026-03-20T22:17:08.189Z",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Toad Town",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario & Luigi Bowser's Inside Story/Toad Town.mmrs",
+    "preview": "Mario & Luigi Bowser's Inside Story/Toad Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
