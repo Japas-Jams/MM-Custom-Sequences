@@ -12929,5 +12929,29 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Littleroot Town.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Littleroot Town.ogg"
   },
+  {
+    "uuid": "8541aa6c-d0b8-4a00-b518-f6e8c280c06d",
+    "creationDate": "2026-03-20T02:46:48.500Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Route 120",
+    "composers": [
+      "Go Ichinose",
+      "Morikazu Aoki",
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Route 120.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Route 120.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
