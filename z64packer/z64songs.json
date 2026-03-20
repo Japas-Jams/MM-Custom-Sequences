@@ -12654,5 +12654,141 @@
     "file": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.mmrs",
     "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.ogg"
   },
+  {
+    "uuid": "04d01b1b-5fd1-44a6-82e0-62d2bebb1314",
+    "creationDate": "2026-03-20T02:11:09.898Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Giratina Appears!",
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Giratina Appears!.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Giratina Appears!.ogg"
+  },
+  {
+    "uuid": "17a780e9-0e15-4bd1-9324-0dbded6b19ec",
+    "creationDate": "2026-03-20T02:14:44.801Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Mission Complete",
+    "composers": [
+      "Takuto Kitsuta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Mission Complete.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Mission Complete.ogg"
+  },
+  {
+    "uuid": "8c045e6d-7166-418e-bd1c-b5f95114e9ea",
+    "creationDate": "2026-03-20T02:17:34.464Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Obtained a Badge!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Obtained a Badge!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Obtained a Badge!.ogg"
+  },
+  {
+    "uuid": "e0eb7a9f-07c5-4c51-8f23-6ec46a3298b1",
+    "creationDate": "2026-03-20T02:18:28.152Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "H-Help Me!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/H-Help Me!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/H-Help Me!.ogg"
+  },
+  {
+    "uuid": "c00d3909-2a77-4d97-af65-6a83b3d08f06",
+    "creationDate": "2026-03-20T02:19:46.681Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Obtained a TM!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Obtained a TM!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Obtained a TM!.ogg"
+  },
+  {
+    "uuid": "dcb51d0e-0003-4456-9f81-1bed354df19b",
+    "creationDate": "2026-03-20T02:20:42.131Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Level Up!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Level Up!.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Level Up!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
