@@ -13494,5 +13494,28 @@
     "file": "Knuckles' Chaotix/Special Stage (Clear).mmrs",
     "preview": "Knuckles' Chaotix/Special Stage (Clear).ogg"
   },
+  {
+    "uuid": "13dc925e-6699-4b92-add3-33137307cbfb",
+    "creationDate": "2026-03-20T21:46:34.051Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Arena Off",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "13b"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Arena Off.mmrs",
+    "preview": "Knuckles' Chaotix/Arena Off.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
