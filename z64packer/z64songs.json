@@ -12249,5 +12249,28 @@
     "file": "Fire Emblem Awakening/Conquest.mmrs",
     "preview": "Fire Emblem Awakening/Conquest.ogg"
   },
+  {
+    "uuid": "6f9585e5-d9a8-4b4a-9eb9-71dedf988ba6",
+    "creationDate": "2026-03-20T00:40:07.138Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Brinstar",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Brinstar.mmrs",
+    "preview": "Metroid Zero Mission/Brinstar.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
