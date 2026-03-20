@@ -12482,5 +12482,29 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Battle! Wild Pokémon.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Battle! Wild Pokémon.ogg"
   },
+  {
+    "uuid": "41098e97-25ed-407b-a7ab-089234a8c76c",
+    "creationDate": "2026-03-20T01:04:05.194Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! Lorekeeper Zinnia",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
