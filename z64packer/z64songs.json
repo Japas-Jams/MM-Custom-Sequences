@@ -13160,5 +13160,27 @@
     "file": "An Untitled Story/Cloudrun.mmrs",
     "preview": "An Untitled Story/Cloudrun.ogg"
   },
+  {
+    "uuid": "a73081f1-1f13-4685-8a03-4ec68c8fccf0",
+    "creationDate": "2026-03-20T21:26:28.607Z",
+    "game": "An Untitled Story",
+    "song": "Stone Castle",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Stone Castle.mmrs",
+    "preview": "An Untitled Story/Stone Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
