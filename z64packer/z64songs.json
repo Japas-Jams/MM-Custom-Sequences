@@ -12409,5 +12409,250 @@
     "file": "Xenoblade Chronicles X/Uncontrollable.mmrs",
     "preview": "Xenoblade Chronicles X/Uncontrollable.ogg"
   },
+  {
+    "uuid": "92e41f17-8ecc-4909-ac74-0ed509487e00",
+    "creationDate": "2026-03-20T00:56:41.770Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Champion Cynthia",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Champion Cynthia.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Battle! Champion Cynthia.ogg"
+  },
+  {
+    "uuid": "54d9982a-27fb-4399-8649-86a71a2d9fc5",
+    "creationDate": "2026-03-20T00:57:50.700Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Encounter! Champion Cynthia Approaches!",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Encounter! Champion Cynthia Approaches!.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Encounter! Champion Cynthia Approaches!.ogg"
+  },
+  {
+    "uuid": "1da93717-7d42-4d0e-a50e-c7b2ec263fe1",
+    "creationDate": "2026-03-20T00:59:52.524Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Wild Pokémon",
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Wild Pokémon.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Battle! Wild Pokémon.ogg"
+  },
+  {
+    "uuid": "41098e97-25ed-407b-a7ab-089234a8c76c",
+    "creationDate": "2026-03-20T01:04:05.194Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! Lorekeeper Zinnia",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.ogg"
+  },
+  {
+    "uuid": "4ff7507d-a449-42b1-a1bb-58bd0f043d4b",
+    "creationDate": "2026-03-20T01:09:25.172Z",
+    "game": "Pokémon Ranger",
+    "song": "Groudon/Kyogre/Rayquaza/Deoxys Capture",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.mmrs",
+    "preview": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.ogg"
+  },
+  {
+    "uuid": "4fdb3c51-5ddf-4b5f-9b75-fc6fddf93b51",
+    "creationDate": "2026-03-20T01:10:32.195Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Darkrai Battle",
+    "composers": [
+      "Kinta Sato",
+      "Takuto Kitsuta",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Darkrai Battle.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Darkrai Battle.ogg"
+  },
+  {
+    "uuid": "8f82f04d-349f-452e-a3ee-286f9fd5d67c",
+    "creationDate": "2026-03-20T01:11:51.037Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Sinis Trio Battle",
+    "composers": [
+      "Kinta Sato",
+      "Takuto Kitsuta",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Sinis Trio Battle.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Sinis Trio Battle.ogg"
+  },
+  {
+    "uuid": "01eb6358-527b-4ebb-b2b7-919cd0d0210c",
+    "creationDate": "2026-03-20T01:16:09.259Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Wild Pokémon Battle",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Wild Pokémon Battle.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Wild Pokémon Battle.ogg"
+  },
+  {
+    "uuid": "921f454f-bedd-467b-ad04-5d59976b688e",
+    "creationDate": "2026-03-20T01:18:39.047Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Battle! Regirock/Regice/Registeel",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.ogg"
+  },
+  {
+    "uuid": "7ecf7299-4070-44bb-9a4c-b968648238a8",
+    "creationDate": "2026-03-20T01:20:07.442Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Battle! Rival",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! Rival.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
