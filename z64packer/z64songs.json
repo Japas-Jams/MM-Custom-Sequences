@@ -12272,5 +12272,28 @@
     "file": "Metroid Zero Mission/Brinstar.mmrs",
     "preview": "Metroid Zero Mission/Brinstar.ogg"
   },
+  {
+    "uuid": "c025e5b3-0632-4233-8354-7c15d916f955",
+    "creationDate": "2026-03-20T00:41:05.140Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Escape",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Escape.mmrs",
+    "preview": "Metroid Zero Mission/Escape.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
