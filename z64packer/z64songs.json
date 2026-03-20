@@ -13230,5 +13230,29 @@
     "file": "An Untitled Story/Boss Theme.mmrs",
     "preview": "An Untitled Story/Boss Theme.ogg"
   },
+  {
+    "uuid": "e3d67a32-1565-4c1c-b9e2-5fa770bd1da5",
+    "creationDate": "2026-03-20T21:29:03.695Z",
+    "game": "An Untitled Story",
+    "song": "Puzzle Box",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Puzzle Box.mmrs",
+    "preview": "An Untitled Story/Puzzle Box.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
