@@ -13401,5 +13401,28 @@
     "file": "Windows XP/Town.mmrs",
     "preview": "Windows XP/Town.ogg"
   },
+  {
+    "uuid": "9f906843-7688-4ffa-ba5c-15965d884da8",
+    "creationDate": "2026-03-20T21:39:44.388Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Special Stage",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Special Stage.mmrs",
+    "preview": "Sonic the Hedgehog 3/Special Stage.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
