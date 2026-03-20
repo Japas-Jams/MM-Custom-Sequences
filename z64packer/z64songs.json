@@ -13113,5 +13113,29 @@
     "file": "An Untitled Story/Bonus Theme.mmrs",
     "preview": "An Untitled Story/Bonus Theme.ogg"
   },
+  {
+    "uuid": "6f583097-caf1-47ef-a5ae-46051055c9d8",
+    "creationDate": "2026-03-20T21:14:14.228Z",
+    "game": "An Untitled Story",
+    "song": "Nightwalk",
+    "composers": [
+      "Maddy Thorson"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "An Untitled Story/Nightwalk.mmrs",
+    "preview": "An Untitled Story/Nightwalk.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
