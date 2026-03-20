@@ -12227,5 +12227,27 @@
     "file": "Fire Emblem Three Houses/Tempest of Seasons (Piano).mmrs",
     "preview": "Fire Emblem Three Houses/Tempest of Seasons (Piano).ogg"
   },
+  {
+    "uuid": "bb8f0251-0129-4d26-85b6-ecafd11b0a8e",
+    "creationDate": "2026-03-20T00:38:26.274Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "Conquest",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Awakening/Conquest.mmrs",
+    "preview": "Fire Emblem Awakening/Conquest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
