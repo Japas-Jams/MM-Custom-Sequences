@@ -13542,5 +13542,30 @@
     "file": "Knuckles' Chaotix/Island.mmrs",
     "preview": "Knuckles' Chaotix/Island.ogg"
   },
+  {
+    "uuid": "10cb9b07-de71-433b-98f6-02ba4dd35be4",
+    "creationDate": "2026-03-20T21:51:35.424Z",
+    "game": "Knuckles' Chaotix",
+    "song": "Marina",
+    "composers": [
+      "Junko Shiratsu"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Knuckles' Chaotix/Marina.mmrs",
+    "preview": "Knuckles' Chaotix/Marina.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
