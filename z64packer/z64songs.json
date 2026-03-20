@@ -13523,7 +13523,7 @@
     "uuid": "6fcd4a4c-543b-4c59-a9d1-014fc105fe3e",
     "creationDate": "2026-03-20T21:47:14.274Z",
     "game": "Knuckles' Chaotix",
-    "song": "Island",
+    "song": "Isolated Island",
     "composers": [
       "Junko Shiratsu"
     ],
@@ -13541,14 +13541,15 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Knuckles' Chaotix/Island.mmrs",
-    "preview": "Knuckles' Chaotix/Island.ogg"
+    "file": "Knuckles' Chaotix/Isolated Island.mmrs",
+    "preview": "Knuckles' Chaotix/Island.ogg",
+    "lastUpdateDate": "2026-03-20T22:30:16.924Z"
   },
   {
     "uuid": "10cb9b07-de71-433b-98f6-02ba4dd35be4",
     "creationDate": "2026-03-20T21:51:35.424Z",
     "game": "Knuckles' Chaotix",
-    "song": "Marina",
+    "song": "Marina Madness",
     "composers": [
       "Junko Shiratsu"
     ],
@@ -13566,8 +13567,9 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Knuckles' Chaotix/Marina.mmrs",
-    "preview": "Knuckles' Chaotix/Marina.ogg"
+    "file": "Knuckles' Chaotix/Marina Madness.mmrs",
+    "preview": "Knuckles' Chaotix/Marina.ogg",
+    "lastUpdateDate": "2026-03-20T22:31:08.359Z"
   },
   {
     "uuid": "a3453b94-f058-412e-8f44-47ed7423c070",
