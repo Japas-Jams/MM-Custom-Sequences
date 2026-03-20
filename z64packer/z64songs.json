@@ -13592,5 +13592,30 @@
     "file": "Action 52/Streemerz.mmrs",
     "preview": "Action 52/Streemerz.ogg"
   },
+  {
+    "uuid": "08ecbda6-dd53-4586-87b6-7fa1e7049411",
+    "creationDate": "2026-03-20T21:59:22.198Z",
+    "game": "Action 52",
+    "song": "Silver Sword",
+    "composers": [
+      "Mario Gonzalez",
+      "Ed Bogas"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Action 52/Silver Sword.mmrs",
+    "preview": "Action 52/Silver Sword.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
