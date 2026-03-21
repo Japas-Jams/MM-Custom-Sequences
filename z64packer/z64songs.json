@@ -13865,5 +13865,29 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Valentina (Margarie Margarita).mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Valentina (Margarie Margarita).ogg"
   },
+  {
+    "uuid": "6746dcec-df28-46b0-8bcd-3140ea9b23c1",
+    "creationDate": "2026-03-21T15:00:58.722Z",
+    "game": "Old School RuneScape",
+    "song": "Ardougne",
+    "composers": [
+      "Ian \"Mod Ian T\" Taylor",
+      "Ashleigh \"Mod Ash\" Bridges",
+      "Adam \"Mod Bond\" Bond"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Ardougne.mmrs",
+    "preview": "Old School RuneScape/Ardougne.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
