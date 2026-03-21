@@ -13794,5 +13794,30 @@
     "file": "Earthworm Jim 2/Lorenzo's Soil.mmrs",
     "preview": "Earthworm Jim 2/Lorenzo's Soil.ogg"
   },
+  {
+    "uuid": "deef3552-b952-4a11-b8d5-fd877327f80b",
+    "creationDate": "2026-03-21T14:57:15.545Z",
+    "game": "Advance Wars 2: Black Hole Rising",
+    "song": "Sensei's Theme",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Advance Wars 2 Black Hole Rising/Sensei's Theme.mmrs",
+    "preview": "Advance Wars 2 Black Hole Rising/Sensei's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
