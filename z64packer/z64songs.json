@@ -13971,5 +13971,26 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Battle Hall.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Battle Hall.ogg"
   },
+  {
+    "uuid": "13057164-8672-4916-8f38-bf62ee9b5e31",
+    "creationDate": "2026-03-21T01:06:13.802Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Eterna Forest",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Eterna Forest.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Eterna Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
