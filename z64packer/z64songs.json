@@ -13728,5 +13728,586 @@
     "file": "Pokémon Ranger Shadows of Almia/Vien Forest.mmrs",
     "preview": "Pokémon Ranger Shadows of Almia/Vien Forest.ogg"
   },
+  {
+    "uuid": "05914c0b-f7d4-4e68-a80b-3fe582873239",
+    "creationDate": "2026-03-21T14:55:01.701Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Welcome to Booster Tower",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower.ogg"
+  },
+  {
+    "uuid": "54d5be1b-b3a0-404a-94f8-dde9832ac145",
+    "creationDate": "2026-03-21T14:55:53.485Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Mushroom Kingdom",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Mushroom Kingdom.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Mushroom Kingdom.ogg"
+  },
+  {
+    "uuid": "e7243022-bc88-4d34-9d86-e68ffd59d8bc",
+    "creationDate": "2026-03-21T14:56:33.522Z",
+    "game": "Earthworm Jim 2",
+    "song": "Lorenzo's Soil",
+    "composers": [
+      "Tommy Tallarico"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Earthworm Jim 2/Lorenzo's Soil.mmrs",
+    "preview": "Earthworm Jim 2/Lorenzo's Soil.ogg"
+  },
+  {
+    "uuid": "deef3552-b952-4a11-b8d5-fd877327f80b",
+    "creationDate": "2026-03-21T14:57:15.545Z",
+    "game": "Advance Wars 2: Black Hole Rising",
+    "song": "Sensei's Theme",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Advance Wars 2 Black Hole Rising/Sensei's Theme.mmrs",
+    "preview": "Advance Wars 2 Black Hole Rising/Sensei's Theme.ogg"
+  },
+  {
+    "uuid": "16078d1a-a81b-48ff-abbc-470458c6f65a",
+    "creationDate": "2026-03-21T14:59:05.216Z",
+    "game": "McDonald's eCDP",
+    "song": "Challenge",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "McDonald's eCDP/Challenge.mmrs",
+    "preview": "McDonald's eCDP/Challenge.ogg"
+  },
+  {
+    "uuid": "3a2875f5-fc02-4d1c-b97f-d1c7a879af1e",
+    "creationDate": "2026-03-21T14:59:46.292Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Valentina (Margarie Margarita)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Valentina (Margarie Margarita).mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Valentina (Margarie Margarita).ogg"
+  },
+  {
+    "uuid": "6746dcec-df28-46b0-8bcd-3140ea9b23c1",
+    "creationDate": "2026-03-21T15:00:58.722Z",
+    "game": "Old School RuneScape",
+    "song": "Ardougne",
+    "composers": [
+      "Ian \"Mod Ian T\" Taylor",
+      "Ashleigh \"Mod Ash\" Bridges",
+      "Adam \"Mod Bond\" Bond"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Ardougne.mmrs",
+    "preview": "Old School RuneScape/Ardougne.ogg"
+  },
+  {
+    "uuid": "880bed86-ae9b-4a0e-81a0-c7edf9599840",
+    "creationDate": "2026-03-21T15:21:22.085Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Bridge Bros.",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros..mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros..ogg"
+  },
+  {
+    "uuid": "260a0d5c-9ddf-4444-b90e-5b1b97c5fff8",
+    "creationDate": "2026-03-21T15:24:15.145Z",
+    "game": "Ripened Tingle's Balloon Trip of Love",
+    "song": "Cornfield",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ripened Tingle's Balloon Trip of Love/Cornfield.mmrs",
+    "preview": "Ripened Tingle's Balloon Trip of Love/Cornfield.ogg"
+  },
+  {
+    "uuid": "1780fbfb-5904-43c8-bd58-8182d89f6973",
+    "creationDate": "2026-03-21T15:24:58.757Z",
+    "game": "Ripened Tingle's Balloon Trip of Love",
+    "song": "Quizloop",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "173"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ripened Tingle's Balloon Trip of Love/Quizloop.mmrs",
+    "preview": "Ripened Tingle's Balloon Trip of Love/Quizloop.ogg"
+  },
+  {
+    "uuid": "ed78fee4-8bd2-4bbc-b734-a7351f273328",
+    "creationDate": "2026-03-21T15:26:19.424Z",
+    "game": "Super Mario Maker 2",
+    "song": "Super Mario World (Desert Theme)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Maker 2/Super Mario World (Desert Theme).mmrs",
+    "preview": "Super Mario Maker 2/Super Mario World (Desert Theme).ogg"
+  },
+  {
+    "uuid": "b16dc176-93c3-409f-b69e-e8374970418d",
+    "creationDate": "2026-03-21T15:27:05.264Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Ominous Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Ominous Theme.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Ominous Theme.ogg"
+  },
+  {
+    "uuid": "16c2f4a1-b6c3-4d9a-bf23-fd280983da6e",
+    "creationDate": "2026-03-21T15:27:45.320Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Nimbus Land",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Nimbus Land.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Nimbus Land.ogg"
+  },
+  {
+    "uuid": "9c906610-cc70-4a89-9393-63f330a6b0fc",
+    "creationDate": "2026-03-21T15:29:00.606Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Fight Against Monsters",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.ogg"
+  },
+  {
+    "uuid": "60db1070-f7b2-430a-83b9-80d043e3b1a2",
+    "creationDate": "2026-03-21T15:29:48.687Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware of Forest Mushrooms",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.ogg"
+  },
+  {
+    "uuid": "17bfb62f-2457-4bb7-b813-e8be734425e8",
+    "creationDate": "2026-03-21T15:30:25.719Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Shopping at Seaside Town",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Shopping at Seaside Town.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Shopping at Seaside Town.ogg"
+  },
+  {
+    "uuid": "670b95b2-8275-4459-9ca6-87f22ff887b4",
+    "creationDate": "2026-03-21T15:31:16.501Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Sad Song",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "12E",
+      "16E"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Sad Song.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Sad Song.ogg"
+  },
+  {
+    "uuid": "9e1b4ffb-7ca4-4de4-b387-4735e5faf37e",
+    "creationDate": "2026-03-21T15:34:03.859Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Let's Race",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Let's Race.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Let's Race.ogg"
+  },
+  {
+    "uuid": "33b20785-d188-43b3-a08f-1deafd09b2e2",
+    "creationDate": "2026-03-21T15:38:04.741Z",
+    "game": "Wario Land 4",
+    "song": "Crescent Moon Village",
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 4/Crescent Moon Village.mmrs",
+    "preview": "Wario Land 4/Crescent Moon Village.ogg"
+  },
+  {
+    "uuid": "bd2c14fa-f87b-4e70-8efb-f63e58b9f634",
+    "creationDate": "2026-03-21T15:38:44.757Z",
+    "game": "Ripened Tingle's Balloon Trip of Love",
+    "song": "Shoot Out",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ripened Tingle's Balloon Trip of Love/Shoot Out.mmrs",
+    "preview": "Ripened Tingle's Balloon Trip of Love/Shoot Out.ogg"
+  },
+  {
+    "uuid": "9c656140-e1d7-4425-af4b-d89754ec5868",
+    "creationDate": "2026-03-21T15:39:15.574Z",
+    "game": "Cave Story",
+    "song": "Mimiga",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Mimiga.mmrs",
+    "preview": "Cave Story/Mimiga.ogg"
+  },
+  {
+    "uuid": "44bc962b-705e-4617-a967-1c7cc4e2199d",
+    "creationDate": "2026-03-21T15:39:46.076Z",
+    "game": "Cave Story",
+    "song": "Grasstown",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Grasstown.mmrs",
+    "preview": "Cave Story/Grasstown.ogg"
+  },
+  {
+    "uuid": "7bf22e4c-85bb-4e01-a2fa-56f08c8b7aad",
+    "creationDate": "2026-03-21T15:40:15.124Z",
+    "game": "Cave Story",
+    "song": "Victory",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Victory.mmrs",
+    "preview": "Cave Story/Victory.ogg"
+  },
+  {
+    "uuid": "32caeaab-b1f7-4d48-b70f-a9902057c557",
+    "creationDate": "2026-03-21T15:40:45.430Z",
+    "game": "Cave Story",
+    "song": "Outerwall",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Outerwall.mmrs",
+    "preview": "Cave Story/Outerwall.ogg"
+  },
+  {
+    "uuid": "4ca64e7e-a8d7-4c5a-8ed7-54330dc62106",
+    "creationDate": "2026-03-21T15:41:26.735Z",
+    "game": "Cave Story",
+    "song": "Get Item",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Get Item.mmrs",
+    "preview": "Cave Story/Get Item.ogg"
+  },
+  {
+    "uuid": "d9c39b99-ffeb-4cc7-8acf-c9d342242341",
+    "creationDate": "2026-03-21T15:43:25.784Z",
+    "game": "Super Mario Bros. 3",
+    "song": "Airship Fortress",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Bros. 3/Airship Fortress.mmrs",
+    "preview": "Super Mario Bros. 3/Airship Fortress.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
