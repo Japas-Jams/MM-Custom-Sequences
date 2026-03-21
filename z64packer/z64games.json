@@ -2921,10 +2921,13 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/b37f6ff7029b365b5c6f15eb27fe7d6f.png"
   },
   {
-    "game": "An Untitled Story"
+    "game": "An Untitled Story",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ac614ac034424f16edb918cf9c524e95.png"
   },
   {
-    "game": "Knuckles' Chaotix"
+    "game": "Knuckles' Chaotix",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2e7baa319a8e3960941801b16225ccfa.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
