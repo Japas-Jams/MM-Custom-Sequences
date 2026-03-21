@@ -14125,5 +14125,27 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection.ogg"
   },
+  {
+    "uuid": "56f6c005-6366-4445-b35e-ccf61e4345d7",
+    "creationDate": "2026-03-21T01:17:41.825Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Goldenrod Game Corner",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Goldenrod Game Corner.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Goldenrod Game Corner.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
