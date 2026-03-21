@@ -14234,5 +14234,27 @@
     "file": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.ogg"
   },
+  {
+    "uuid": "e661adf7-8ea4-46c3-af5f-e321023199a5",
+    "creationDate": "2026-03-21T01:21:53.891Z",
+    "game": "Pokémon Ranger",
+    "song": "Sekra Range",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger/Sekra Range.mmrs",
+    "preview": "Pokémon Ranger/Sekra Range.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
