@@ -14828,7 +14828,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ba2e5e57-be4b-4a87-9def-1430b54ec1ff",
-    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Minigame.mmrs"
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Minigame.mmrs",
+    "lastUpdateDate": "2026-03-21T16:38:10.489Z",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ]
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
