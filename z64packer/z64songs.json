@@ -13933,5 +13933,27 @@
     "file": "Ripened Tingle's Balloon Trip of Love/Cornfield.mmrs",
     "preview": "Ripened Tingle's Balloon Trip of Love/Cornfield.ogg"
   },
+  {
+    "uuid": "1780fbfb-5904-43c8-bd58-8182d89f6973",
+    "creationDate": "2026-03-21T15:24:58.757Z",
+    "game": "Ripened Tingle's Balloon Trip of Love",
+    "song": "Quizloop",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "173"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ripened Tingle's Balloon Trip of Love/Quizloop.mmrs",
+    "preview": "Ripened Tingle's Balloon Trip of Love/Quizloop.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
