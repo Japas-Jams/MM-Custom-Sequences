@@ -14908,5 +14908,27 @@
     "file": "Quattro Adventure Super Robin Hood/Title Screen.mmrs",
     "preview": "Quattro Adventure Super Robin Hood/Title Screen.ogg"
   },
+  {
+    "uuid": "9825543c-79cf-491a-8c34-a68c61a90701",
+    "creationDate": "2026-03-21T23:25:15.640Z",
+    "game": "M.C.Kids",
+    "song": "Map Theme",
+    "composers": [
+      "Charles Deenen"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "M.C.Kids/Map Theme.mmrs",
+    "preview": "M.C.Kids/Map Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
