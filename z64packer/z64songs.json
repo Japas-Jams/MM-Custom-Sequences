@@ -14147,5 +14147,26 @@
     "file": "Pokémon HeartGold & SoulSilver/Goldenrod Game Corner.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Goldenrod Game Corner.ogg"
   },
+  {
+    "uuid": "b3626746-b124-472c-9137-6ba0061bab2c",
+    "creationDate": "2026-03-21T01:18:25.230Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Route 26",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Route 26.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Route 26.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
