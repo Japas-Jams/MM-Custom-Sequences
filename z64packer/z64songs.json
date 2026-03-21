@@ -14930,5 +14930,28 @@
     "file": "M.C.Kids/Map Theme.mmrs",
     "preview": "M.C.Kids/Map Theme.ogg"
   },
+  {
+    "uuid": "57931595-31f8-41fd-b572-b255c7516bf2",
+    "creationDate": "2026-03-21T23:25:51.924Z",
+    "game": "M.C.Kids",
+    "song": "Cutscene",
+    "composers": [
+      "Charles Deenen"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "M.C.Kids/Cutscene.mmrs",
+    "preview": "M.C.Kids/Cutscene.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
