@@ -14132,5 +14132,27 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Let's Race.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Let's Race.ogg"
   },
+  {
+    "uuid": "33b20785-d188-43b3-a08f-1deafd09b2e2",
+    "creationDate": "2026-03-21T15:38:04.741Z",
+    "game": "Wario Land 4",
+    "song": "Crescent Moon Village",
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario Land 4/Crescent Moon Village.mmrs",
+    "preview": "Wario Land 4/Crescent Moon Village.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
