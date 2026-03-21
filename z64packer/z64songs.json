@@ -14953,5 +14953,27 @@
     "file": "M.C.Kids/Cutscene.mmrs",
     "preview": "M.C.Kids/Cutscene.ogg"
   },
+  {
+    "uuid": "2bc4dc19-6908-451e-bd41-f9488dd43a55",
+    "creationDate": "2026-03-21T23:26:27.853Z",
+    "game": "M.C.Kids",
+    "song": "Card Clear",
+    "composers": [
+      "Charles Deenen"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "M.C.Kids/Card Clear.mmrs",
+    "preview": "M.C.Kids/Card Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
