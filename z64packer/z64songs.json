@@ -13955,5 +13955,28 @@
     "file": "Ripened Tingle's Balloon Trip of Love/Quizloop.mmrs",
     "preview": "Ripened Tingle's Balloon Trip of Love/Quizloop.ogg"
   },
+  {
+    "uuid": "ed78fee4-8bd2-4bbc-b734-a7351f273328",
+    "creationDate": "2026-03-21T15:26:19.424Z",
+    "game": "Super Mario Maker 2",
+    "song": "Super Mario World (Desert Theme)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Maker 2/Super Mario World (Desert Theme).mmrs",
+    "preview": "Super Mario Maker 2/Super Mario World (Desert Theme).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
