@@ -14321,7 +14321,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5d852801-12fd-41ba-8a4c-944eee06d2e9",
-    "file": "Super Mario Bros. 3/Athletic.mmrs"
+    "file": "Super Mario Bros. 3/Athletic.mmrs",
+    "lastUpdateDate": "2026-03-21T15:48:45.008Z",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ]
   },
   {
     "game": "Freshly-Picked Tingle's Rosy Rupeeland",
@@ -14335,7 +14342,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "9a93f389-5ed2-4276-a4ba-75ec76c370d5",
-    "file": "Freshly-Picked Tingle's Rosy Rupeeland/House Theme.mmrs"
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/House Theme.mmrs",
+    "lastUpdateDate": "2026-03-21T15:49:35.210Z",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ]
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
