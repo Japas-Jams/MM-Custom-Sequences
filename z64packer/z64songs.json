@@ -13947,5 +13947,362 @@
     "file": "Paper Mario/Toad Town (Variant B).mmrs",
     "preview": "Paper Mario/Toad Town (Variant B).ogg"
   },
+  {
+    "uuid": "63b40e0d-1ce6-472f-a7aa-a0f4f414a8ee",
+    "creationDate": "2026-03-21T01:04:09.161Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle Hall",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle Hall.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Battle Hall.ogg"
+  },
+  {
+    "uuid": "13057164-8672-4916-8f38-bf62ee9b5e31",
+    "creationDate": "2026-03-21T01:06:13.802Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Eterna Forest",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Eterna Forest.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Eterna Forest.ogg"
+  },
+  {
+    "uuid": "8dbbc3a6-7367-46e8-a906-f6d4c18e09ce",
+    "creationDate": "2026-03-21T01:10:03.201Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Global Terminal",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Global Terminal.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Global Terminal.ogg"
+  },
+  {
+    "uuid": "673b92aa-0dff-4907-9751-5eaf32e1aaf8",
+    "creationDate": "2026-03-21T01:12:45.184Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Hearthome City",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Hearthome City.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Hearthome City.ogg"
+  },
+  {
+    "uuid": "766f7ee6-e47d-4fa3-a35b-bb00ca42e63d",
+    "creationDate": "2026-03-21T01:13:55.374Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Jubilife City",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Jubilife City.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Jubilife City.ogg"
+  },
+  {
+    "uuid": "de94ebbd-e78d-41fb-9a7c-8807e8bcf229",
+    "creationDate": "2026-03-21T01:14:40.635Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Pokémon League",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Pokémon League.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Pokémon League.ogg"
+  },
+  {
+    "uuid": "d62c2cf1-3880-4af3-b400-41a413c35ece",
+    "creationDate": "2026-03-21T01:15:35.283Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Pokémon Center (Night)",
+    "composers": [
+      "Junichi Masuda",
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Pokémon Center (Night).mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Pokémon Center (Night).ogg"
+  },
+  {
+    "uuid": "d2190378-aa68-4d70-9cca-f7e17532bd15",
+    "creationDate": "2026-03-21T01:16:36.288Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Nintendo Wi-Fi Connection",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection.ogg"
+  },
+  {
+    "uuid": "56f6c005-6366-4445-b35e-ccf61e4345d7",
+    "creationDate": "2026-03-21T01:17:41.825Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Goldenrod Game Corner",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Goldenrod Game Corner.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Goldenrod Game Corner.ogg"
+  },
+  {
+    "uuid": "b3626746-b124-472c-9137-6ba0061bab2c",
+    "creationDate": "2026-03-21T01:18:25.230Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Route 26",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Route 26.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Route 26.ogg"
+  },
+  {
+    "uuid": "e80b52b3-3fea-45dc-b64f-58c44defef7a",
+    "creationDate": "2026-03-21T01:19:07.782Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Route 47",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Route 47.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Route 47.ogg"
+  },
+  {
+    "uuid": "95d8e745-f9ad-4599-a210-2800c6f61cbb",
+    "creationDate": "2026-03-21T01:20:00.311Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Ruins of Alph",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "13B"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Ruins of Alph.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Ruins of Alph.ogg"
+  },
+  {
+    "uuid": "647a7e44-43f0-44c0-8f82-45367d3fadec",
+    "creationDate": "2026-03-21T01:21:10.176Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Viridian / Pewter / Saffron City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.ogg"
+  },
+  {
+    "uuid": "e661adf7-8ea4-46c3-af5f-e321023199a5",
+    "creationDate": "2026-03-21T01:21:53.891Z",
+    "game": "Pokémon Ranger",
+    "song": "Sekra Range",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger/Sekra Range.mmrs",
+    "preview": "Pokémon Ranger/Sekra Range.ogg"
+  },
+  {
+    "uuid": "bea5d4d8-3184-40f7-803f-8400e2a16cd1",
+    "creationDate": "2026-03-21T01:23:14.423Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Name Entry",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato",
+      "Shinobu Amayake"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Name Entry.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Name Entry.ogg"
+  },
+  {
+    "uuid": "ec6cbd2d-fdcc-4db0-91da-40c274b6c3c0",
+    "creationDate": "2026-03-21T01:24:04.265Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Vien Forest",
+    "composers": [
+      "Takuto Kitsuta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Vien Forest.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Vien Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
