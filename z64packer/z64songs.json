@@ -14111,5 +14111,26 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Sad Song.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Sad Song.ogg"
   },
+  {
+    "uuid": "9e1b4ffb-7ca4-4de4-b387-4735e5faf37e",
+    "creationDate": "2026-03-21T15:34:03.859Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Let's Race",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Let's Race.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Let's Race.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
