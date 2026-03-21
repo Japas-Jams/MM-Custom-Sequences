@@ -14282,5 +14282,27 @@
     "file": "Pokémon Ranger Shadows of Almia/Name Entry.mmrs",
     "preview": "Pokémon Ranger Shadows of Almia/Name Entry.ogg"
   },
+  {
+    "uuid": "ec6cbd2d-fdcc-4db0-91da-40c274b6c3c0",
+    "creationDate": "2026-03-21T01:24:04.265Z",
+    "game": "Pokémon Ranger: Shadows of Almia",
+    "song": "Vien Forest",
+    "composers": [
+      "Takuto Kitsuta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Ranger Shadows of Almia/Vien Forest.mmrs",
+    "preview": "Pokémon Ranger Shadows of Almia/Vien Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
