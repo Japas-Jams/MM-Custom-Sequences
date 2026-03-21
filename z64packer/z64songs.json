@@ -14493,5 +14493,26 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Salon Theme.mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Salon Theme.ogg"
   },
+  {
+    "uuid": "73c67112-1221-4c5e-bc6a-264a2759dbec",
+    "creationDate": "2026-03-21T16:16:36.303Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Mount Desma (Clear)",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Mount Desma (Clear).mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Mount Desma (Clear).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
