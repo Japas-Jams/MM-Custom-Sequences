@@ -14752,5 +14752,26 @@
     "file": "Old School RuneScape/Dream.mmrs",
     "preview": "Old School RuneScape/Dream.ogg"
   },
+  {
+    "uuid": "579d44b8-7dec-4985-9cc9-415e4efbba28",
+    "creationDate": "2026-03-21T16:26:09.064Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Mapping",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Mapping.mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Mapping.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
