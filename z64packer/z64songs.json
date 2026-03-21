@@ -13773,5 +13773,26 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Mushroom Kingdom.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Mushroom Kingdom.ogg"
   },
+  {
+    "uuid": "e7243022-bc88-4d34-9d86-e68ffd59d8bc",
+    "creationDate": "2026-03-21T14:56:33.522Z",
+    "game": "Earthworm Jim 2",
+    "song": "Lorenzo's Soil",
+    "composers": [
+      "Tommy Tallarico"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Earthworm Jim 2/Lorenzo's Soil.mmrs",
+    "preview": "Earthworm Jim 2/Lorenzo's Soil.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
