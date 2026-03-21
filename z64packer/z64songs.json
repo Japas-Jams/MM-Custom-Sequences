@@ -13842,5 +13842,28 @@
     "file": "McDonald's eCDP/Challenge.mmrs",
     "preview": "McDonald's eCDP/Challenge.ogg"
   },
+  {
+    "uuid": "3a2875f5-fc02-4d1c-b97f-d1c7a879af1e",
+    "creationDate": "2026-03-21T14:59:46.292Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Valentina (Margarie Margarita)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Valentina (Margarie Margarita).mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Valentina (Margarie Margarita).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
