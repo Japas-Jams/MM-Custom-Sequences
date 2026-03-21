@@ -14840,5 +14840,27 @@
       "Darkychao"
     ]
   },
+  {
+    "uuid": "b3affed7-a82f-40ce-920f-5713ab1245fd",
+    "creationDate": "2026-03-21T23:22:15.400Z",
+    "game": "Quattro Adventure Treasure Island Dizzy",
+    "song": "Island",
+    "composers": [
+      "David Whittaker"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Quattro Adventure Treasure Island Dizzy/Island.mmrs",
+    "preview": "Quattro Adventure Treasure Island Dizzy/Island.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
