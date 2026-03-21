@@ -14796,5 +14796,26 @@
     "file": "GilvaSunner/Milk Bar.mmrs",
     "preview": "GilvaSunner/Milk Bar.ogg"
   },
+  {
+    "uuid": "d06dc3fd-07af-4f28-b127-2fe73c2f4953",
+    "creationDate": "2026-03-21T16:29:11.209Z",
+    "game": "Super Mario Bros.",
+    "song": "Game Over",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Bros/Game Over.mmrs",
+    "preview": "Super Mario Bros/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
