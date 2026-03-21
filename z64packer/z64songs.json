@@ -14221,5 +14221,27 @@
     "file": "Cave Story/Grasstown.mmrs",
     "preview": "Cave Story/Grasstown.ogg"
   },
+  {
+    "uuid": "7bf22e4c-85bb-4e01-a2fa-56f08c8b7aad",
+    "creationDate": "2026-03-21T15:40:15.124Z",
+    "game": "Cave Story",
+    "song": "Victory",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Victory.mmrs",
+    "preview": "Cave Story/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
