@@ -14602,5 +14602,27 @@
     "file": "Original Compositions/Grand Proportions.mmrs",
     "preview": "Original Compositions/Grand Proportions.ogg"
   },
+  {
+    "uuid": "81beb444-f572-4005-be71-078845b9870d",
+    "creationDate": "2026-03-21T16:21:11.607Z",
+    "game": "Old School RuneScape",
+    "song": "Pinballs",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Old School RuneScape/Pinballs.mmrs",
+    "preview": "Old School RuneScape/Pinballs.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
