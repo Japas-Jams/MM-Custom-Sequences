@@ -14058,5 +14058,27 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Jubilife City.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Jubilife City.ogg"
   },
+  {
+    "uuid": "de94ebbd-e78d-41fb-9a7c-8807e8bcf229",
+    "creationDate": "2026-03-21T01:14:40.635Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Pokémon League",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Pokémon League.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Pokémon League.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
