@@ -14176,5 +14176,28 @@
     "file": "Ripened Tingle's Balloon Trip of Love/Shoot Out.mmrs",
     "preview": "Ripened Tingle's Balloon Trip of Love/Shoot Out.ogg"
   },
+  {
+    "uuid": "9c656140-e1d7-4425-af4b-d89754ec5868",
+    "creationDate": "2026-03-21T15:39:15.574Z",
+    "game": "Cave Story",
+    "song": "Mimiga",
+    "composers": [
+      "Daisuke \"Pixel\" Amaya"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Cave Story/Mimiga.mmrs",
+    "preview": "Cave Story/Mimiga.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
