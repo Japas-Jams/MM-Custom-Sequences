@@ -14885,5 +14885,28 @@
     "file": "Quattro Adventure Super Robin Hood/Ground.mmrs",
     "preview": "Quattro Adventure Super Robin Hood/Ground.ogg"
   },
+  {
+    "uuid": "ae27822d-7dee-4aa0-b711-6b3cd4f75d55",
+    "creationDate": "2026-03-21T23:24:13.651Z",
+    "game": "Quattro Adventure Super Robin Hood",
+    "song": "Title Screen",
+    "composers": [
+      "David Whittaker"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Quattro Adventure Super Robin Hood/Title Screen.mmrs",
+    "preview": "Quattro Adventure Super Robin Hood/Title Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
