@@ -14014,5 +14014,27 @@
     "file": "Pokémon Diamond, Pearl & Platinum/Global Terminal.mmrs",
     "preview": "Pokémon Diamond, Pearl & Platinum/Global Terminal.ogg"
   },
+  {
+    "uuid": "673b92aa-0dff-4907-9751-5eaf32e1aaf8",
+    "creationDate": "2026-03-21T01:12:45.184Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Hearthome City",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Hearthome City.mmrs",
+    "preview": "Pokémon Diamond, Pearl & Platinum/Hearthome City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
