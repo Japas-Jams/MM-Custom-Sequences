@@ -14536,5 +14536,27 @@
     "file": "Freshly-Picked Tingle's Rosy Rupeeland/Chiko.mmrs",
     "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Chiko.ogg"
   },
+  {
+    "uuid": "bd5e2f06-c839-408e-9e80-459d99fede92",
+    "creationDate": "2026-03-21T16:18:34.859Z",
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "song": "Bridge Bros. (Fanfare)",
+    "composers": [
+      "Masanori Adachi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros. (Fanfare).mmrs",
+    "preview": "Freshly-Picked Tingle's Rosy Rupeeland/Bridge Bros. (Fanfare).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
