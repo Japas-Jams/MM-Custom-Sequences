@@ -14351,5 +14351,31 @@
       "Darkychao"
     ]
   },
+  {
+    "uuid": "5e735868-a7cb-41dd-88fa-6a1661b4dfcb",
+    "creationDate": "2026-03-21T15:57:37.534Z",
+    "game": "Mega Man Zero 4",
+    "song": "Holy Land (Area Zero Camp)",
+    "composers": [
+      "Ippo Yamada",
+      "Masaki Suzuki",
+      "Luna Umegaki",
+      "Shinichi Itakura"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man Zero 4/Holy Land (Area Zero Camp).mmrs",
+    "preview": "Mega Man Zero 4/Holy Land (Area Zero Camp).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
