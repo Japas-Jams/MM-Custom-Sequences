@@ -15821,5 +15821,26 @@
     "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Reversed).mmrs",
     "preview": "https://www.youtube.com/watch?v=DYrdT5KIrH4"
   },
+  {
+    "uuid": "34fe610b-a390-45de-a569-7af264fafd8e",
+    "creationDate": "2026-03-22T03:04:10.901Z",
+    "game": "Ura Zelda",
+    "song": "Temple of Time",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Temple of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=0qdMwU_fPc0"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
