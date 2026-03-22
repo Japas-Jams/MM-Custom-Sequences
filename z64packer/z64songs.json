@@ -15065,5 +15065,28 @@
     "file": "Super Smash Bros. Melee/Fountain of Dreams.mmrs",
     "preview": "Super Smash Bros. Melee/Fountain of Dreams.ogg"
   },
+  {
+    "uuid": "757473d2-c8ca-40eb-815a-05c032059667",
+    "creationDate": "2026-03-22T00:40:30.712Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Link Wins (Piano)",
+    "composers": [
+      "Hirokazu Ando",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Link Wins (Piano).mmrs",
+    "preview": "Super Smash Bros. Melee/Link Wins (Piano).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
