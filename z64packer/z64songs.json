@@ -15961,5 +15961,27 @@
     "preview": "The Legend of Zelda Twilight Princess/Fish Caught.ogg",
     "lastUpdateDate": "2026-03-22T23:41:52.328Z"
   },
+  {
+    "uuid": "cdd27fe5-a70a-49cd-8376-af54156b4dca",
+    "creationDate": "2026-03-22T23:52:08.783Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Zora's Domain",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Zora's Domain.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Zora's Domain.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
