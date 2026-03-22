@@ -3019,7 +3019,7 @@
     "uuid": "c95543e5-199a-464a-a35a-a54a8e7b64bb",
     "creationDate": "2026-03-10T02:18:11.112Z",
     "game": "Dark Souls",
-    "song": "Gwyn, Lord of Cinder",
+    "song": "Gwyn, Lord of Cinder (Variant A)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -3034,7 +3034,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dark Souls/Gwyn, Lord of Cinder.mmrs",
+    "file": "Dark Souls/Gwyn, Lord of Cinder (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=yCWCSGlSVjw"
   },
   {
@@ -7216,7 +7216,7 @@
     "uuid": "25d4bcf5-be60-4067-ad2b-f3adab1810ae",
     "creationDate": "2026-03-14T15:46:16.430Z",
     "game": "Super Smash Bros. Melee",
-    "song": "Final Destination",
+    "song": "Final Destination (Variant A)",
     "composers": [
       "Hirokazu Ando"
     ],
@@ -7230,7 +7230,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Smash Bros. Melee/Final Destination.mmrs",
+    "file": "Super Smash Bros. Melee/Final Destination (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=fr7HrjoE-KE"
   },
   {
@@ -7347,7 +7347,7 @@
     "uuid": "0523822f-1d14-47ed-b3bc-6d4cfbb4f3ec",
     "creationDate": "2026-03-14T15:55:20.296Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Morpheel Battle, Second Half",
+    "song": "Morpheel Battle (Second Half) (Variant A)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -7362,7 +7362,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle, Second Half.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=IlSpP7kNwZ0"
   },
   {
@@ -7671,7 +7671,7 @@
     "uuid": "cf2e6382-ecad-4fbb-8cc0-0935faf9c5dc",
     "creationDate": "2026-03-14T17:55:43.683Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "National Park",
+    "song": "National Park (Variant A)",
     "composers": [
       "Go Ichinose"
     ],
@@ -7686,8 +7686,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/National Park.mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/National Park.ogg"
+    "file": "Pokémon Gold, Silver & Crystal/National Park (Variant A).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park (Variant A).ogg"
   },
   {
     "uuid": "4fd81c16-87d1-4200-952e-17ce8406eafc",
@@ -9710,7 +9710,7 @@
     "uuid": "68e1a425-b737-43ab-b3de-71e8a181188a",
     "creationDate": "2026-03-17T00:13:33.500Z",
     "game": "Dark Souls",
-    "song": "Gwyn, Lord of Cinder (TheRealPixelShake version)",
+    "song": "Gwyn, Lord of Cinder (Variant B)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -9724,8 +9724,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dark Souls/Gwyn, Lord of Cinder (TheRealPixelShake version).mmrs",
-    "preview": "Dark Souls/Gwyn, Lord of Cinder (TheRealPixelShake version).mp3"
+    "file": "Dark Souls/Gwyn, Lord of Cinder (Variant B).mmrs",
+    "preview": "Dark Souls/Gwyn, Lord of Cinder (Variant B).mp3"
   },
   {
     "uuid": "5d0ed42e-e01e-4f74-b058-fca4a9c0b000",
@@ -11100,7 +11100,7 @@
     "uuid": "217d79d3-844d-4e2c-ba14-0731205ee79a",
     "creationDate": "2026-03-18T02:52:37.250Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "National Park (SerenadeOfWalters version)",
+    "song": "National Park (Variant B)",
     "composers": [
       "Go Ichinose"
     ],
@@ -11114,8 +11114,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/National Park (SerenadeOfWalters version).ogg"
+    "file": "Pokémon Gold, Silver & Crystal/National Park (Variant B).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park (Variant B).ogg"
   },
   {
     "uuid": "93be2938-8be4-4cf9-be0f-cddee069f7f4",
@@ -15025,7 +15025,7 @@
     "uuid": "328af15f-ba24-4e84-95f6-74d3282b4992",
     "creationDate": "2026-03-22T00:37:13.988Z",
     "game": "Super Smash Bros. Melee",
-    "song": "Final Destination (Senate version)",
+    "song": "Final Destination (Variant B)",
     "composers": [
       "Hirokazu Ando"
     ],
@@ -15040,8 +15040,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Smash Bros. Melee/Final Destination (Senate version).mmrs",
-    "preview": "Super Smash Bros. Melee/Final Destination (Senate version).ogg"
+    "file": "Super Smash Bros. Melee/Final Destination (Variant B).mmrs",
+    "preview": "Super Smash Bros. Melee/Final Destination (Variant B).ogg"
   },
   {
     "uuid": "55cf7d1b-5a15-47db-8504-0012ac0a9f50",
@@ -15224,7 +15224,7 @@
     "uuid": "d3e6d3f7-6734-4394-9dcb-39e3fe22eac1",
     "creationDate": "2026-03-22T00:52:59.863Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Blizzeta (Phase 2)",
+    "song": "Blizzeta (Second Half)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -15238,14 +15238,14 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).ogg"
+    "file": "The Legend of Zelda Twilight Princess/Blizzeta (Second Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Blizzeta (Second Half).ogg"
   },
   {
     "uuid": "e6f4a7dd-02eb-4f86-8c1f-043dbe43caea",
     "creationDate": "2026-03-22T01:07:22.929Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Morpheel Battle (Second Half) (Senate version)",
+    "song": "Morpheel Battle (Second Half) (Variant B)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -15259,8 +15259,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).ogg"
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Variant B).ogg"
   },
   {
     "uuid": "295f735e-5641-4f0d-acc6-6523ac515183",
@@ -15287,7 +15287,7 @@
     "uuid": "ef1d8fff-1809-474f-ae8d-aac67826a6f8",
     "creationDate": "2026-03-22T01:10:53.375Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Battle Theme",
+    "song": "Battle",
     "composers": [
       "Kenta Nagata"
     ],
@@ -15301,8 +15301,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Battle Theme.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Battle Theme.ogg"
+    "file": "The Legend of Zelda The Wind Waker/Battle.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Battle.ogg"
   },
   {
     "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
