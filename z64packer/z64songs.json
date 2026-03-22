@@ -15842,5 +15842,27 @@
     "file": "Ura Zelda/Temple of Time.mmrs",
     "preview": "https://www.youtube.com/watch?v=0qdMwU_fPc0"
   },
+  {
+    "uuid": "a531e31e-ea79-4925-b3f7-f55db3ccea4c",
+    "creationDate": "2026-03-22T03:06:13.762Z",
+    "game": "DetectiveSky612",
+    "song": "Dance of Death",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Dance of Death.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-DNV2dGctHY"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
