@@ -14996,5 +14996,30 @@
     "file": "Super Smash Bros. Brawl/Menu 1.mmrs",
     "preview": "Super Smash Bros. Brawl/Menu 1.ogg"
   },
+  {
+    "uuid": "f734bff8-1968-4d7a-8fb5-ea67689382a2",
+    "creationDate": "2026-03-22T00:35:47.339Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Break the Targets",
+    "composers": [
+      "Hirokazu Ando",
+      "Tadashi Ikegami",
+      "Shogo Sakai",
+      "Takuto Kitsuta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Break the Targets.mmrs",
+    "preview": "Super Smash Bros. Melee/Break the Targets.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
