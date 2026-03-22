@@ -15687,5 +15687,26 @@
     "file": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mmrs",
     "preview": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mp3"
   },
+  {
+    "uuid": "c43cccb1-d16d-4848-970c-ca6954cf1a38",
+    "creationDate": "2026-03-22T02:58:00.352Z",
+    "game": "DetectiveSky612",
+    "song": "Deja Vu",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Deja Vu.mmrs",
+    "preview": "https://www.youtube.com/watch?v=diF3dJZd-3g"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
