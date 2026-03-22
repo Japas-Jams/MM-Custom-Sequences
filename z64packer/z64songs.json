@@ -15111,5 +15111,26 @@
     "file": "Super Smash Bros. Melee/Menu 1.mmrs",
     "preview": "Super Smash Bros. Melee/Menu 1.ogg"
   },
+  {
+    "uuid": "20e3485d-027f-425f-a163-701ef133b556",
+    "creationDate": "2026-03-22T00:44:26.659Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Boss Battle (Remix)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Boss Battle (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Boss Battle (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
