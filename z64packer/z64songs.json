@@ -14975,5 +14975,356 @@
     "file": "M.C.Kids/Card Clear.mmrs",
     "preview": "M.C.Kids/Card Clear.ogg"
   },
+  {
+    "uuid": "c9b8972f-b605-483c-9dee-b19d812ab8d0",
+    "creationDate": "2026-03-22T00:34:38.844Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Menu 1",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/Menu 1.mmrs",
+    "preview": "Super Smash Bros. Brawl/Menu 1.ogg"
+  },
+  {
+    "uuid": "f734bff8-1968-4d7a-8fb5-ea67689382a2",
+    "creationDate": "2026-03-22T00:35:47.339Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Break the Targets",
+    "composers": [
+      "Hirokazu Ando",
+      "Tadashi Ikegami",
+      "Shogo Sakai",
+      "Takuto Kitsuta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Break the Targets.mmrs",
+    "preview": "Super Smash Bros. Melee/Break the Targets.ogg"
+  },
+  {
+    "uuid": "328af15f-ba24-4e84-95f6-74d3282b4992",
+    "creationDate": "2026-03-22T00:37:13.988Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Final Destination (Senate version)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Final Destination (Senate version).mmrs",
+    "preview": "Super Smash Bros. Melee/Final Destination (Senate version).ogg"
+  },
+  {
+    "uuid": "55cf7d1b-5a15-47db-8504-0012ac0a9f50",
+    "creationDate": "2026-03-22T00:37:57.739Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Fountain of Dreams",
+    "composers": [
+      "Tadashi Ikegami"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Fountain of Dreams.mmrs",
+    "preview": "Super Smash Bros. Melee/Fountain of Dreams.ogg"
+  },
+  {
+    "uuid": "757473d2-c8ca-40eb-815a-05c032059667",
+    "creationDate": "2026-03-22T00:40:30.712Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Link Wins (Piano)",
+    "composers": [
+      "Hirokazu Ando",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Link Wins (Piano).mmrs",
+    "preview": "Super Smash Bros. Melee/Link Wins (Piano).ogg"
+  },
+  {
+    "uuid": "a3505558-657e-44b9-9f36-1fe2fbca24ad",
+    "creationDate": "2026-03-22T00:41:30.944Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Menu 1",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Menu 1.mmrs",
+    "preview": "Super Smash Bros. Melee/Menu 1.ogg"
+  },
+  {
+    "uuid": "20e3485d-027f-425f-a163-701ef133b556",
+    "creationDate": "2026-03-22T00:44:26.659Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Boss Battle (Remix)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Boss Battle (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Boss Battle (Remix).ogg"
+  },
+  {
+    "uuid": "0a4a75ab-3884-4336-9e71-cc1a0c69ce5a",
+    "creationDate": "2026-03-22T00:46:52.602Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Koloktos / Moldarach",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.ogg"
+  },
+  {
+    "uuid": "fe3cdaf4-9ca3-46b8-b401-b4c1eff9081a",
+    "creationDate": "2026-03-22T00:48:25.226Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Fight Against Byrne",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Fight Against Byrne.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Fight Against Byrne.ogg"
+  },
+  {
+    "uuid": "13009a71-8b67-427b-88ec-0fcaf0aff0fb",
+    "creationDate": "2026-03-22T00:50:18.824Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "King Bulblin Battle",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/King Bulblin Battle.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/King Bulblin Battle.ogg"
+  },
+  {
+    "uuid": "1d1d8a3c-8856-4722-b605-c16ce1c7bdaa",
+    "creationDate": "2026-03-22T00:51:32.564Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Beast Ganon Battle",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Beast Ganon Battle.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Beast Ganon Battle.ogg"
+  },
+  {
+    "uuid": "d3e6d3f7-6734-4394-9dcb-39e3fe22eac1",
+    "creationDate": "2026-03-22T00:52:59.863Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Blizzeta (Phase 2)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Blizzeta (Phase 2).ogg"
+  },
+  {
+    "uuid": "e6f4a7dd-02eb-4f86-8c1f-043dbe43caea",
+    "creationDate": "2026-03-22T01:07:22.929Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Morpheel Battle (Second Half) (Senate version)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).ogg"
+  },
+  {
+    "uuid": "295f735e-5641-4f0d-acc6-6523ac515183",
+    "creationDate": "2026-03-22T01:08:21.163Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Stallord Battle (Second Half)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Stallord Battle (Second Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Stallord Battle (Second Half).ogg"
+  },
+  {
+    "uuid": "ef1d8fff-1809-474f-ae8d-aac67826a6f8",
+    "creationDate": "2026-03-22T01:10:53.375Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Battle Theme",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Battle Theme.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Battle Theme.ogg"
+  },
+  {
+    "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
+    "creationDate": "2026-03-22T01:12:15.513Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Mini Boss",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Mini Boss.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini Boss.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
