@@ -15938,5 +15938,27 @@
     "file": "The Legend of Zelda Oracle of Seasons/Get Element.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Get Element.ogg"
   },
+  {
+    "uuid": "bb811b49-9cfb-49b2-a2e4-d6b0e59c5a0d",
+    "creationDate": "2026-03-22T23:36:57.446Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Fish Caught",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Fish Caught.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Fish Caught.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
