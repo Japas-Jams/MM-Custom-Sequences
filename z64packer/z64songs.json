@@ -15416,5 +15416,28 @@
     "file": "Ura Zelda/Palace of Earth.mmrs",
     "preview": "https://www.youtube.com/watch?v=8Ug3T0pVSKc"
   },
+  {
+    "uuid": "319e1dc6-252f-4702-908a-5ebfb712cb3e",
+    "creationDate": "2026-03-22T02:40:58.857Z",
+    "game": "Ura Zelda",
+    "song": "Hymn of Ice",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Hymn of Ice.mmrs",
+    "preview": "https://www.youtube.com/watch?v=p31sdl5_BZ4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
