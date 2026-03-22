@@ -15507,5 +15507,26 @@
     "file": "Castlevania Bloodlines/Sinking Old Sanctuary.mmrs",
     "preview": "https://www.youtube.com/watch?v=xQ4lWPw7Qlw&pp=0gcJCcUKAYcqIYzv"
   },
+  {
+    "uuid": "f6f14359-c361-42c6-969c-b5726efcbb59",
+    "creationDate": "2026-03-22T02:45:41.759Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Vaati's Wrath",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Minish Cap/Vaati's Wrath.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Vaati's Wrath.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
