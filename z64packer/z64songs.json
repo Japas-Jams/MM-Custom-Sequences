@@ -15304,5 +15304,27 @@
     "file": "The Legend of Zelda The Wind Waker/Battle Theme.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Battle Theme.ogg"
   },
+  {
+    "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
+    "creationDate": "2026-03-22T01:12:15.513Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Mini Boss",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Mini Boss.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini Boss.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
