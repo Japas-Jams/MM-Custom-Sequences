@@ -15153,5 +15153,28 @@
     "file": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.mmrs",
     "preview": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.ogg"
   },
+  {
+    "uuid": "fe3cdaf4-9ca3-46b8-b401-b4c1eff9081a",
+    "creationDate": "2026-03-22T00:48:25.226Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Fight Against Byrne",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Fight Against Byrne.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Fight Against Byrne.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
