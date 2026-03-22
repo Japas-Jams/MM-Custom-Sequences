@@ -15641,5 +15641,28 @@
     "file": "DetectiveSky612/Lost.mmrs",
     "preview": "https://www.youtube.com/watch?v=dPQCMEQsRQo"
   },
+  {
+    "uuid": "67eb8229-0797-4598-9216-84982811d80b",
+    "creationDate": "2026-03-22T02:56:13.782Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Song of Unhealing",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "3",
+      "10B"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Song of Unhealing.mmrs",
+    "preview": "https://www.youtube.com/watch?v=QUjevo8N1gQ"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
