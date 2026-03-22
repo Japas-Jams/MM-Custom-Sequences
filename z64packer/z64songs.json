@@ -15262,5 +15262,26 @@
     "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Senate version).ogg"
   },
+  {
+    "uuid": "295f735e-5641-4f0d-acc6-6523ac515183",
+    "creationDate": "2026-03-22T01:08:21.163Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Stallord Battle (Second Half)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Stallord Battle (Second Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Stallord Battle (Second Half).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
