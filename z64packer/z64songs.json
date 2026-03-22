@@ -15021,5 +15021,27 @@
     "file": "Super Smash Bros. Melee/Break the Targets.mmrs",
     "preview": "Super Smash Bros. Melee/Break the Targets.ogg"
   },
+  {
+    "uuid": "328af15f-ba24-4e84-95f6-74d3282b4992",
+    "creationDate": "2026-03-22T00:37:13.988Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Final Destination (Senate version)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Final Destination (Senate version).mmrs",
+    "preview": "Super Smash Bros. Melee/Final Destination (Senate version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
