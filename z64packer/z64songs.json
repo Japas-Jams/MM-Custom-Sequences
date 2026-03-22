@@ -15326,5 +15326,569 @@
     "file": "The Legend of Zelda The Wind Waker/Mini Boss.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Mini Boss.ogg"
   },
+  {
+    "uuid": "444e7c7f-dee9-48b4-ad9b-85a0a1fa8648",
+    "creationDate": "2026-03-22T02:32:19.690Z",
+    "game": "Castlevania: Dawn of Sorrow",
+    "song": "Subterranean Hell",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Dawn of Sorrow/Subterranean Hell.mmrs",
+    "preview": "Castlevania Dawn of Sorrow/Subterranean Hell.mp3"
+  },
+  {
+    "uuid": "5e2bfae8-5cde-4201-8209-f0d0fd41a6eb",
+    "creationDate": "2026-03-22T02:33:57.165Z",
+    "game": "Castlevania: Order of Ecclesia",
+    "song": "Wandering of the Crystal Blue",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Order of Ecclesia/Wandering of the Crystal Blue.mmrs",
+    "preview": "Castlevania Order of Ecclesia/Wandering of the Crystal Blue.mp3"
+  },
+  {
+    "uuid": "05c4b9f0-48df-4be7-9fdc-1f03f1a4ce7d",
+    "creationDate": "2026-03-22T02:37:21.389Z",
+    "game": "Ura Zelda",
+    "song": "Overture of Wind",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Overture of Wind.mmrs",
+    "preview": "Ura Zelda/Overture of Wind.mp3"
+  },
+  {
+    "uuid": "af99dc2e-b543-4ef6-bef6-947e7b9cec6f",
+    "creationDate": "2026-03-22T02:40:15.639Z",
+    "game": "Ura Zelda",
+    "song": "Palace of Earth",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Palace of Earth.mmrs",
+    "preview": "https://www.youtube.com/watch?v=8Ug3T0pVSKc"
+  },
+  {
+    "uuid": "319e1dc6-252f-4702-908a-5ebfb712cb3e",
+    "creationDate": "2026-03-22T02:40:58.857Z",
+    "game": "Ura Zelda",
+    "song": "Hymn of Ice",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Hymn of Ice.mmrs",
+    "preview": "https://www.youtube.com/watch?v=p31sdl5_BZ4"
+  },
+  {
+    "uuid": "70ccf2b4-52d1-47a7-8c6d-1c1e1e70f8be",
+    "creationDate": "2026-03-22T02:42:28.182Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Simon Belmont's Theme",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Simon Belmont's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oYco3II6rfA"
+  },
+  {
+    "uuid": "008df7ee-0a1c-41ae-bb0c-202277541ae8",
+    "creationDate": "2026-03-22T02:43:10.262Z",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Lost Painting",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Symphony of the Night/Lost Painting.mmrs",
+    "preview": "https://www.youtube.com/watch?v=lGTYKyEgSoc"
+  },
+  {
+    "uuid": "6e61bb7c-4946-4b8a-b666-9b3c31ddb083",
+    "creationDate": "2026-03-22T02:44:04.768Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Sinking Old Sanctuary",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Sinking Old Sanctuary.mmrs",
+    "preview": "https://www.youtube.com/watch?v=xQ4lWPw7Qlw&pp=0gcJCcUKAYcqIYzv"
+  },
+  {
+    "uuid": "f6f14359-c361-42c6-969c-b5726efcbb59",
+    "creationDate": "2026-03-22T02:45:41.759Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Vaati's Wrath",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Minish Cap/Vaati's Wrath.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Vaati's Wrath.mp3"
+  },
+  {
+    "uuid": "fe464fbf-13c7-4941-957d-76c8ccedcaf5",
+    "creationDate": "2026-03-22T02:46:26.032Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Sinking Old Sanctuary (Dual)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Sinking Old Sanctuary (Dual).mmrs",
+    "preview": "Castlevania Bloodlines/Sinking Old Sanctuary (Dual).mp3"
+  },
+  {
+    "uuid": "4f0b90d6-d28a-4911-8d3f-54f57fe9a627",
+    "creationDate": "2026-03-22T02:47:48.822Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Dragon Roost Island (Calm)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Calm).mmrs",
+    "preview": "https://www.youtube.com/watch?v=BKVHsqIcVZ4"
+  },
+  {
+    "uuid": "c6b82a67-ae64-49e6-8ce2-f7a8eb8f21ff",
+    "creationDate": "2026-03-22T02:49:27.873Z",
+    "game": "DetectiveSky612",
+    "song": "Pinnacle of the World",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Pinnacle of the World.mmrs",
+    "preview": "https://www.youtube.com/watch?v=FZxH5zQc7jU"
+  },
+  {
+    "uuid": "651c7d9c-1b37-4b65-96c8-bdc7dc2daef6",
+    "creationDate": "2026-03-22T02:54:47.818Z",
+    "game": "Ura Zelda",
+    "song": "Zeth Battle",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Zeth Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=yF9fxOAUw7o"
+  },
+  {
+    "uuid": "180fd53e-357b-4dfd-b4bc-267482a7297c",
+    "creationDate": "2026-03-22T02:55:26.747Z",
+    "game": "DetectiveSky612",
+    "song": "Lost",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Lost.mmrs",
+    "preview": "https://www.youtube.com/watch?v=dPQCMEQsRQo"
+  },
+  {
+    "uuid": "67eb8229-0797-4598-9216-84982811d80b",
+    "creationDate": "2026-03-22T02:56:13.782Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Song of Unhealing",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "3",
+      "10B"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Song of Unhealing.mmrs",
+    "preview": "https://www.youtube.com/watch?v=QUjevo8N1gQ"
+  },
+  {
+    "uuid": "bb06d0a5-4ceb-4aed-bc86-f10166c5b0e3",
+    "creationDate": "2026-03-22T02:57:23.625Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Simon Belmont's Theme (Fanfare)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mmrs",
+    "preview": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mp3"
+  },
+  {
+    "uuid": "c43cccb1-d16d-4848-970c-ca6954cf1a38",
+    "creationDate": "2026-03-22T02:58:00.352Z",
+    "game": "DetectiveSky612",
+    "song": "Deja Vu",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Deja Vu.mmrs",
+    "preview": "https://www.youtube.com/watch?v=diF3dJZd-3g"
+  },
+  {
+    "uuid": "03a87cff-5744-4c09-846f-10d9732516de",
+    "creationDate": "2026-03-22T02:58:30.842Z",
+    "game": "DetectiveSky612",
+    "song": "Going Alone",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Going Alone.mmrs",
+    "preview": "https://www.youtube.com/watch?v=YBWTNJDM3XA"
+  },
+  {
+    "uuid": "47636a99-773f-4eba-95b5-95e25cfb91d2",
+    "creationDate": "2026-03-22T02:59:15.737Z",
+    "game": "Super Castlevania IV",
+    "song": "Dance of the Holy Man/Theme of Simon Belmont",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Castlevania IV/Dance of the Holy ManTheme of Simon Belmont.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wD_7sAzP9gE"
+  },
+  {
+    "uuid": "a31ddbb4-95cb-4088-83cb-6893c6bac55e",
+    "creationDate": "2026-03-22T03:00:14.039Z",
+    "game": "Castlevania: Legacy of Darkness",
+    "song": "Sinking Old Sanctuary",
+    "composers": [
+      "Masahiko Kimura"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Legacy of Darkness/Sinking Old Sanctuary.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oPMsO4Loljs"
+  },
+  {
+    "uuid": "0dfe9750-ae71-488e-9fa9-42fbddff018a",
+    "creationDate": "2026-03-22T03:02:26.263Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Stone Tower Temple Oath of Obscurity Arrangement",
+    "composers": [
+      "Oath of Obscurity"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "106",
+      "107"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple Oath of Obscurity Arrangement.mmrs",
+    "preview": "https://www.youtube.com/watch?v=68CvdB515i8"
+  },
+  {
+    "uuid": "ffd15c01-3e78-4ebd-8b16-c435cb2b4919",
+    "creationDate": "2026-03-22T03:03:34.282Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Stone Tower Temple (Reversed)",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "106",
+      "107"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Reversed).mmrs",
+    "preview": "https://www.youtube.com/watch?v=DYrdT5KIrH4"
+  },
+  {
+    "uuid": "34fe610b-a390-45de-a569-7af264fafd8e",
+    "creationDate": "2026-03-22T03:04:10.901Z",
+    "game": "Ura Zelda",
+    "song": "Temple of Time",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Ura Zelda/Temple of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=0qdMwU_fPc0"
+  },
+  {
+    "uuid": "a531e31e-ea79-4925-b3f7-f55db3ccea4c",
+    "creationDate": "2026-03-22T03:06:13.762Z",
+    "game": "DetectiveSky612",
+    "song": "Dance of Death",
+    "composers": [
+      "DetectiveSky612"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "DetectiveSky612/Dance of Death.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-DNV2dGctHY"
+  },
+  {
+    "uuid": "36ce3008-016d-4b7e-aa46-8831a155ebed",
+    "creationDate": "2026-03-22T03:12:13.868Z",
+    "game": "Maple Story",
+    "song": "Ellinia Tree Dungeon",
+    "composers": [
+      "CODASOUND (Lee Jun-Hee)"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "11C"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Maple Story/Ellinia Tree Dungeon.mmrs",
+    "preview": "Maple Story/Ellinia Tree Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
