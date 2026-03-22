@@ -15550,5 +15550,31 @@
     "file": "Castlevania Bloodlines/Sinking Old Sanctuary (Dual).mmrs",
     "preview": "Castlevania Bloodlines/Sinking Old Sanctuary (Dual).mp3"
   },
+  {
+    "uuid": "4f0b90d6-d28a-4911-8d3f-54f57fe9a627",
+    "creationDate": "2026-03-22T02:47:48.822Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Dragon Roost Island (Calm)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Calm).mmrs",
+    "preview": "https://www.youtube.com/watch?v=BKVHsqIcVZ4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
