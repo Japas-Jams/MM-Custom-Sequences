@@ -16054,5 +16054,30 @@
     "file": "The Legend of Zelda Spirit Tracks/Byrne.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Byrne.ogg"
   },
+  {
+    "uuid": "b394d409-9422-40c7-86ff-ae6d88b8d5f5",
+    "creationDate": "2026-03-22T23:58:54.621Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "End Credits (Part 1)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/End Credits (Part 1).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/End Credits (Part 1).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
