@@ -15664,5 +15664,28 @@
     "file": "The Legend of Zelda Majora's Mask/Song of Unhealing.mmrs",
     "preview": "https://www.youtube.com/watch?v=QUjevo8N1gQ"
   },
+  {
+    "uuid": "bb06d0a5-4ceb-4aed-bc86-f10166c5b0e3",
+    "creationDate": "2026-03-22T02:57:23.625Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Simon Belmont's Theme (Fanfare)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "DetectiveSky612"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mmrs",
+    "preview": "Castlevania Bloodlines/Simon Belmont's Theme (Fanfare).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
