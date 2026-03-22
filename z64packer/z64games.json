@@ -2954,33 +2954,46 @@
     "logo": "https://i.imgur.com/vRg91Se.png"
   },
   {
-    "game": "Quattro Adventure Super Robin Hood"
+    "game": "Super Robin Hood",
+    "series": "Quattro Adventure",
+    "logo": "https://thecodemastersarchive.co.uk/wp-content/uploads/2000/01/Logo_SuperRobinHoodNES.png"
   },
   {
-    "game": "Quattro Adventure Treasure Island Dizzy"
+    "game": "Treasure Island Dizzy",
+    "series": "Quattro Adventure",
+    "logo": "https://images.launchbox-app.com/06a724a6-7225-4700-8cf6-96cbb69c57b4.png"
   },
   {
-    "game": "M.C.Kids"
+    "game": "M.C. Kids",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6508b3f499f5b64f9ca84fbb763fe500.png"
   },
   {
     "game": "DetectiveSky612",
     "series": "Original Compositions"
   },
   {
-    "game": "Castlevania: Legacy of Darkness"
+    "game": "Castlevania: Legacy of Darkness",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/83d788e65786046542c9354d17b92450.png"
   },
   {
-    "game": "Castlevania: Bloodlines"
+    "game": "Castlevania: Bloodlines",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/cfe12d07973eb647d2ba40f76257ce1a.png"
   },
   {
     "game": "Ura Zelda",
-    "series": "The Legend of Zelda Series"
+    "series": "The Legend of Zelda Series",
+    "logo": "https://i.imgur.com/70HgS3T.png"
   },
   {
-    "game": "Maple Story"
+    "game": "Maple Story",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0163cceb20f5ca7b313419c068abd9dc.png"
   },
   {
-    "game": "Castlevania: Order of Ecclesia"
+    "game": "Castlevania: Order of Ecclesia",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4d76bdef0d4780075906b69acd169cb7.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

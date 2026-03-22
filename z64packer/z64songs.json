@@ -14843,7 +14843,7 @@
   {
     "uuid": "b3affed7-a82f-40ce-920f-5713ab1245fd",
     "creationDate": "2026-03-21T23:22:15.400Z",
-    "game": "Quattro Adventure Treasure Island Dizzy",
+    "game": "Treasure Island Dizzy",
     "song": "Island",
     "composers": [
       "David Whittaker"
@@ -14859,13 +14859,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Quattro Adventure Treasure Island Dizzy/Island.mmrs",
-    "preview": "Quattro Adventure Treasure Island Dizzy/Island.ogg"
+    "file": "Treasure Island Dizzy/Island.mmrs",
+    "preview": "Treasure Island Dizzy/Island.ogg"
   },
   {
     "uuid": "be8c9f3a-92d1-44ab-a751-a64dfdd04cce",
     "creationDate": "2026-03-21T23:23:29.934Z",
-    "game": "Quattro Adventure Super Robin Hood",
+    "game": "Super Robin Hood",
     "song": "Ground",
     "composers": [
       "David Whittaker"
@@ -14882,13 +14882,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Quattro Adventure Super Robin Hood/Ground.mmrs",
-    "preview": "Quattro Adventure Super Robin Hood/Ground.ogg"
+    "file": "Super Robin Hood/Ground.mmrs",
+    "preview": "Super Robin Hood/Ground.ogg"
   },
   {
     "uuid": "ae27822d-7dee-4aa0-b711-6b3cd4f75d55",
     "creationDate": "2026-03-21T23:24:13.651Z",
-    "game": "Quattro Adventure Super Robin Hood",
+    "game": "Super Robin Hood",
     "song": "Title Screen",
     "composers": [
       "David Whittaker"
@@ -14905,13 +14905,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Quattro Adventure Super Robin Hood/Title Screen.mmrs",
-    "preview": "Quattro Adventure Super Robin Hood/Title Screen.ogg"
+    "file": "Super Robin Hood/Title Screen.mmrs",
+    "preview": "Super Robin Hood/Title Screen.ogg"
   },
   {
     "uuid": "9825543c-79cf-491a-8c34-a68c61a90701",
     "creationDate": "2026-03-21T23:25:15.640Z",
-    "game": "M.C.Kids",
+    "game": "M.C. Kids",
     "song": "Map Theme",
     "composers": [
       "Charles Deenen"
@@ -14927,13 +14927,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "M.C.Kids/Map Theme.mmrs",
-    "preview": "M.C.Kids/Map Theme.ogg"
+    "file": "M.C. Kids/Map Theme.mmrs",
+    "preview": "M.C. Kids/Map Theme.ogg"
   },
   {
     "uuid": "57931595-31f8-41fd-b572-b255c7516bf2",
     "creationDate": "2026-03-21T23:25:51.924Z",
-    "game": "M.C.Kids",
+    "game": "M.C. Kids",
     "song": "Cutscene",
     "composers": [
       "Charles Deenen"
@@ -14950,13 +14950,13 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "M.C.Kids/Cutscene.mmrs",
-    "preview": "M.C.Kids/Cutscene.ogg"
+    "file": "M.C. Kids/Cutscene.mmrs",
+    "preview": "M.C. Kids/Cutscene.ogg"
   },
   {
     "uuid": "2bc4dc19-6908-451e-bd41-f9488dd43a55",
     "creationDate": "2026-03-21T23:26:27.853Z",
-    "game": "M.C.Kids",
+    "game": "M.C. Kids",
     "song": "Card Clear",
     "composers": [
       "Charles Deenen"
@@ -14972,8 +14972,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "M.C.Kids/Card Clear.mmrs",
-    "preview": "M.C.Kids/Card Clear.ogg"
+    "file": "M.C. Kids/Card Clear.mmrs",
+    "preview": "M.C. Kids/Card Clear.ogg"
   },
   {
     "uuid": "c9b8972f-b605-483c-9dee-b19d812ab8d0",
@@ -15377,7 +15377,7 @@
     "game": "Ura Zelda",
     "song": "Overture of Wind",
     "composers": [
-      "Dominic Ninmark"
+      "Nitroflasher"
     ],
     "converters": [
       "DetectiveSky612"
@@ -15400,7 +15400,7 @@
     "game": "Ura Zelda",
     "song": "Palace of Earth",
     "composers": [
-      "Dominic Ninmark"
+      "Punk7890"
     ],
     "converters": [
       "DetectiveSky612"
@@ -15422,7 +15422,7 @@
     "game": "Ura Zelda",
     "song": "Hymn of Ice",
     "composers": [
-      "Dominic Ninmark"
+      "Nitroflasher"
     ],
     "converters": [
       "DetectiveSky612"
@@ -15606,7 +15606,7 @@
     "game": "Ura Zelda",
     "song": "Zeth Battle",
     "composers": [
-      "Dominic Ninmark"
+      "ZethN64"
     ],
     "converters": [
       "DetectiveSky612"
@@ -15829,7 +15829,7 @@
     "game": "Ura Zelda",
     "song": "Temple of Time",
     "composers": [
-      "Dominic Ninmark"
+      "Punk7890"
     ],
     "converters": [
       "DetectiveSky612"
