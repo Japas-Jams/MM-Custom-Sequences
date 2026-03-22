@@ -14975,5 +14975,26 @@
     "file": "M.C.Kids/Card Clear.mmrs",
     "preview": "M.C.Kids/Card Clear.ogg"
   },
+  {
+    "uuid": "c9b8972f-b605-483c-9dee-b19d812ab8d0",
+    "creationDate": "2026-03-22T00:34:38.844Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Menu 1",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/Menu 1.mmrs",
+    "preview": "Super Smash Bros. Brawl/Menu 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
