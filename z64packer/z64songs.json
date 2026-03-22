@@ -15088,5 +15088,28 @@
     "file": "Super Smash Bros. Melee/Link Wins (Piano).mmrs",
     "preview": "Super Smash Bros. Melee/Link Wins (Piano).ogg"
   },
+  {
+    "uuid": "a3505558-657e-44b9-9f36-1fe2fbca24ad",
+    "creationDate": "2026-03-22T00:41:30.944Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Menu 1",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Menu 1.mmrs",
+    "preview": "Super Smash Bros. Melee/Menu 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
