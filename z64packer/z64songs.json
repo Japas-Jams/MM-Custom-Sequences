@@ -16004,5 +16004,30 @@
     "file": "The Legend of Zelda Oracle of Ages/Under the Sea.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Under the Sea.ogg"
   },
+  {
+    "uuid": "2e31fd02-12ba-45c9-a581-5bcf7ddc188f",
+    "creationDate": "2026-03-22T23:55:55.142Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Byrne Comes to the Rescue",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga",
+      "Asuka Ota"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Byrne Comes to the Rescue.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Byrne Comes to the Rescue.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
