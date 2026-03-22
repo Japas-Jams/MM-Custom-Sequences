@@ -15132,5 +15132,26 @@
     "file": "The Legend of Zelda Majora's Mask/Boss Battle (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Boss Battle (Remix).ogg"
   },
+  {
+    "uuid": "0a4a75ab-3884-4336-9e71-cc1a0c69ce5a",
+    "creationDate": "2026-03-22T00:46:52.602Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Koloktos / Moldarach",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
