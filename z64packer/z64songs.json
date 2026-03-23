@@ -18316,5 +18316,27 @@
     "file": "Fire Emblem Echoes Shadows of Valentia/March to Deliverance.mmrs",
     "preview": "Fire Emblem Echoes Shadows of Valentia/March to Deliverance.mp3"
   },
+  {
+    "uuid": "0e6b932d-7463-4a82-9034-2620fec106d0",
+    "creationDate": "2026-03-23T23:14:10.342Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Dauntless Blade",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Dauntless Blade.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Dauntless Blade.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
