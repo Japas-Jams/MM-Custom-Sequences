@@ -17656,5 +17656,28 @@
     "file": "Sonic the Hedgehog 3/Magnetic Orbs.mmrs",
     "preview": "Sonic the Hedgehog 3/Magnetic Orbs.mp3"
   },
+  {
+    "uuid": "48433e89-6dff-4378-8c93-84cad1ca949c",
+    "creationDate": "2026-03-23T22:23:46.574Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Korok Forest",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Korok Forest.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Korok Forest.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
