@@ -17073,5 +17073,27 @@
     "file": "Mother 3/Mind of a Thief.mmrs",
     "preview": "Mother 3/Mind of a Thief.mp3"
   },
+  {
+    "uuid": "45d2cc9b-dfc8-4655-81ea-428fc0e790a8",
+    "creationDate": "2026-03-23T16:25:46.460Z",
+    "game": "Final Fantasy IV",
+    "song": "Damcyan Castle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Damcyan Castle.mmrs",
+    "preview": "Final Fantasy IV/Damcyan Castle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
