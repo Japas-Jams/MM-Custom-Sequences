@@ -16563,5 +16563,27 @@
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Questioning ~ Allegro 2004.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Questioning ~ Allegro 2004.mp3"
   },
+  {
+    "uuid": "b095a856-f0fb-4b85-9772-66583d0567bc",
+    "creationDate": "2026-03-23T03:05:04.810Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Trial",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Trial.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Trial.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
