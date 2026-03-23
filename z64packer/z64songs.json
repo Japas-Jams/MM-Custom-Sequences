@@ -17227,5 +17227,27 @@
     "file": "Final Fantasy IV/Tower of Babil.mmrs",
     "preview": "Final Fantasy IV/Tower of Babil.mp3"
   },
+  {
+    "uuid": "12e17e35-6238-4ef8-845e-033d46e23147",
+    "creationDate": "2026-03-23T16:40:30.909Z",
+    "game": "Final Fantasy IV",
+    "song": "Tower of Zot",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Tower of Zot.mmrs",
+    "preview": "Final Fantasy IV/Tower of Zot.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
