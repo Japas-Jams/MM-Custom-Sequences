@@ -18382,5 +18382,27 @@
     "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mmrs",
     "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mp3"
   },
+  {
+    "uuid": "01595673-bf3a-44b3-9436-6359166970e6",
+    "creationDate": "2026-03-23T23:17:49.161Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Scions' Dance in Purgatory",
+    "composers": [
+      "Yasuhisa Baba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Scions' Dance in Purgatory.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Scions' Dance in Purgatory.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
