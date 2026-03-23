@@ -17051,5 +17051,27 @@
     "file": "EarthBound/Twoson (Boy Meets Girl).mmrs",
     "preview": "EarthBound/Twoson (Boy Meets Girl).mp3"
   },
+  {
+    "uuid": "6218b25e-dc79-41d0-84ee-3db3e4fedc53",
+    "creationDate": "2026-03-23T16:23:02.713Z",
+    "game": "Mother 3",
+    "song": "Mind of a Thief",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Mind of a Thief.mmrs",
+    "preview": "Mother 3/Mind of a Thief.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
