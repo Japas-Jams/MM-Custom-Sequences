@@ -16850,5 +16850,694 @@
     "file": "Phoenix Wright Ace Attorney/Trial.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Trial.mp3"
   },
+  {
+    "uuid": "5636ff3e-768c-4a60-b353-fe37faaf56d3",
+    "creationDate": "2026-03-23T15:43:00.793Z",
+    "game": "Bloodstained: Ritual of the Night",
+    "song": "Gears of Fortune",
+    "composers": [
+      "Ryusuke Fujioka"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bloodstained Ritual of the Night/Gears of Fortune.mmrs",
+    "preview": "Bloodstained Ritual of the Night/Gears of Fortune.mp3"
+  },
+  {
+    "uuid": "e67c5624-508c-4127-ac6e-e921397a73e7",
+    "creationDate": "2026-03-23T15:44:28.800Z",
+    "game": "Bloodstained: Ritual of the Night",
+    "song": "Voyage of Promise",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Bloodstained Ritual of the Night/Voyage of Promise.mmrs",
+    "preview": "Bloodstained Ritual of the Night/Voyage of Promise.mp3"
+  },
+  {
+    "uuid": "558ab29d-d8ee-4f4c-8bb5-c42b4ac33e02",
+    "creationDate": "2026-03-23T15:46:08.378Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Clock Tower (No Intro)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Clock Tower (No Intro).mmrs",
+    "preview": "Castlevania Aria of Sorrow/Clock Tower (No Intro).mp3"
+  },
+  {
+    "uuid": "65d965d0-ba32-40e8-9509-2a29bf34dc69",
+    "creationDate": "2026-03-23T16:15:24.522Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Clock Tower",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Clock Tower.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Clock Tower.mp3"
+  },
+  {
+    "uuid": "a779597f-8391-4bb2-a1cd-492939e5fee7",
+    "creationDate": "2026-03-23T16:17:02.669Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Floating Garden",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Floating Garden.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Floating Garden.mp3"
+  },
+  {
+    "uuid": "ab627060-e336-461e-8dc6-b3e59734e719",
+    "creationDate": "2026-03-23T16:18:11.548Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Top Floor",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Top Floor.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Top Floor.mp3"
+  },
+  {
+    "uuid": "21cf2ea2-884d-4561-a936-1d5c8366dfe8",
+    "creationDate": "2026-03-23T16:19:40.174Z",
+    "game": "Castlevania: Dawn of Sorrow",
+    "song": "Cursed Clock Tower",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Dawn of Sorrow/Cursed Clock Tower.mmrs",
+    "preview": "Castlevania Dawn of Sorrow/Cursed Clock Tower.mp3"
+  },
+  {
+    "uuid": "c78df564-ddc3-4241-9767-c020e5265c51",
+    "creationDate": "2026-03-23T16:20:43.232Z",
+    "game": "Castlevania: Lament of Innocence",
+    "song": "Lament of Innocence",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Lament of Innocence/Lament of Innocence.mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence.mp3"
+  },
+  {
+    "uuid": "bdf16b8d-60c3-460c-9d04-2ff1daec495d",
+    "creationDate": "2026-03-23T16:22:09.894Z",
+    "game": "EarthBound",
+    "song": "Twoson (Boy Meets Girl)",
+    "composers": [
+      "Keiichi Suzuki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound/Twoson (Boy Meets Girl).mmrs",
+    "preview": "EarthBound/Twoson (Boy Meets Girl).mp3"
+  },
+  {
+    "uuid": "6218b25e-dc79-41d0-84ee-3db3e4fedc53",
+    "creationDate": "2026-03-23T16:23:02.713Z",
+    "game": "Mother 3",
+    "song": "Mind of a Thief",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Mind of a Thief.mmrs",
+    "preview": "Mother 3/Mind of a Thief.mp3"
+  },
+  {
+    "uuid": "45d2cc9b-dfc8-4655-81ea-428fc0e790a8",
+    "creationDate": "2026-03-23T16:25:46.460Z",
+    "game": "Final Fantasy IV",
+    "song": "Damcyan Castle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Damcyan Castle.mmrs",
+    "preview": "Final Fantasy IV/Damcyan Castle.mp3"
+  },
+  {
+    "uuid": "fef1cd18-788a-4b45-9ad1-56a746160e41",
+    "creationDate": "2026-03-23T16:26:48.780Z",
+    "game": "Final Fantasy IV",
+    "song": "Giott, the Great King",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Giott, the Great King.mmrs",
+    "preview": "Final Fantasy IV/Giott, the Great King.mp3"
+  },
+  {
+    "uuid": "8dcba10d-5679-49f4-a6d8-afd8303fae0d",
+    "creationDate": "2026-03-23T16:27:41.674Z",
+    "game": "Final Fantasy IV",
+    "song": "Main Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Main Theme.mmrs",
+    "preview": "Final Fantasy IV/Main Theme.mp3"
+  },
+  {
+    "uuid": "173c4560-9363-4853-b288-007cbae0d661",
+    "creationDate": "2026-03-23T16:28:36.525Z",
+    "game": "Final Fantasy IV",
+    "song": "Mt. Ordeals",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Mt. Ordeals.mmrs",
+    "preview": "Final Fantasy IV/Mt. Ordeals.mp3"
+  },
+  {
+    "uuid": "60664d18-6468-413c-8de1-59f8608140ea",
+    "creationDate": "2026-03-23T16:29:22.942Z",
+    "game": "Final Fantasy IV",
+    "song": "Mystic Mysidia",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Mystic Mysidia.mmrs",
+    "preview": "Final Fantasy IV/Mystic Mysidia.mp3"
+  },
+  {
+    "uuid": "140f64cb-0977-4fe6-bdae-fc2489b8abd1",
+    "creationDate": "2026-03-23T16:30:26.304Z",
+    "game": "Final Fantasy IV",
+    "song": "The Final Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/The Final Battle.mmrs",
+    "preview": "Final Fantasy IV/The Final Battle.mp3"
+  },
+  {
+    "uuid": "aee8966b-b182-43ff-a4cf-fb0210bb46af",
+    "creationDate": "2026-03-23T16:31:14.741Z",
+    "game": "Final Fantasy IV",
+    "song": "Tower of Babil",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Tower of Babil.mmrs",
+    "preview": "Final Fantasy IV/Tower of Babil.mp3"
+  },
+  {
+    "uuid": "12e17e35-6238-4ef8-845e-033d46e23147",
+    "creationDate": "2026-03-23T16:40:30.909Z",
+    "game": "Final Fantasy IV",
+    "song": "Tower of Zot",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Tower of Zot.mmrs",
+    "preview": "Final Fantasy IV/Tower of Zot.mp3"
+  },
+  {
+    "uuid": "546b68cb-0918-4b70-86bb-1f809d02723c",
+    "creationDate": "2026-03-23T16:41:52.417Z",
+    "game": "Final Fantasy IV",
+    "song": "Within the Giant",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Within the Giant.mmrs",
+    "preview": "Final Fantasy IV/Within the Giant.mp3"
+  },
+  {
+    "uuid": "9f561f72-f5ca-4aae-8074-89d64082198b",
+    "creationDate": "2026-03-23T16:44:00.989Z",
+    "game": "Final Fantasy IV",
+    "song": "The Airship (FFV Mix)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/The Airship (FFV Mix).mmrs",
+    "preview": "Final Fantasy IV/The Airship (FFV Mix).mp3"
+  },
+  {
+    "uuid": "790f1d30-9204-4dbf-a906-5b84f20aaa97",
+    "creationDate": "2026-03-23T16:44:56.201Z",
+    "game": "Final Fantasy V",
+    "song": "Beyond the Deep Blue Sea",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy V/Beyond the Deep Blue Sea.mmrs",
+    "preview": "Final Fantasy V/Beyond the Deep Blue Sea.mp3"
+  },
+  {
+    "uuid": "8806a515-4940-4a5d-a1f6-07a676892f40",
+    "creationDate": "2026-03-23T16:47:01.353Z",
+    "game": "Golden Sun",
+    "song": "Lalivero Ruins",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Lalivero Ruins.mmrs",
+    "preview": "Golden Sun/Lalivero Ruins.mp3"
+  },
+  {
+    "uuid": "2c028bdf-9f81-410a-801f-05a768f7e6de",
+    "creationDate": "2026-03-23T16:48:17.978Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Mars Lighthouse",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Mars Lighthouse.mmrs",
+    "preview": "Golden Sun The Lost Age/Mars Lighthouse.mp3"
+  },
+  {
+    "uuid": "6925bffe-2cbe-4822-9961-08e4064667eb",
+    "creationDate": "2026-03-23T16:49:49.088Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Non-Adept Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Non-Adept Battle.mmrs",
+    "preview": "Golden Sun The Lost Age/Non-Adept Battle.mp3"
+  },
+  {
+    "uuid": "57b516e1-6b6e-47f3-9d72-2b3de1b2da3f",
+    "creationDate": "2026-03-23T16:50:58.976Z",
+    "game": "Mega Man 2",
+    "song": "Crash Man Stage",
+    "composers": [
+      "Takashi Tateishi"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man 2/Crash Man Stage.mmrs",
+    "preview": "Mega Man 2/Crash Man Stage.mp3"
+  },
+  {
+    "uuid": "697dc119-bc37-4e95-acc0-f7fdeecdc0df",
+    "creationDate": "2026-03-23T16:52:01.903Z",
+    "game": "Mega Man 2",
+    "song": "Title",
+    "composers": [
+      "Takashi Tateishi"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man 2/Title.mmrs",
+    "preview": "Mega Man 2/Title.mp3"
+  },
+  {
+    "uuid": "8070a44b-e706-4726-a1c3-3bf73fbfed3c",
+    "creationDate": "2026-03-23T16:54:06.768Z",
+    "game": "Lunar: Silver Star Story",
+    "song": "Go Go Go! ~ Final Battle Vs Ghaleon",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Lunar Silver Star Story/Go Go Go! ~ Final Battle Vs Ghaleon.mmrs",
+    "preview": "Lunar Silver Star Story/Go Go Go! ~ Final Battle Vs Ghaleon.mp3"
+  },
+  {
+    "uuid": "21eb41c2-5dc8-46e9-aa59-703aedf2d905",
+    "creationDate": "2026-03-23T16:55:17.677Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Title",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Title.mmrs",
+    "preview": "Metroid Zero Mission/Title.mp3"
+  },
+  {
+    "uuid": "de91a6b2-09b6-4a79-8590-beceabad04a5",
+    "creationDate": "2026-03-23T16:56:34.266Z",
+    "game": "Metal Gear Rising: Revengeance",
+    "song": "It Has To Be This Way",
+    "composers": [
+      "Jamie Christopherson",
+      "Logan Mader"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metal Gear Rising Revengeance/It Has To Be This Way.mmrs",
+    "preview": "Metal Gear Rising Revengeance/It Has To Be This Way.mp3"
+  },
+  {
+    "uuid": "bb61ae9b-05f6-4b02-87d6-571d08173b0a",
+    "creationDate": "2026-03-23T21:58:50.793Z",
+    "game": "Persona 4 Arena",
+    "song": "Princess Amagi - Yukiko's Theme",
+    "composers": [
+      "Atsushi Kitajoh"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 4 Arena/Princess Amagi - Yukiko's Theme.mmrs",
+    "preview": "Persona 4 Arena/Princess Amagi - Yukiko's Theme.mp3"
+  },
+  {
+    "uuid": "1a7735aa-6502-4e00-8f55-fce7c0141547",
+    "creationDate": "2026-03-23T21:59:50.941Z",
+    "game": "Pokémon Black & White",
+    "song": "Relic Castle",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Relic Castle.mmrs",
+    "preview": "Pokémon Black & White/Relic Castle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
