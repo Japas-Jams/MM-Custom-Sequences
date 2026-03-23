@@ -18338,5 +18338,27 @@
     "file": "Fire Emblem Echoes Shadows of Valentia/The Dauntless Blade.mmrs",
     "preview": "Fire Emblem Echoes Shadows of Valentia/The Dauntless Blade.mp3"
   },
+  {
+    "uuid": "bc0b6b3b-5923-4411-8146-2ecd055e59ef",
+    "creationDate": "2026-03-23T23:14:59.488Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Heritors of Arcadia",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
