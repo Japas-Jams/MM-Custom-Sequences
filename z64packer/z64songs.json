@@ -16630,5 +16630,27 @@
     "file": "Apollo Justice Ace Attorney/Ema Skye ~ Scientific Detective.mmrs",
     "preview": "Apollo Justice Ace Attorney/Ema Skye ~ Scientific Detective.mp3"
   },
+  {
+    "uuid": "d7a22be5-6fc2-484d-a76e-53d42fb43e61",
+    "creationDate": "2026-03-23T03:09:08.695Z",
+    "game": "Apollo Justice: Ace Attorney",
+    "song": "Investigation ~ Core 2007",
+    "composers": [
+      "Toshihiko Horiyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Apollo Justice Ace Attorney/Investigation ~ Core 2007.mmrs",
+    "preview": "Apollo Justice Ace Attorney/Investigation ~ Core 2007.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
