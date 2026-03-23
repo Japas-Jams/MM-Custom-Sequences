@@ -17633,5 +17633,28 @@
     "file": "Sonic the Hedgehog 3/Desert Palace Zone.mmrs",
     "preview": "Sonic the Hedgehog 3/Desert Palace Zone.mp3"
   },
+  {
+    "uuid": "0c7d3b91-67a5-40aa-a5b9-9f6a6fae092f",
+    "creationDate": "2026-03-23T22:22:45.737Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Magnetic Orbs",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Magnetic Orbs.mmrs",
+    "preview": "Sonic the Hedgehog 3/Magnetic Orbs.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
