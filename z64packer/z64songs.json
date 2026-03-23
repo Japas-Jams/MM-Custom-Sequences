@@ -17840,5 +17840,28 @@
     "file": "Fire Emblem New Mystery of the Emblem/Those Who Dare to Change History.mmrs",
     "preview": "Fire Emblem New Mystery of the Emblem/Those Who Dare to Change History.mp3"
   },
+  {
+    "uuid": "c082c396-161c-45f8-a606-8fdc610899ff",
+    "creationDate": "2026-03-23T22:36:51.777Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Victory is Ours",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Victory is Ours.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Victory is Ours.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
