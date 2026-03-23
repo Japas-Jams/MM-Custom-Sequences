@@ -17539,5 +17539,27 @@
     "file": "Pokémon Black & White/Relic Castle.mmrs",
     "preview": "Pokémon Black & White/Relic Castle.mp3"
   },
+  {
+    "uuid": "cfc83e01-460f-4a23-808f-60dbbe832c02",
+    "creationDate": "2026-03-23T22:15:28.256Z",
+    "game": "Octopath Traveler",
+    "song": "Grandport, Center of Commerce",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Grandport, Center of Commerce.mmrs",
+    "preview": "Octopath Traveler/Grandport, Center of Commerce.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
