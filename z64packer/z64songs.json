@@ -17728,5 +17728,27 @@
     "file": "Xenoblade Chronicles 2/Incoming!.mmrs",
     "preview": "Xenoblade Chronicles 2/Incoming!.mp3"
   },
+  {
+    "uuid": "acd89964-439e-4844-8717-84f8eff36aa0",
+    "creationDate": "2026-03-23T22:28:27.050Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "One Last You",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/One Last You.mmrs",
+    "preview": "Xenoblade Chronicles 2/One Last You.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
