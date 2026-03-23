@@ -18205,5 +18205,27 @@
     "file": "Fire Emblem Genealogy of the Holy War/Eldigan, The Lionheart.mmrs",
     "preview": "Fire Emblem Genealogy of the Holy War/Eldigan, The Lionheart.mp3"
   },
+  {
+    "uuid": "32dc91f0-557d-461e-b20f-00518f3d06f9",
+    "creationDate": "2026-03-23T23:09:21.047Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Inheritor of the Light",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
