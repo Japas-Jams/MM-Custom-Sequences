@@ -18161,5 +18161,28 @@
     "file": "Fire Emblem The Sacred Stones/The Final Battle.mmrs",
     "preview": "Fire Emblem The Sacred Stones/The Final Battle.mp3"
   },
+  {
+    "uuid": "c82ffa92-ef22-47a4-afee-6625ee23e58a",
+    "creationDate": "2026-03-23T22:53:46.426Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Dance in the Sky",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Dance in the Sky.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Dance in the Sky.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
