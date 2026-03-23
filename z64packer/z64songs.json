@@ -16472,5 +16472,28 @@
     "file": "Phoenix Wright Ace Attorney - Justice for All/Pressing Pursuit ~ Cross-Examine.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Justice for All/Pressing Pursuit ~ Cross-Examine.mp3"
   },
+  {
+    "uuid": "1c09fd19-bcba-44d1-9fce-c2ea7a7419ef",
+    "creationDate": "2026-03-23T02:56:13.122Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Psyche-Lock",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
