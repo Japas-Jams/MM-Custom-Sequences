@@ -16125,5 +16125,28 @@
     "file": "The Legend of Zelda Twilight Princess/Gerudo Desert.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Gerudo Desert.ogg"
   },
+  {
+    "uuid": "9e42e480-9386-459d-a938-4e673c66c5d9",
+    "creationDate": "2026-03-23T00:02:00.809Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Instruction in the Art of the Sword",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Instruction in the Art of the Sword.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Instruction in the Art of the Sword.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
