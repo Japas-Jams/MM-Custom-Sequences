@@ -18001,5 +18001,28 @@
     "file": "Fire Emblem The Binding Blade/Suspicious (Narcian's Theme).mmrs",
     "preview": "Fire Emblem The Binding Blade/Suspicious (Narcian's Theme).mp3"
   },
+  {
+    "uuid": "e9a37e3d-88b0-4545-9c5c-ac7e7bee18e3",
+    "creationDate": "2026-03-23T22:45:48.633Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Everything into the Dark",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Haruyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Everything into the Dark.mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Everything into the Dark.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
