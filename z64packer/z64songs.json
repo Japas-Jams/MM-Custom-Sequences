@@ -17931,5 +17931,29 @@
     "file": "Fire Emblem Shadow Dragon/A Hero's Destiny.mmrs",
     "preview": "Fire Emblem Shadow Dragon/A Hero's Destiny.mp3"
   },
+  {
+    "uuid": "2de517d4-4a27-4393-a80c-13451645adad",
+    "creationDate": "2026-03-23T22:41:32.413Z",
+    "game": "Fire Emblem: Shadow Dragon",
+    "song": "Preparations",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Shadow Dragon/Preparations.mmrs",
+    "preview": "Fire Emblem Shadow Dragon/Preparations.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
