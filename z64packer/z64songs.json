@@ -16260,5 +16260,26 @@
     "file": "The Legend of Zelda The Wind Waker/Inside a House.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Inside a House.ogg"
   },
+  {
+    "uuid": "2051ad29-a77d-48f4-a1e8-5dcd901cf895",
+    "creationDate": "2026-03-23T00:13:46.087Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Outset Island",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Outset Island.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Outset Island.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
