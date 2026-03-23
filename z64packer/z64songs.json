@@ -17006,5 +17006,27 @@
     "file": "Castlevania Dawn of Sorrow/Cursed Clock Tower.mmrs",
     "preview": "Castlevania Dawn of Sorrow/Cursed Clock Tower.mp3"
   },
+  {
+    "uuid": "c78df564-ddc3-4241-9767-c020e5265c51",
+    "creationDate": "2026-03-23T16:20:43.232Z",
+    "game": "Castlevania: Lament of Innocence",
+    "song": "Lament of Innocence",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Lament of Innocence/Lament of Innocence.mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
