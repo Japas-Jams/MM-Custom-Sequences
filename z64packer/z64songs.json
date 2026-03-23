@@ -17399,5 +17399,27 @@
     "file": "Mega Man 2/Crash Man Stage.mmrs",
     "preview": "Mega Man 2/Crash Man Stage.mp3"
   },
+  {
+    "uuid": "697dc119-bc37-4e95-acc0-f7fdeecdc0df",
+    "creationDate": "2026-03-23T16:52:01.903Z",
+    "game": "Mega Man 2",
+    "song": "Title",
+    "composers": [
+      "Takashi Tateishi"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man 2/Title.mmrs",
+    "preview": "Mega Man 2/Title.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
