@@ -16829,5 +16829,26 @@
     "file": "Phoenix Wright Ace Attorney/Recollection ~ The DL-6 Incident.mmrs",
     "preview": "Phoenix Wright Ace Attorney/Recollection ~ The DL-6 Incident.mp3"
   },
+  {
+    "uuid": "32df5718-5161-4536-98bb-bbcbc14de37b",
+    "creationDate": "2026-03-23T03:22:36.295Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Trial",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney/Trial.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Trial.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
