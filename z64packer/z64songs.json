@@ -15915,5 +15915,392 @@
     "file": "Advance Wars 2 Black Hole Rising/Blue Moon Theme.mmrs",
     "preview": "Advance Wars 2 Black Hole Rising/Blue Moon Theme.ogg"
   },
+  {
+    "uuid": "7d185836-67f6-4027-8983-0a498202ce03",
+    "creationDate": "2026-03-22T23:34:33.496Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Get Element",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Seasons/Get Element.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Get Element.ogg"
+  },
+  {
+    "uuid": "bb811b49-9cfb-49b2-a2e4-d6b0e59c5a0d",
+    "creationDate": "2026-03-22T23:36:57.446Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Mini-Game Goal",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Fish Caught.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Fish Caught.ogg",
+    "lastUpdateDate": "2026-03-22T23:41:52.328Z"
+  },
+  {
+    "uuid": "cdd27fe5-a70a-49cd-8376-af54156b4dca",
+    "creationDate": "2026-03-22T23:52:08.783Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Zora's Domain",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Zora's Domain.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Zora's Domain.ogg"
+  },
+  {
+    "uuid": "2b995dbc-2e7b-4236-87c0-a927e032eb11",
+    "creationDate": "2026-03-22T23:53:27.337Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Under the Sea",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Ages/Under the Sea.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Under the Sea.ogg"
+  },
+  {
+    "uuid": "2e31fd02-12ba-45c9-a581-5bcf7ddc188f",
+    "creationDate": "2026-03-22T23:55:55.142Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Byrne Comes to the Rescue",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga",
+      "Asuka Ota"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Byrne Comes to the Rescue.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Byrne Comes to the Rescue.ogg"
+  },
+  {
+    "uuid": "4d614450-1eae-4b7b-a286-1be51c1cfc67",
+    "creationDate": "2026-03-22T23:57:43.858Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Byrne",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga",
+      "Asuka Ota"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Spirit Tracks/Byrne.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Byrne.ogg"
+  },
+  {
+    "uuid": "b394d409-9422-40c7-86ff-ae6d88b8d5f5",
+    "creationDate": "2026-03-22T23:58:54.621Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "End Credits (Part 1)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/End Credits (Part 1).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/End Credits (Part 1).ogg"
+  },
+  {
+    "uuid": "cb8ed21f-a62b-434f-a70b-6930c2b5375f",
+    "creationDate": "2026-03-22T23:59:47.704Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Faron Woods",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Faron Woods.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods.ogg"
+  },
+  {
+    "uuid": "a7c942f8-6315-433d-9399-393f3c8b5331",
+    "creationDate": "2026-03-23T00:00:35.678Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Gerudo Desert",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Gerudo Desert.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Gerudo Desert.ogg"
+  },
+  {
+    "uuid": "9e42e480-9386-459d-a938-4e673c66c5d9",
+    "creationDate": "2026-03-23T00:02:00.809Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Instruction in the Art of the Sword",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Instruction in the Art of the Sword.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Instruction in the Art of the Sword.ogg"
+  },
+  {
+    "uuid": "f80356a3-c87c-44a4-8427-339ba4be0189",
+    "creationDate": "2026-03-23T00:02:43.803Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Sacred Grove",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg"
+  },
+  {
+    "uuid": "3240cad1-e63e-40ce-8a3d-32de79ff0473",
+    "creationDate": "2026-03-23T00:05:30.169Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "The Light Spirit Appears",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/The Light Spirit Appears.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/The Light Spirit Appears.ogg"
+  },
+  {
+    "uuid": "41f80c3c-16e1-4f69-acfb-4a7e13f7593e",
+    "creationDate": "2026-03-23T00:07:04.866Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Queen Rutela's Theme",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme.ogg"
+  },
+  {
+    "uuid": "215ca793-e696-4076-818c-9e5190c293b8",
+    "creationDate": "2026-03-23T00:11:12.910Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Beedle's Shop",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Beedle's Shop.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Beedle's Shop.ogg"
+  },
+  {
+    "uuid": "56418992-5fc9-45c6-adea-d0bd39b5abca",
+    "creationDate": "2026-03-23T00:12:59.046Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Inside a House",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Inside a House.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Inside a House.ogg"
+  },
+  {
+    "uuid": "2051ad29-a77d-48f4-a1e8-5dcd901cf895",
+    "creationDate": "2026-03-23T00:13:46.087Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Outset Island",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Outset Island.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Outset Island.ogg"
+  },
+  {
+    "uuid": "ded5150d-fbd5-48e5-95b9-5048aa806098",
+    "creationDate": "2026-03-23T00:15:01.449Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Wind Temple (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
