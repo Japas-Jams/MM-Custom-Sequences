@@ -17772,5 +17772,29 @@
     "file": "Xenoblade Chronicles 2/Torigoth (Night).mmrs",
     "preview": "Xenoblade Chronicles 2/Torigoth (Night).mp3"
   },
+  {
+    "uuid": "699c77f1-cab4-446a-b842-4cb86760476b",
+    "creationDate": "2026-03-23T22:32:37.677Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Footsteps of Fate",
+    "composers": [
+      "Hiroki Morishita",
+      "Takeru Kanazaki",
+      "Shoh Murakami"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
