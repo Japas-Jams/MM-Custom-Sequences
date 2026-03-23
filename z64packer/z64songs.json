@@ -17356,5 +17356,26 @@
     "file": "Golden Sun The Lost Age/Mars Lighthouse.mmrs",
     "preview": "Golden Sun The Lost Age/Mars Lighthouse.mp3"
   },
+  {
+    "uuid": "6925bffe-2cbe-4822-9961-08e4064667eb",
+    "creationDate": "2026-03-23T16:49:49.088Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Non-Adept Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Non-Adept Battle.mmrs",
+    "preview": "Golden Sun The Lost Age/Non-Adept Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
