@@ -17312,5 +17312,27 @@
     "file": "Final Fantasy V/Beyond the Deep Blue Sea.mmrs",
     "preview": "Final Fantasy V/Beyond the Deep Blue Sea.mp3"
   },
+  {
+    "uuid": "8806a515-4940-4a5d-a1f6-07a676892f40",
+    "creationDate": "2026-03-23T16:47:01.353Z",
+    "game": "Golden Sun",
+    "song": "Lalivero Ruins",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Lalivero Ruins.mmrs",
+    "preview": "Golden Sun/Lalivero Ruins.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
