@@ -17585,5 +17585,29 @@
     "file": "Octopath Traveler/Victor's Hollow, Jewel of the Forest.mmrs",
     "preview": "Octopath Traveler/Victor's Hollow, Jewel of the Forest.mp3"
   },
+  {
+    "uuid": "e2d9c367-c379-496d-ba95-1c1742e3ac85",
+    "creationDate": "2026-03-23T22:20:36.061Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Chrome Gadget Zone",
+    "composers": [
+      "Brad Buxer",
+      "Michael Jackson"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Chrome Gadget Zone.mmrs",
+    "preview": "Sonic the Hedgehog 3/Chrome Gadget Zone.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
