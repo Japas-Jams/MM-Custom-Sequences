@@ -17818,5 +17818,27 @@
     "file": "Fire Emblem New Mystery of the Emblem/Into the Darkness.mmrs",
     "preview": "Fire Emblem New Mystery of the Emblem/Into the Darkness.mp3"
   },
+  {
+    "uuid": "550c2c9e-1e2a-4f7f-b39b-88388fa4dfee",
+    "creationDate": "2026-03-23T22:35:51.511Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Those Who Dare to Change History",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Those Who Dare to Change History.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Those Who Dare to Change History.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
