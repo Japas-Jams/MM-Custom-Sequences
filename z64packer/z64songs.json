@@ -17421,5 +17421,29 @@
     "file": "Mega Man 2/Title.mmrs",
     "preview": "Mega Man 2/Title.mp3"
   },
+  {
+    "uuid": "8070a44b-e706-4726-a1c3-3bf73fbfed3c",
+    "creationDate": "2026-03-23T16:54:06.768Z",
+    "game": "Lunar: Silver Star Story",
+    "song": "Go Go Go! ~ Final Battle Vs Ghaleon",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Lunar Silver Star Story/Go Go Go! ~ Final Battle Vs Ghaleon.mmrs",
+    "preview": "Lunar Silver Star Story/Go Go Go! ~ Final Battle Vs Ghaleon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
