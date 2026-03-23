@@ -17028,5 +17028,28 @@
     "file": "Castlevania Lament of Innocence/Lament of Innocence.mmrs",
     "preview": "Castlevania Lament of Innocence/Lament of Innocence.mp3"
   },
+  {
+    "uuid": "bdf16b8d-60c3-460c-9d04-2ff1daec495d",
+    "creationDate": "2026-03-23T16:22:09.894Z",
+    "game": "EarthBound",
+    "song": "Twoson (Boy Meets Girl)",
+    "composers": [
+      "Keiichi Suzuki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound/Twoson (Boy Meets Girl).mmrs",
+    "preview": "EarthBound/Twoson (Boy Meets Girl).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
