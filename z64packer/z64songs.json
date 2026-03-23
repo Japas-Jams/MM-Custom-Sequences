@@ -16495,5 +16495,27 @@
     "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mp3"
   },
+  {
+    "uuid": "2fc671d4-7450-42e4-a33f-e15299d79532",
+    "creationDate": "2026-03-23T02:57:20.475Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Questioning ~ Allegro 2002",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Questioning ~ Allegro 2002.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Questioning ~ Allegro 2002.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
