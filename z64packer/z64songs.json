@@ -17796,5 +17796,27 @@
     "file": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mmrs",
     "preview": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mp3"
   },
+  {
+    "uuid": "664b91e3-2cc7-4234-ac64-b42be92f97f3",
+    "creationDate": "2026-03-23T22:33:45.703Z",
+    "game": "Fire Emblem: New Mystery of the Emblem",
+    "song": "Into the Darkness",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem New Mystery of the Emblem/Into the Darkness.mmrs",
+    "preview": "Fire Emblem New Mystery of the Emblem/Into the Darkness.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
