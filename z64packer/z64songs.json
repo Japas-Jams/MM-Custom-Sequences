@@ -16193,5 +16193,27 @@
     "file": "The Legend of Zelda Twilight Princess/The Light Spirit Appears.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/The Light Spirit Appears.ogg"
   },
+  {
+    "uuid": "41f80c3c-16e1-4f69-acfb-4a7e13f7593e",
+    "creationDate": "2026-03-23T00:07:04.866Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Queen Rutela's Theme",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
