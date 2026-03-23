@@ -17138,5 +17138,27 @@
     "file": "Final Fantasy IV/Main Theme.mmrs",
     "preview": "Final Fantasy IV/Main Theme.mp3"
   },
+  {
+    "uuid": "173c4560-9363-4853-b288-007cbae0d661",
+    "creationDate": "2026-03-23T16:28:36.525Z",
+    "game": "Final Fantasy IV",
+    "song": "Mt. Ordeals",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Mt. Ordeals.mmrs",
+    "preview": "Final Fantasy IV/Mt. Ordeals.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
