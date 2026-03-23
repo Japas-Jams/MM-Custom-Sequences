@@ -17561,5 +17561,29 @@
     "file": "Octopath Traveler/Grandport, Center of Commerce.mmrs",
     "preview": "Octopath Traveler/Grandport, Center of Commerce.mp3"
   },
+  {
+    "uuid": "37b92888-1924-47a2-b8fd-53948371fda4",
+    "creationDate": "2026-03-23T22:18:29.458Z",
+    "game": "Octopath Traveler",
+    "song": "Victor's Hollow, Jewel of the Forest",
+    "composers": [
+      "Yasunori Nishiki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Victor's Hollow, Jewel of the Forest.mmrs",
+    "preview": "Octopath Traveler/Victor's Hollow, Jewel of the Forest.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
