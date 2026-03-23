@@ -18047,5 +18047,28 @@
     "file": "Fire Emblem The Blazing Blade/Inescapable Fate.mmrs",
     "preview": "Fire Emblem The Blazing Blade/Inescapable Fate.mp3"
   },
+  {
+    "uuid": "98badd86-1a60-4095-9d88-7e5cd16e46fb",
+    "creationDate": "2026-03-23T22:47:49.311Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Reminiscence (Ninian's Theme)",
+    "composers": [
+      "Saki Haruyama"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
