@@ -18360,5 +18360,27 @@
     "file": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mmrs",
     "preview": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mp3"
   },
+  {
+    "uuid": "7fdd4b40-9336-45d1-ba6d-4cc3aea0ce66",
+    "creationDate": "2026-03-23T23:15:57.267Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Sacrifice and the Saint",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
