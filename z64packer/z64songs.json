@@ -16328,5 +16328,29 @@
     "file": "Minecraft/Cat.mmrs",
     "preview": "Minecraft/Cat.mp3"
   },
+  {
+    "uuid": "aa7c13c6-0a63-4e9c-b163-659fa597a0bc",
+    "creationDate": "2026-03-23T02:45:01.130Z",
+    "game": "Minecraft",
+    "song": "Sweden",
+    "composers": [
+      "C418"
+    ],
+    "converters": [
+      "Semaj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Minecraft/Sweden.mmrs",
+    "preview": "Minecraft/Sweden.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
