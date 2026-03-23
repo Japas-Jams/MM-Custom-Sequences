@@ -16916,5 +16916,27 @@
     "file": "Castlevania Aria of Sorrow/Clock Tower (No Intro).mmrs",
     "preview": "Castlevania Aria of Sorrow/Clock Tower (No Intro).mp3"
   },
+  {
+    "uuid": "65d965d0-ba32-40e8-9509-2a29bf34dc69",
+    "creationDate": "2026-03-23T16:15:24.522Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Clock Tower",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Aria of Sorrow/Clock Tower.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Clock Tower.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
