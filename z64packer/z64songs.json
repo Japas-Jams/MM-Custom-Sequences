@@ -18272,5 +18272,27 @@
     "file": "Fire Emblem Thracia 776/Near Defeat.mmrs",
     "preview": "Fire Emblem Thracia 776/Near Defeat.mp3"
   },
+  {
+    "uuid": "c2e6818b-dc14-4832-8767-3605ce04355e",
+    "creationDate": "2026-03-23T23:12:24.639Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "Chasing the Wind on the Plains",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/Chasing the Wind on the Plains.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/Chasing the Wind on the Plains.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
