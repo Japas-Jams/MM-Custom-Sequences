@@ -17469,5 +17469,29 @@
     "file": "Metroid Zero Mission/Title.mmrs",
     "preview": "Metroid Zero Mission/Title.mp3"
   },
+  {
+    "uuid": "de91a6b2-09b6-4a79-8590-beceabad04a5",
+    "creationDate": "2026-03-23T16:56:34.266Z",
+    "game": "Metal Gear Rising: Revengeance",
+    "song": "It Has To Be This Way",
+    "composers": [
+      "Jamie Christopherson",
+      "Logan Mader"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metal Gear Rising Revengeance/It Has To Be This Way.mmrs",
+    "preview": "Metal Gear Rising Revengeance/It Has To Be This Way.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
