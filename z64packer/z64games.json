@@ -2995,5 +2995,23 @@
     "series": "Castlevania Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/4d76bdef0d4780075906b69acd169cb7.png"
   },
+  {
+    "game": "Persona 4 Arena"
+  },
+  {
+    "game": "Bloodstained: Ritual of the Night"
+  },
+  {
+    "game": "Metal Gear Rising: Revengeance"
+  },
+  {
+    "game": "Golden Sun: The Lost Age"
+  },
+  {
+    "game": "Lunar: Silver Star Story"
+  },
+  {
+    "game": "Castlevania: Lament of Innocence"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
