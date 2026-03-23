@@ -17863,5 +17863,28 @@
     "file": "Fire Emblem New Mystery of the Emblem/Victory is Ours.mmrs",
     "preview": "Fire Emblem New Mystery of the Emblem/Victory is Ours.mp3"
   },
+  {
+    "uuid": "cc84044a-7b4f-495c-a3fa-ef6f3ecb4dfa",
+    "creationDate": "2026-03-23T22:37:40.250Z",
+    "game": "Fire Emblem: Path of Radiance",
+    "song": "Decisive Battle",
+    "composers": [
+      "Atsushi Yoshida"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Path of Radiance/Decisive Battle.mmrs",
+    "preview": "Fire Emblem Path of Radiance/Decisive Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
