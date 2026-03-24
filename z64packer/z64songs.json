@@ -19786,5 +19786,30 @@
     "file": "GoldenEye 007/Mission Briefing.mmrs",
     "preview": "GoldenEye 007/Mission Briefing.mp3"
   },
+  {
+    "uuid": "06131b56-6db1-44bf-a571-380d8949390a",
+    "creationDate": "2026-03-24T02:12:13.955Z",
+    "game": "GoldenEye 007",
+    "song": "Multiplayer 14 (Beta Jungle Theme)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Multiplayer 14 (Beta Jungle Theme).mmrs",
+    "preview": "GoldenEye 007/Multiplayer 14 (Beta Jungle Theme).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
