@@ -18655,5 +18655,26 @@
     "file": "Donkey Kong 64/Crystal Caves.mmrs",
     "preview": "Donkey Kong 64/Crystal Caves.mp3"
   },
+  {
+    "uuid": "95c17dbb-fea2-4462-9f84-3c8bcbaa7f03",
+    "creationDate": "2026-03-24T01:15:27.830Z",
+    "game": "Donkey Kong 64",
+    "song": "Enguarde",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Enguarde.mmrs",
+    "preview": "Donkey Kong 64/Enguarde.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
