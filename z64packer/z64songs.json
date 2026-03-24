@@ -19928,5 +19928,27 @@
     "file": "Memes/Michael Jackson Hee Hee.mmrs",
     "preview": "Memes/Michael Jackson Hee Hee.mp3"
   },
+  {
+    "uuid": "0a7465dc-2ac5-4a5c-8416-2ba752a42e85",
+    "creationDate": "2026-03-24T02:21:27.148Z",
+    "game": "Memes",
+    "song": "Jackpot",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "137"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Jackpot.mmrs",
+    "preview": "Memes/Jackpot.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
