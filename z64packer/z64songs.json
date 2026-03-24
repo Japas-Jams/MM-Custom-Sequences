@@ -18886,5 +18886,28 @@
     "file": "Final Fantasy VII/Birth of a God.mmrs",
     "preview": "Final Fantasy VII/Birth of a God.mp3"
   },
+  {
+    "uuid": "c555af28-b78e-4175-a4a7-c28798d71ecd",
+    "creationDate": "2026-03-24T01:26:51.035Z",
+    "game": "Final Fantasy VII",
+    "song": "Buried in the Snow",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Buried in the Snow.mmrs",
+    "preview": "Final Fantasy VII/Buried in the Snow.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
