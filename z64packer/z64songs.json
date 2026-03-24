@@ -19836,5 +19836,392 @@
     "file": "GoldenEye 007/Q Watch v2.01 Beta.mmrs",
     "preview": "GoldenEye 007/Q Watch v2.01 Beta.mp3"
   },
+  {
+    "uuid": "503b2d0d-6cda-4db5-a719-e7f76f85ecdd",
+    "creationDate": "2026-03-24T02:17:45.093Z",
+    "game": "GoldenEye 007",
+    "song": "Runway",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Runway.mmrs",
+    "preview": "GoldenEye 007/Runway.mp3"
+  },
+  {
+    "uuid": "424807d2-1f1a-4f86-be9c-513871d2fbc6",
+    "creationDate": "2026-03-24T02:19:05.952Z",
+    "game": "GoldenEye 007",
+    "song": "Surface 2",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Surface 2.mmrs",
+    "preview": "GoldenEye 007/Surface 2.mp3"
+  },
+  {
+    "uuid": "a47ee564-c0ed-44b0-a6bc-7359f1fd9f7e",
+    "creationDate": "2026-03-24T02:19:44.223Z",
+    "game": "GoldenEye 007",
+    "song": "Battle with Xenia Onatopp",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Battle with Xenia Onatopp.mmrs",
+    "preview": "GoldenEye 007/Battle with Xenia Onatopp.mp3"
+  },
+  {
+    "uuid": "c1859385-6844-4ac8-9c54-d14617ba1896",
+    "creationDate": "2026-03-24T02:20:56.185Z",
+    "game": "Memes",
+    "song": "Michael Jackson Hee Hee",
+    "composers": [
+      "Michael Jackson"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Michael Jackson Hee Hee.mmrs",
+    "preview": "Memes/Michael Jackson Hee Hee.mp3"
+  },
+  {
+    "uuid": "0a7465dc-2ac5-4a5c-8416-2ba752a42e85",
+    "creationDate": "2026-03-24T02:21:27.148Z",
+    "game": "Memes",
+    "song": "Jackpot",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "137"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Jackpot.mmrs",
+    "preview": "Memes/Jackpot.mp3"
+  },
+  {
+    "uuid": "1181d44c-dd6b-4087-92af-adc7e39b1b2c",
+    "creationDate": "2026-03-24T02:23:02.987Z",
+    "game": "Memes",
+    "song": "Kabuki Yoooo",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Kabuki Yoooo.mmrs",
+    "preview": "Memes/Kabuki Yoooo.mp3"
+  },
+  {
+    "uuid": "ef109c87-1367-4099-a39e-b5131ad43df4",
+    "creationDate": "2026-03-24T02:23:40.291Z",
+    "game": "Kingdom Hearts II",
+    "song": "The Afternoon Streets",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts II/The Afternoon Streets.mmrs",
+    "preview": "Kingdom Hearts II/The Afternoon Streets.mp3"
+  },
+  {
+    "uuid": "92d22e55-b8d4-4fca-973c-90cb49fa780f",
+    "creationDate": "2026-03-24T02:24:21.613Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Dearly Beloved",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts 3582 Days/Dearly Beloved.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Dearly Beloved.mp3"
+  },
+  {
+    "uuid": "49ccbf03-df37-4925-a705-ddec0f9568d7",
+    "creationDate": "2026-03-24T02:25:07.898Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Boss",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Boss.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Boss.mp3"
+  },
+  {
+    "uuid": "0ed9727d-4f5f-4329-8bf2-a1aea26598a1",
+    "creationDate": "2026-03-24T02:26:10.762Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Miracle Matter",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Miracle Matter.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Miracle Matter.mp3"
+  },
+  {
+    "uuid": "d967f92b-3c43-47cf-832e-857148839d4c",
+    "creationDate": "2026-03-24T02:26:55.676Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Shiver Star (Snow Area)",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Shiver Star (Snow Area).mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Shiver Star (Snow Area).mp3"
+  },
+  {
+    "uuid": "43003653-9fbe-41f2-b9db-63988cee6ec6",
+    "creationDate": "2026-03-24T02:28:09.165Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Zero Two (0²)",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Zero Two (0²).mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Zero Two (0²).mp3"
+  },
+  {
+    "uuid": "55289263-5dfa-4acf-b988-afbdabae8021",
+    "creationDate": "2026-03-24T02:28:54.555Z",
+    "game": "Kirby's Adventure",
+    "song": "Butter Building",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Butter Building.mmrs",
+    "preview": "Kirby's Adventure/Butter Building.mp3"
+  },
+  {
+    "uuid": "f1a3d253-f29d-4fce-a6f6-ed2175b7a909",
+    "creationDate": "2026-03-24T02:29:51.186Z",
+    "game": "Kirby's Adventure",
+    "song": "Green Greens",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Green Greens.mmrs",
+    "preview": "Kirby's Adventure/Green Greens.mp3"
+  },
+  {
+    "uuid": "d1363014-7f54-48e9-9dec-38d74bd44c98",
+    "creationDate": "2026-03-24T02:30:59.395Z",
+    "game": "Memes",
+    "song": "Metal Pipe",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Metal Pipe.mmrs",
+    "preview": "Memes/Metal Pipe.mp3"
+  },
+  {
+    "uuid": "5d4bf8b3-b7d2-4705-9fb6-21a628ad1869",
+    "creationDate": "2026-03-24T02:31:47.545Z",
+    "game": "Memes",
+    "song": "Nyan Cat",
+    "composers": [
+      "daniwell"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "171"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Nyan Cat.mmrs",
+    "preview": "Memes/Nyan Cat.mp3"
+  },
+  {
+    "uuid": "c645e531-fd0d-4f18-8c26-5b25feecb985",
+    "creationDate": "2026-03-24T02:32:40.206Z",
+    "game": "Donkey Kong 64",
+    "song": "OH BANANA",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/OH BANANA.mmrs",
+    "preview": "Donkey Kong 64/OH BANANA.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
