@@ -19272,5 +19272,28 @@
     "file": "Final Fantasy VII/Let the Battles Begin!.mmrs",
     "preview": "Final Fantasy VII/Let the Battles Begin!.mp3"
   },
+  {
+    "uuid": "79b13b98-87b4-452e-b39c-9f1cf8d2619f",
+    "creationDate": "2026-03-24T01:39:50.612Z",
+    "game": "Final Fantasy VII",
+    "song": "Life Stream",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Life Stream.mmrs",
+    "preview": "Final Fantasy VII/Life Stream.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
