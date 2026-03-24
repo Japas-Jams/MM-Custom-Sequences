@@ -19714,5 +19714,30 @@
     "file": "GoldenEye 007/Elevator.mmrs",
     "preview": "GoldenEye 007/Elevator.mp3"
   },
+  {
+    "uuid": "7ef307e1-e89e-4bc0-8eac-30d7cd09daf3",
+    "creationDate": "2026-03-24T02:10:08.939Z",
+    "game": "GoldenEye 007",
+    "song": "Facility",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Facility.mmrs",
+    "preview": "GoldenEye 007/Facility.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
