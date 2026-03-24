@@ -18771,5 +18771,28 @@
     "file": "Memes/Fart with reverb.mmrs",
     "preview": "Memes/Fart with reverb.mp3"
   },
+  {
+    "uuid": "336cc8f3-2aad-4e69-aec6-87adc24ae7fe",
+    "creationDate": "2026-03-24T01:22:42.158Z",
+    "game": "Final Fantasy VII",
+    "song": "Aerith Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Aerith Theme.mmrs",
+    "preview": "Final Fantasy VII/Aerith Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
