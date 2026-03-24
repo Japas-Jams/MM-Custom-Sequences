@@ -19763,5 +19763,28 @@
     "file": "GoldenEye 007/Frigate.mmrs",
     "preview": "GoldenEye 007/Frigate.mp3"
   },
+  {
+    "uuid": "3dbb9324-162e-48f9-9159-3d21483d3793",
+    "creationDate": "2026-03-24T02:11:24.119Z",
+    "game": "GoldenEye 007",
+    "song": "Mission Briefing",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Mission Briefing.mmrs",
+    "preview": "GoldenEye 007/Mission Briefing.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
