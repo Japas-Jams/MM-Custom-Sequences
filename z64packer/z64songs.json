@@ -19971,5 +19971,28 @@
     "file": "Memes/Kabuki Yoooo.mmrs",
     "preview": "Memes/Kabuki Yoooo.mp3"
   },
+  {
+    "uuid": "ef109c87-1367-4099-a39e-b5131ad43df4",
+    "creationDate": "2026-03-24T02:23:40.291Z",
+    "game": "Kingdom Hearts II",
+    "song": "The Afternoon Streets",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts II/The Afternoon Streets.mmrs",
+    "preview": "Kingdom Hearts II/The Afternoon Streets.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
