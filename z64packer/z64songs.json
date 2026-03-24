@@ -20019,5 +20019,27 @@
     "file": "Kingdom Hearts 3582 Days/Dearly Beloved.mmrs",
     "preview": "Kingdom Hearts 3582 Days/Dearly Beloved.mp3"
   },
+  {
+    "uuid": "49ccbf03-df37-4925-a705-ddec0f9568d7",
+    "creationDate": "2026-03-24T02:25:07.898Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Boss",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Boss.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Boss.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
