@@ -19568,5 +19568,28 @@
     "file": "Final Fantasy VII/World Crisis (Lifestream Part).mmrs",
     "preview": "Final Fantasy VII/World Crisis (Lifestream Part).mp3"
   },
+  {
+    "uuid": "3fd0ae54-d84e-4d6d-9fff-f387fdf12ed2",
+    "creationDate": "2026-03-24T01:50:44.515Z",
+    "game": "Final Fantasy VII",
+    "song": "You Can Hear the Cry of the Planet",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/You Can Hear the Cry of the Planet.mmrs",
+    "preview": "Final Fantasy VII/You Can Hear the Cry of the Planet.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
