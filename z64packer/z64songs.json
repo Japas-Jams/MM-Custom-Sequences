@@ -19182,5 +19182,29 @@
     "file": "Final Fantasy VII/If You Open Your Heart.mmrs",
     "preview": "Final Fantasy VII/If You Open Your Heart.mp3"
   },
+  {
+    "uuid": "7ac8049f-bdec-45fc-82b4-9b957672d9a5",
+    "creationDate": "2026-03-24T01:36:46.627Z",
+    "game": "Final Fantasy VII",
+    "song": "Interrumpted by Fireworks",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Interrumpted by Fireworks.mmrs",
+    "preview": "Final Fantasy VII/Interrumpted by Fireworks.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
