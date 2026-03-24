@@ -19295,5 +19295,29 @@
     "file": "Final Fantasy VII/Life Stream.mmrs",
     "preview": "Final Fantasy VII/Life Stream.mp3"
   },
+  {
+    "uuid": "e44fc8df-a42f-4ae1-b52a-a19a299cfe9d",
+    "creationDate": "2026-03-24T01:41:10.702Z",
+    "game": "Final Fantasy VII",
+    "song": "Lurking in the Darkness",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Lurking in the Darkness.mmrs",
+    "preview": "Final Fantasy VII/Lurking in the Darkness.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
