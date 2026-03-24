@@ -20087,5 +20087,28 @@
     "file": "Kirby 64 The Crystal Shards/Shiver Star (Snow Area).mmrs",
     "preview": "Kirby 64 The Crystal Shards/Shiver Star (Snow Area).mp3"
   },
+  {
+    "uuid": "43003653-9fbe-41f2-b9db-63988cee6ec6",
+    "creationDate": "2026-03-24T02:28:09.165Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Zero Two (0²)",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Kirby 64 The Crystal Shards/Zero Two (0²).mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Zero Two (0²).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
