@@ -19136,5 +19136,28 @@
     "file": "Final Fantasy VII/Great Warrior.mmrs",
     "preview": "Final Fantasy VII/Great Warrior.mp3"
   },
+  {
+    "uuid": "4485d7ef-2550-44dc-9621-e0bde6cb18fa",
+    "creationDate": "2026-03-24T01:35:08.419Z",
+    "game": "Final Fantasy VII",
+    "song": "Holding My Thoughts In My Heart",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Holding My Thoughts In My Heart.mmrs",
+    "preview": "Final Fantasy VII/Holding My Thoughts In My Heart.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
