@@ -19455,5 +19455,28 @@
     "file": "Final Fantasy VII/Still More Fighting.mmrs",
     "preview": "Final Fantasy VII/Still More Fighting.mp3"
   },
+  {
+    "uuid": "8608e703-4e81-4606-bc36-c5458606958c",
+    "creationDate": "2026-03-24T01:46:57.914Z",
+    "game": "Final Fantasy VII",
+    "song": "The Great Northern Cave",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "10D",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/The Great Northern Cave.mmrs",
+    "preview": "Final Fantasy VII/The Great Northern Cave.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
