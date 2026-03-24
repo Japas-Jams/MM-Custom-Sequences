@@ -19591,5 +19591,29 @@
     "file": "Final Fantasy VII/You Can Hear the Cry of the Planet.mmrs",
     "preview": "Final Fantasy VII/You Can Hear the Cry of the Planet.mp3"
   },
+  {
+    "uuid": "9e337931-a88a-489a-883a-250a2c85b44b",
+    "creationDate": "2026-03-24T02:06:19.298Z",
+    "game": "GoldenEye 007",
+    "song": "Caverns",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Caverns.mmrs",
+    "preview": "GoldenEye 007/Caverns.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
