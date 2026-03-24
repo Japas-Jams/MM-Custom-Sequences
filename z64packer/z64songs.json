@@ -18565,5 +18565,26 @@
     "file": "Chrono Trigger/Last Battle (No Intro).mmrs",
     "preview": "Chrono Trigger/Last Battle (No Intro).mp3"
   },
+  {
+    "uuid": "2eade667-65e5-4e40-adcd-0c9b34fe6c3f",
+    "creationDate": "2026-03-24T01:12:29.862Z",
+    "game": "Banjo Kazooie",
+    "song": "Collect Jiggy",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Banjo Kazooie/Collect Jiggy.mmrs",
+    "preview": "Banjo Kazooie/Collect Jiggy.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
