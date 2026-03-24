@@ -19884,5 +19884,28 @@
     "file": "GoldenEye 007/Surface 2.mmrs",
     "preview": "GoldenEye 007/Surface 2.mp3"
   },
+  {
+    "uuid": "a47ee564-c0ed-44b0-a6bc-7359f1fd9f7e",
+    "creationDate": "2026-03-24T02:19:44.223Z",
+    "game": "GoldenEye 007",
+    "song": "Battle with Xenia Onatopp",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Battle with Xenia Onatopp.mmrs",
+    "preview": "GoldenEye 007/Battle with Xenia Onatopp.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
