@@ -18630,5 +18630,30 @@
     "file": "Donkey Kong 64/Collect Banana.mmrs",
     "preview": "Donkey Kong 64/Collect Banana.mp3"
   },
+  {
+    "uuid": "deb38da9-bb37-45f9-9c16-95432fbe9407",
+    "creationDate": "2026-03-24T01:14:49.195Z",
+    "game": "Donkey Kong 64",
+    "song": "Crystal Caves",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Crystal Caves.mmrs",
+    "preview": "Donkey Kong 64/Crystal Caves.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
