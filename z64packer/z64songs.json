@@ -20110,5 +20110,29 @@
     "file": "Kirby 64 The Crystal Shards/Zero Two (0²).mmrs",
     "preview": "Kirby 64 The Crystal Shards/Zero Two (0²).mp3"
   },
+  {
+    "uuid": "55289263-5dfa-4acf-b988-afbdabae8021",
+    "creationDate": "2026-03-24T02:28:54.555Z",
+    "game": "Kirby's Adventure",
+    "song": "Butter Building",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Butter Building.mmrs",
+    "preview": "Kirby's Adventure/Butter Building.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
