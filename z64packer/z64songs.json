@@ -19002,5 +19002,28 @@
     "file": "Final Fantasy VII/Costa del Sol.mmrs",
     "preview": "Final Fantasy VII/Costa del Sol.mp3"
   },
+  {
+    "uuid": "54227a07-da45-4d04-96ea-4e5ac9379422",
+    "creationDate": "2026-03-24T01:30:17.934Z",
+    "game": "Final Fantasy VII",
+    "song": "Farm Boy",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Farm Boy.mmrs",
+    "preview": "Final Fantasy VII/Farm Boy.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
