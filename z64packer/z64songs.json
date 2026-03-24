@@ -19411,5 +19411,26 @@
     "file": "Final Fantasy VII/Parochial Town.mmrs",
     "preview": "Final Fantasy VII/Parochial Town.mp3"
   },
+  {
+    "uuid": "561d481e-4285-404b-a37e-e8bbd0889932",
+    "creationDate": "2026-03-24T01:45:07.428Z",
+    "game": "Final Fantasy VII",
+    "song": "Prelude",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Prelude.mmrs",
+    "preview": "Final Fantasy VII/Prelude.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
