@@ -18497,5 +18497,29 @@
     "file": "Bayonetta/Platinum Coin Jingle.mmrs",
     "preview": "Bayonetta/Platinum Coin Jingle.mp3"
   },
+  {
+    "uuid": "5cf07fa8-4b0e-434c-80c8-cb34fa65e2cc",
+    "creationDate": "2026-03-24T01:09:08.197Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Beta Clock Town Day 1 (2020 Gigaleak)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Beta Clock Town Day 1 (2020 Gigaleak).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Beta Clock Town Day 1 (2020 Gigaleak).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
