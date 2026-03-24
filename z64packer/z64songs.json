@@ -20134,5 +20134,30 @@
     "file": "Kirby's Adventure/Butter Building.mmrs",
     "preview": "Kirby's Adventure/Butter Building.mp3"
   },
+  {
+    "uuid": "f1a3d253-f29d-4fce-a6f6-ed2175b7a909",
+    "creationDate": "2026-03-24T02:29:51.186Z",
+    "game": "Kirby's Adventure",
+    "song": "Green Greens",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Adventure/Green Greens.mmrs",
+    "preview": "Kirby's Adventure/Green Greens.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
