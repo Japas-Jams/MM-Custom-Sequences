@@ -18794,5 +18794,29 @@
     "file": "Final Fantasy VII/Aerith Theme.mmrs",
     "preview": "Final Fantasy VII/Aerith Theme.mp3"
   },
+  {
+    "uuid": "7ec2e01d-6c88-4528-af6a-d358dcf7e7ef",
+    "creationDate": "2026-03-24T01:23:44.576Z",
+    "game": "Final Fantasy VII",
+    "song": "Ahead On Our Way",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Ahead On Our Way.mmrs",
+    "preview": "Final Fantasy VII/Ahead On Our Way.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
