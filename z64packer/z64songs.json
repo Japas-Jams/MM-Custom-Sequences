@@ -19642,5 +19642,29 @@
     "file": "GoldenEye 007/Control.mmrs",
     "preview": "GoldenEye 007/Control.mp3"
   },
+  {
+    "uuid": "5b3cd898-9cf3-4188-ad3c-86d7555f5c22",
+    "creationDate": "2026-03-24T02:07:50.208Z",
+    "game": "GoldenEye 007",
+    "song": "Cradle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "GoldenEye 007/Cradle.mmrs",
+    "preview": "GoldenEye 007/Cradle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
