@@ -19113,5 +19113,28 @@
     "file": "Final Fantasy VII/Good Night, Until Tomorrow.mmrs",
     "preview": "Final Fantasy VII/Good Night, Until Tomorrow.mp3"
   },
+  {
+    "uuid": "b7e0cfdc-b7b5-4c9e-b6ec-902ee7149e2c",
+    "creationDate": "2026-03-24T01:33:16.946Z",
+    "game": "Final Fantasy VII",
+    "song": "Great Warrior",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Great Warrior.mmrs",
+    "preview": "Final Fantasy VII/Great Warrior.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
