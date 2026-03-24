@@ -18699,5 +18699,31 @@
     "file": "Diddy Kong Racing/Stardust Alley  Star City.mmrs",
     "preview": "Diddy Kong Racing/Stardust Alley  Star City.mp3"
   },
+  {
+    "uuid": "f1a9a812-87d0-4195-99e7-b9e1dfda2a6d",
+    "creationDate": "2026-03-24T01:17:48.954Z",
+    "game": "Diddy Kong Racing",
+    "song": "Key Opens the Door / Trophy Win",
+    "composers": [
+      "David Wise",
+      "Graeme Norgate"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "122",
+      "137",
+      "122",
+      "139"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Diddy Kong Racing/Key Opens the Door  Trophy Win.mmrs",
+    "preview": "Diddy Kong Racing/Key Opens the Door  Trophy Win.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
