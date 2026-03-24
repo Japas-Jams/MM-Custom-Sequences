@@ -18609,5 +18609,26 @@
     "file": "Chrono Trigger/Corridors of Time.mmrs",
     "preview": "Chrono Trigger/Corridors of Time.mp3"
   },
+  {
+    "uuid": "65b313d9-7557-41fa-a3ff-35935cda03fc",
+    "creationDate": "2026-03-24T01:14:05.348Z",
+    "game": "Donkey Kong 64",
+    "song": "Collect Banana",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Donkey Kong 64/Collect Banana.mmrs",
+    "preview": "Donkey Kong 64/Collect Banana.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
