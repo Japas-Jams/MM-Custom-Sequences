@@ -18750,5 +18750,26 @@
     "file": "DuckTales/Moon Theme.mmrs",
     "preview": "DuckTales/Moon Theme.mp3"
   },
+  {
+    "uuid": "31a44cdd-7fb8-48f2-8855-a010ed707b4f",
+    "creationDate": "2026-03-24T01:22:00.644Z",
+    "game": "Memes",
+    "song": "Fart with reverb",
+    "composers": [
+      "The Internet"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Fart with reverb.mmrs",
+    "preview": "Memes/Fart with reverb.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
