@@ -20907,5 +20907,28 @@
     "file": "Pokémon Red, Blue & Yellow/Pallet Town.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Pallet Town.mp3"
   },
+  {
+    "uuid": "049650ee-52cf-4b3d-81af-f75d19bfc783",
+    "creationDate": "2026-03-25T04:08:15.003Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Pewter City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Pewter City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pewter City.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
