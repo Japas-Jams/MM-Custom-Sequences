@@ -21555,5 +21555,28 @@
     "file": "Final Fantasy IV/Chocobo Forest.mmrs",
     "preview": "Final Fantasy IV/Chocobo Forest.ogg"
   },
+  {
+    "uuid": "b65f5183-82fc-4b32-a258-f3667f130995",
+    "creationDate": "2026-03-25T23:07:31.451Z",
+    "game": "Final Fantasy IV",
+    "song": "Lunar Whale",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Lunar Whale.mmrs",
+    "preview": "Final Fantasy IV/Lunar Whale.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
