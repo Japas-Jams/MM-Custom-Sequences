@@ -20514,5 +20514,26 @@
     "file": "Pokémon Gold, Silver & Crystal/Ecruteak City.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Ecruteak City.mp3"
   },
+  {
+    "uuid": "6116fe03-f091-4f9a-922f-ee33c53b98e5",
+    "creationDate": "2026-03-25T03:33:32.654Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Game Corner",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Game Corner.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Game Corner.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
