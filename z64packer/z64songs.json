@@ -21264,5 +21264,28 @@
     "file": "Super Mario Bros/Underwater.mmrs",
     "preview": "Super Mario Bros/Underwater.mp3"
   },
+  {
+    "uuid": "5a450831-2bb8-43a1-a60a-1d1e1058db06",
+    "creationDate": "2026-03-25T13:32:46.728Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Fight Against Culex",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Culex.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Culex.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
