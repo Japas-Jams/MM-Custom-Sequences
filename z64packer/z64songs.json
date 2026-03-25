@@ -21667,5 +21667,26 @@
     "file": "Final Fantasy VI/Gogo's Theme.mmrs",
     "preview": "Final Fantasy VI/Gogo's Theme.ogg"
   },
+  {
+    "uuid": "a53eb1f9-40a4-4a5f-8371-9806458723c3",
+    "creationDate": "2026-03-25T23:11:56.656Z",
+    "game": "Final Fantasy III",
+    "song": "Cloud of Darkness",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy III/Cloud of Darkness.mmrs",
+    "preview": "Final Fantasy III/Cloud of Darkness.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
