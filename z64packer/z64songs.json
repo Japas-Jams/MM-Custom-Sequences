@@ -20686,5 +20686,28 @@
     "file": "Pokémon Gold, Silver & Crystal/Ruins of Alph.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Ruins of Alph.mp3"
   },
+  {
+    "uuid": "2a4dcea2-ebc5-42fe-9328-e8bb8e1aa258",
+    "creationDate": "2026-03-25T03:40:39.446Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! Lorekeeper Zinnia (Variant B)",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant B).mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
