@@ -21709,5 +21709,31 @@
     "file": "Yoshi's Story/Baby Bowser's Lullaby.mmrs",
     "preview": "Yoshi's Story/Baby Bowser's Lullaby.ogg"
   },
+  {
+    "uuid": "91ae43e6-73f0-4bc0-a186-bfaf9a50424a",
+    "creationDate": "2026-03-25T23:14:43.153Z",
+    "game": "Mario Paint",
+    "song": "BGM 1",
+    "composers": [
+      "Kazumi Totaka",
+      "Hirokazu Tanaka",
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Paint/BGM 1.mmrs",
+    "preview": "Mario Paint/BGM 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
