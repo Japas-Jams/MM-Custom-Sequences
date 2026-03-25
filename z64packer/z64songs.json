@@ -20841,5 +20841,26 @@
     "file": "Pokémon Red, Blue & Yellow/Gym.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Gym.mp3"
   },
+  {
+    "uuid": "626bdc3c-1130-479a-8d30-14e48eeb7524",
+    "creationDate": "2026-03-25T04:06:16.628Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Mt. Moon (Variant B)",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
