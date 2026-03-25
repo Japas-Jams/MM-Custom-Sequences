@@ -21464,5 +21464,29 @@
     "file": "Yoshi's Story/Yo-Yo-Yoshi.mmrs",
     "preview": "Yoshi's Story/Yo-Yo-Yoshi.mp3"
   },
+  {
+    "uuid": "673db897-50fa-48d4-92a7-d2dee906dbc0",
+    "creationDate": "2026-03-25T15:22:57.878Z",
+    "game": "Yoshi's Story",
+    "song": "Love is in the Air",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Yoshi's Story/Love is in the Air.mmrs",
+    "preview": "Yoshi's Story/Love is in the Air.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
