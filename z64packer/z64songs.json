@@ -21099,5 +21099,28 @@
     "file": "Pokémon Red, Blue & Yellow/Title Theme.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Title Theme.mp3"
   },
+  {
+    "uuid": "cbeb5b44-1af3-4559-8d86-fe3fa5e9153c",
+    "creationDate": "2026-03-25T04:24:44.975Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Vermilion City",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Vermilion City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Vermilion City.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
