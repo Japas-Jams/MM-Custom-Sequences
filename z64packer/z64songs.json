@@ -21854,5 +21854,27 @@
     "file": "Final Fantasy VI/Celes' Theme.mmrs",
     "preview": "Final Fantasy VI/Celes' Theme.ogg"
   },
+  {
+    "uuid": "0bca46e4-5595-400b-ab4c-ba4de34f56fe",
+    "creationDate": "2026-03-25T23:24:29.667Z",
+    "game": "Final Fantasy VII",
+    "song": "JENOVA",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/JENOVA.mmrs",
+    "preview": "Final Fantasy VII/JENOVA.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
