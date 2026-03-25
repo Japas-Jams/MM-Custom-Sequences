@@ -21760,5 +21760,29 @@
     "file": "Suikoden/Black Forest.mmrs",
     "preview": "Suikoden/Black Forest.ogg"
   },
+  {
+    "uuid": "9ae584d9-aeea-4b25-a119-572e0ebab0b6",
+    "creationDate": "2026-03-25T23:16:55.198Z",
+    "game": "Final Fantasy X",
+    "song": "Cloister of Trials",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy X/Cloister of Trials.mmrs",
+    "preview": "Final Fantasy X/Cloister of Trials.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
