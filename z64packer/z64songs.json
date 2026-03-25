@@ -21532,5 +21532,28 @@
     "file": "The Legend of Zelda/Overworld.mmrs",
     "preview": "The Legend of Zelda/Overworld.mp3"
   },
+  {
+    "uuid": "59946b5e-9bf7-444a-b8e3-bf82e856ea00",
+    "creationDate": "2026-03-25T23:06:40.489Z",
+    "game": "Final Fantasy IV",
+    "song": "Chocobo Forest",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Chocobo Forest.mmrs",
+    "preview": "Final Fantasy IV/Chocobo Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
