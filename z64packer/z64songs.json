@@ -21078,5 +21078,26 @@
     "file": "Pokémon Red, Blue & Yellow/Surfing.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Surfing.mp3"
   },
+  {
+    "uuid": "4440c2a5-031c-4d0a-930c-db69abda2876",
+    "creationDate": "2026-03-25T04:23:47.824Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Title Theme",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Title Theme.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Title Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
