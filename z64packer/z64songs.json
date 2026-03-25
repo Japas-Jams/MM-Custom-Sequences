@@ -20994,5 +20994,26 @@
     "file": "Pokémon Red, Blue & Yellow/Route 3.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Route 3.mp3"
   },
+  {
+    "uuid": "3a7c7b06-b96c-4cc2-8b9d-e3f12041e35a",
+    "creationDate": "2026-03-25T04:20:39.726Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Route 11",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Route 11.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Route 11.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
