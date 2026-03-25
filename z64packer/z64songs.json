@@ -21876,5 +21876,27 @@
     "file": "Final Fantasy VII/JENOVA.mmrs",
     "preview": "Final Fantasy VII/JENOVA.ogg"
   },
+  {
+    "uuid": "40a23d93-ebf8-4546-ae14-3785ce97961d",
+    "creationDate": "2026-03-25T23:25:01.029Z",
+    "game": "Final Fantasy IV",
+    "song": "Dreadful Fight",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Dreadful Fight.mmrs",
+    "preview": "Final Fantasy IV/Dreadful Fight.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
