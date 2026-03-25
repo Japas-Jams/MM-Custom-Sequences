@@ -21509,5 +21509,28 @@
     "file": "The Legend of Zelda/Level 9.mmrs",
     "preview": "The Legend of Zelda/Level 9.mp3"
   },
+  {
+    "uuid": "3927c3fd-1cb7-4186-ad13-cd3ba680bad8",
+    "creationDate": "2026-03-25T15:24:13.375Z",
+    "game": "The Legend of Zelda",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Overworld.mmrs",
+    "preview": "The Legend of Zelda/Overworld.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
