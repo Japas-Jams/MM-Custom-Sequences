@@ -21353,5 +21353,27 @@
     "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mmrs",
     "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mp3"
   },
+  {
+    "uuid": "6006ed42-aaaa-419a-ad63-e63aec80f8de",
+    "creationDate": "2026-03-25T15:09:07.781Z",
+    "game": "Touhou Fuujinroku ~ Mountain of Faith",
+    "song": "Because Princess Inada is Scolding Me",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mmrs",
+    "preview": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
