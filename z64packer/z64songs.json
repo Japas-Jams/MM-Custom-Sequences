@@ -21418,5 +21418,26 @@
     "file": "Memes/Whistling.mmrs",
     "preview": "Memes/Whistling.mp3"
   },
+  {
+    "uuid": "b7d5dcd0-e5f5-43d1-a361-43e938955f48",
+    "creationDate": "2026-03-25T15:20:30.140Z",
+    "game": "Memes",
+    "song": "Michael Jackson Yeah",
+    "composers": [
+      "Michael Jackson"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/Michael Jackson Yeah.mmrs",
+    "preview": "Memes/Michael Jackson Yeah.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
