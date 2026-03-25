@@ -21036,5 +21036,26 @@
     "file": "Pokémon Red, Blue & Yellow/Silph Co..mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Silph Co..mp3"
   },
+  {
+    "uuid": "1983bb85-3c5f-4182-92aa-9958ceeeb044",
+    "creationDate": "2026-03-25T04:22:01.775Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "S.S. Anne",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/S.S. Anne.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/S.S. Anne.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
