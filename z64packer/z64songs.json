@@ -22006,5 +22006,27 @@
     "file": "Final Fantasy IV/Fanfare.mmrs",
     "preview": "Final Fantasy IV/Fanfare.ogg"
   },
+  {
+    "uuid": "87c15394-a942-4fe6-8730-bcd5e4185158",
+    "creationDate": "2026-03-25T23:28:55.792Z",
+    "game": "Banjo-Kazooie",
+    "song": "Game Over (Variant A)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Game Over (Variant A).mmrs",
+    "preview": "Banjo-Kazooie/Game Over (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
