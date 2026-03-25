@@ -21646,5 +21646,26 @@
     "file": "Final Fantasy VII/Those Chosen By the Planet.mmrs",
     "preview": "Final Fantasy VII/Those Chosen By the Planet.ogg"
   },
+  {
+    "uuid": "e7c9be74-56f3-407a-a9f2-8ebb4fbc8234",
+    "creationDate": "2026-03-25T23:11:05.398Z",
+    "game": "Final Fantasy VI",
+    "song": "Gogo's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Gogo's Theme.mmrs",
+    "preview": "Final Fantasy VI/Gogo's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
