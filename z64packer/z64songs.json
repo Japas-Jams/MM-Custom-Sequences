@@ -21165,5 +21165,29 @@
     "file": "Memes/Ran Ran Ru.mmrs",
     "preview": "Memes/Ran Ran Ru.mp3"
   },
+  {
+    "uuid": "0dafd960-c477-4693-9039-a49bf8c1841d",
+    "creationDate": "2026-03-25T04:58:09.427Z",
+    "game": "Star Fox 64",
+    "song": "Menu",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Star Fox 64/Menu.mmrs",
+    "preview": "Star Fox 64/Menu.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
