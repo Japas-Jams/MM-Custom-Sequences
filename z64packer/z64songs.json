@@ -21375,5 +21375,27 @@
     "file": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mmrs",
     "preview": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mp3"
   },
+  {
+    "uuid": "af8cf1e1-edb4-459f-ad6b-c67588d3f314",
+    "creationDate": "2026-03-25T15:12:17.748Z",
+    "game": "Final Fantasy X",
+    "song": "Tidus' Laugh",
+    "composers": [
+      "James Arnold Taylor"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "120"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Final Fantasy X/Tidus' Laugh.mmrs",
+    "preview": "Final Fantasy X/Tidus' Laugh.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
