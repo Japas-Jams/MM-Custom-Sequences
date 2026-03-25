@@ -20404,5 +20404,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Battle! Rival.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Battle! Rival.mp3"
   },
+  {
+    "uuid": "a1fcde52-8b4e-47c1-af2c-5f1d8521ab87",
+    "creationDate": "2026-03-25T03:30:02.841Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Battle! Trainer",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Battle! Trainer.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Battle! Trainer.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
