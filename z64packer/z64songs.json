@@ -21603,5 +21603,26 @@
     "file": "Pokémon Black & White/Critical Health.mmrs",
     "preview": "Pokémon Black & White/Critical Health.ogg"
   },
+  {
+    "uuid": "60970a7e-ab72-4f3c-a45d-0720b66cd6f7",
+    "creationDate": "2026-03-25T23:09:16.586Z",
+    "game": "Final Fantasy VII",
+    "song": "One Winged Angel",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/One Winged Angel.mmrs",
+    "preview": "Final Fantasy VII/One Winged Angel.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
