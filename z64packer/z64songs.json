@@ -20315,5 +20315,28 @@
     "file": "Pokémon Black & White/Unwavering Emotions.mmrs",
     "preview": "Pokémon Black & White/Unwavering Emotions.mp3"
   },
+  {
+    "uuid": "58a900e1-ef22-4ee0-b033-87399c19fe72",
+    "creationDate": "2026-03-25T03:20:12.656Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Azalea Town",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Azalea Town.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Azalea Town.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
