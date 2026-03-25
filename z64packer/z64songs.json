@@ -20360,5 +20360,27 @@
     "file": "Pokémon Gold, Silver & Crystal/Battle! Champion.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Battle! Champion.mp3"
   },
+  {
+    "uuid": "f85627ba-29b0-4065-99ee-efbb2e8be0d9",
+    "creationDate": "2026-03-25T03:28:22.715Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Battle! Legendary Beast",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Battle! Legendary Beast.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Battle! Legendary Beast.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
