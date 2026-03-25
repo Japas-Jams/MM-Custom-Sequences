@@ -21015,5 +21015,26 @@
     "file": "Pokémon Red, Blue & Yellow/Route 11.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Route 11.mp3"
   },
+  {
+    "uuid": "abf3bb04-e478-4f50-b2d0-1cce3ca043c8",
+    "creationDate": "2026-03-25T04:21:16.056Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Silph Co.",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Silph Co..mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Silph Co..mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
