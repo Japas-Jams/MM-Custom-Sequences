@@ -21898,5 +21898,27 @@
     "file": "Final Fantasy IV/Dreadful Fight.mmrs",
     "preview": "Final Fantasy IV/Dreadful Fight.ogg"
   },
+  {
+    "uuid": "b4818f04-4a4b-4a2a-95bc-eff729a87db6",
+    "creationDate": "2026-03-25T23:25:43.368Z",
+    "game": "Golden Sun",
+    "song": "Venus Lighthouse",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Venus Lighthouse.mmrs",
+    "preview": "Golden Sun/Venus Lighthouse.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
