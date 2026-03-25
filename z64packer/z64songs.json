@@ -20223,5 +20223,28 @@
     "file": "Donkey Kong 64/OH BANANA.mmrs",
     "preview": "Donkey Kong 64/OH BANANA.mp3"
   },
+  {
+    "uuid": "395f8963-b250-4406-8583-a618ccc63f38",
+    "creationDate": "2026-03-25T03:10:57.859Z",
+    "game": "Okami",
+    "song": "Theme of the Celestials",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Okami/Theme of the Celestials.mmrs",
+    "preview": "Okami/Theme of the Celestials.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
