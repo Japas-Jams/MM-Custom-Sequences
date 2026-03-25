@@ -20602,5 +20602,26 @@
     "file": "Pokémon Gold, Silver & Crystal/New Bark Town.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/New Bark Town.mp3"
   },
+  {
+    "uuid": "2bdd38bb-e7cf-4f59-be74-b5b060690d15",
+    "creationDate": "2026-03-25T03:37:25.475Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Route 34",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Route 34.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Route 34.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
