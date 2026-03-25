@@ -20731,5 +20731,26 @@
     "file": "Pokémon Red, Blue & Yellow/Battle! Champion.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Battle! Champion.mp3"
   },
+  {
+    "uuid": "de9298d4-d03f-4850-916c-a4f0acd0d1c7",
+    "creationDate": "2026-03-25T03:51:10.494Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Bicycle",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Bicycle.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Bicycle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
