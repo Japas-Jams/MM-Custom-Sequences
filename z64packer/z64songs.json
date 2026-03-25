@@ -20644,5 +20644,26 @@
     "file": "Pokémon Gold, Silver & Crystal/Route 38.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Route 38.mp3"
   },
+  {
+    "uuid": "35afc7ef-4726-4823-95ba-7b3e31fbcca0",
+    "creationDate": "2026-03-25T03:38:46.665Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Route 42",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Route 42.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Route 42.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
