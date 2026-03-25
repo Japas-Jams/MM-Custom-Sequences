@@ -21624,5 +21624,27 @@
     "file": "Final Fantasy VII/One Winged Angel.mmrs",
     "preview": "Final Fantasy VII/One Winged Angel.ogg"
   },
+  {
+    "uuid": "ffa1edab-a30b-4215-908d-7fd3a44f2ac0",
+    "creationDate": "2026-03-25T23:10:05.012Z",
+    "game": "Final Fantasy VII",
+    "song": "Those Chosen By the Planet",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Those Chosen By the Planet.mmrs",
+    "preview": "Final Fantasy VII/Those Chosen By the Planet.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
