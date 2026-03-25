@@ -21532,5 +21532,546 @@
     "file": "The Legend of Zelda/Overworld.mmrs",
     "preview": "The Legend of Zelda/Overworld.mp3"
   },
+  {
+    "uuid": "59946b5e-9bf7-444a-b8e3-bf82e856ea00",
+    "creationDate": "2026-03-25T23:06:40.489Z",
+    "game": "Final Fantasy IV",
+    "song": "Chocobo Forest",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Chocobo Forest.mmrs",
+    "preview": "Final Fantasy IV/Chocobo Forest.ogg"
+  },
+  {
+    "uuid": "b65f5183-82fc-4b32-a258-f3667f130995",
+    "creationDate": "2026-03-25T23:07:31.451Z",
+    "game": "Final Fantasy IV",
+    "song": "Lunar Whale",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Lunar Whale.mmrs",
+    "preview": "Final Fantasy IV/Lunar Whale.ogg"
+  },
+  {
+    "uuid": "a2c3da01-e4e8-4264-a618-720550fd9a3f",
+    "creationDate": "2026-03-25T23:08:32.760Z",
+    "game": "Pokémon Black & White",
+    "song": "Critical Health",
+    "composers": [
+      "Shota Kageyama",
+      "Go Ichinose",
+      "Hitomi Sato",
+      "Junichi Masuda",
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Black & White/Critical Health.mmrs",
+    "preview": "Pokémon Black & White/Critical Health.ogg"
+  },
+  {
+    "uuid": "60970a7e-ab72-4f3c-a45d-0720b66cd6f7",
+    "creationDate": "2026-03-25T23:09:16.586Z",
+    "game": "Final Fantasy VII",
+    "song": "One Winged Angel",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/One Winged Angel.mmrs",
+    "preview": "Final Fantasy VII/One Winged Angel.ogg"
+  },
+  {
+    "uuid": "ffa1edab-a30b-4215-908d-7fd3a44f2ac0",
+    "creationDate": "2026-03-25T23:10:05.012Z",
+    "game": "Final Fantasy VII",
+    "song": "Those Chosen By the Planet",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Those Chosen By the Planet.mmrs",
+    "preview": "Final Fantasy VII/Those Chosen By the Planet.ogg"
+  },
+  {
+    "uuid": "e7c9be74-56f3-407a-a9f2-8ebb4fbc8234",
+    "creationDate": "2026-03-25T23:11:05.398Z",
+    "game": "Final Fantasy VI",
+    "song": "Gogo's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Gogo's Theme.mmrs",
+    "preview": "Final Fantasy VI/Gogo's Theme.ogg"
+  },
+  {
+    "uuid": "a53eb1f9-40a4-4a5f-8371-9806458723c3",
+    "creationDate": "2026-03-25T23:11:56.656Z",
+    "game": "Final Fantasy III",
+    "song": "Cloud of Darkness",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy III/Cloud of Darkness.mmrs",
+    "preview": "Final Fantasy III/Cloud of Darkness.ogg"
+  },
+  {
+    "uuid": "8e12f996-dff1-40fd-835b-d9b7f458e8ce",
+    "creationDate": "2026-03-25T23:12:38.864Z",
+    "game": "Yoshi's Story",
+    "song": "Baby Bowser's Lullaby",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Yoshi's Story/Baby Bowser's Lullaby.mmrs",
+    "preview": "Yoshi's Story/Baby Bowser's Lullaby.ogg"
+  },
+  {
+    "uuid": "91ae43e6-73f0-4bc0-a186-bfaf9a50424a",
+    "creationDate": "2026-03-25T23:14:43.153Z",
+    "game": "Mario Paint",
+    "song": "BGM 1",
+    "composers": [
+      "Kazumi Totaka",
+      "Hirokazu Tanaka",
+      "Ryoji Yoshitomi"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Paint/BGM 1.mmrs",
+    "preview": "Mario Paint/BGM 1.ogg"
+  },
+  {
+    "uuid": "08c3c748-f683-429f-bed6-4451b80ead64",
+    "creationDate": "2026-03-25T23:15:35.344Z",
+    "game": "Suikoden",
+    "song": "Black Forest",
+    "composers": [
+      "Miki Higashino"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Suikoden/Black Forest.mmrs",
+    "preview": "Suikoden/Black Forest.ogg"
+  },
+  {
+    "uuid": "9ae584d9-aeea-4b25-a119-572e0ebab0b6",
+    "creationDate": "2026-03-25T23:16:55.198Z",
+    "game": "Final Fantasy X",
+    "song": "Cloister of Trials",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy X/Cloister of Trials.mmrs",
+    "preview": "Final Fantasy X/Cloister of Trials.ogg"
+  },
+  {
+    "uuid": "f7d4b1f0-36f9-4ccb-a39f-c9fab4a9565a",
+    "creationDate": "2026-03-25T23:21:52.617Z",
+    "game": "Harvest Moon",
+    "song": "Menu Theme",
+    "composers": [
+      "Tsuyoshi Tanaka"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Harvest Moon/Menu Theme.mmrs",
+    "preview": "Harvest Moon/Menu Theme.ogg"
+  },
+  {
+    "uuid": "02759571-0ef1-4a82-a984-66380592edc3",
+    "creationDate": "2026-03-25T23:22:43.355Z",
+    "game": "Terranigma",
+    "song": "Crysta",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Terranigma/Crysta.mmrs",
+    "preview": "Terranigma/Crysta.ogg"
+  },
+  {
+    "uuid": "f7e6d98e-abe7-4f2c-87b2-48ef2a6e2806",
+    "creationDate": "2026-03-25T23:23:15.834Z",
+    "game": "Final Fantasy VI",
+    "song": "Celes' Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Celes' Theme.mmrs",
+    "preview": "Final Fantasy VI/Celes' Theme.ogg"
+  },
+  {
+    "uuid": "0bca46e4-5595-400b-ab4c-ba4de34f56fe",
+    "creationDate": "2026-03-25T23:24:29.667Z",
+    "game": "Final Fantasy VII",
+    "song": "JENOVA",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/JENOVA.mmrs",
+    "preview": "Final Fantasy VII/JENOVA.ogg"
+  },
+  {
+    "uuid": "40a23d93-ebf8-4546-ae14-3785ce97961d",
+    "creationDate": "2026-03-25T23:25:01.029Z",
+    "game": "Final Fantasy IV",
+    "song": "Dreadful Fight",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Dreadful Fight.mmrs",
+    "preview": "Final Fantasy IV/Dreadful Fight.ogg"
+  },
+  {
+    "uuid": "b4818f04-4a4b-4a2a-95bc-eff729a87db6",
+    "creationDate": "2026-03-25T23:25:43.368Z",
+    "game": "Golden Sun",
+    "song": "Venus Lighthouse",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Venus Lighthouse.mmrs",
+    "preview": "Golden Sun/Venus Lighthouse.ogg"
+  },
+  {
+    "uuid": "3ad3b1f6-d3f6-4eb7-904b-0910f62aa83d",
+    "creationDate": "2026-03-25T23:26:26.601Z",
+    "game": "Super Mario World",
+    "song": "Goal",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Goal.mmrs",
+    "preview": "Super Mario World/Goal.ogg"
+  },
+  {
+    "uuid": "90ad2238-7e83-450f-ab8c-9b61cfc37334",
+    "creationDate": "2026-03-25T23:26:58.070Z",
+    "game": "Super Mario World",
+    "song": "Game Over",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Game Over.mmrs",
+    "preview": "Super Mario World/Game Over.ogg"
+  },
+  {
+    "uuid": "50ff35b2-5faa-4271-b57f-6c817ea98eed",
+    "creationDate": "2026-03-25T23:27:32.409Z",
+    "game": "Super Mario World",
+    "song": "Victory",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Victory.mmrs",
+    "preview": "Super Mario World/Victory.ogg"
+  },
+  {
+    "uuid": "8bff997d-5c4c-434e-8327-f86bb5b7fed0",
+    "creationDate": "2026-03-25T23:28:03.737Z",
+    "game": "Final Fantasy IV",
+    "song": "Fanfare",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Fanfare.mmrs",
+    "preview": "Final Fantasy IV/Fanfare.ogg"
+  },
+  {
+    "uuid": "87c15394-a942-4fe6-8730-bcd5e4185158",
+    "creationDate": "2026-03-25T23:28:55.792Z",
+    "game": "Banjo-Kazooie",
+    "song": "Game Over (Variant A)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Game Over (Variant A).mmrs",
+    "preview": "Banjo-Kazooie/Game Over (Variant A).ogg"
+  },
+  {
+    "uuid": "a48be2f8-755e-45b3-b5bd-4187d1814765",
+    "creationDate": "2026-03-25T23:29:51.078Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Goal",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Goal.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Goal.ogg"
+  },
+  {
+    "uuid": "69841a1f-c1b7-49d9-8993-c7396bc8626c",
+    "creationDate": "2026-03-25T23:30:53.353Z",
+    "game": "Final Fantasy VI",
+    "song": "Figaro Castle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Figaro Castle.mmrs",
+    "preview": "Final Fantasy VI/Figaro Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
