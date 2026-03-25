@@ -21122,5 +21122,27 @@
     "file": "Pokémon Red, Blue & Yellow/Vermilion City.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Vermilion City.mp3"
   },
+  {
+    "uuid": "2cc6fe99-b861-419d-bcaa-5b1ff01bc2ec",
+    "creationDate": "2026-03-25T04:27:23.290Z",
+    "game": "Pokémon X & Y",
+    "song": "Battle! Champion Diantha",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Battle! Champion Diantha.mmrs",
+    "preview": "Pokémon X & Y/Battle! Champion Diantha.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
