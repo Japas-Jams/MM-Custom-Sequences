@@ -21057,5 +21057,26 @@
     "file": "Pokémon Red, Blue & Yellow/S.S. Anne.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/S.S. Anne.mp3"
   },
+  {
+    "uuid": "832b5be7-dc20-416d-8b9e-5ff976101ceb",
+    "creationDate": "2026-03-25T04:23:05.654Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Surfing",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Red, Blue & Yellow/Surfing.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Surfing.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
