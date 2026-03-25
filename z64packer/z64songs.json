@@ -20558,5 +20558,26 @@
     "file": "Pokémon Gold, Silver & Crystal/Goldenrod City.mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Goldenrod City.mp3"
   },
+  {
+    "uuid": "f51abbc5-edb6-42d2-b793-d402cad58a71",
+    "creationDate": "2026-03-25T03:36:08.050Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Ice Path",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Gold, Silver & Crystal/Ice Path.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Ice Path.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
