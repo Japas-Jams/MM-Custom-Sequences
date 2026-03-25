@@ -21984,5 +21984,27 @@
     "file": "Super Mario World/Victory.mmrs",
     "preview": "Super Mario World/Victory.ogg"
   },
+  {
+    "uuid": "8bff997d-5c4c-434e-8327-f86bb5b7fed0",
+    "creationDate": "2026-03-25T23:28:03.737Z",
+    "game": "Final Fantasy IV",
+    "song": "Fanfare",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IV/Fanfare.mmrs",
+    "preview": "Final Fantasy IV/Fanfare.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
