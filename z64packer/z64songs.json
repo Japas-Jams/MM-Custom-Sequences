@@ -22075,5 +22075,27 @@
     "file": "Final Fantasy VI/Figaro Castle.mmrs",
     "preview": "Final Fantasy VI/Figaro Castle.ogg"
   },
+  {
+    "uuid": "32a432ad-320e-4974-93b7-891ebc24218f",
+    "creationDate": "2026-03-26T00:02:09.828Z",
+    "game": "Final Fantasy Tactics",
+    "song": "Apoplexy",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy Tactics/Apoplexy.mmrs",
+    "preview": "Final Fantasy Tactics/Apoplexy.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
