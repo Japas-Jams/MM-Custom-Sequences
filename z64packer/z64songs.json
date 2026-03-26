@@ -22075,5 +22075,238 @@
     "file": "Final Fantasy VI/Figaro Castle.mmrs",
     "preview": "Final Fantasy VI/Figaro Castle.ogg"
   },
+  {
+    "uuid": "32a432ad-320e-4974-93b7-891ebc24218f",
+    "creationDate": "2026-03-26T00:02:09.828Z",
+    "game": "Final Fantasy Tactics",
+    "song": "Apoplexy",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy Tactics/Apoplexy.mmrs",
+    "preview": "Final Fantasy Tactics/Apoplexy.ogg"
+  },
+  {
+    "uuid": "7a37269b-1c1d-470f-a41d-3eabb97f5ce0",
+    "creationDate": "2026-03-26T00:03:37.005Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Castle & Fortress Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World 2 Yoshi's Island/Castle & Fortress Theme.mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Castle & Fortress Theme.ogg"
+  },
+  {
+    "uuid": "2f2d799d-dbc9-4fdf-842c-697d62fc01b4",
+    "creationDate": "2026-03-26T00:04:24.897Z",
+    "game": "The Legend of Zelda: Four Swords Adventures",
+    "song": "Frozen Hyrule",
+    "composers": [
+      "Asuka Hayazaki",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Four Swords Adventures/Frozen Hyrule.mmrs",
+    "preview": "The Legend of Zelda Four Swords Adventures/Frozen Hyrule.ogg"
+  },
+  {
+    "uuid": "c962782b-9959-4dcd-8480-39512c71e35b",
+    "creationDate": "2026-03-26T00:04:56.902Z",
+    "game": "Final Fantasy VII",
+    "song": "Fiddle De Chocobo",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VII/Fiddle De Chocobo.mmrs",
+    "preview": "Final Fantasy VII/Fiddle De Chocobo.ogg"
+  },
+  {
+    "uuid": "88e85008-2931-4d5c-9b06-84e90ee33577",
+    "creationDate": "2026-03-26T00:05:27.516Z",
+    "game": "Final Fantasy",
+    "song": "Mt. Gulg",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy/Mt. Gulg.mmrs",
+    "preview": "Final Fantasy/Mt. Gulg.ogg"
+  },
+  {
+    "uuid": "a59fdfec-f8a1-4f30-8eed-f7a4c8f48b24",
+    "creationDate": "2026-03-26T00:06:14.965Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Farewell Hyrule King",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Wind Waker/Farewell Hyrule King.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Farewell Hyrule King.ogg"
+  },
+  {
+    "uuid": "ac5679b8-5b88-4cf4-82b6-030d6df72238",
+    "creationDate": "2026-03-26T00:06:44.254Z",
+    "game": "Final Fantasy VI",
+    "song": "Slame Shuffle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Slame Shuffle.mmrs",
+    "preview": "Final Fantasy VI/Slame Shuffle.ogg"
+  },
+  {
+    "uuid": "15b10b97-455a-4706-8593-5ea23c787409",
+    "creationDate": "2026-03-26T00:07:45.016Z",
+    "game": "Final Fantasy VIII",
+    "song": "Triple Triad",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VIII/Triple Triad.mmrs",
+    "preview": "Final Fantasy VIII/Triple Triad.ogg"
+  },
+  {
+    "uuid": "07f70500-c3da-4517-b91d-0a4ea8e4af56",
+    "creationDate": "2026-03-26T00:08:13.430Z",
+    "game": "Final Fantasy V",
+    "song": "Big Bridge",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy V/Big Bridge.mmrs",
+    "preview": "Final Fantasy V/Big Bridge.ogg"
+  },
+  {
+    "uuid": "722da539-0b05-4d84-aa39-f412c158ebbf",
+    "creationDate": "2026-03-26T00:08:59.496Z",
+    "game": "Pokémon X & Y",
+    "song": "Snowbelle City",
+    "composers": [
+      "Shota Kageyama",
+      "Minako Adachi",
+      "Hitomi Sato",
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Snowbelle City.mmrs",
+    "preview": "Pokémon X & Y/Snowbelle City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
