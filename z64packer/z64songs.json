@@ -22121,5 +22121,28 @@
     "file": "Super Mario World 2 Yoshi's Island/Castle & Fortress Theme.mmrs",
     "preview": "Super Mario World 2 Yoshi's Island/Castle & Fortress Theme.ogg"
   },
+  {
+    "uuid": "2f2d799d-dbc9-4fdf-842c-697d62fc01b4",
+    "creationDate": "2026-03-26T00:04:24.897Z",
+    "game": "The Legend of Zelda: Four Swords Adventures",
+    "song": "Frozen Hyrule",
+    "composers": [
+      "Asuka Hayazaki",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Four Swords Adventures/Frozen Hyrule.mmrs",
+    "preview": "The Legend of Zelda Four Swords Adventures/Frozen Hyrule.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
