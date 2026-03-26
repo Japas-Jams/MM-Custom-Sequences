@@ -22260,5 +22260,28 @@
     "file": "Final Fantasy VIII/Triple Triad.mmrs",
     "preview": "Final Fantasy VIII/Triple Triad.ogg"
   },
+  {
+    "uuid": "07f70500-c3da-4517-b91d-0a4ea8e4af56",
+    "creationDate": "2026-03-26T00:08:13.430Z",
+    "game": "Final Fantasy V",
+    "song": "Big Bridge",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy V/Big Bridge.mmrs",
+    "preview": "Final Fantasy V/Big Bridge.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
