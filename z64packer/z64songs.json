@@ -22212,5 +22212,29 @@
     "file": "The Legend of Zelda The Wind Waker/Farewell Hyrule King.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Farewell Hyrule King.ogg"
   },
+  {
+    "uuid": "ac5679b8-5b88-4cf4-82b6-030d6df72238",
+    "creationDate": "2026-03-26T00:06:44.254Z",
+    "game": "Final Fantasy VI",
+    "song": "Slame Shuffle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Forest Siren"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy VI/Slame Shuffle.mmrs",
+    "preview": "Final Fantasy VI/Slame Shuffle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
