@@ -10869,7 +10869,7 @@
     "uuid": "78c339cf-9404-4c57-998b-ca63c4db083e",
     "creationDate": "2026-03-18T02:37:05.381Z",
     "game": "Mario Paint",
-    "song": "Creative Exercise",
+    "song": "Creative Exercise (Variant A)",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -10884,7 +10884,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Mario Paint/Creative Exercise.mmrs",
-    "preview": "Mario Paint/Creative Exercise.ogg"
+    "preview": "Mario Paint/Creative Exercise.ogg",
+    "lastUpdateDate": "2026-03-26T00:27:04.364Z"
   },
   {
     "uuid": "e464f50d-ad5f-43d7-8fea-ad31cda3f67a",
@@ -21714,7 +21715,7 @@
     "uuid": "91ae43e6-73f0-4bc0-a186-bfaf9a50424a",
     "creationDate": "2026-03-25T23:14:43.153Z",
     "game": "Mario Paint",
-    "song": "BGM 1",
+    "song": "Creative Exercise (Variant B)",
     "composers": [
       "Kazumi Totaka",
       "Hirokazu Tanaka",
@@ -21733,8 +21734,9 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario Paint/BGM 1.mmrs",
-    "preview": "Mario Paint/BGM 1.ogg"
+    "file": "Mario Paint/Creative Exercise (Variant B).mmrs",
+    "preview": "Mario Paint/BGM 1.ogg",
+    "lastUpdateDate": "2026-03-26T00:27:49.879Z"
   },
   {
     "uuid": "08c3c748-f683-429f-bed6-4451b80ead64",
