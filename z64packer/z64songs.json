@@ -22817,5 +22817,26 @@
     "file": "Pikmin/The Distant Spring.mmrs",
     "preview": "Pikmin/The Distant Spring.ogg"
   },
+  {
+    "uuid": "bd4923b7-2ae9-4eac-b7e5-982ac6219587",
+    "creationDate": "2026-03-27T22:51:50.983Z",
+    "game": "Pikmin",
+    "song": "The Distant Spring (Sunset)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Pikmin/The Distant Spring (Sunset).mmrs",
+    "preview": "Pikmin/The Distant Spring (Sunset).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
