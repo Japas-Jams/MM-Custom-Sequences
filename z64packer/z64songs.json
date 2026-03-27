@@ -22515,5 +22515,28 @@
     "file": "Luigi's Mansion 3/Amadeus Wolfgeist (Phase 1).mmrs",
     "preview": "Luigi's Mansion 3/Amadeus Wolfgeist (Phase 1).ogg"
   },
+  {
+    "uuid": "ae696d84-e460-46bc-bcfe-92ca107c1b0c",
+    "creationDate": "2026-03-27T02:22:11.680Z",
+    "game": "Luigi's Mansion 3",
+    "song": "The Great Stage (Distant Piano)",
+    "composers": [
+      "Chad York",
+      "Darren Radtke"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "file": "Luigi's Mansion 3/The Great Stage (Distant Piano).mmrs",
+    "preview": "Luigi's Mansion 3/The Great Stage (Distant Piano).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
