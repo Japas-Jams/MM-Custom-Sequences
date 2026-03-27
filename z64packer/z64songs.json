@@ -22394,5 +22394,23 @@
     "file": "The Legend of Zelda A Link Between Worlds/Queen Zora's Gratitude.mmrs",
     "preview": "The Legend of Zelda A Link Between Worlds/Queen Zora's Gratitude.ogg"
   },
+  {
+    "uuid": "06ab311c-4091-4ae2-a1b0-64c151139729",
+    "creationDate": "2026-03-27T02:05:13.508Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Lorule Castle #1",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Lorule Castle #1.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Lorule Castle #1.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
