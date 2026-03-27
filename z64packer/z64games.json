@@ -627,7 +627,7 @@
   },
   {
     "game": "Hotel Mario",
-    "series": "Super Mario Series",
+    "series": "Mario Spin-offs",
     "logo": "https://i.imgur.com/Nlt3RHU.png"
   },
   {
@@ -846,6 +846,7 @@
   },
   {
     "game": "Luigi's Mansion",
+    "series": "Luigi's Mansion Series",
     "logo": "https://i.imgur.com/YIMnmmn.png"
   },
   {
@@ -919,6 +920,7 @@
   },
   {
     "game": "Mario Paint",
+    "series": "Mario Spin-offs",
     "logo": "https://i.imgur.com/xfYZ00j.png"
   },
   {
@@ -2583,7 +2585,7 @@
   },
   {
     "game": "Mario's Super Picross",
-    "series": "Super Mario Series",
+    "series": "Mario Spin-offs",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3aa1b54ee156dfd4a5cf24ce3211dd8.png"
   },
   {
@@ -3089,7 +3091,9 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/70b9a250694bcd701d37a2189b9c8289.png"
   },
   {
-    "game": "Luigi's Mansion 3"
+    "game": "Luigi's Mansion 3",
+    "series": "Luigi's Mansion Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3d6a6ec2c0179f827f7a431164c346a.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
