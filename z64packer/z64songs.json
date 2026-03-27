@@ -22714,7 +22714,10 @@
       "6"
     ],
     "file": "Pikmin 2/Awakening Wood (Working).mmrs",
-    "preview": "Pikmin 2/Awakening Wood (Working).ogg"
+    "preview": "Pikmin 2/Awakening Wood (Working).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f515b406-4bc6-4f1d-953f-b21b391db663",
@@ -22732,7 +22735,10 @@
       "7"
     ],
     "file": "Pikmin 2/Boss Battle.mmrs",
-    "preview": "Pikmin 2/Boss Battle.ogg"
+    "preview": "Pikmin 2/Boss Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3d064153-1cc4-487e-8403-43094963c3c3",
@@ -22752,7 +22758,10 @@
       "6"
     ],
     "file": "Pikmin 2/Emergence Cave 1.mmrs",
-    "preview": "Pikmin 2/Emergence Cave 1.ogg"
+    "preview": "Pikmin 2/Emergence Cave 1.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "028baa1a-86db-4910-99ac-f45fb7ae724a",
@@ -22772,7 +22781,10 @@
       "6"
     ],
     "file": "Pikmin/Demo.mmrs",
-    "preview": "Pikmin/Demo.mp3"
+    "preview": "Pikmin/Demo.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "26e26c6f-03a0-4658-9ecb-c614d1eade90",
@@ -22794,7 +22806,10 @@
       "6"
     ],
     "file": "Pikmin/Forest of Hope.mmrs",
-    "preview": "Pikmin/Forest of Hope.ogg"
+    "preview": "Pikmin/Forest of Hope.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "369e7798-6c84-4e68-b236-fd3ddf00b84c",
@@ -22815,7 +22830,10 @@
       "6"
     ],
     "file": "Pikmin/The Distant Spring.mmrs",
-    "preview": "Pikmin/The Distant Spring.ogg"
+    "preview": "Pikmin/The Distant Spring.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bd4923b7-2ae9-4eac-b7e5-982ac6219587",
@@ -22836,7 +22854,10 @@
       "6"
     ],
     "file": "Pikmin/The Distant Spring (Sunset).mmrs",
-    "preview": "Pikmin/The Distant Spring (Sunset).ogg"
+    "preview": "Pikmin/The Distant Spring (Sunset).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "84be5053-4cca-4432-bd4b-f59d091d3b3c",
@@ -22855,7 +22876,10 @@
       "1"
     ],
     "file": "Pikmin/The Final Trial.mmrs",
-    "preview": "Pikmin/The Final Trial.ogg"
+    "preview": "Pikmin/The Final Trial.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c3cf550f-801e-435f-ad35-14e8e36d2b81",
@@ -22875,7 +22899,10 @@
       "6"
     ],
     "file": "Pikmin/The Final Trial (Sunset).mmrs",
-    "preview": "Pikmin/The Final Trial (Sunset).ogg"
+    "preview": "Pikmin/The Final Trial (Sunset).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c782f9ed-0b79-4847-b2c5-910b657226fa",
@@ -22897,7 +22924,10 @@
       "6"
     ],
     "file": "Pikmin/The Impact Site.mmrs",
-    "preview": "Pikmin/The Impact Site.ogg"
+    "preview": "Pikmin/The Impact Site.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "784a030f-0dce-4146-bb62-c94a32223358",
@@ -22918,7 +22948,10 @@
       "6"
     ],
     "file": "Pikmin/The Impact Site (Sunset).mmrs",
-    "preview": "Pikmin/The Impact Site (Sunset).ogg"
+    "preview": "Pikmin/The Impact Site (Sunset).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "66cf73f3-6972-41f4-9938-d4a37d000d6f",
@@ -22938,7 +22971,10 @@
       "6"
     ],
     "file": "Pikmin/View.mmrs",
-    "preview": "Pikmin/View.ogg"
+    "preview": "Pikmin/View.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
