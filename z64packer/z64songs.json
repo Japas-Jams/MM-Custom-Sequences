@@ -22774,5 +22774,27 @@
     "file": "Pikmin/Demo.mmrs",
     "preview": "Pikmin/Demo.mp3"
   },
+  {
+    "uuid": "26e26c6f-03a0-4658-9ecb-c614d1eade90",
+    "creationDate": "2026-03-27T22:50:10.926Z",
+    "game": "Pikmin",
+    "song": "Forest of Hope",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Pikmin/Forest of Hope.mmrs",
+    "preview": "Pikmin/Forest of Hope.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
