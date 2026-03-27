@@ -22857,5 +22857,25 @@
     "file": "Pikmin/The Final Trial.mmrs",
     "preview": "Pikmin/The Final Trial.ogg"
   },
+  {
+    "uuid": "c3cf550f-801e-435f-ad35-14e8e36d2b81",
+    "creationDate": "2026-03-27T22:53:15.876Z",
+    "game": "Pikmin",
+    "song": "The Final Trial (Sunset)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Pikmin/The Final Trial (Sunset).mmrs",
+    "preview": "Pikmin/The Final Trial (Sunset).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
