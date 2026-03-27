@@ -22581,5 +22581,25 @@
     "file": "Persona 5/Impromptu for the Next Prime Minister.mmrs",
     "preview": "Persona 5/Impromptu for the Next Prime Minister.ogg"
   },
+  {
+    "uuid": "756d167c-4e35-44d4-8c1a-00762ba65575",
+    "creationDate": "2026-03-27T02:29:57.917Z",
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Bellum Battle",
+    "composers": [
+      "Kenta Nagata",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda Phantom Hourglass/Bellum Battle.mmrs",
+    "preview": "The Legend of Zelda Phantom Hourglass/Bellum Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
