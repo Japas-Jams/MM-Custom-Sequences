@@ -22716,5 +22716,23 @@
     "file": "Pikmin 2/Awakening Wood (Working).mmrs",
     "preview": "Pikmin 2/Awakening Wood (Working).ogg"
   },
+  {
+    "uuid": "f515b406-4bc6-4f1d-953f-b21b391db663",
+    "creationDate": "2026-03-27T22:39:54.343Z",
+    "game": "Pikmin 2",
+    "song": "Boss Battle",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Pikmin 2/Boss Battle.mmrs",
+    "preview": "Pikmin 2/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
