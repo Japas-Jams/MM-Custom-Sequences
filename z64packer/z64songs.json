@@ -22412,5 +22412,23 @@
     "file": "The Legend of Zelda A Link Between Worlds/Lorule Castle #1.mmrs",
     "preview": "The Legend of Zelda A Link Between Worlds/Lorule Castle #1.mp3"
   },
+  {
+    "uuid": "f52ff680-e005-4f1a-adbf-2846c9038f43",
+    "creationDate": "2026-03-27T02:06:03.875Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Lorule Castle #2",
+    "composers": [
+      "Ryo Nagamatsu"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda A Link Between Worlds/Lorule Castle #2.mmrs",
+    "preview": "The Legend of Zelda A Link Between Worlds/Lorule Castle #2.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
