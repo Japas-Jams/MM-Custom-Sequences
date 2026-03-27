@@ -22601,5 +22601,26 @@
     "file": "The Legend of Zelda Phantom Hourglass/Bellum Battle.mmrs",
     "preview": "The Legend of Zelda Phantom Hourglass/Bellum Battle.ogg"
   },
+  {
+    "uuid": "921fd16e-ffa2-4569-838e-d5ea2050f3a7",
+    "creationDate": "2026-03-27T02:33:36.787Z",
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Enemy Battle",
+    "composers": [
+      "Toru Minegishi",
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "The Legend of Zelda Phantom Hourglass/Enemy Battle.mmrs",
+    "preview": "The Legend of Zelda Phantom Hourglass/Enemy Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
