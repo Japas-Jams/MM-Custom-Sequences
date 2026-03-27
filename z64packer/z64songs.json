@@ -22796,5 +22796,26 @@
     "file": "Pikmin/Forest of Hope.mmrs",
     "preview": "Pikmin/Forest of Hope.ogg"
   },
+  {
+    "uuid": "369e7798-6c84-4e68-b236-fd3ddf00b84c",
+    "creationDate": "2026-03-27T22:51:03.094Z",
+    "game": "Pikmin",
+    "song": "The Distant Spring",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "file": "Pikmin/The Distant Spring.mmrs",
+    "preview": "Pikmin/The Distant Spring.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
