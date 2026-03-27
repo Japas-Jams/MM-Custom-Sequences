@@ -22560,5 +22560,26 @@
     "file": "Luigi's Mansion 3/Boilerworks (Ghost Catching 1).mmrs",
     "preview": "Luigi's Mansion 3/Boilerworks (Ghost Catching 1).mp3"
   },
+  {
+    "uuid": "829a1715-05b6-492e-ae34-6f60c185ec93",
+    "creationDate": "2026-03-27T02:27:03.371Z",
+    "game": "Persona 5",
+    "song": "Impromptu for the Next Prime Minister",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Persona 5/Impromptu for the Next Prime Minister.mmrs",
+    "preview": "Persona 5/Impromptu for the Next Prime Minister.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
