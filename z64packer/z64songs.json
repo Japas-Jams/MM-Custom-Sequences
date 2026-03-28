@@ -23167,5 +23167,25 @@
     "file": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mmrs",
     "preview": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mp3"
   },
+  {
+    "uuid": "02cd43de-57c1-4307-8b42-598fd5b9d084",
+    "creationDate": "2026-03-28T17:21:30.423Z",
+    "game": "Shin Megami Tensei II ",
+    "song": "Gym",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "Shin Megami Tensei II /Gym.mmrs",
+    "preview": "Shin Megami Tensei II /Gym.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
