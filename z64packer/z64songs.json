@@ -23102,5 +23102,27 @@
     "file": "F-Zero X/Retire.mmrs",
     "preview": "F-Zero X/Retire.mp3"
   },
+  {
+    "uuid": "e5729b24-7e36-4935-86a9-899b2c25d848",
+    "creationDate": "2026-03-28T17:19:00.755Z",
+    "game": "Jack Bros.",
+    "song": "Mecha Fortress",
+    "composers": [
+      "Hiroyuki Yanada"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Jack Bros/Mecha Fortress.mmrs",
+    "preview": "Jack Bros/Mecha Fortress.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
