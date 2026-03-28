@@ -23245,5 +23245,27 @@
     "file": "Tetris Attack/Water Stage.mmrs",
     "preview": "Tetris Attack/Water Stage.mp3"
   },
+  {
+    "uuid": "e3d29678-7a20-4114-8da1-0f69dd192d41",
+    "creationDate": "2026-03-28T17:24:17.314Z",
+    "game": "Tetris Attack",
+    "song": "Lunar Stage",
+    "composers": [
+      "Masaya Kuzume"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Tetris Attack/Lunar Stage.mmrs",
+    "preview": "Tetris Attack/Lunar Stage.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
