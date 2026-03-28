@@ -23187,5 +23187,24 @@
     "file": "Shin Megami Tensei II /Gym.mmrs",
     "preview": "Shin Megami Tensei II /Gym.mp3"
   },
+  {
+    "uuid": "597e635b-b083-49a3-893c-f26fcae9ddce",
+    "creationDate": "2026-03-28T17:22:24.708Z",
+    "game": "Demon's Souls",
+    "song": "Maiden in Black",
+    "composers": [
+      "Shunsuke Kida"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "file": "Demon's Souls/Maiden in Black.mmrs",
+    "preview": "Demon's Souls/Maiden in Black.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
