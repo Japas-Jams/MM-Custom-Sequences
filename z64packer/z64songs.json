@@ -22976,5 +22976,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "39869990-dda8-4170-93a8-90eca11be33c",
+    "creationDate": "2026-03-28T17:14:21.355Z",
+    "game": "Shin Megami Tensei IV",
+    "song": "Tokyo",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei IV/Tokyo.mmrs",
+    "preview": "Shin Megami Tensei IV/Tokyo.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
