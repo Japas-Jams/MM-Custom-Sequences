@@ -23062,5 +23062,26 @@
     "file": "F-Zero X/Crazy Call at Cry.mmrs",
     "preview": "F-Zero X/Crazy Call at Cry.mp3"
   },
+  {
+    "uuid": "131deb61-fd96-4ea6-8f0e-b5b38b719ba4",
+    "creationDate": "2026-03-28T17:17:42.088Z",
+    "game": "Racing Lagoon",
+    "song": "Bay Lagoon Racing",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Racing Lagoon/Bay Lagoon Racing.mmrs",
+    "preview": "Racing Lagoon/Bay Lagoon Racing.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
