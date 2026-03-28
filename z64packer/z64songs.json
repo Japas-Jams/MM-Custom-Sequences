@@ -23352,5 +23352,28 @@
     "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mmrs",
     "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mp3"
   },
+  {
+    "uuid": "bf070c1c-e6c1-413a-9a58-ee728a6913fe",
+    "creationDate": "2026-03-28T17:47:22.534Z",
+    "game": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+    "song": "Video Muscle",
+    "composers": [
+      "Shoji Meguro",
+      "Toshiko Tasaki",
+      "and Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mmrs",
+    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
