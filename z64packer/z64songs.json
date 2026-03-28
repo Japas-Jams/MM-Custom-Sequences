@@ -23288,5 +23288,25 @@
     "file": "Racing Lagoon/Base Point.mmrs",
     "preview": "Racing Lagoon/Base Point.mp3"
   },
+  {
+    "uuid": "24b69b92-9845-4509-821b-38bce8c92547",
+    "creationDate": "2026-03-28T17:26:39.446Z",
+    "game": "Final Fantasy VIII",
+    "song": "Blue Fields",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VIII/Blue Fields.mmrs",
+    "preview": "Final Fantasy VIII/Blue Fields.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
