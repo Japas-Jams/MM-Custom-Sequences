@@ -23376,5 +23376,24 @@
     "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mp3",
     "lastUpdateDate": "2026-03-28T17:47:45.870Z"
   },
+  {
+    "uuid": "361b9151-240c-4c7c-9712-046c98198a58",
+    "creationDate": "2026-03-28T17:48:36.193Z",
+    "game": "Xenogears",
+    "song": "Valley Where Wind is Born",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Xenogears/Valley Where Wind is Born.mmrs",
+    "preview": "Xenogears/Valley Where Wind is Born.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
