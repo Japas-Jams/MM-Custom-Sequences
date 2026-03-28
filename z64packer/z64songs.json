@@ -22996,5 +22996,26 @@
     "file": "Shin Megami Tensei IV/Tokyo.mmrs",
     "preview": "Shin Megami Tensei IV/Tokyo.mp3"
   },
+  {
+    "uuid": "eba4d231-bbde-4b44-84a6-b2954d979004",
+    "creationDate": "2026-03-28T17:15:20.479Z",
+    "game": "Dragon's Dogma: Dark Arisen",
+    "song": "The Fallen City",
+    "composers": [
+      "Tadayoshi Makino"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Dragon's Dogma Dark Arisen/The Fallen City.mmrs",
+    "preview": "Dragon's Dogma Dark Arisen/The Fallen City.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
