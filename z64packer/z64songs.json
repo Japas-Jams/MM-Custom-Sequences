@@ -23040,5 +23040,27 @@
     "file": "F-Zero/Port Town.mmrs",
     "preview": "F-Zero/Port Town.mp3"
   },
+  {
+    "uuid": "cec837ac-6376-45f1-b826-b406df5874d7",
+    "creationDate": "2026-03-28T17:16:44.729Z",
+    "game": "F-Zero X",
+    "song": "Crazy Call at Cry",
+    "composers": [
+      "Taro Bando",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "F-Zero X/Crazy Call at Cry.mmrs",
+    "preview": "F-Zero X/Crazy Call at Cry.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
