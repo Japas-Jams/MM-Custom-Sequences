@@ -23474,5 +23474,28 @@
     "file": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mmrs",
     "preview": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mp3"
   },
+  {
+    "uuid": "31edd1d9-391d-4090-a3c9-9fc9eec6ce77",
+    "creationDate": "2026-03-28T17:53:25.699Z",
+    "game": "Celeste",
+    "song": "Mirror Temple (B Side)",
+    "composers": [
+      "Lena Raine"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Celeste/Mirror Temple (B Side).mmrs",
+    "preview": "Celeste/Mirror Temple (B Side).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
