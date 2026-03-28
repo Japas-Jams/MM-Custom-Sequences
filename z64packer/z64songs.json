@@ -23206,5 +23206,23 @@
     "file": "Demon's Souls/Maiden in Black.mmrs",
     "preview": "Demon's Souls/Maiden in Black.mp3"
   },
+  {
+    "uuid": "162a2411-215c-481b-a5b8-3c68e21cd285",
+    "creationDate": "2026-03-28T17:23:03.871Z",
+    "game": "Xenogears",
+    "song": "Faraway Promise",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16E"
+    ],
+    "file": "Xenogears/Faraway Promise.mmrs",
+    "preview": "Xenogears/Faraway Promise.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
