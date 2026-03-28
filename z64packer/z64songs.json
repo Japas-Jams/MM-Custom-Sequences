@@ -23267,5 +23267,26 @@
     "file": "Tetris Attack/Lunar Stage.mmrs",
     "preview": "Tetris Attack/Lunar Stage.mp3"
   },
+  {
+    "uuid": "572a0eeb-f690-48d6-91c8-aa02118001f0",
+    "creationDate": "2026-03-28T17:24:56.180Z",
+    "game": "Racing Lagoon",
+    "song": "Base Point",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Racing Lagoon/Base Point.mmrs",
+    "preview": "Racing Lagoon/Base Point.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
