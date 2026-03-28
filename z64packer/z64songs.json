@@ -22976,5 +22976,526 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "39869990-dda8-4170-93a8-90eca11be33c",
+    "creationDate": "2026-03-28T17:14:21.355Z",
+    "game": "Shin Megami Tensei IV",
+    "song": "Tokyo",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei IV/Tokyo.mmrs",
+    "preview": "Shin Megami Tensei IV/Tokyo.mp3"
+  },
+  {
+    "uuid": "eba4d231-bbde-4b44-84a6-b2954d979004",
+    "creationDate": "2026-03-28T17:15:20.479Z",
+    "game": "Dragon's Dogma: Dark Arisen",
+    "song": "The Fallen City",
+    "composers": [
+      "Tadayoshi Makino"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Dragon's Dogma Dark Arisen/The Fallen City.mmrs",
+    "preview": "Dragon's Dogma Dark Arisen/The Fallen City.mp3"
+  },
+  {
+    "uuid": "5ada6a41-065e-4c0d-b48c-7c816bdd7bd3",
+    "creationDate": "2026-03-28T17:16:01.767Z",
+    "game": "F-Zero",
+    "song": "Port Town",
+    "composers": [
+      "Yumiko Kanki",
+      "Naoto Ishida"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "F-Zero/Port Town.mmrs",
+    "preview": "F-Zero/Port Town.mp3"
+  },
+  {
+    "uuid": "cec837ac-6376-45f1-b826-b406df5874d7",
+    "creationDate": "2026-03-28T17:16:44.729Z",
+    "game": "F-Zero X",
+    "song": "Crazy Call at Cry",
+    "composers": [
+      "Taro Bando",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "F-Zero X/Crazy Call at Cry.mmrs",
+    "preview": "F-Zero X/Crazy Call at Cry.mp3"
+  },
+  {
+    "uuid": "131deb61-fd96-4ea6-8f0e-b5b38b719ba4",
+    "creationDate": "2026-03-28T17:17:42.088Z",
+    "game": "Racing Lagoon",
+    "song": "Bay Lagoon Racing",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Racing Lagoon/Bay Lagoon Racing.mmrs",
+    "preview": "Racing Lagoon/Bay Lagoon Racing.mp3"
+  },
+  {
+    "uuid": "afa7e446-5212-4acc-9e20-05421d15e82a",
+    "creationDate": "2026-03-28T17:18:19.472Z",
+    "game": "F-Zero X",
+    "song": "Retire",
+    "composers": [
+      "Taro Bando",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "F-Zero X/Retire.mmrs",
+    "preview": "F-Zero X/Retire.mp3"
+  },
+  {
+    "uuid": "e5729b24-7e36-4935-86a9-899b2c25d848",
+    "creationDate": "2026-03-28T17:19:00.755Z",
+    "game": "Jack Bros.",
+    "song": "Mecha Fortress",
+    "composers": [
+      "Hiroyuki Yanada"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Jack Bros/Mecha Fortress.mmrs",
+    "preview": "Jack Bros/Mecha Fortress.mp3"
+  },
+  {
+    "uuid": "1ce2aa4d-b292-4e20-8a25-0d704e973aa2",
+    "creationDate": "2026-03-28T17:19:39.722Z",
+    "game": "Final Fantasy IV",
+    "song": "Prologue",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy IV/Prologue.mmrs",
+    "preview": "Final Fantasy IV/Prologue.mp3"
+  },
+  {
+    "uuid": "007ad274-5872-41fc-8bf0-1083865ff037",
+    "creationDate": "2026-03-28T17:20:38.764Z",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Dark Cave (Variant A)",
+    "composers": [
+      "Go Ichinose",
+      "Junichi Masuda",
+      "Morikazu Aoki"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mp3"
+  },
+  {
+    "uuid": "02cd43de-57c1-4307-8b42-598fd5b9d084",
+    "creationDate": "2026-03-28T17:21:30.423Z",
+    "game": "Shin Megami Tensei II ",
+    "song": "Gym",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "Shin Megami Tensei II /Gym.mmrs",
+    "preview": "Shin Megami Tensei II /Gym.mp3"
+  },
+  {
+    "uuid": "597e635b-b083-49a3-893c-f26fcae9ddce",
+    "creationDate": "2026-03-28T17:22:24.708Z",
+    "game": "Demon's Souls",
+    "song": "Maiden in Black",
+    "composers": [
+      "Shunsuke Kida"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "file": "Demon's Souls/Maiden in Black.mmrs",
+    "preview": "Demon's Souls/Maiden in Black.mp3"
+  },
+  {
+    "uuid": "162a2411-215c-481b-a5b8-3c68e21cd285",
+    "creationDate": "2026-03-28T17:23:03.871Z",
+    "game": "Xenogears",
+    "song": "Faraway Promise",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16E"
+    ],
+    "file": "Xenogears/Faraway Promise.mmrs",
+    "preview": "Xenogears/Faraway Promise.mp3"
+  },
+  {
+    "uuid": "c50391ba-398f-4a85-a6f3-59aeaad5580b",
+    "creationDate": "2026-03-28T17:23:45.705Z",
+    "game": "Tetris Attack",
+    "song": "Water Stage",
+    "composers": [
+      "Masaya Kuzume"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Tetris Attack/Water Stage.mmrs",
+    "preview": "Tetris Attack/Water Stage.mp3"
+  },
+  {
+    "uuid": "e3d29678-7a20-4114-8da1-0f69dd192d41",
+    "creationDate": "2026-03-28T17:24:17.314Z",
+    "game": "Tetris Attack",
+    "song": "Lunar Stage",
+    "composers": [
+      "Masaya Kuzume"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Tetris Attack/Lunar Stage.mmrs",
+    "preview": "Tetris Attack/Lunar Stage.mp3"
+  },
+  {
+    "uuid": "572a0eeb-f690-48d6-91c8-aa02118001f0",
+    "creationDate": "2026-03-28T17:24:56.180Z",
+    "game": "Racing Lagoon",
+    "song": "Base Point",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Racing Lagoon/Base Point.mmrs",
+    "preview": "Racing Lagoon/Base Point.mp3"
+  },
+  {
+    "uuid": "24b69b92-9845-4509-821b-38bce8c92547",
+    "creationDate": "2026-03-28T17:26:39.446Z",
+    "game": "Final Fantasy VIII",
+    "song": "Blue Fields",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VIII/Blue Fields.mmrs",
+    "preview": "Final Fantasy VIII/Blue Fields.mp3"
+  },
+  {
+    "uuid": "fc24bfa7-e71b-4383-a206-b06972e0eef8",
+    "creationDate": "2026-03-28T17:27:30.655Z",
+    "game": "Hey You, Pikachu!",
+    "song": "Title Screen",
+    "composers": [
+      "Miki Obata"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Hey You, Pikachu!/Title Screen.mmrs",
+    "preview": "Hey You, Pikachu!/Title Screen.mp3"
+  },
+  {
+    "uuid": "1cb972e6-a020-427e-9f3a-a3720bad0a41",
+    "creationDate": "2026-03-28T17:46:36.312Z",
+    "game": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+    "song": "Spookies",
+    "composers": [
+      "Shoji Meguro",
+      "Toshiko Tasaki",
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mmrs",
+    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Spookies.mp3"
+  },
+  {
+    "uuid": "bf070c1c-e6c1-413a-9a58-ee728a6913fe",
+    "creationDate": "2026-03-28T17:47:22.534Z",
+    "game": "Shin Megami Tensei: Devil Summoner: Soul Hackers",
+    "song": "Video Muscle",
+    "composers": [
+      "Shoji Meguro",
+      "Toshiko Tasaki",
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mmrs",
+    "preview": "Shin Megami Tensei Devil Summoner Soul Hackers/Video Muscle.mp3",
+    "lastUpdateDate": "2026-03-28T17:47:45.870Z"
+  },
+  {
+    "uuid": "361b9151-240c-4c7c-9712-046c98198a58",
+    "creationDate": "2026-03-28T17:48:36.193Z",
+    "game": "Xenogears",
+    "song": "Valley Where Wind is Born",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Xenogears/Valley Where Wind is Born.mmrs",
+    "preview": "Xenogears/Valley Where Wind is Born.mp3"
+  },
+  {
+    "uuid": "455dab8a-86df-41de-9cd7-c1365bcf1001",
+    "creationDate": "2026-03-28T17:50:04.474Z",
+    "game": "Final Fantasy VI",
+    "song": "Spinach Rag",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Final Fantasy VI/Spinach Rag.mmrs",
+    "preview": "Final Fantasy VI/Spinach Rag.mp3"
+  },
+  {
+    "uuid": "fac03098-dd60-4fba-86b1-9a6c5cab5afc",
+    "creationDate": "2026-03-28T17:50:56.016Z",
+    "game": "Shin Megami Tensei II",
+    "song": "Chaos",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "6"
+    ],
+    "file": "Shin Megami Tensei II/Chaos.mmrs",
+    "preview": "Shin Megami Tensei II/Chaos.mp3"
+  },
+  {
+    "uuid": "83c801bd-4888-41c2-b742-ee66a6e6cfff",
+    "creationDate": "2026-03-28T17:51:48.838Z",
+    "game": "Tetris Attack",
+    "song": "Spell Lifted",
+    "composers": [
+      "Masaya Kuzume"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Tetris Attack/Spell Lifted.mmrs",
+    "preview": "Tetris Attack/Spell Lifted.mp3"
+  },
+  {
+    "uuid": "eca6a722-a6bb-48d6-9023-4b206818b8fc",
+    "creationDate": "2026-03-28T17:52:49.038Z",
+    "game": "Shin Megami Tensei IV",
+    "song": "Battle A1 (Naraku Battle Theme)",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mmrs",
+    "preview": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mp3"
+  },
+  {
+    "uuid": "31edd1d9-391d-4090-a3c9-9fc9eec6ce77",
+    "creationDate": "2026-03-28T17:53:25.699Z",
+    "game": "Celeste",
+    "song": "Mirror Temple (B Side)",
+    "composers": [
+      "Lena Raine"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Celeste/Mirror Temple (B Side).mmrs",
+    "preview": "Celeste/Mirror Temple (B Side).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
