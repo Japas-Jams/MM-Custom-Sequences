@@ -23453,5 +23453,26 @@
     "file": "Tetris Attack/Spell Lifted.mmrs",
     "preview": "Tetris Attack/Spell Lifted.mp3"
   },
+  {
+    "uuid": "eca6a722-a6bb-48d6-9023-4b206818b8fc",
+    "creationDate": "2026-03-28T17:52:49.038Z",
+    "game": "Shin Megami Tensei IV",
+    "song": "Battle A1 (Naraku Battle Theme)",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mmrs",
+    "preview": "Shin Megami Tensei IV/Battle A1 (Naraku Battle Theme).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
