@@ -23124,5 +23124,26 @@
     "file": "Jack Bros/Mecha Fortress.mmrs",
     "preview": "Jack Bros/Mecha Fortress.mp3"
   },
+  {
+    "uuid": "1ce2aa4d-b292-4e20-8a25-0d704e973aa2",
+    "creationDate": "2026-03-28T17:19:39.722Z",
+    "game": "Final Fantasy IV",
+    "song": "Prologue",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy IV/Prologue.mmrs",
+    "preview": "Final Fantasy IV/Prologue.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
