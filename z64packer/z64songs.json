@@ -23823,5 +23823,290 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "c5f2f896-1e53-4bb6-b104-407898b1af97",
+    "creationDate": "2026-03-29T19:10:09.448Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "File Select",
+    "composers": [
+      "Koji Kondo",
+      "Toru Minegishi",
+      "Asuka Ota",
+      "and Manaka Tominaga"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Spirit Tracks/File Select.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/File Select.mp3"
+  },
+  {
+    "uuid": "6ab6094f-f342-47ef-a41f-68c8460bc8d9",
+    "creationDate": "2026-03-29T19:11:53.734Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Koji Kondo",
+      "Toru Minegishi",
+      "Asuka Ota",
+      "Manaka Tominaga"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Hyrule Castle.mp3"
+  },
+  {
+    "uuid": "ade655c1-6fc9-4c20-b7ac-bf0763c97758",
+    "creationDate": "2026-03-29T19:13:01.099Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Linebeck III",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Linebeck III.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Linebeck III.ogg"
+  },
+  {
+    "uuid": "b2caa8af-60ac-46e3-9344-2300be05f036",
+    "creationDate": "2026-03-29T19:13:59.941Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Papuchia Village",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Papuchia Village.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Papuchia Village.ogg"
+  },
+  {
+    "uuid": "c2e48b8a-af17-475d-a7ff-30328c7d52a9",
+    "creationDate": "2026-03-29T19:15:49.019Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Tower of Spirits (Staircase)",
+    "composers": [
+      "Toru Minegishi",
+      "Manaka Tominaga",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).ogg"
+  },
+  {
+    "uuid": "ed32c572-a14a-42a6-9975-5c2455009e10",
+    "creationDate": "2026-03-29T19:16:42.469Z",
+    "game": "Super Mario Sunshine",
+    "song": "Bianco Hills",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Sunshine/Bianco Hills.mmrs",
+    "preview": "Super Mario Sunshine/Bianco Hills.mp3"
+  },
+  {
+    "uuid": "16a90edc-1f2e-4912-9a14-b9f57ecf4bb1",
+    "creationDate": "2026-03-29T19:17:19.471Z",
+    "game": "Super Mario Sunshine",
+    "song": "Gelato Beach",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Sunshine/Gelato Beach.mmrs",
+    "preview": "Super Mario Sunshine/Gelato Beach.mp3"
+  },
+  {
+    "uuid": "e4b401af-b1ba-4035-ae99-e9b2e2e14f07",
+    "creationDate": "2026-03-29T19:18:38.657Z",
+    "game": "The Legend of Zelda: The Missing Link",
+    "song": "Deku Road",
+    "composers": [
+      "Badub"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Missing Link/Deku Road.mmrs",
+    "preview": "The Legend of Zelda The Missing Link/Deku Road.mp3"
+  },
+  {
+    "uuid": "06c71f32-4c88-4b82-80ea-1589444f1949",
+    "creationDate": "2026-03-29T19:19:55.068Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field.ogg"
+  },
+  {
+    "uuid": "e2054764-35e4-48af-8ee8-d27f2e4721a8",
+    "creationDate": "2026-03-29T19:20:25.378Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Ordon Ranch",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Ordon Ranch.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Ordon Ranch.mp3"
+  },
+  {
+    "uuid": "32704004-74b2-460d-adbd-d1e4ad594a96",
+    "creationDate": "2026-03-29T19:21:04.951Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Ordon Ranch (Romani Ranch Version)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Ordon Ranch (Romani Ranch Version).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Ordon Ranch (Romani Ranch Version).mp3"
+  },
+  {
+    "uuid": "fd19941d-806d-4315-b556-190092c5f443",
+    "creationDate": "2026-03-29T19:21:41.081Z",
+    "game": "Undertale",
+    "song": "Fallen Down",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Undertale/Fallen Down.mmrs",
+    "preview": "Undertale/Fallen Down.ogg"
+  },
+  {
+    "uuid": "961fb0ef-e7de-4341-99bb-cdb7f7758877",
+    "creationDate": "2026-03-29T19:22:24.914Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Great Sea",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/The Great Sea.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/The Great Sea.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
