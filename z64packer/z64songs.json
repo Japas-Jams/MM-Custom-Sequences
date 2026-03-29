@@ -24007,5 +24007,24 @@
     "file": "The Legend of Zelda The Missing Link/Deku Road.mmrs",
     "preview": "The Legend of Zelda The Missing Link/Deku Road.mp3"
   },
+  {
+    "uuid": "06c71f32-4c88-4b82-80ea-1589444f1949",
+    "creationDate": "2026-03-29T19:19:55.068Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
