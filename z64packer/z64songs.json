@@ -23823,5 +23823,30 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "c5f2f896-1e53-4bb6-b104-407898b1af97",
+    "creationDate": "2026-03-29T19:10:09.448Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "File Select",
+    "composers": [
+      "Koji Kondo",
+      "Toru Minegishi",
+      "Asuka Ota",
+      "and Manaka Tominaga"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Spirit Tracks/File Select.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/File Select.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
