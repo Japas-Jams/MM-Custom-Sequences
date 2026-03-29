@@ -2571,7 +2571,8 @@
   },
   {
     "game": "The Legend of Zelda: Feesh Mode",
-    "series": "The Legend of Zelda Series"
+    "series": "The Legend of Zelda Series",
+    "short_name": "Zelda: Feesh Mode"
   },
   {
     "game": "Halo 3",
@@ -2617,7 +2618,8 @@
   {
     "game": "The Legend of Zelda: Master of Time",
     "series": "The Legend of Zelda Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9e93e6df252f2b251bb4d1559f04e190.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9e93e6df252f2b251bb4d1559f04e190.png",
+    "short_name": "Zelda: Master of Time"
   },
   {
     "game": "Hyrule Warriors",
@@ -2651,7 +2653,8 @@
   {
     "game": "The Legend of Zelda: A Link Between Worlds",
     "series": "The Legend of Zelda Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1ce5e897cda6aeb211dffe8d514f4365.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1ce5e897cda6aeb211dffe8d514f4365.png",
+    "short_name": "Zelda: A Link Between Worlds"
   },
   {
     "game": "New Super Mario Bros. Wii",
@@ -2741,7 +2744,8 @@
   {
     "game": "The Legend of Zelda: Four Swords Adventures",
     "series": "The Legend of Zelda Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f2669241f7cca3f1306082b7a9f458ed.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f2669241f7cca3f1306082b7a9f458ed.png",
+    "short_name": "Zelda: Four Swords Adventures"
   },
   {
     "game": "Sonic R",
@@ -2764,7 +2768,8 @@
   {
     "game": "The Legend of Zelda: Breath of the Wild",
     "series": "The Legend of Zelda Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/24df88ee05eb50db7d1d083a37f49b0b.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/24df88ee05eb50db7d1d083a37f49b0b.png",
+    "short_name": "Zelda: Breath of the Wild"
   },
   {
     "game": "Shadow the Hedgehog",
@@ -2887,7 +2892,8 @@
   {
     "game": "Freshly-Picked Tingle's Rosy Rupeeland",
     "series": "The Legend of Zelda Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ceed5d3072e690a2990b93dfe1e0110d.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ceed5d3072e690a2990b93dfe1e0110d.png",
+    "short_name": "Tingle's Rosy Rupeeland"
   },
   {
     "game": "Mega Man Zero 2",
@@ -2946,7 +2952,8 @@
   {
     "game": "Ripened Tingle's Balloon Trip of Love",
     "series": "The Legend of Zelda Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/91276f2781f23629000bcaff74807154.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/91276f2781f23629000bcaff74807154.png",
+    "short_name": "Tingle's Balloon Trip of Love"
   },
   {
     "game": "McDonald's eCDP",
@@ -3119,7 +3126,10 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/b5f3152550f790faaa6b4f333a7c3364.png"
   },
   {
-    "game": "The Legend of Zelda: The Missing Link"
+    "game": "The Legend of Zelda: The Missing Link",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/be88129b607a07093e4c9c3ac177c1d8.png",
+    "short_name": "Zelda: The Missing Link"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
