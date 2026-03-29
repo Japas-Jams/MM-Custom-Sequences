@@ -23189,29 +23189,6 @@
     "usesFormmask": false
   },
   {
-    "uuid": "02cd43de-57c1-4307-8b42-598fd5b9d084",
-    "creationDate": "2026-03-28T17:21:30.423Z",
-    "game": "Shin Megami Tensei II ",
-    "song": "Gym",
-    "composers": [
-      "Tsukasa Masuko"
-    ],
-    "converters": [
-      "Indextic"
-    ],
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3",
-      "4"
-    ],
-    "file": "Shin Megami Tensei II /Gym.mmrs",
-    "preview": "Shin Megami Tensei II /Gym.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "uuid": "597e635b-b083-49a3-893c-f26fcae9ddce",
     "creationDate": "2026-03-28T17:22:24.708Z",
     "game": "Demon's Souls",
@@ -23846,7 +23823,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Spirit Tracks/File Select.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/File Select.mp3"
+    "preview": "The Legend of Zelda Spirit Tracks/File Select.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6ab6094f-f342-47ef-a41f-68c8460bc8d9",
@@ -23870,7 +23849,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Spirit Tracks/Hyrule Castle.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Hyrule Castle.mp3"
+    "preview": "The Legend of Zelda Spirit Tracks/Hyrule Castle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ade655c1-6fc9-4c20-b7ac-bf0763c97758",
@@ -23892,7 +23874,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Spirit Tracks/Linebeck III.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Linebeck III.ogg"
+    "preview": "The Legend of Zelda Spirit Tracks/Linebeck III.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b2caa8af-60ac-46e3-9344-2300be05f036",
@@ -23915,7 +23900,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Spirit Tracks/Papuchia Village.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Papuchia Village.ogg"
+    "preview": "The Legend of Zelda Spirit Tracks/Papuchia Village.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c2e48b8a-af17-475d-a7ff-30328c7d52a9",
@@ -23939,7 +23927,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).ogg"
+    "preview": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ed32c572-a14a-42a6-9975-5c2455009e10",
@@ -23961,7 +23952,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario Sunshine/Bianco Hills.mmrs",
-    "preview": "Super Mario Sunshine/Bianco Hills.mp3"
+    "preview": "Super Mario Sunshine/Bianco Hills.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "16a90edc-1f2e-4912-9a14-b9f57ecf4bb1",
@@ -23983,7 +23976,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario Sunshine/Gelato Beach.mmrs",
-    "preview": "Super Mario Sunshine/Gelato Beach.mp3"
+    "preview": "Super Mario Sunshine/Gelato Beach.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e4b401af-b1ba-4035-ae99-e9b2e2e14f07",
@@ -24005,7 +24000,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Missing Link/Deku Road.mmrs",
-    "preview": "The Legend of Zelda The Missing Link/Deku Road.mp3"
+    "preview": "The Legend of Zelda The Missing Link/Deku Road.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "06c71f32-4c88-4b82-80ea-1589444f1949",
@@ -24024,7 +24022,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Twilight Princess/Hyrule Field.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e2054764-35e4-48af-8ee8-d27f2e4721a8",
@@ -24045,7 +24046,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Twilight Princess/Ordon Ranch.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Ordon Ranch.mp3"
+    "preview": "The Legend of Zelda Twilight Princess/Ordon Ranch.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "32704004-74b2-460d-adbd-d1e4ad594a96",
@@ -24066,7 +24070,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Twilight Princess/Ordon Ranch (Romani Ranch Version).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Ordon Ranch (Romani Ranch Version).mp3"
+    "preview": "The Legend of Zelda Twilight Princess/Ordon Ranch (Romani Ranch Version).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fd19941d-806d-4315-b556-190092c5f443",
@@ -24085,7 +24092,10 @@
       "6"
     ],
     "file": "Undertale/Fallen Down.mmrs",
-    "preview": "Undertale/Fallen Down.ogg"
+    "preview": "Undertale/Fallen Down.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "961fb0ef-e7de-4341-99bb-cdb7f7758877",
@@ -24106,7 +24116,25 @@
       "6"
     ],
     "file": "The Legend of Zelda The Wind Waker/The Great Sea.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/The Great Sea.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/The Great Sea.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "Shin Megami Tensei II",
+    "song": "Gym",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "6e938266-3f03-41ee-b548-ccf39e4f36e8",
+    "file": "Shin Megami Tensei II/Gym.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
