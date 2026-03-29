@@ -23568,6 +23568,7 @@
     "converters": [
       "Nyxael"
     ],
+    "notes": "Joke is \"Moloka'i Nui A\" from the SpongeBob SquarePants production music library.",
     "type": "bgm",
     "categories": [
       "4",
@@ -23583,14 +23584,14 @@
     "uuid": "356b96c2-e915-4894-9ffe-90e950cd0772",
     "creationDate": "2026-03-29T01:43:03.228Z",
     "game": "The Legend of Zelda: Majora's Mask",
-    "song": "Astral Observatory (Alternate Mix)",
+    "song": "Astral Observatory (Prehistoric Mix)",
     "composers": [
       "SiivaGunner"
     ],
     "converters": [
       "Nyxael"
     ],
-    "notes": "Joke is Meet the Flintstones, as always.",
+    "notes": "Joke is \"Meet the Flintstones\", as always.",
     "type": "bgm",
     "categories": [
       "1",
@@ -23598,8 +23599,8 @@
       "4",
       "6"
     ],
-    "file": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mp3",
+    "file": "The Legend of Zelda Majora's Mask/Astral Observatory (Prehistoric Mix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Astral Observatory (Prehistoric Mix).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -23615,6 +23616,7 @@
     "converters": [
       "Nyxael"
     ],
+    "notes": "Joke is \"Shiveria Town\" from Super Mario Odyssey.",
     "type": "bgm",
     "categories": [
       "0",
@@ -23638,7 +23640,7 @@
     "converters": [
       "Nyxael"
     ],
-    "notes": "Joke is Shiveria Town from Super Mario Odyssey.",
+    "notes": "Joke is also \"Shiveria Town\" from Super Mario Odyssey.",
     "type": "bgm",
     "categories": [
       "0",
@@ -23663,7 +23665,7 @@
     "converters": [
       "Nyxael"
     ],
-    "notes": "Joke is Walk the Dinosaur by Was (Not Was)",
+    "notes": "Joke is \"Walk the Dinosaur\" from that one Ice Age movie... I mean, by Was (Not Was).",
     "type": "bgm",
     "categories": [
       "0",
@@ -23681,7 +23683,7 @@
     "uuid": "2cdaea64-6e5c-4fe5-b37b-66fb6aaa4b22",
     "creationDate": "2026-03-29T01:59:04.001Z",
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Kakariko Village (50's Version)",
+    "song": "Kakariko Village (50s Mix)",
     "composers": [
       "SiivaGunner"
     ],
@@ -23695,8 +23697,8 @@
       "3",
       "4"
     ],
-    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village (50's Version).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Kakariko Village (50's Version).ogg",
+    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village (50s Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Kakariko Village (50s Mix).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -23705,7 +23707,7 @@
     "uuid": "989d2dda-bb7d-4187-960c-9e8d7ff6be15",
     "creationDate": "2026-03-29T02:03:24.314Z",
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Market (Alternate Mix)",
+    "song": "Market (Hometown Mix)",
     "composers": [
       "SiivaGunner"
     ],
@@ -23720,8 +23722,8 @@
       "4",
       "6"
     ],
-    "file": "The Legend of Zelda Ocarina of Time/Market (Alternate Mix).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Market (Alternate Mix).ogg",
+    "file": "The Legend of Zelda Ocarina of Time/Market (Hometown Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Market (Hometown Mix).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -23737,7 +23739,7 @@
     "converters": [
       "Nyxael"
     ],
-    "notes": "Joke is \"Where The Hood At\" by DMX",
+    "notes": "Joke is \"Where The Hood At\" by DMX. Truly a certified hood classic.",
     "type": "bgm",
     "categories": [
       "3",
@@ -23811,7 +23813,6 @@
     "converters": [
       "Nyxael"
     ],
-    "notes": "It's actually inverted!",
     "type": "bgm",
     "categories": [
       "2"

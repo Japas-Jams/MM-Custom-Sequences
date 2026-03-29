@@ -3101,19 +3101,22 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/19d47109e3c9e2c1423eac228aff27d1.png"
   },
   {
-    "game": "Jack Bros."
+    "game": "Jack Bros.",
+    "series": "Shin Megami Tensei Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e6735d69f35a594ff1c72a0967613bdb.png"
   },
   {
-    "game": "Shin Megami Tensei II"
+    "game": "Shin Megami Tensei II",
+    "series": "Shin Megami Tensei Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5d7e584ce17f1851be95115ec1eb85c9.png"
   },
   {
-    "game": "Racing Lagoon"
+    "game": "Racing Lagoon",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3c3c791a99ca6286592b442da59a71b3.png"
   },
   {
-    "game": "Dragon's Dogma: Dark Arisen"
-  },
-  {
-    "game": "Shin Megami Tensei II "
+    "game": "Dragon's Dogma: Dark Arisen",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b5f3152550f790faaa6b4f333a7c3364.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
