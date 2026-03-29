@@ -24087,5 +24087,26 @@
     "file": "Undertale/Fallen Down.mmrs",
     "preview": "Undertale/Fallen Down.ogg"
   },
+  {
+    "uuid": "961fb0ef-e7de-4341-99bb-cdb7f7758877",
+    "creationDate": "2026-03-29T19:22:24.914Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Great Sea",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/The Great Sea.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/The Great Sea.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
