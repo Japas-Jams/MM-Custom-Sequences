@@ -23574,7 +23574,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Majora's Mask/Horse Race (US Mix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Horse Race (US Mix).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Horse Race (US Mix).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "356b96c2-e915-4894-9ffe-90e950cd0772",
@@ -23596,7 +23599,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de554743-1e6c-4afe-8334-c4c7a95e70b3",
@@ -23616,7 +23622,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d17c6335-f1ec-45f7-a688-5e739484b6f7",
@@ -23638,7 +23647,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Majora's Mask/Clock Town, Second Day (Unused Version).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Clock Town, Second Day (Unused Version).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Clock Town, Second Day (Unused Version).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "91435e32-1b5c-4709-a2a9-7e267ab74d23",
@@ -23660,7 +23672,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Goron City (OST Version).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Goron City (OST Version).ogg"
+    "preview": "The Legend of Zelda Ocarina of Time/Goron City (OST Version).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2cdaea64-6e5c-4fe5-b37b-66fb6aaa4b22",
@@ -23681,7 +23696,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Kakariko Village (50's Version).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Kakariko Village (50's Version).ogg"
+    "preview": "The Legend of Zelda Ocarina of Time/Kakariko Village (50's Version).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "989d2dda-bb7d-4187-960c-9e8d7ff6be15",
@@ -23703,7 +23721,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Market (Alternate Mix).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Market (Alternate Mix).ogg"
+    "preview": "The Legend of Zelda Ocarina of Time/Market (Alternate Mix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
