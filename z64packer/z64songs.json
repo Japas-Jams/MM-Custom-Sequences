@@ -23941,5 +23941,27 @@
     "file": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Tower of Spirits (Staircase).ogg"
   },
+  {
+    "uuid": "ed32c572-a14a-42a6-9975-5c2455009e10",
+    "creationDate": "2026-03-29T19:16:42.469Z",
+    "game": "Super Mario Sunshine",
+    "song": "Bianco Hills",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Sunshine/Bianco Hills.mmrs",
+    "preview": "Super Mario Sunshine/Bianco Hills.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
