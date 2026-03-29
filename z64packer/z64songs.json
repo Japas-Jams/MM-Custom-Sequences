@@ -23598,5 +23598,25 @@
     "file": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Astral Observatory (Alternate Mix).mp3"
   },
+  {
+    "uuid": "de554743-1e6c-4afe-8334-c4c7a95e70b3",
+    "creationDate": "2026-03-29T01:47:17.092Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Clock Town, First Day (Unused Version)",
+    "composers": [
+      "SiivaGunner"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Clock Town, First Day (Unused Version).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
