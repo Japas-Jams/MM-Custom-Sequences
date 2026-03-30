@@ -24136,5 +24136,212 @@
     "uuid": "6e938266-3f03-41ee-b548-ccf39e4f36e8",
     "file": "Shin Megami Tensei II/Gym.mmrs"
   },
+  {
+    "uuid": "4e66e3df-8835-4bc8-af8c-40ab912b9050",
+    "creationDate": "2026-03-30T02:22:42.245Z",
+    "game": "Deltarune",
+    "song": "THE WORLD REVOLVING",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Deltarune/THE WORLD REVOLVING.mmrs",
+    "preview": "Deltarune/THE WORLD REVOLVING.mp3"
+  },
+  {
+    "uuid": "faa2ccc5-75c9-44c0-9848-7bd22df9c414",
+    "creationDate": "2026-03-30T02:24:52.762Z",
+    "game": "The Amazing Digital Circus",
+    "song": "Main Theme",
+    "composers": [
+      "Gooseworx"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Amazing Digital Circus/Main Theme.mmrs",
+    "preview": "The Amazing Digital Circus/Main Theme.mp3"
+  },
+  {
+    "uuid": "e4f05c55-9a6f-40c0-ad07-e72fec8a9163",
+    "creationDate": "2026-03-30T02:25:52.545Z",
+    "game": "LoadingError",
+    "song": "Skyloft Ruins",
+    "composers": [
+      "LoadingError"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "LoadingError/Skyloft Ruins.mmrs",
+    "preview": "LoadingError/Skyloft Ruins.mp3"
+  },
+  {
+    "uuid": "df3d0a52-ec16-4467-b632-4ba0f2361b7d",
+    "creationDate": "2026-03-30T02:26:42.511Z",
+    "game": "LoadingError",
+    "song": "Sundrop Valley",
+    "composers": [
+      "LoadingError"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "file": "LoadingError/Sundrop Valley.mmrs",
+    "preview": "LoadingError/Sundrop Valley.mp3"
+  },
+  {
+    "uuid": "8e46a470-9250-47ab-962d-b6966a3588b9",
+    "creationDate": "2026-03-30T02:27:23.372Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Ice Cap Zone - Both Acts",
+    "composers": [
+      "Brad Buxer"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mmrs",
+    "preview": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mp3"
+  },
+  {
+    "uuid": "c343a4f9-3943-4bb5-8401-f234cc5f041f",
+    "creationDate": "2026-03-30T02:28:26.274Z",
+    "game": "Sonic CD",
+    "song": "Palmtree Panic (P Mix)",
+    "composers": [
+      "Naofumi Hataya"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Sonic CD/Palmtree Panic (P Mix).mmrs",
+    "preview": "Sonic CD/Palmtree Panic (P Mix).mp3"
+  },
+  {
+    "uuid": "0daa2040-cf02-47ff-a0fe-b4d7602b7c30",
+    "creationDate": "2026-03-30T02:30:24.703Z",
+    "game": "Super Mario Bros. Wonder",
+    "song": "Piranha Plants On Parade",
+    "composers": [
+      "Koji Kondo",
+      "Shiho Fujii",
+      "Sayako Doi",
+      "Chisaki Shimazu"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Super Mario Bros. Wonder/Piranha Plants On Parade.mmrs",
+    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade.mp3"
+  },
+  {
+    "uuid": "fde09b57-dc9e-4898-a8cb-2531f9882bbc",
+    "creationDate": "2026-03-30T02:33:31.921Z",
+    "game": "Super Mario Bros. Wonder",
+    "song": "Piranha Plants On Parade (Vocal Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Shiho Fujii",
+      "Sayako Doi",
+      "Chisaki Shimazu"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mmrs",
+    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mp3"
+  },
+  {
+    "uuid": "2793a086-d634-49a6-9624-25db9f6f26e9",
+    "creationDate": "2026-03-30T02:34:47.402Z",
+    "game": "Super Mario Sunshine",
+    "song": "Ricco Harbor",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Sunshine/Ricco Harbor.mmrs",
+    "preview": "Super Mario Sunshine/Ricco Harbor.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
