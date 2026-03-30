@@ -24223,5 +24223,27 @@
     "file": "LoadingError/Sundrop Valley.mmrs",
     "preview": "LoadingError/Sundrop Valley.mp3"
   },
+  {
+    "uuid": "8e46a470-9250-47ab-962d-b6966a3588b9",
+    "creationDate": "2026-03-30T02:27:23.372Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Ice Cap Zone - Both Acts",
+    "composers": [
+      "Brad Buxer"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mmrs",
+    "preview": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
