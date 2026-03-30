@@ -2782,7 +2782,8 @@
   },
   {
     "game": "KinzokuMusic",
-    "series": "Original Compositions"
+    "series": "Original Compositions",
+    "logo": "https://uimg.ngfiles.com/profile/7032/7032218.png"
   },
   {
     "game": "Sheriff Domestic",
@@ -3132,13 +3133,17 @@
     "short_name": "Zelda: The Missing Link"
   },
   {
-    "game": "The Amazing Digital Circus"
+    "game": "The Amazing Digital Circus",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3f/The_Amazing_Digital_Circus_logo.png"
   },
   {
-    "game": "Sonic CD"
+    "game": "Sonic CD",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f29c21d4897f78948b91f03172341b7b.png"
   },
   {
-    "game": "LoadingError"
+    "game": "LoadingError",
+    "series": "Original Compositions"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
