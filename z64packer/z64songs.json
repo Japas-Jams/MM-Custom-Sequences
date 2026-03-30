@@ -24159,5 +24159,27 @@
     "file": "Deltarune/THE WORLD REVOLVING.mmrs",
     "preview": "Deltarune/THE WORLD REVOLVING.mp3"
   },
+  {
+    "uuid": "faa2ccc5-75c9-44c0-9848-7bd22df9c414",
+    "creationDate": "2026-03-30T02:24:52.762Z",
+    "game": "The Amazing Digital Circus",
+    "song": "Main Theme",
+    "composers": [
+      "Gooseworx"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Amazing Digital Circus/Main Theme.mmrs",
+    "preview": "The Amazing Digital Circus/Main Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
