@@ -3131,5 +3131,14 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/be88129b607a07093e4c9c3ac177c1d8.png",
     "short_name": "Zelda: The Missing Link"
   },
+  {
+    "game": "The Amazing Digital Circus"
+  },
+  {
+    "game": "Sonic CD"
+  },
+  {
+    "game": "LoadingError"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

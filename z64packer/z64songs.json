@@ -24157,7 +24157,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Deltarune/THE WORLD REVOLVING.mmrs",
-    "preview": "Deltarune/THE WORLD REVOLVING.mp3"
+    "preview": "Deltarune/THE WORLD REVOLVING.mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "faa2ccc5-75c9-44c0-9848-7bd22df9c414",
@@ -24179,7 +24180,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Amazing Digital Circus/Main Theme.mmrs",
-    "preview": "The Amazing Digital Circus/Main Theme.mp3"
+    "preview": "The Amazing Digital Circus/Main Theme.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e4f05c55-9a6f-40c0-ad07-e72fec8a9163",
@@ -24201,7 +24204,9 @@
     ],
     "usesCustomBank": true,
     "file": "LoadingError/Skyloft Ruins.mmrs",
-    "preview": "LoadingError/Skyloft Ruins.mp3"
+    "preview": "LoadingError/Skyloft Ruins.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "df3d0a52-ec16-4467-b632-4ba0f2361b7d",
@@ -24221,7 +24226,10 @@
       "4"
     ],
     "file": "LoadingError/Sundrop Valley.mmrs",
-    "preview": "LoadingError/Sundrop Valley.mp3"
+    "preview": "LoadingError/Sundrop Valley.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8e46a470-9250-47ab-962d-b6966a3588b9",
@@ -24243,7 +24251,9 @@
     ],
     "usesCustomBank": true,
     "file": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mmrs",
-    "preview": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mp3"
+    "preview": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c343a4f9-3943-4bb5-8401-f234cc5f041f",
@@ -24266,7 +24276,9 @@
     ],
     "usesCustomBank": true,
     "file": "Sonic CD/Palmtree Panic (P Mix).mmrs",
-    "preview": "Sonic CD/Palmtree Panic (P Mix).mp3"
+    "preview": "Sonic CD/Palmtree Panic (P Mix).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0daa2040-cf02-47ff-a0fe-b4d7602b7c30",
@@ -24291,7 +24303,10 @@
       "6"
     ],
     "file": "Super Mario Bros. Wonder/Piranha Plants On Parade.mmrs",
-    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade.mp3"
+    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fde09b57-dc9e-4898-a8cb-2531f9882bbc",
@@ -24317,7 +24332,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mmrs",
-    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mp3"
+    "preview": "Super Mario Bros. Wonder/Piranha Plants On Parade (Vocal Mix).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2793a086-d634-49a6-9624-25db9f6f26e9",
@@ -24341,7 +24358,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario Sunshine/Ricco Harbor.mmrs",
-    "preview": "Super Mario Sunshine/Ricco Harbor.mp3"
+    "preview": "Super Mario Sunshine/Ricco Harbor.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
