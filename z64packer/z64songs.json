@@ -15306,28 +15306,6 @@
     "preview": "The Legend of Zelda The Wind Waker/Battle.ogg"
   },
   {
-    "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
-    "creationDate": "2026-03-22T01:12:15.513Z",
-    "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Mini Boss (Variant A)",
-    "composers": [
-      "Hajime Wakai"
-    ],
-    "converters": [
-      "Senate"
-    ],
-    "type": "bgm",
-    "categories": [
-      "7",
-      "11A"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Mini Boss (Variant A).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Mini Boss (Variant A).ogg"
-  },
-  {
     "uuid": "444e7c7f-dee9-48b4-ad9b-85a0a1fa8648",
     "creationDate": "2026-03-22T02:32:19.690Z",
     "game": "Castlevania: Dawn of Sorrow",
@@ -24769,7 +24747,10 @@
       "5"
     ],
     "file": "The Legend of Zelda Link's Awakening/Tal Tal Heights (MoT Remix).mmrs",
-    "preview": "https://www.youtube.com/watch?v=IMmsW8QQxyk"
+    "preview": "https://www.youtube.com/watch?v=IMmsW8QQxyk",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "449182b4-f469-47fd-a57f-606aa9e0aeda",
@@ -24791,7 +24772,10 @@
       "16"
     ],
     "file": "Breath of Fire II/Overworld (MoT Remix).mmrs",
-    "preview": "https://www.youtube.com/watch?v=HG4s7P-7GEI"
+    "preview": "https://www.youtube.com/watch?v=HG4s7P-7GEI",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9bfec83c-84d2-42b1-8333-6964858e192f",
@@ -24812,7 +24796,10 @@
       "3"
     ],
     "file": "Mission Impossible 64/Embassy Function (MoT Remix).mmrs",
-    "preview": "https://www.youtube.com/watch?v=mO7pco3XDU8"
+    "preview": "https://www.youtube.com/watch?v=mO7pco3XDU8",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d24643b8-f7ce-4e1c-ab68-b43645607119",
@@ -24834,7 +24821,9 @@
     ],
     "usesCustomBank": true,
     "file": "Doom II/The Demon's Dead (Arr. Master of Time).mmrs",
-    "preview": "https://www.youtube.com/watch?v=TOjJ1Hysnx8"
+    "preview": "https://www.youtube.com/watch?v=TOjJ1Hysnx8",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dd7b2875-52da-45ce-ab03-57e1b2489a01",
@@ -24854,7 +24843,24 @@
       "5"
     ],
     "file": "The Settlers II/Track 04 (Arr. Master of Time).mmrs",
-    "preview": "https://www.youtube.com/watch?v=qF-fKd9Da1M"
+    "preview": "https://www.youtube.com/watch?v=qF-fKd9Da1M",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "The Legend of Zelda The Wind Waker",
+    "song": "Mini-Boss (Variant A)",
+    "type": "bgm",
+    "categories": [
+      "7",
+      "11A"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "2aefcb41-b58c-4086-9b08-3786a47b0351",
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
