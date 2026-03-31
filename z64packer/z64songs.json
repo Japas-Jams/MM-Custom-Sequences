@@ -494,7 +494,7 @@
     "uuid": "6931b2b1-a391-42f9-8794-f6a920d97ceb",
     "creationDate": "2026-03-06T17:33:32.467Z",
     "game": "Banjo-Kazooie",
-    "song": "Freezeezy Peak",
+    "song": "Freezeezy Peak (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -511,7 +511,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Freezeezy Peak.mmrs",
+    "file": "Banjo-Kazooie/Freezeezy Peak (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=uqEoykI2Zd0"
   },
   {
@@ -564,7 +564,7 @@
     "uuid": "c70f0234-364e-4bb3-9bc4-39828195af1e",
     "creationDate": "2026-03-06T17:36:05.474Z",
     "game": "Banjo-Kazooie",
-    "song": "Rusty Bucket Bay",
+    "song": "Rusty Bucket Bay (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -580,7 +580,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Rusty Bucket Bay.mmrs",
+    "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=TaXoPdoooIw"
   },
   {
@@ -10113,7 +10113,7 @@
     "uuid": "26142a5d-9ed2-49b8-9efc-ab3d7d80de0d",
     "creationDate": "2026-03-17T16:15:29.664Z",
     "game": "Banjo-Kazooie",
-    "song": "Click Clock Wood (Spring)",
+    "song": "Click Clock Wood (Spring) (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -10130,8 +10130,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Banjo-Kazooie/Click Clock Wood (Spring).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Spring).ogg"
+    "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant A).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant A).ogg"
   },
   {
     "uuid": "f61a9c6c-764f-43c2-bf01-0a7ba1ff1f26",
@@ -16989,7 +16989,7 @@
     "uuid": "c78df564-ddc3-4241-9767-c020e5265c51",
     "creationDate": "2026-03-23T16:20:43.232Z",
     "game": "Castlevania: Lament of Innocence",
-    "song": "Lament of Innocence",
+    "song": "Lament of Innocence ~Leon's Theme~ (Variant A)",
     "composers": [
       "Michiru Yamane"
     ],
@@ -17004,8 +17004,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Castlevania Lament of Innocence/Lament of Innocence.mmrs",
-    "preview": "Castlevania Lament of Innocence/Lament of Innocence.mp3"
+    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant A).mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant A).mp3"
   },
   {
     "uuid": "bdf16b8d-60c3-460c-9d04-2ff1daec495d",
