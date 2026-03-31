@@ -25136,5 +25136,28 @@
     "file": "Castlevania III Dracula's Curse/Mad Forest.mmrs",
     "preview": "Castlevania III Dracula's Curse/Mad Forest.mp3"
   },
+  {
+    "uuid": "f3457406-3b4e-4529-832d-c4ccdac5408d",
+    "creationDate": "2026-03-31T03:22:08.885Z",
+    "game": "Castlevania: Lament of Innocence",
+    "song": "Lament of Innocence ~Leon's Theme~ (Variant B)",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
