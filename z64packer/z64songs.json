@@ -24814,5 +24814,27 @@
     "file": "Mission Impossible 64/Embassy Function (MoT Remix).mmrs",
     "preview": "https://www.youtube.com/watch?v=mO7pco3XDU8"
   },
+  {
+    "uuid": "d24643b8-f7ce-4e1c-ab68-b43645607119",
+    "creationDate": "2026-03-31T01:55:01.359Z",
+    "game": "Doom II",
+    "song": "The Demon's Dead (Arr. Master of Time)",
+    "composers": [
+      "Robert Prince"
+    ],
+    "converters": [
+      "doncamilo"
+    ],
+    "notes": "Used in Master of Time as \"Sewers\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Doom II/The Demon's Dead (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=TOjJ1Hysnx8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
