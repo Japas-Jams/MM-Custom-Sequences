@@ -24691,5 +24691,27 @@
     "file": "The Legend of Zelda The Wind Waker/Hyrule Castle.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Hyrule Castle.mp3"
   },
+  {
+    "uuid": "134707be-a70d-412d-b66a-e3caa94db46a",
+    "creationDate": "2026-03-31T01:13:09.839Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Pirates",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Pirates.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Pirates.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
