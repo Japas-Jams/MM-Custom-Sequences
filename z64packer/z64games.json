@@ -3146,10 +3146,12 @@
     "series": "Original Compositions"
   },
   {
-    "game": "The Settlers II"
+    "game": "The Settlers II",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9369ea6c02a23aea5374a5ef8af4aa8d.png"
   },
   {
-    "game": "Mission Impossible 64"
+    "game": "Mission: Impossible (Nintendo 64)",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6551516d51364661aed940bde89d0b12.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

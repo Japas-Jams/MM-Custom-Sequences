@@ -24729,15 +24729,14 @@
     "uuid": "5f62c274-edfa-43c0-a97d-7c02888f92d7",
     "creationDate": "2026-03-31T01:47:05.598Z",
     "game": "The Legend of Zelda: Link's Awakening",
-    "song": "Tal Tal Heights (MoT Remix)",
+    "song": "Tal Tal Heights (Arr. Master of Time)",
     "composers": [
       "Kozue Ishikawa",
       "Minako Hamano",
       "Kazumi Totaka"
     ],
     "converters": [
-      "doncamilo",
-      "LoadingError"
+      "doncamilo"
     ],
     "notes": "Used in Master of Time as \"Abello Field\"",
     "type": "bgm",
@@ -24746,7 +24745,7 @@
       "1",
       "5"
     ],
-    "file": "The Legend of Zelda Link's Awakening/Tal Tal Heights (MoT Remix).mmrs",
+    "file": "The Legend of Zelda Link's Awakening/Tal Tal Heights (Arr. Master of Time).mmrs",
     "preview": "https://www.youtube.com/watch?v=IMmsW8QQxyk",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -24756,13 +24755,12 @@
     "uuid": "449182b4-f469-47fd-a57f-606aa9e0aeda",
     "creationDate": "2026-03-31T01:50:40.626Z",
     "game": "Breath of Fire II",
-    "song": "Overworld (MoT Remix)",
+    "song": "Overworld (Arr. Master of Time)",
     "composers": [
       "Yuko Takehara"
     ],
     "converters": [
-      "doncamilo",
-      "LoadingError"
+      "doncamilo"
     ],
     "notes": "Used in Master of Time as \"Abello Lake\"",
     "type": "bgm",
@@ -24771,7 +24769,7 @@
       "1",
       "16"
     ],
-    "file": "Breath of Fire II/Overworld (MoT Remix).mmrs",
+    "file": "Breath of Fire II/Overworld (Arr. Master of Time).mmrs",
     "preview": "https://www.youtube.com/watch?v=HG4s7P-7GEI",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -24780,14 +24778,13 @@
   {
     "uuid": "9bfec83c-84d2-42b1-8333-6964858e192f",
     "creationDate": "2026-03-31T01:52:32.604Z",
-    "game": "Mission Impossible 64",
-    "song": "Embassy Function (MoT Remix)",
+    "game": "Mission: Impossible (Nintendo 64)",
+    "song": "Embassy Function (Arr. Master of Time)",
     "composers": [
       "Mike Pummell"
     ],
     "converters": [
-      "doncamilo",
-      "LoadingError"
+      "doncamilo"
     ],
     "notes": "Used in Master of Time as \"Sagnol Houses\"",
     "type": "bgm",
@@ -24795,7 +24792,7 @@
       "1",
       "3"
     ],
-    "file": "Mission Impossible 64/Embassy Function (MoT Remix).mmrs",
+    "file": "Mission Impossible (Nintendo 64)/Embassy Function (Arr. Master of Time).mmrs",
     "preview": "https://www.youtube.com/watch?v=mO7pco3XDU8",
     "usesCustomBank": false,
     "usesCustomSamples": false,
