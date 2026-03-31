@@ -24362,5 +24362,356 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "b17d7ab0-4985-44bf-8ae7-b0a12375bfe1",
+    "creationDate": "2026-03-30T23:59:58.276Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Lost Woods",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Lost Woods.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Lost Woods.mp3"
+  },
+  {
+    "uuid": "b8acc1ea-be81-40c5-99ac-7b8ba99a2f89",
+    "creationDate": "2026-03-31T00:32:44.293Z",
+    "game": "The Legend of Zelda: Link's Awakening (2019)",
+    "song": "Mabe Village",
+    "composers": [
+      "Minako Hamano",
+      "Kozue Ishikawa",
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mp3"
+  },
+  {
+    "uuid": "e627841a-46cf-49fc-ab5e-5adab5f0a4ed",
+    "creationDate": "2026-03-31T00:34:56.633Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Climbing a Beanstalk",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mp3"
+  },
+  {
+    "uuid": "ad127db7-0a2c-4dff-8ede-71998c00c233",
+    "creationDate": "2026-03-31T00:37:06.548Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Hyrule Town",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Minish Cap/Hyrule Town.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Hyrule Town.mp3"
+  },
+  {
+    "uuid": "48019fcb-c4f9-4db9-9766-19815b75c945",
+    "creationDate": "2026-03-31T00:38:08.345Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Minish Woods",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Minish Woods.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Minish Woods.mp3"
+  },
+  {
+    "uuid": "4237cdf1-2bb9-4eb8-a355-4a4577d57889",
+    "creationDate": "2026-03-31T00:43:34.612Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Mt. Crenel",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "12E",
+      "10F"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Mt. Crenel.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Mt. Crenel.mp3"
+  },
+  {
+    "uuid": "f809ce9b-17d9-4bbe-835a-89ab25fb4497",
+    "creationDate": "2026-03-31T00:44:24.559Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Picori Festival",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Minish Cap/Picori Festival.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Picori Festival.mp3"
+  },
+  {
+    "uuid": "4134f216-7836-4ccd-a916-b8ced8959d53",
+    "creationDate": "2026-03-31T00:50:34.218Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Faron Woods",
+    "composers": [
+      "Hajime Wakai",
+      "Shiho Fujii",
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Skyward Sword/Faron Woods.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Faron Woods.mp3"
+  },
+  {
+    "uuid": "398252a9-67ce-4dfa-894c-b753d8e42ba1",
+    "creationDate": "2026-03-31T01:01:27.372Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Fire Sanctuary",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mp3"
+  },
+  {
+    "uuid": "ff2f245a-7300-40b5-b222-4f7bc463fa8f",
+    "creationDate": "2026-03-31T01:04:36.707Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Game Over",
+    "composers": [
+      "Asuka Ota"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Game Over.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Game Over.mp3"
+  },
+  {
+    "uuid": "aaeca9ca-1663-4eb7-a184-d480e7b8dafe",
+    "creationDate": "2026-03-31T01:06:28.366Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Palace of Twilight",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Palace of Twilight.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Palace of Twilight.mp3"
+  },
+  {
+    "uuid": "7220ab37-27fc-4e7a-a367-6ea62a534bff",
+    "creationDate": "2026-03-31T01:07:57.375Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field (Beta)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mp3"
+  },
+  {
+    "uuid": "0a295926-d43c-450f-bb35-26dd016784d9",
+    "creationDate": "2026-03-31T01:09:16.630Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Grandma",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Grandma.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Grandma.mp3"
+  },
+  {
+    "uuid": "6ceec392-a0ba-47a8-9c96-09141a598a64",
+    "creationDate": "2026-03-31T01:10:25.632Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Mini-Boss",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.mp3"
+  },
+  {
+    "uuid": "eb4d09d9-4f2d-4a4c-acab-f9b28f434d39",
+    "creationDate": "2026-03-31T01:12:23.949Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Hyrule Castle.mp3"
+  },
+  {
+    "uuid": "134707be-a70d-412d-b66a-e3caa94db46a",
+    "creationDate": "2026-03-31T01:13:09.839Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Pirates",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Pirates.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Pirates.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
