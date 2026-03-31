@@ -24381,7 +24381,10 @@
       "6"
     ],
     "file": "The Legend of Zelda A Link to the Past/Lost Woods.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Lost Woods.mp3"
+    "preview": "The Legend of Zelda A Link to the Past/Lost Woods.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b8acc1ea-be81-40c5-99ac-7b8ba99a2f89",
@@ -24404,7 +24407,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mp3"
+    "preview": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e627841a-46cf-49fc-ab5e-5adab5f0a4ed",
@@ -24425,7 +24430,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mp3"
+    "preview": "The Legend of Zelda The Minish Cap/Climbing a Beanstalk.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ad127db7-0a2c-4dff-8ede-71998c00c233",
@@ -24449,7 +24456,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda The Minish Cap/Hyrule Town.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Hyrule Town.mp3"
+    "preview": "The Legend of Zelda The Minish Cap/Hyrule Town.mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "48019fcb-c4f9-4db9-9766-19815b75c945",
@@ -24471,7 +24479,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Minish Cap/Minish Woods.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Minish Woods.mp3"
+    "preview": "The Legend of Zelda The Minish Cap/Minish Woods.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4237cdf1-2bb9-4eb8-a355-4a4577d57889",
@@ -24493,7 +24503,10 @@
       "10F"
     ],
     "file": "The Legend of Zelda The Minish Cap/Mt. Crenel.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Mt. Crenel.mp3"
+    "preview": "The Legend of Zelda The Minish Cap/Mt. Crenel.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f809ce9b-17d9-4bbe-835a-89ab25fb4497",
@@ -24516,7 +24529,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda The Minish Cap/Picori Festival.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Picori Festival.mp3"
+    "preview": "The Legend of Zelda The Minish Cap/Picori Festival.mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "4134f216-7836-4ccd-a916-b8ced8959d53",
@@ -24540,7 +24554,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Skyward Sword/Faron Woods.mmrs",
-    "preview": "The Legend of Zelda Skyward Sword/Faron Woods.mp3"
+    "preview": "The Legend of Zelda Skyward Sword/Faron Woods.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "398252a9-67ce-4dfa-894c-b753d8e42ba1",
@@ -24563,7 +24579,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mmrs",
-    "preview": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mp3"
+    "preview": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "ff2f245a-7300-40b5-b222-4f7bc463fa8f",
@@ -24583,7 +24600,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Game Over.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Game Over.mp3"
+    "preview": "The Legend of Zelda Twilight Princess/Game Over.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "aaeca9ca-1663-4eb7-a184-d480e7b8dafe",
@@ -24605,7 +24624,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Palace of Twilight.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Palace of Twilight.mp3"
+    "preview": "The Legend of Zelda Twilight Princess/Palace of Twilight.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7220ab37-27fc-4e7a-a367-6ea62a534bff",
@@ -24626,7 +24647,10 @@
       "5"
     ],
     "file": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mp3"
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field (Beta).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0a295926-d43c-450f-bb35-26dd016784d9",
@@ -24646,7 +24670,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Wind Waker/Grandma.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Grandma.mp3"
+    "preview": "The Legend of Zelda The Wind Waker/Grandma.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6ceec392-a0ba-47a8-9c96-09141a598a64",
@@ -24667,7 +24694,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Wind Waker/Mini-Boss.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.mp3"
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eb4d09d9-4f2d-4a4c-acab-f9b28f434d39",
@@ -24689,7 +24718,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Wind Waker/Hyrule Castle.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Hyrule Castle.mp3"
+    "preview": "The Legend of Zelda The Wind Waker/Hyrule Castle.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "134707be-a70d-412d-b66a-e3caa94db46a",
@@ -24711,7 +24742,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Wind Waker/Pirates.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Pirates.mp3"
+    "preview": "The Legend of Zelda The Wind Waker/Pirates.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
