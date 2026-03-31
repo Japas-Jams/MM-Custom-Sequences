@@ -24648,5 +24648,26 @@
     "file": "The Legend of Zelda The Wind Waker/Grandma.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Grandma.mp3"
   },
+  {
+    "uuid": "6ceec392-a0ba-47a8-9c96-09141a598a64",
+    "creationDate": "2026-03-31T01:10:25.632Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Mini-Boss",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
