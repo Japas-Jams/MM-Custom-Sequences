@@ -24859,5 +24859,26 @@
     "uuid": "2aefcb41-b58c-4086-9b08-3786a47b0351",
     "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).mmrs"
   },
+  {
+    "uuid": "126ecfa9-b87c-4f0a-8c95-aa44d2374619",
+    "creationDate": "2026-03-31T02:42:42.404Z",
+    "game": "A Hat in Time",
+    "song": "A City Of Calcite And Adventure (Beta)",
+    "composers": [
+      "Edgar Phœte"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "A Hat in Time/A City Of Calcite And Adventure (Beta).mmrs",
+    "preview": "A Hat in Time/A City Of Calcite And Adventure (Beta).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
