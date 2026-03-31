@@ -24383,5 +24383,28 @@
     "file": "The Legend of Zelda A Link to the Past/Lost Woods.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Lost Woods.mp3"
   },
+  {
+    "uuid": "b8acc1ea-be81-40c5-99ac-7b8ba99a2f89",
+    "creationDate": "2026-03-31T00:32:44.293Z",
+    "game": "The Legend of Zelda: Link's Awakening (2019)",
+    "song": "Mabe Village",
+    "composers": [
+      "Minako Hamano",
+      "Kozue Ishikawa",
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening (2019)/Mabe Village.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
