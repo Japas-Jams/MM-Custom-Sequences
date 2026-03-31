@@ -25045,5 +25045,28 @@
     "file": "Banjo-Tooie/Atlantis.mmrs",
     "preview": "Banjo-Tooie/Atlantis.mp3"
   },
+  {
+    "uuid": "ae14e217-07b0-4645-880e-3a508dd45443",
+    "creationDate": "2026-03-31T03:03:38.978Z",
+    "game": "Banjo-Tooie",
+    "song": "Glitter Gulch Mine",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Tooie/Glitter Gulch Mine.mmrs",
+    "preview": "Banjo-Tooie/Glitter Gulch Mine.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
