@@ -24518,5 +24518,29 @@
     "file": "The Legend of Zelda The Minish Cap/Picori Festival.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Picori Festival.mp3"
   },
+  {
+    "uuid": "4134f216-7836-4ccd-a916-b8ced8959d53",
+    "creationDate": "2026-03-31T00:50:34.218Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Faron Woods",
+    "composers": [
+      "Hajime Wakai",
+      "Shiho Fujii",
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Skyward Sword/Faron Woods.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Faron Woods.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
