@@ -25024,5 +25024,26 @@
     "file": "Bomberman 64/Green Garden (Variant B).mmrs",
     "preview": "Bomberman 64/Green Garden (Variant B).ogg"
   },
+  {
+    "uuid": "46c1d4ad-29f4-4449-965d-2ea4db52e275",
+    "creationDate": "2026-03-31T03:01:56.866Z",
+    "game": "Banjo-Tooie",
+    "song": "Atlantis",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Banjo-Tooie/Atlantis.mmrs",
+    "preview": "Banjo-Tooie/Atlantis.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
