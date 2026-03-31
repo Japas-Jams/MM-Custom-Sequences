@@ -24542,5 +24542,28 @@
     "file": "The Legend of Zelda Skyward Sword/Faron Woods.mmrs",
     "preview": "The Legend of Zelda Skyward Sword/Faron Woods.mp3"
   },
+  {
+    "uuid": "398252a9-67ce-4dfa-894c-b753d8e42ba1",
+    "creationDate": "2026-03-31T01:01:27.372Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Fire Sanctuary",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Fire Sanctuary.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
