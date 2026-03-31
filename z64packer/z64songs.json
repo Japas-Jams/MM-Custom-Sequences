@@ -24362,5 +24362,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "b17d7ab0-4985-44bf-8ae7-b0a12375bfe1",
+    "creationDate": "2026-03-30T23:59:58.276Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Lost Woods",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "LoadingError"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Lost Woods.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Lost Woods.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
