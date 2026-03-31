@@ -3266,7 +3266,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Legend of Zelda Feesh Mode/Invasion.mmrs",
+    "file": "The Legend of Zelda Feesh Mode/Invasion.mmrs",
     "preview": "https://www.youtube.com/watch?v=Ls58Rn08ThU"
   },
   {
@@ -15309,7 +15309,7 @@
     "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
     "creationDate": "2026-03-22T01:12:15.513Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Mini Boss",
+    "song": "Mini Boss (Variant A)",
     "composers": [
       "Hajime Wakai"
     ],
@@ -15324,8 +15324,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Mini Boss.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Mini Boss.ogg"
+    "file": "The Legend of Zelda The Wind Waker/Mini Boss (Variant A).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini Boss (Variant A).ogg"
   },
   {
     "uuid": "444e7c7f-dee9-48b4-ad9b-85a0a1fa8648",
@@ -24679,7 +24679,7 @@
     "uuid": "6ceec392-a0ba-47a8-9c96-09141a598a64",
     "creationDate": "2026-03-31T01:10:25.632Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Mini-Boss",
+    "song": "Mini-Boss (Variant B)",
     "composers": [
       "Hajime Wakai"
     ],
@@ -24693,8 +24693,8 @@
       "7"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda The Wind Waker/Mini-Boss.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.mp3",
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant B).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant B).mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
