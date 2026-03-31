@@ -24880,5 +24880,25 @@
     "file": "A Hat in Time/A City Of Calcite And Adventure (Beta).mmrs",
     "preview": "A Hat in Time/A City Of Calcite And Adventure (Beta).ogg"
   },
+  {
+    "uuid": "c97e96d2-e0c3-4787-9610-b8fab47f0d77",
+    "creationDate": "2026-03-31T02:47:05.869Z",
+    "game": "A Hat in Time",
+    "song": "Clocktowers Beneath the Sea",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Clocktowers Beneath the Sea.mmrs",
+    "preview": "A Hat in Time/Clocktowers Beneath the Sea.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
