@@ -24771,5 +24771,27 @@
     "file": "The Legend of Zelda Link's Awakening/Tal Tal Heights (MoT Remix).mmrs",
     "preview": "https://www.youtube.com/watch?v=IMmsW8QQxyk"
   },
+  {
+    "uuid": "449182b4-f469-47fd-a57f-606aa9e0aeda",
+    "creationDate": "2026-03-31T01:50:40.626Z",
+    "game": "Breath of Fire II",
+    "song": "Overworld (MoT Remix)",
+    "composers": [
+      "Yuko Takehara"
+    ],
+    "converters": [
+      "doncamilo",
+      "LoadingError"
+    ],
+    "notes": "Used in Master of Time as \"Abello Lake\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "file": "Breath of Fire II/Overworld (MoT Remix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=HG4s7P-7GEI"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
