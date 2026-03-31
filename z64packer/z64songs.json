@@ -25004,5 +25004,25 @@
     "file": "Bomberman 64/Green Garden (Variant A).mmrs",
     "preview": "Bomberman 64/Green Garden (Variant A).mp3"
   },
+  {
+    "uuid": "12074139-f6b5-4ee8-8069-80b7c4dd80f6",
+    "creationDate": "2026-03-31T02:57:00.594Z",
+    "game": "Bomberman 64",
+    "song": "Green Garden (Variant B)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Bomberman 64/Green Garden (Variant B).mmrs",
+    "preview": "Bomberman 64/Green Garden (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
