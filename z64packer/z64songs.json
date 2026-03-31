@@ -24747,5 +24747,114 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "5f62c274-edfa-43c0-a97d-7c02888f92d7",
+    "creationDate": "2026-03-31T01:47:05.598Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Tal Tal Heights (MoT Remix)",
+    "composers": [
+      "Kozue Ishikawa",
+      "Minako Hamano",
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "doncamilo",
+      "LoadingError"
+    ],
+    "notes": "Used in Master of Time as \"Abello Field\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Tal Tal Heights (MoT Remix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=IMmsW8QQxyk"
+  },
+  {
+    "uuid": "449182b4-f469-47fd-a57f-606aa9e0aeda",
+    "creationDate": "2026-03-31T01:50:40.626Z",
+    "game": "Breath of Fire II",
+    "song": "Overworld (MoT Remix)",
+    "composers": [
+      "Yuko Takehara"
+    ],
+    "converters": [
+      "doncamilo",
+      "LoadingError"
+    ],
+    "notes": "Used in Master of Time as \"Abello Lake\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "file": "Breath of Fire II/Overworld (MoT Remix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=HG4s7P-7GEI"
+  },
+  {
+    "uuid": "9bfec83c-84d2-42b1-8333-6964858e192f",
+    "creationDate": "2026-03-31T01:52:32.604Z",
+    "game": "Mission Impossible 64",
+    "song": "Embassy Function (MoT Remix)",
+    "composers": [
+      "Mike Pummell"
+    ],
+    "converters": [
+      "doncamilo",
+      "LoadingError"
+    ],
+    "notes": "Used in Master of Time as \"Sagnol Houses\"",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Mission Impossible 64/Embassy Function (MoT Remix).mmrs",
+    "preview": "https://www.youtube.com/watch?v=mO7pco3XDU8"
+  },
+  {
+    "uuid": "d24643b8-f7ce-4e1c-ab68-b43645607119",
+    "creationDate": "2026-03-31T01:55:01.359Z",
+    "game": "Doom II",
+    "song": "The Demon's Dead (Arr. Master of Time)",
+    "composers": [
+      "Robert Prince"
+    ],
+    "converters": [
+      "doncamilo"
+    ],
+    "notes": "Used in Master of Time as \"Sewers\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Doom II/The Demon's Dead (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=TOjJ1Hysnx8"
+  },
+  {
+    "uuid": "dd7b2875-52da-45ce-ab03-57e1b2489a01",
+    "creationDate": "2026-03-31T01:57:24.887Z",
+    "game": "The Settlers II",
+    "song": "Track 04 (Arr. Master of Time)",
+    "composers": [
+      "Haiko Ruttmann"
+    ],
+    "converters": [
+      "doncamilo"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4",
+      "5"
+    ],
+    "file": "The Settlers II/Track 04 (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=qF-fKd9Da1M"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
