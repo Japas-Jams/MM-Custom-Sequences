@@ -25474,5 +25474,28 @@
     "file": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mmrs",
     "preview": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mp3"
   },
+  {
+    "uuid": "8baf7829-f842-4fc4-91ba-2d2cc93be8ec",
+    "creationDate": "2026-04-01T16:18:59.961Z",
+    "game": "Flying Dragon",
+    "song": "SD Demo",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Flying Dragon/SD Demo.mmrs",
+    "preview": "Flying Dragon/SD Demo.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
