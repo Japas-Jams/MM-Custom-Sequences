@@ -25794,5 +25794,27 @@
     "file": "Outer Wilds/Outer Wilds.mmrs",
     "preview": "Outer Wilds/Outer Wilds.mp3"
   },
+  {
+    "uuid": "5b67b140-465c-4cf8-a247-2f5a0e44462e",
+    "creationDate": "2026-04-01T22:14:44.169Z",
+    "game": "Live A Live",
+    "song": "Nice Weather",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Live A Live/Nice Weather.mmrs",
+    "preview": "Live A Live/Nice Weather.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
