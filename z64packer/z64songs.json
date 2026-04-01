@@ -25408,5 +25408,25 @@
     "file": "Dinosaur Planet/Guardclaw Theme.mmrs",
     "preview": "Dinosaur Planet/Guardclaw Theme.ogg"
   },
+  {
+    "uuid": "a70bf396-29c4-4450-8e3e-d0c72ce5e7f4",
+    "creationDate": "2026-04-01T16:03:58.791Z",
+    "game": "Darksiders II",
+    "song": "The Makers Guardian",
+    "composers": [
+      "Jesper Kyd"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "7"
+    ],
+    "file": "Darksiders II/The Makers Guardian.mmrs",
+    "preview": "Darksiders II/The Makers Guardian.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
