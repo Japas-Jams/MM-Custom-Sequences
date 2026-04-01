@@ -27,7 +27,7 @@
     "uuid": "cc70b4b2-0c9a-44eb-949f-eef9f1f16bc5",
     "creationDate": "2026-03-04T23:58:05.061Z",
     "game": "Phoenix Wright: Ace Attorney",
-    "song": "Pursuit ~ Cornered",
+    "song": "Pursuit ~ Cornered (Variant A)",
     "composers": [
       "Masakazu Sugimori"
     ],
@@ -42,11 +42,9 @@
       "7",
       "11A"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered.mmrs",
-    "preview": "https://www.youtube.com/watch?v=t8O0I-3t6Y8"
+    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=t8O0I-3t6Y8",
+    "lastUpdateDate": "2026-04-01T22:56:08.862Z"
   },
   {
     "uuid": "332b3ecd-7f37-4e95-a8b3-20614af8f104",
@@ -6753,7 +6751,7 @@
     "uuid": "b778ee25-f147-4fec-ad9d-6d9103980bfa",
     "creationDate": "2026-03-14T15:07:16.476Z",
     "game": "Shin Megami Tensei III: Nocturne",
-    "song": "Puzzle Boy",
+    "song": "Puzzle Boy (Variant A)",
     "composers": [
       "Kenichi Tsuchiya"
     ],
@@ -6767,10 +6765,9 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy.mmrs",
-    "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM"
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM",
+    "lastUpdateDate": "2026-04-01T22:58:25.495Z"
   },
   {
     "uuid": "f090e4b1-a9d2-4bba-bd19-7ea56e05fc48",
@@ -25638,6 +25635,759 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "30bd1377-a906-4905-9cc4-296a0c6b044b",
+    "creationDate": "2026-04-01T22:06:14.193Z",
+    "game": "007 The World is Not Enough",
+    "song": "Courier 2",
+    "composers": [
+      "Robert Watkins",
+      "Mark Duffill",
+      "Simon Mills"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "file": "007 The World is Not Enough/Courier 2.mmrs",
+    "preview": "007 The World is Not Enough/Courier 2.mp3"
+  },
+  {
+    "uuid": "5830596c-bdc2-447c-b278-e3cc1ed27d81",
+    "creationDate": "2026-04-01T22:07:55.163Z",
+    "game": "Xenogears",
+    "song": "Lahan Village",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenogears/Lahan Village.mmrs",
+    "preview": "Xenogears/Lahan Village.mp3"
+  },
+  {
+    "uuid": "55a143df-4c80-49c5-94be-e3e087963dfa",
+    "creationDate": "2026-04-01T22:08:34.551Z",
+    "game": "Xenogears",
+    "song": "Emotion",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenogears/Emotion.mmrs",
+    "preview": "Xenogears/Emotion.mp3"
+  },
+  {
+    "uuid": "cb539c9d-2199-4bcc-873c-9f375dc3fcd2",
+    "creationDate": "2026-04-01T22:09:25.884Z",
+    "game": "Xenogears",
+    "song": "Bare Fangs",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenogears/Bare Fangs.mmrs",
+    "preview": "Xenogears/Bare Fangs.mp3"
+  },
+  {
+    "uuid": "f95ad8d8-89e4-49a0-abb9-474760e4f272",
+    "creationDate": "2026-04-01T22:11:53.779Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Puzzle Boy (Variant B)",
+    "composers": [
+      "Shoji Meguro",
+      "Kenichi Tsuchiya",
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mmrs",
+    "preview": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mp3",
+    "lastUpdateDate": "2026-04-01T22:24:23.202Z"
+  },
+  {
+    "uuid": "a98645f4-9f63-45f9-9c89-dd47c66700ef",
+    "creationDate": "2026-04-01T22:12:43.642Z",
+    "game": "Shin Megami Tensei II",
+    "song": "Disco",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei II/Disco.mmrs",
+    "preview": "Shin Megami Tensei II/Disco.mp3"
+  },
+  {
+    "uuid": "fc27bb40-079c-4af9-a278-7dbf2de85326",
+    "creationDate": "2026-04-01T22:13:49.069Z",
+    "game": "Outer Wilds",
+    "song": "Outer Wilds",
+    "composers": [
+      "Andrew Prahlow"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Outer Wilds/Outer Wilds.mmrs",
+    "preview": "Outer Wilds/Outer Wilds.mp3"
+  },
+  {
+    "uuid": "5b67b140-465c-4cf8-a247-2f5a0e44462e",
+    "creationDate": "2026-04-01T22:14:44.169Z",
+    "game": "Live A Live",
+    "song": "Nice Weather",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Live A Live/Nice Weather.mmrs",
+    "preview": "Live A Live/Nice Weather.mp3"
+  },
+  {
+    "uuid": "8e8ddf56-c291-47b8-8483-ca3f5acbd05b",
+    "creationDate": "2026-04-01T22:21:19.443Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Maya Fey ~ Turnabout Sisters Theme",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters Theme.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters Theme.mp3"
+  },
+  {
+    "uuid": "771ff7b3-f7df-4dba-a6a3-081e272cef0b",
+    "creationDate": "2026-04-01T22:22:17.328Z",
+    "game": "Sonic Adventure 2",
+    "song": "Pumpkin Hill (Variant B)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Sonic Adventure 2/Pumpkin Hill (Variant B).mmrs",
+    "preview": "Sonic Adventure 2/Pumpkin Hill (Variant B).mp3"
+  },
+  {
+    "uuid": "9f41c380-41cd-4422-98a9-cc1841d336d7",
+    "creationDate": "2026-04-01T22:23:36.086Z",
+    "game": "Pokémon Colosseum",
+    "song": "Miror B. Theme",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Colosseum/Miror B. Theme.mmrs",
+    "preview": "Pokémon Colosseum/Miror B. Theme.mp3"
+  },
+  {
+    "uuid": "8937d1c0-2f29-4617-b480-a4f03bd075e8",
+    "creationDate": "2026-04-01T22:25:18.028Z",
+    "game": "Kirby Super Star",
+    "song": "Minecart",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Kirby Super Star/Minecart.mmrs",
+    "preview": "Kirby Super Star/Minecart.mp3"
+  },
+  {
+    "uuid": "90f8424d-35ce-4c88-b35e-48fc3872bcce",
+    "creationDate": "2026-04-01T22:26:33.179Z",
+    "game": "Chrono Cross",
+    "song": "Radical Dreamers",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Radical Dreamers.mmrs",
+    "preview": "Chrono Cross/Radical Dreamers.mp3"
+  },
+  {
+    "uuid": "e07514ab-850b-461f-80f2-f0ca52a31593",
+    "creationDate": "2026-04-01T22:27:26.060Z",
+    "game": "Chrono Cross",
+    "song": "Fort Dragonia",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Fort Dragonia.mmrs",
+    "preview": "Chrono Cross/Fort Dragonia.mp3"
+  },
+  {
+    "uuid": "5216de28-a8d9-4f0a-adbb-adaf45cec2fc",
+    "creationDate": "2026-04-01T22:28:04.110Z",
+    "game": "Chrono Cross",
+    "song": "Dream of the Shore",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Dream of the Shore.mmrs",
+    "preview": "Chrono Cross/Dream of the Shore.mp3"
+  },
+  {
+    "uuid": "bb085f32-4488-494e-944d-ca7e91f77c7a",
+    "creationDate": "2026-04-01T22:29:28.153Z",
+    "game": "Final Fantasy VI",
+    "song": "Terra's Theme (Variant B)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy VI/Terra's Theme (Variant B).mmrs",
+    "preview": "Final Fantasy VI/Terra's Theme (Variant B).mp3",
+    "lastUpdateDate": "2026-04-01T22:30:10.013Z"
+  },
+  {
+    "uuid": "c075fa78-5764-429f-8a0d-daa007bee4f8",
+    "creationDate": "2026-04-01T22:30:57.624Z",
+    "game": "Shin Megami Tensei",
+    "song": "Shop",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Shin Megami Tensei/Shop.mmrs",
+    "preview": "Shin Megami Tensei/Shop.mp3"
+  },
+  {
+    "uuid": "d3153544-f049-47d6-8bd3-ef7491fafe0c",
+    "creationDate": "2026-04-01T22:31:50.988Z",
+    "game": "Live A Live",
+    "song": "Captain Square",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Live A Live/Captain Square.mmrs",
+    "preview": "Live A Live/Captain Square.mp3"
+  },
+  {
+    "uuid": "853b5e24-c741-4635-b2d3-686ad93568d1",
+    "creationDate": "2026-04-01T22:32:47.639Z",
+    "game": "Xenogears",
+    "song": "The Sky, the Clouds and You",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Xenogears/The Sky, the Clouds and You.mmrs",
+    "preview": "Xenogears/The Sky, the Clouds and You.mp3"
+  },
+  {
+    "uuid": "f85758fd-808e-4bf9-bff4-7bcf64a93700",
+    "creationDate": "2026-04-01T22:33:26.101Z",
+    "game": "Xenogears",
+    "song": "Bonds of the Sea and Fire",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Xenogears/Bonds of the Sea and Fire.mmrs",
+    "preview": "Xenogears/Bonds of the Sea and Fire.mp3"
+  },
+  {
+    "uuid": "3b1aaff9-2b41-474c-a70d-d5ca3eaa764b",
+    "creationDate": "2026-04-01T22:34:17.337Z",
+    "game": "Body Harvest",
+    "song": "Indoors",
+    "composers": [
+      "Stuart Ross",
+      "Allan Walker"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Body Harvest/Indoors.mmrs",
+    "preview": "Body Harvest/Indoors.mp3"
+  },
+  {
+    "uuid": "8a5841f1-bcdf-4c3a-9d16-ded7549e5a49",
+    "creationDate": "2026-04-01T22:34:52.351Z",
+    "game": "Body Harvest",
+    "song": "Title Screen",
+    "composers": [
+      "Stuart Ross",
+      "Allan Walker"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Body Harvest/Title Screen.mmrs",
+    "preview": "Body Harvest/Title Screen.mp3"
+  },
+  {
+    "uuid": "8cf5f0c4-14f2-49da-aa57-5f9e2bf3a7b3",
+    "creationDate": "2026-04-01T22:35:59.274Z",
+    "game": "AeroGauge",
+    "song": "Chinatown Jam (Remix)",
+    "composers": [
+      "Kazuhisa Kamifuji"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "AeroGauge/Chinatown Jam (Remix).mmrs",
+    "preview": "AeroGauge/Chinatown Jam (Remix).mp3"
+  },
+  {
+    "uuid": "4e86baf2-f49e-4112-9d1d-9ea2dde62f64",
+    "creationDate": "2026-04-01T22:36:44.496Z",
+    "game": "F-Zero Climax",
+    "song": "Silence",
+    "composers": [
+      "Kenji Hikita"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "5",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "F-Zero Climax/Silence.mmrs",
+    "preview": "F-Zero Climax/Silence.mp3"
+  },
+  {
+    "uuid": "ba12ca48-fdb8-430c-afc1-fea55e0087c5",
+    "creationDate": "2026-04-01T22:45:21.041Z",
+    "game": "Gradius",
+    "song": "Coin",
+    "composers": [
+      "Miki Higashino"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Gradius/Coin.mmrs",
+    "preview": "Gradius/Coin.mp3"
+  },
+  {
+    "uuid": "908b22de-de49-41de-8c46-16ae68abb13d",
+    "creationDate": "2026-04-01T22:46:26.900Z",
+    "game": "F-Zero",
+    "song": "Red Canyon",
+    "composers": [
+      "Yumiko Kanki",
+      "Naoto Ishida"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "file": "F-Zero/Red Canyon.mmrs",
+    "preview": "F-Zero/Red Canyon.mp3"
+  },
+  {
+    "uuid": "a5090f73-7994-4dc3-8e36-e11b034128ab",
+    "creationDate": "2026-04-01T22:47:49.119Z",
+    "game": "Battletoads",
+    "song": "Arctic Caverns",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Battletoads/Arctic Caverns.mmrs",
+    "preview": "Battletoads/Arctic Caverns.mp3"
+  },
+  {
+    "uuid": "813cd157-6e35-46e9-91c7-dd55e99cef27",
+    "creationDate": "2026-04-01T22:48:38.702Z",
+    "game": "Final Fantasy IV",
+    "song": "Boss Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Final Fantasy IV/Boss Theme.mmrs",
+    "preview": "Final Fantasy IV/Boss Theme.mp3"
+  },
+  {
+    "uuid": "8f8b2d81-6066-450e-9671-bb763aede94f",
+    "creationDate": "2026-04-01T22:49:35.065Z",
+    "game": "Silent Hill 2",
+    "song": "True",
+    "composers": [
+      "Akira Yamaoka"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Silent Hill 2/True.mmrs",
+    "preview": "Silent Hill 2/True.mp3"
+  },
+  {
+    "uuid": "3e934ca0-e3ee-4e23-b30e-efa1a5a80b73",
+    "creationDate": "2026-04-01T22:50:20.509Z",
+    "game": "Top Gear",
+    "song": "Stage 4",
+    "composers": [
+      "Barry Leitch"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4",
+      "5"
+    ],
+    "file": "Top Gear/Stage 4.mmrs",
+    "preview": "Top Gear/Stage 4.mp3"
+  },
+  {
+    "uuid": "7f309bcb-f616-46da-a3c1-0eb70c2cded6",
+    "creationDate": "2026-04-01T22:51:01.974Z",
+    "game": "Chrono Trigger",
+    "song": "Sealed Chest",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Sealed Chest.mmrs",
+    "preview": "Chrono Trigger/Sealed Chest.mp3"
+  },
+  {
+    "uuid": "bdca8733-cd0c-4865-8d6a-9abcf631de0f",
+    "creationDate": "2026-04-01T22:52:13.295Z",
+    "game": "Xenogears",
+    "song": "Gentle Wind",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Xenogears/Gentle Wind.mmrs",
+    "preview": "Xenogears/Gentle Wind.mp3"
+  },
+  {
+    "uuid": "2fc1cc0b-3169-49b9-9d69-157817fd4d32",
+    "creationDate": "2026-04-01T22:54:27.316Z",
+    "game": "Kirby's Adventure",
+    "song": "I'm Hit (Variant B)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Kirby's Adventure/I'm Hit (Variant B).mmrs",
+    "preview": "Kirby's Adventure/I'm Hit (Variant B).mp3"
+  },
+  {
+    "uuid": "b737e6de-e4c2-4882-a1b7-4561237d7902",
+    "creationDate": "2026-04-01T22:55:13.819Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Pursuit ~ Cornered (Variant B)",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant B).mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant B).mp3"
+  },
+  {
+    "uuid": "42b62d75-abe8-4cf7-a7ee-78bd28d7d256",
+    "creationDate": "2026-04-01T22:56:50.851Z",
+    "game": "Shin Megami Tensei",
+    "song": "Fiend",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Shin Megami Tensei/Fiend.mmrs",
+    "preview": "Shin Megami Tensei/Fiend.mp3"
+  },
+  {
+    "uuid": "7d28bfe1-4035-4631-b0e7-fc567b7d30e0",
+    "creationDate": "2026-04-01T22:57:36.027Z",
+    "game": "Shin Megami Tensei II",
+    "song": "Battle Theme",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Shin Megami Tensei II/Battle Theme.mmrs",
+    "preview": "Shin Megami Tensei II/Battle Theme.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
