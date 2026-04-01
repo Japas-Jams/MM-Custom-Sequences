@@ -26109,5 +26109,26 @@
     "file": "Body Harvest/Title Screen.mmrs",
     "preview": "Body Harvest/Title Screen.mp3"
   },
+  {
+    "uuid": "8cf5f0c4-14f2-49da-aa57-5f9e2bf3a7b3",
+    "creationDate": "2026-04-01T22:35:59.274Z",
+    "game": "AeroGauge",
+    "song": "Chinatown Jam (Remix)",
+    "composers": [
+      "Kazuhisa Kamifuji"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "AeroGauge/Chinatown Jam (Remix).mmrs",
+    "preview": "AeroGauge/Chinatown Jam (Remix).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
