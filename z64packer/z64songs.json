@@ -25347,5 +25347,27 @@
     "file": "Diddy Kong Racing/Everfrost Peak.mmrs",
     "preview": "Diddy Kong Racing/Everfrost Peak.ogg"
   },
+  {
+    "uuid": "a2adec7e-8232-46a9-9d1b-286936be83c5",
+    "creationDate": "2026-04-01T15:50:15.875Z",
+    "game": "Diddy Kong Racing",
+    "song": "Spaceport Alpha",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Diddy Kong Racing/Spaceport Alpha.mmrs",
+    "preview": "Diddy Kong Racing/Spaceport Alpha.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
