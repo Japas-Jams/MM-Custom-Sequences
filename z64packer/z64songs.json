@@ -26294,5 +26294,26 @@
     "file": "Chrono Trigger/Sealed Chest.mmrs",
     "preview": "Chrono Trigger/Sealed Chest.mp3"
   },
+  {
+    "uuid": "bdca8733-cd0c-4865-8d6a-9abcf631de0f",
+    "creationDate": "2026-04-01T22:52:13.295Z",
+    "game": "Xenogears",
+    "song": "Gentle Wind",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Xenogears/Gentle Wind.mmrs",
+    "preview": "Xenogears/Gentle Wind.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
