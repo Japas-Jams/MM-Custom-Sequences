@@ -25327,5 +25327,25 @@
     "file": "Diddy Kong Racing/Ancient Lake.mmrs",
     "preview": "Diddy Kong Racing/Ancient Lake.mp3"
   },
+  {
+    "uuid": "339d6424-a413-4233-a5d2-ddaf2d2b5512",
+    "creationDate": "2026-04-01T15:48:35.189Z",
+    "game": "Diddy Kong Racing",
+    "song": "Everfrost Peak",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Diddy Kong Racing/Everfrost Peak.mmrs",
+    "preview": "Diddy Kong Racing/Everfrost Peak.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
