@@ -26028,5 +26028,24 @@
     "file": "Live A Live/Captain Square.mmrs",
     "preview": "Live A Live/Captain Square.mp3"
   },
+  {
+    "uuid": "853b5e24-c741-4635-b2d3-686ad93568d1",
+    "creationDate": "2026-04-01T22:32:47.639Z",
+    "game": "Xenogears",
+    "song": "The Sky, the Clouds and You",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Xenogears/The Sky, the Clouds and You.mmrs",
+    "preview": "Xenogears/The Sky, the Clouds and You.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
