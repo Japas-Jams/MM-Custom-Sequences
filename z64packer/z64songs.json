@@ -25200,5 +25200,390 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "dfebf965-928b-4a0e-aa31-29b79d657a8d",
+    "creationDate": "2026-04-01T14:58:04.070Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Iron-Blue Intention",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Castlevania Bloodlines/Iron-Blue Intention.mmrs",
+    "preview": "Castlevania Bloodlines/Iron-Blue Intention.mp3"
+  },
+  {
+    "uuid": "981716a9-61c8-4f6f-9ec2-44eb9779f7a6",
+    "creationDate": "2026-04-01T15:00:16.359Z",
+    "game": "Crusader of Centy",
+    "song": "Rafflesia Training Grounds",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
+    "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3"
+  },
+  {
+    "uuid": "3c123601-1506-467a-9eef-1cc697443656",
+    "creationDate": "2026-04-01T15:02:14.096Z",
+    "game": "Chameleon Twist 2",
+    "song": "Toy Land",
+    "composers": [
+      "Koichi Fujiwara"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Chameleon Twist 2/Toy Land.mmrs",
+    "preview": "Chameleon Twist 2/Toy Land.mp3"
+  },
+  {
+    "uuid": "13b9df22-3441-44d8-b756-1571ad33d208",
+    "creationDate": "2026-04-01T15:10:20.303Z",
+    "game": "Chrono Trigger",
+    "song": "Battle 2",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Chrono Trigger/Battle 2.mmrs",
+    "preview": "Chrono Trigger/Battle 2.mp3"
+  },
+  {
+    "uuid": "79c5f3b1-9127-4d1e-85fc-52388546c57d",
+    "creationDate": "2026-04-01T15:25:07.802Z",
+    "game": "Deltarune",
+    "song": "HEY EVERY !",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Deltarune/HEY EVERY !.mmrs",
+    "preview": "Deltarune/HEY EVERY !.ogg"
+  },
+  {
+    "uuid": "34e4a0c3-a479-4e7a-9bbb-181ea021cf46",
+    "creationDate": "2026-04-01T15:26:25.082Z",
+    "game": "Diddy Kong Racing",
+    "song": "Ancient Lake",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "file": "Diddy Kong Racing/Ancient Lake.mmrs",
+    "preview": "Diddy Kong Racing/Ancient Lake.mp3"
+  },
+  {
+    "uuid": "339d6424-a413-4233-a5d2-ddaf2d2b5512",
+    "creationDate": "2026-04-01T15:48:35.189Z",
+    "game": "Diddy Kong Racing",
+    "song": "Everfrost Peak",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Diddy Kong Racing/Everfrost Peak.mmrs",
+    "preview": "Diddy Kong Racing/Everfrost Peak.ogg"
+  },
+  {
+    "uuid": "a2adec7e-8232-46a9-9d1b-286936be83c5",
+    "creationDate": "2026-04-01T15:50:15.875Z",
+    "game": "Diddy Kong Racing",
+    "song": "Spaceport Alpha",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Diddy Kong Racing/Spaceport Alpha.mmrs",
+    "preview": "Diddy Kong Racing/Spaceport Alpha.ogg"
+  },
+  {
+    "uuid": "dfc12c55-313d-4849-a8a3-805c16c8abf6",
+    "creationDate": "2026-04-01T15:52:08.793Z",
+    "game": "Devil May Cry",
+    "song": "Seeds of Love",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Devil May Cry/Seeds of Love.mmrs",
+    "preview": "Devil May Cry/Seeds of Love.mp3"
+  },
+  {
+    "uuid": "ae7fbc66-81c2-4f14-93fb-1420b4a7860b",
+    "creationDate": "2026-04-01T15:58:23.291Z",
+    "game": "Dinosaur Planet",
+    "song": "Guardclaw Theme",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "5",
+      "7"
+    ],
+    "file": "Dinosaur Planet/Guardclaw Theme.mmrs",
+    "preview": "Dinosaur Planet/Guardclaw Theme.ogg"
+  },
+  {
+    "uuid": "a70bf396-29c4-4450-8e3e-d0c72ce5e7f4",
+    "creationDate": "2026-04-01T16:03:58.791Z",
+    "game": "Darksiders II",
+    "song": "The Makers Guardian",
+    "composers": [
+      "Jesper Kyd"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "7"
+    ],
+    "file": "Darksiders II/The Makers Guardian.mmrs",
+    "preview": "Darksiders II/The Makers Guardian.ogg"
+  },
+  {
+    "uuid": "40023223-8bbb-4d87-8a33-a3ed5cd76ab9",
+    "creationDate": "2026-04-01T16:05:58.828Z",
+    "game": "El Viento",
+    "song": "Stage 1 - New York City",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "El Viento/Stage 1 - New York City.mmrs",
+    "preview": "El Viento/Stage 1 - New York City.mp3"
+  },
+  {
+    "uuid": "133e5e72-781d-49ac-9085-c39e4a52f964",
+    "creationDate": "2026-04-01T16:07:38.755Z",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "song": "Battlefield - The First Campaign",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mmrs",
+    "preview": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mp3"
+  },
+  {
+    "uuid": "8baf7829-f842-4fc4-91ba-2d2cc93be8ec",
+    "creationDate": "2026-04-01T16:18:59.961Z",
+    "game": "Flying Dragon",
+    "song": "SD Demo",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Flying Dragon/SD Demo.mmrs",
+    "preview": "Flying Dragon/SD Demo.mp3"
+  },
+  {
+    "uuid": "e69e25b5-2ea0-41bf-849c-b77b5cc03876",
+    "creationDate": "2026-04-01T16:19:42.729Z",
+    "game": "Flying Dragon",
+    "song": "Mode Select",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Flying Dragon/Mode Select.mmrs",
+    "preview": "Flying Dragon/Mode Select.mp3"
+  },
+  {
+    "uuid": "02694f2f-0e67-4afe-b7db-5bbe26d48f88",
+    "creationDate": "2026-04-01T16:21:40.546Z",
+    "game": "Final Fantasy: Mystic Quest",
+    "song": "Battle Theme",
+    "composers": [
+      "Ryuji Sasai"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Final Fantasy Mystic Quest/Battle Theme.mmrs",
+    "preview": "Final Fantasy Mystic Quest/Battle Theme.mp3"
+  },
+  {
+    "uuid": "bea61d35-af44-4325-b9ef-33a43d174dc1",
+    "creationDate": "2026-04-01T16:23:35.978Z",
+    "game": "Final Fantasy: Mystic Quest",
+    "song": "Battle 2",
+    "composers": [
+      "Ryuji Sasai"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7"
+    ],
+    "file": "Final Fantasy Mystic Quest/Battle 2.mmrs",
+    "preview": "Final Fantasy Mystic Quest/Battle 2.mp3"
+  },
+  {
+    "uuid": "2621b03b-0e02-4041-8412-0ceeae05a4e7",
+    "creationDate": "2026-04-01T16:24:56.409Z",
+    "game": "F-Zero",
+    "song": "Fire Field",
+    "composers": [
+      "Yumiko Kanki"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "F-Zero/Fire Field.mmrs",
+    "preview": "F-Zero/Fire Field.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
