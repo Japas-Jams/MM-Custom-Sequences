@@ -25200,5 +25200,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "dfebf965-928b-4a0e-aa31-29b79d657a8d",
+    "creationDate": "2026-04-01T14:58:04.070Z",
+    "game": "Castlevania: Bloodlines",
+    "song": "Iron-Blue Intention",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Castlevania Bloodlines/Iron-Blue Intention.mmrs",
+    "preview": "Castlevania Bloodlines/Iron-Blue Intention.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
