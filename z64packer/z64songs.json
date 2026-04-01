@@ -25220,5 +25220,27 @@
     "file": "Castlevania Bloodlines/Iron-Blue Intention.mmrs",
     "preview": "Castlevania Bloodlines/Iron-Blue Intention.mp3"
   },
+  {
+    "uuid": "981716a9-61c8-4f6f-9ec2-44eb9779f7a6",
+    "creationDate": "2026-04-01T15:00:16.359Z",
+    "game": "Crusader of Centy",
+    "song": "Rafflesia Training Grounds",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
+    "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
