@@ -25816,5 +25816,27 @@
     "file": "Live A Live/Nice Weather.mmrs",
     "preview": "Live A Live/Nice Weather.mp3"
   },
+  {
+    "uuid": "8e8ddf56-c291-47b8-8483-ca3f5acbd05b",
+    "creationDate": "2026-04-01T22:21:19.443Z",
+    "game": "Phoenix Wright: Ace Attorney",
+    "song": "Maya Fey ~ Turnabout Sisters Theme",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters Theme.mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
