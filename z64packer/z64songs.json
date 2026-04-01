@@ -25242,5 +25242,25 @@
     "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
     "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3"
   },
+  {
+    "uuid": "3c123601-1506-467a-9eef-1cc697443656",
+    "creationDate": "2026-04-01T15:02:14.096Z",
+    "game": "Chameleon Twist 2",
+    "song": "Toy Land",
+    "composers": [
+      "Koichi Fujiwara"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Chameleon Twist 2/Toy Land.mmrs",
+    "preview": "Chameleon Twist 2/Toy Land.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
