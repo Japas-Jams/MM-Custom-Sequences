@@ -25945,5 +25945,27 @@
     "file": "Chrono Cross/Fort Dragonia.mmrs",
     "preview": "Chrono Cross/Fort Dragonia.mp3"
   },
+  {
+    "uuid": "5216de28-a8d9-4f0a-adbb-adaf45cec2fc",
+    "creationDate": "2026-04-01T22:28:04.110Z",
+    "game": "Chrono Cross",
+    "song": "Dream of the Shore",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Dream of the Shore.mmrs",
+    "preview": "Chrono Cross/Dream of the Shore.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
