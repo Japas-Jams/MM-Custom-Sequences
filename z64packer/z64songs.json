@@ -25452,5 +25452,27 @@
     "file": "El Viento/Stage 1 - New York City.mmrs",
     "preview": "El Viento/Stage 1 - New York City.mp3"
   },
+  {
+    "uuid": "133e5e72-781d-49ac-9085-c39e4a52f964",
+    "creationDate": "2026-04-01T16:07:38.755Z",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "song": "Battlefield - The First Campaign",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mmrs",
+    "preview": "Etrian Odyssey III The Drowned City/Battlefield - The First Campaign.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
