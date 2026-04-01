@@ -25859,5 +25859,29 @@
     "file": "Sonic Adventure 2/Pumpkin Hill (Variant B).mmrs",
     "preview": "Sonic Adventure 2/Pumpkin Hill (Variant B).mp3"
   },
+  {
+    "uuid": "9f41c380-41cd-4422-98a9-cc1841d336d7",
+    "creationDate": "2026-04-01T22:23:36.086Z",
+    "game": "Pokémon Colosseum",
+    "song": "Miror B. Theme",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Colosseum/Miror B. Theme.mmrs",
+    "preview": "Pokémon Colosseum/Miror B. Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
