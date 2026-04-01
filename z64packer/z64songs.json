@@ -26010,5 +26010,23 @@
     "file": "Shin Megami Tensei/Shop.mmrs",
     "preview": "Shin Megami Tensei/Shop.mp3"
   },
+  {
+    "uuid": "d3153544-f049-47d6-8bd3-ef7491fafe0c",
+    "creationDate": "2026-04-01T22:31:50.988Z",
+    "game": "Live A Live",
+    "song": "Captain Square",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Live A Live/Captain Square.mmrs",
+    "preview": "Live A Live/Captain Square.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
