@@ -25725,5 +25725,31 @@
     "file": "Xenogears/Bare Fangs.mmrs",
     "preview": "Xenogears/Bare Fangs.mp3"
   },
+  {
+    "uuid": "f95ad8d8-89e4-49a0-abb9-474760e4f272",
+    "creationDate": "2026-04-01T22:11:53.779Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Puzzle Boy (Variant B)",
+    "composers": [
+      "Shoji Meguro",
+      "Kenichi Tsuchiya",
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mmrs",
+    "preview": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
