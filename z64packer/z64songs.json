@@ -25520,5 +25520,25 @@
     "file": "Flying Dragon/Mode Select.mmrs",
     "preview": "Flying Dragon/Mode Select.mp3"
   },
+  {
+    "uuid": "02694f2f-0e67-4afe-b7db-5bbe26d48f88",
+    "creationDate": "2026-04-01T16:21:40.546Z",
+    "game": "Final Fantasy: Mystic Quest",
+    "song": "Battle Theme",
+    "composers": [
+      "Ryuji Sasai"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Final Fantasy Mystic Quest/Battle Theme.mmrs",
+    "preview": "Final Fantasy Mystic Quest/Battle Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
