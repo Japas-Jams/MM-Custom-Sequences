@@ -25387,5 +25387,26 @@
     "file": "Devil May Cry/Seeds of Love.mmrs",
     "preview": "Devil May Cry/Seeds of Love.mp3"
   },
+  {
+    "uuid": "ae7fbc66-81c2-4f14-93fb-1420b4a7860b",
+    "creationDate": "2026-04-01T15:58:23.291Z",
+    "game": "Dinosaur Planet",
+    "song": "Guardclaw Theme",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "5",
+      "7"
+    ],
+    "file": "Dinosaur Planet/Guardclaw Theme.mmrs",
+    "preview": "Dinosaur Planet/Guardclaw Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
