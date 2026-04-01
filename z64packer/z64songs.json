@@ -26315,5 +26315,24 @@
     "file": "Xenogears/Gentle Wind.mmrs",
     "preview": "Xenogears/Gentle Wind.mp3"
   },
+  {
+    "uuid": "2fc1cc0b-3169-49b9-9d69-157817fd4d32",
+    "creationDate": "2026-04-01T22:54:27.316Z",
+    "game": "Kirby's Adventure",
+    "song": "I'm Hit (Variant B)",
+    "composers": [
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Indextic"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Kirby's Adventure/I'm Hit (Variant B).mmrs",
+    "preview": "Kirby's Adventure/I'm Hit (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
