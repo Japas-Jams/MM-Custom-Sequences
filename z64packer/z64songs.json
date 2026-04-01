@@ -6751,7 +6751,7 @@
     "uuid": "b778ee25-f147-4fec-ad9d-6d9103980bfa",
     "creationDate": "2026-03-14T15:07:16.476Z",
     "game": "Shin Megami Tensei III: Nocturne",
-    "song": "Puzzle Boy",
+    "song": "Puzzle Boy (Variant A)",
     "composers": [
       "Kenichi Tsuchiya"
     ],
@@ -6765,10 +6765,9 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy.mmrs",
-    "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM"
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM",
+    "lastUpdateDate": "2026-04-01T22:58:25.495Z"
   },
   {
     "uuid": "f090e4b1-a9d2-4bba-bd19-7ea56e05fc48",
