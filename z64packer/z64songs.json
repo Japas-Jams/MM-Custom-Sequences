@@ -26724,5 +26724,27 @@
     "file": "Kingdom Hearts II/Sora's Theme.mmrs",
     "preview": "Kingdom Hearts II/Sora's Theme.mp3"
   },
+  {
+    "uuid": "5f64ec26-3103-43b7-a416-653a36e2caef",
+    "creationDate": "2026-04-02T02:11:29.177Z",
+    "game": "Kingdom Hearts",
+    "song": "Blast Away! (Gummi Ship I)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "file": "Kingdom Hearts/Blast Away! (Gummi Ship I).mmrs",
+    "preview": "Kingdom Hearts/Blast Away! (Gummi Ship I).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
