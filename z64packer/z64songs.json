@@ -26837,5 +26837,28 @@
     "file": "Metal Gear Solid/Main Theme.mmrs",
     "preview": "Metal Gear Solid/Main Theme.mp3"
   },
+  {
+    "uuid": "f293b7b6-c4f1-4276-abb0-f77af8a09a74",
+    "creationDate": "2026-04-02T02:40:56.782Z",
+    "game": "Mario Kart 8",
+    "song": "Mario Kart Stadium",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Mario Kart 8/Mario Kart Stadium.mmrs",
+    "preview": "Mario Kart 8/Mario Kart Stadium.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
