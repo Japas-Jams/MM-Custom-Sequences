@@ -26816,5 +26816,26 @@
     "file": "Mr. Gimmick!/Happy Birthday.mmrs",
     "preview": "Mr. Gimmick!/Happy Birthday.mp3"
   },
+  {
+    "uuid": "73de7a01-3a83-4281-a957-e4a1060e4649",
+    "creationDate": "2026-04-02T02:38:32.229Z",
+    "game": "Metal Gear Solid",
+    "song": "Main Theme",
+    "composers": [
+      "Tappi Iwase"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "7",
+      "157"
+    ],
+    "file": "Metal Gear Solid/Main Theme.mmrs",
+    "preview": "Metal Gear Solid/Main Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
