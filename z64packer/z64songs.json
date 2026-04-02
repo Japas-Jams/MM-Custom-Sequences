@@ -26988,5 +26988,28 @@
     "file": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mp3"
   },
+  {
+    "uuid": "89fa7d67-79fe-4714-a579-6892b573384b",
+    "creationDate": "2026-04-02T03:05:38.919Z",
+    "game": "Memes",
+    "song": "4'33” (Silence)",
+    "composers": [
+      "John Cage"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Memes/4'33” (Silence).mmrs",
+    "preview": "Memes/4'33” (Silence).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
