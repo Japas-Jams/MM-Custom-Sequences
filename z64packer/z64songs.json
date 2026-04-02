@@ -26553,5 +26553,28 @@
     "file": "Golden Sun/Trial Road.mmrs",
     "preview": "Golden Sun/Trial Road.ogg"
   },
+  {
+    "uuid": "75cd6f0a-c857-4c68-9588-bbe166f76f09",
+    "creationDate": "2026-04-02T01:41:10.759Z",
+    "game": "Golden Sun",
+    "song": "Sworn Enemies Stand in Your Way",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "notes": "Also known as Saturos' Battle Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Golden Sun/Sworn Enemies Stand in Your Way.mmrs",
+    "preview": "Golden Sun/Sworn Enemies Stand in Your Way.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
