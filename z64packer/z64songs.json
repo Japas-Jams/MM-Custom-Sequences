@@ -26924,5 +26924,28 @@
     "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mmrs",
     "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mp3"
   },
+  {
+    "uuid": "46aa03e7-13a9-42e7-879a-07aca83e30fa",
+    "creationDate": "2026-04-02T02:46:13.453Z",
+    "game": "Mario Kart DS",
+    "song": "Shroom Ridge",
+    "composers": [
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Mario Kart DS/Shroom Ridge.mmrs",
+    "preview": "Mario Kart DS/Shroom Ridge.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
