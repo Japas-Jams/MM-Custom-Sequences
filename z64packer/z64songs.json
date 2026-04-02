@@ -26968,5 +26968,25 @@
     "file": "Mario Kart Wii/Maple Treeway.mmrs",
     "preview": "Mario Kart Wii/Maple Treeway.mp3"
   },
+  {
+    "uuid": "07d39d44-ee8a-4dfb-add0-70cc96626a17",
+    "creationDate": "2026-04-02T02:51:10.618Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Deku Palace (Ocarina of Time Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "176"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Deku Palace (Ocarina of Time Version).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
