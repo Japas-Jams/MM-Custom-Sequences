@@ -26860,5 +26860,25 @@
     "file": "Mario Kart 8/Mario Kart Stadium.mmrs",
     "preview": "Mario Kart 8/Mario Kart Stadium.mp3"
   },
+  {
+    "uuid": "4f89c5e9-5b59-4fbc-b12c-b54592608bbe",
+    "creationDate": "2026-04-02T02:41:59.609Z",
+    "game": "Monkey Island 2: LeChuck's Revenge",
+    "song": "Main Theme (Variant A)",
+    "composers": [
+      "Michael Land"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mmrs",
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
