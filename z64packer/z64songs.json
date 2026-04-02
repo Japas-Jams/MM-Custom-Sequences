@@ -26643,5 +26643,24 @@
     "file": "Golden Sun/Venus Lighthouse (Variant B).mmrs",
     "preview": "Golden Sun/Venus Lighthouse (Variant B).ogg"
   },
+  {
+    "uuid": "c87fb993-4b6b-4b04-b3d8-7ceeadbb55c9",
+    "creationDate": "2026-04-02T01:53:15.472Z",
+    "game": "Golden Sun",
+    "song": "Victory!",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun/Victory!.mmrs",
+    "preview": "Golden Sun/Victory!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
