@@ -16133,7 +16133,7 @@
     "uuid": "f80356a3-c87c-44a4-8427-339ba4be0189",
     "creationDate": "2026-03-23T00:02:43.803Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Sacred Grove",
+    "song": "Sacred Grove (Variant A)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -16144,11 +16144,9 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Sacred Grove.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg"
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant A).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg",
+    "lastUpdateDate": "2026-04-04T16:55:59.573Z"
   },
   {
     "uuid": "3240cad1-e63e-40ce-8a3d-32de79ff0473",
