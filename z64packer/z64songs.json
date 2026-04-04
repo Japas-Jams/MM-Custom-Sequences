@@ -27184,5 +27184,26 @@
     "file": "Nintendo GameCube/BIOS.mmrs",
     "preview": "Nintendo GameCube/BIOS.ogg"
   },
+  {
+    "uuid": "c9820ebb-d371-495b-a246-648ee9074da1",
+    "creationDate": "2026-04-04T16:58:26.878Z",
+    "game": "Kingdom Hearts Re:Coded",
+    "song": "Castle Oblivion",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "111"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Kingdom Hearts ReCoded/Castle Oblivion.mmrs",
+    "preview": "Kingdom Hearts ReCoded/Castle Oblivion.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
