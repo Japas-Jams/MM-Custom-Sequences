@@ -27267,5 +27267,31 @@
     "file": "The Legend of Zelda Dawn and Dusk/Red Ice Cavern.mmrs",
     "preview": "https://www.youtube.com/watch?v=qm-3X4PEChE&"
   },
+  {
+    "uuid": "5d963d31-e85a-40bf-94e5-5ccba4ab9cf4",
+    "creationDate": "2026-04-04T17:10:16.179Z",
+    "game": "The Legend of Zelda The Wind Waker",
+    "song": "Dragon Roost Island (Variant A)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0",
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
