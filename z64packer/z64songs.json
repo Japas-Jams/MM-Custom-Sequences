@@ -27162,5 +27162,27 @@
     "preview": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).ogg",
     "lastUpdateDate": "2026-04-04T16:56:32.263Z"
   },
+  {
+    "uuid": "5909a537-1bed-4d90-be61-418992725bc4",
+    "creationDate": "2026-04-04T16:57:14.649Z",
+    "game": "Nintendo GameCube",
+    "song": "BIOS",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16C",
+      "16E",
+      "12A"
+    ],
+    "file": "Nintendo GameCube/BIOS.mmrs",
+    "preview": "Nintendo GameCube/BIOS.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
