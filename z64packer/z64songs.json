@@ -27247,5 +27247,25 @@
     "file": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mmrs",
     "preview": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mp3"
   },
+  {
+    "uuid": "8a89c09f-c19f-45ea-93d4-429440f42f13",
+    "creationDate": "2026-04-04T17:08:17.938Z",
+    "game": "The Legend of Zelda: Dawn and Dusk",
+    "song": "Red Ice Cavern",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Dawn and Dusk/Red Ice Cavern.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qm-3X4PEChE&"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
