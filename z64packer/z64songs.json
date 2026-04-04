@@ -27138,5 +27138,30 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "bf6528fc-6498-4f2c-8e86-b03d50bf5417",
+    "creationDate": "2026-04-04T16:53:49.257Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Sacred Grove (Variant B)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "13E",
+      "13B",
+      "11C",
+      "112",
+      "10C"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
