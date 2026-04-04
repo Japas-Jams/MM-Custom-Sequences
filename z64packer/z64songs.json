@@ -27344,5 +27344,27 @@
     "file": "Super Mario 64/Dire Dire Docks (dx7 ver.).mmrs",
     "preview": "Super Mario 64/Dire Dire Docks (dx7 ver.).ogg"
   },
+  {
+    "uuid": "0eecb3a3-9f1c-4bed-8fc2-3dbb9f8cba06",
+    "creationDate": "2026-04-04T17:13:41.957Z",
+    "game": "The Legend of Zelda: Dawn and Dusk",
+    "song": "Dawngrove",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Dawn and Dusk/Dawngrove.mmrs",
+    "preview": "https://www.youtube.com/watch?v=RNcV5MGocrA&"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
