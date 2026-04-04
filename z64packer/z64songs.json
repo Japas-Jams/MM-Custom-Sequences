@@ -16133,7 +16133,7 @@
     "uuid": "f80356a3-c87c-44a4-8427-339ba4be0189",
     "creationDate": "2026-03-23T00:02:43.803Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Sacred Grove",
+    "song": "Sacred Grove (Variant A)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -16144,11 +16144,9 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Sacred Grove.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg"
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant A).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg",
+    "lastUpdateDate": "2026-04-04T16:55:59.573Z"
   },
   {
     "uuid": "3240cad1-e63e-40ce-8a3d-32de79ff0473",
@@ -27137,6 +27135,319 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "bf6528fc-6498-4f2c-8e86-b03d50bf5417",
+    "creationDate": "2026-04-04T16:53:49.257Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Sacred Grove (Variant B)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "13E",
+      "13B",
+      "11C",
+      "112",
+      "10C"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).ogg",
+    "lastUpdateDate": "2026-04-04T16:56:32.263Z"
+  },
+  {
+    "uuid": "5909a537-1bed-4d90-be61-418992725bc4",
+    "creationDate": "2026-04-04T16:57:14.649Z",
+    "game": "Nintendo GameCube",
+    "song": "BIOS",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16C",
+      "16E",
+      "12A"
+    ],
+    "file": "Nintendo GameCube/BIOS.mmrs",
+    "preview": "Nintendo GameCube/BIOS.ogg"
+  },
+  {
+    "uuid": "c9820ebb-d371-495b-a246-648ee9074da1",
+    "creationDate": "2026-04-04T16:58:26.878Z",
+    "game": "Kingdom Hearts Re:Coded",
+    "song": "Castle Oblivion",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "111"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Kingdom Hearts ReCoded/Castle Oblivion.mmrs",
+    "preview": "Kingdom Hearts ReCoded/Castle Oblivion.ogg"
+  },
+  {
+    "uuid": "70b893cc-bccd-4855-9987-9396ab576978",
+    "creationDate": "2026-04-04T16:59:07.790Z",
+    "game": "Shin Megami Tensei III: Nocturne",
+    "song": "Jakyou",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Shin Megami Tensei III Nocturne/Jakyou.mmrs",
+    "preview": "Shin Megami Tensei III Nocturne/Jakyou.ogg"
+  },
+  {
+    "uuid": "6713e88d-6380-4b10-a9f0-a4aae108fa08",
+    "creationDate": "2026-04-04T17:01:57.022Z",
+    "game": "Banjo-Kazooie",
+    "song": "Game Over (Grunty Laugh ver.)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mmrs",
+    "preview": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mp3"
+  },
+  {
+    "uuid": "8a89c09f-c19f-45ea-93d4-429440f42f13",
+    "creationDate": "2026-04-04T17:08:17.938Z",
+    "game": "The Legend of Zelda: Dawn and Dusk",
+    "song": "Red Ice Cavern",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Dawn and Dusk/Red Ice Cavern.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qm-3X4PEChE&"
+  },
+  {
+    "uuid": "5d963d31-e85a-40bf-94e5-5ccba4ab9cf4",
+    "creationDate": "2026-04-04T17:10:16.179Z",
+    "game": "The Legend of Zelda The Wind Waker",
+    "song": "Dragon Roost Island (Variant A)",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0",
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).ogg"
+  },
+  {
+    "uuid": "1657d744-6034-4166-9115-8dd086d7a426",
+    "creationDate": "2026-04-04T17:11:16.325Z",
+    "game": "Pokémon Black & White",
+    "song": "Accumula Town",
+    "composers": [
+      "Shota Kageyama",
+      "Go Ichinose",
+      "Hitomi Sato",
+      "Junichi Masuda",
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Pokémon Black & White/Accumula Town.mmrs",
+    "preview": "Pokémon Black & White/Accumula Town.ogg"
+  },
+  {
+    "uuid": "592a2ce9-29b7-4026-a9bf-b3e84a97888b",
+    "creationDate": "2026-04-04T17:12:33.189Z",
+    "game": "Super Mario 64",
+    "song": "Dire Dire Docks (dx7 ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Super Mario 64/Dire Dire Docks (dx7 ver.).mmrs",
+    "preview": "Super Mario 64/Dire Dire Docks (dx7 ver.).ogg"
+  },
+  {
+    "uuid": "0eecb3a3-9f1c-4bed-8fc2-3dbb9f8cba06",
+    "creationDate": "2026-04-04T17:13:41.957Z",
+    "game": "The Legend of Zelda: Dawn and Dusk",
+    "song": "Dawngrove",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Dawn and Dusk/Dawngrove.mmrs",
+    "preview": "https://www.youtube.com/watch?v=RNcV5MGocrA&"
+  },
+  {
+    "uuid": "b3c46ff5-fba7-4777-ba64-2ef2b6a1119e",
+    "creationDate": "2026-04-04T17:15:05.579Z",
+    "game": "Kingdom Hearts",
+    "song": "Hollow Bastion",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "16e"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts/Hollow Bastion.mmrs",
+    "preview": "Kingdom Hearts/Hollow Bastion.ogg"
+  },
+  {
+    "uuid": "49215ffb-16af-4b49-beed-55f0d73fb53c",
+    "creationDate": "2026-04-04T17:15:47.077Z",
+    "game": "Chrono Cross",
+    "song": "Grasslands (Jazz Guitar ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Cross/Grasslands (Jazz Guitar ver.).mmrs",
+    "preview": "Chrono Cross/Grasslands (Jazz Guitar ver.).ogg"
+  },
+  {
+    "uuid": "19cf07a5-7770-4812-a751-52b64687243b",
+    "creationDate": "2026-04-04T17:16:31.695Z",
+    "game": "Banjo-Tooie",
+    "song": "Isle o' Hags",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Tooie/Isle o' Hags.mmrs",
+    "preview": "Banjo-Tooie/Isle o' Hags.ogg"
+  },
+  {
+    "uuid": "31f56932-433d-45d8-9fae-3dc7640771a6",
+    "creationDate": "2026-04-04T17:17:04.717Z",
+    "game": "Banjo-Kazooie",
+    "song": "Cathedral (OOT Organ ver.)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Banjo-Kazooie/Cathedral (OOT Organ ver.).mmrs",
+    "preview": "Banjo-Kazooie/Cathedral (OOT Organ ver.).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
