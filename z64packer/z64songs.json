@@ -27227,5 +27227,25 @@
     "file": "Shin Megami Tensei III Nocturne/Jakyou.mmrs",
     "preview": "Shin Megami Tensei III Nocturne/Jakyou.ogg"
   },
+  {
+    "uuid": "6713e88d-6380-4b10-a9f0-a4aae108fa08",
+    "creationDate": "2026-04-04T17:01:57.022Z",
+    "game": "Banjo-Kazooie",
+    "song": "Game Over (Grunty Laugh ver.)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mmrs",
+    "preview": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
