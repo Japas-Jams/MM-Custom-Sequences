@@ -27319,5 +27319,30 @@
     "file": "Pokémon Black & White/Accumula Town.mmrs",
     "preview": "Pokémon Black & White/Accumula Town.ogg"
   },
+  {
+    "uuid": "592a2ce9-29b7-4026-a9bf-b3e84a97888b",
+    "creationDate": "2026-04-04T17:12:33.189Z",
+    "game": "Super Mario 64",
+    "song": "Dire Dire Docks (dx7 ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Super Mario 64/Dire Dire Docks (dx7 ver.).mmrs",
+    "preview": "Super Mario 64/Dire Dire Docks (dx7 ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
