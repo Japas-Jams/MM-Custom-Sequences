@@ -27776,5 +27776,28 @@
     "file": "Final Fantasy IX/South Gate.mmrs",
     "preview": "Final Fantasy IX/South Gate.ogg"
   },
+  {
+    "uuid": "0abf61e9-8190-431d-be73-35b7b3df2afb",
+    "creationDate": "2026-04-05T03:28:06.103Z",
+    "game": "Trials of Mana",
+    "song": "Powell",
+    "composers": [
+      "Hiroki Kikuta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Trials of Mana/Powell.mmrs",
+    "preview": "Trials of Mana/Powell.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
