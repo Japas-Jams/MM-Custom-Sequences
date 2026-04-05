@@ -27799,5 +27799,27 @@
     "file": "Trials of Mana/Powell.mmrs",
     "preview": "Trials of Mana/Powell.ogg"
   },
+  {
+    "uuid": "f6591ba9-4559-492c-9b70-a3d2d9b051c6",
+    "creationDate": "2026-04-05T03:28:40.591Z",
+    "game": "Chrono Trigger",
+    "song": "Schala's Theme (Variant A)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Schala's Theme (Variant A).mmrs",
+    "preview": "Chrono Trigger/Schala's Theme (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
