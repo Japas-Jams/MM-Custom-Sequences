@@ -28377,5 +28377,27 @@
     "file": "The Legend of Zelda Ocarina of Time/Water Temple.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Water Temple.mp3"
   },
+  {
+    "uuid": "0a749ed9-f3a2-4dc1-bf5e-d9baf8ca2576",
+    "creationDate": "2026-04-05T14:18:31.226Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Deku Tree",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Deku Tree.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Deku Tree.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
