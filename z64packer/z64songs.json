@@ -27545,5 +27545,23 @@
     "file": "The Legend of Zelda Link's Awakening/Color Dungeon.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Color Dungeon.ogg"
   },
+  {
+    "uuid": "4a0f5163-4dfe-48e8-ba89-6dedef727bab",
+    "creationDate": "2026-04-05T02:52:11.995Z",
+    "game": "Kingdom Hearts II",
+    "song": "Riku's Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Kingdom Hearts II/Riku's Theme.mmrs",
+    "preview": "Kingdom Hearts II/Riku's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
