@@ -27821,5 +27821,28 @@
     "file": "Chrono Trigger/Schala's Theme (Variant A).mmrs",
     "preview": "Chrono Trigger/Schala's Theme (Variant A).ogg"
   },
+  {
+    "uuid": "d3f16fc7-21c8-4d04-af39-8927a3896144",
+    "creationDate": "2026-04-05T03:29:24.776Z",
+    "game": "Chrono Trigger",
+    "song": "Schala's Theme (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Chrono Trigger/Schala's Theme (Variant B).mmrs",
+    "preview": "Chrono Trigger/Schala's Theme (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
