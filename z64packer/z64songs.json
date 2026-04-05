@@ -28334,5 +28334,28 @@
     "file": "The Legend of Zelda Ocarina of Time/Forest Temple.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Forest Temple.mp3"
   },
+  {
+    "uuid": "cdbbba31-532c-4d88-b0d5-6b868d0a6927",
+    "creationDate": "2026-04-05T14:17:16.333Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Spirit Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Spirit Temple.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
