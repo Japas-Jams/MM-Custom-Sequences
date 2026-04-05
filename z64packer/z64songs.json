@@ -653,10 +653,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": true,
     "file": "Banjo-Tooie/Grunty Industries.mmrs",
-    "preview": "https://www.youtube.com/watch?v=ni3EsoQTrwQ"
+    "preview": "https://www.youtube.com/watch?v=ni3EsoQTrwQ",
+    "lastUpdateDate": "2026-04-05T04:11:52.321Z",
+    "notes": "This song changes based on the transformation mask form, while in combat, or while swimming."
   },
   {
     "uuid": "2f408761-461f-4d88-97d7-01d036d2df2c",
