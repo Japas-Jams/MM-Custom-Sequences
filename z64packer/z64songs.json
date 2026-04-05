@@ -27885,5 +27885,28 @@
     "file": "Final Fantasy IX/Terra's Theme.mmrs",
     "preview": "Final Fantasy IX/Terra's Theme.ogg"
   },
+  {
+    "uuid": "7ca0faaf-e95b-412b-a5b4-2070fdc10cf6",
+    "creationDate": "2026-04-05T03:32:51.700Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Aqua Star",
+    "composers": [
+      "Jun Ishikawa",
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "1",
+      "5",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Kirby 64 The Crystal Shards/Aqua Star.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Aqua Star.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
