@@ -27975,5 +27975,26 @@
     "file": "Super Mario Sunshine/Sea and Sky.mmrs",
     "preview": "Super Mario Sunshine/Sea and Sky.ogg"
   },
+  {
+    "uuid": "85470eed-fff7-49c7-8af7-11e9682e2b5e",
+    "creationDate": "2026-04-05T03:39:39.019Z",
+    "game": "Chrono Trigger",
+    "song": "Millenial Fair",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Millenial Fair.mmrs",
+    "preview": "Chrono Trigger/Millenial Fair.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
