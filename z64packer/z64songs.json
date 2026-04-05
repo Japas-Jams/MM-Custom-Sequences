@@ -24849,8 +24849,16 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda The Wind Waker",
+    "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
+    "creationDate": "2026-03-22T01:12:15.513Z",
+    "game": "The Legend of Zelda: The Wind Waker",
     "song": "Mini-Boss (Variant A)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Senate"
+    ],
     "type": "bgm",
     "categories": [
       "7",
@@ -24859,8 +24867,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "uuid": "2aefcb41-b58c-4086-9b08-3786a47b0351",
-    "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).mmrs"
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).ogg"
   },
   {
     "uuid": "126ecfa9-b87c-4f0a-8c95-aa44d2374619",
@@ -27261,7 +27269,7 @@
   {
     "uuid": "8a89c09f-c19f-45ea-93d4-429440f42f13",
     "creationDate": "2026-04-04T17:08:17.938Z",
-    "game": "The Legend of Zelda: Dawn and Dusk",
+    "game": "Zelda 64: Dawn & Dusk",
     "song": "Red Ice Cavern",
     "composers": [
       "Unknown"
@@ -27275,14 +27283,14 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "file": "The Legend of Zelda Dawn and Dusk/Red Ice Cavern.mmrs",
+    "file": "Zelda 64 Dawn & Dusk/Red Ice Cavern.mmrs",
     "preview": "https://www.youtube.com/watch?v=qm-3X4PEChE&",
     "usesFormmask": false
   },
   {
     "uuid": "5d963d31-e85a-40bf-94e5-5ccba4ab9cf4",
     "creationDate": "2026-04-04T17:10:16.179Z",
-    "game": "The Legend of Zelda The Wind Waker",
+    "game": "The Legend of Zelda: The Wind Waker",
     "song": "Dragon Roost Island (Variant A)",
     "composers": [
       "Kenta Nagata",
@@ -27363,7 +27371,7 @@
   {
     "uuid": "0eecb3a3-9f1c-4bed-8fc2-3dbb9f8cba06",
     "creationDate": "2026-04-04T17:13:41.957Z",
-    "game": "The Legend of Zelda: Dawn and Dusk",
+    "game": "Zelda 64: Dawn & Dusk",
     "song": "Dawngrove",
     "composers": [
       "Unknown"
@@ -27379,7 +27387,7 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda Dawn and Dusk/Dawngrove.mmrs",
+    "file": "Zelda 64 Dawn & Dusk/Dawngrove.mmrs",
     "preview": "https://www.youtube.com/watch?v=RNcV5MGocrA&",
     "usesCustomSamples": false,
     "usesFormmask": false

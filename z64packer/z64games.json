@@ -3235,10 +3235,14 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/81a5f7fc4837ced528f0eee21ea5c3ca.png"
   },
   {
-    "game": "The Legend of Zelda: Dawn and Dusk"
+    "game": "Zelda 64: Dawn & Dusk",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a8d3a866ac2f8703fc51569e27bcbd5d.png"
   },
   {
-    "game": "Kingdom Hearts Re:Coded"
+    "game": "Kingdom Hearts Re:Coded",
+    "series": "Kingdom Hearts Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d556b595eef47660153b8eddebbc2b12.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
