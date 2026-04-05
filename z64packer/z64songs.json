@@ -27606,5 +27606,24 @@
     "file": "Chrono Trigger/Light of Silence.mmrs",
     "preview": "Chrono Trigger/Light of Silence.ogg"
   },
+  {
+    "uuid": "70b75f07-ae26-4f4e-9784-40e0bc3d914f",
+    "creationDate": "2026-04-05T03:16:14.764Z",
+    "game": "Kingdom Hearts II",
+    "song": "Vim and Vigor",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts II/Vim and Vigor.mmrs",
+    "preview": "Kingdom Hearts II/Vim and Vigor.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
