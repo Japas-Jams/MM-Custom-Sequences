@@ -28439,5 +28439,26 @@
     "preview": "The Legend of Zelda Ocarina of Time/Intro.mp3",
     "lastUpdateDate": "2026-04-05T14:21:26.441Z"
   },
+  {
+    "uuid": "ab6a4f90-4559-47d8-a12f-eb0300b7f943",
+    "creationDate": "2026-04-05T14:22:33.215Z",
+    "game": "Super Mario 64",
+    "song": "Ultimate Koopa",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Super Mario 64/Ultimate Koopa.mmrs",
+    "preview": "Super Mario 64/Ultimate Koopa.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
