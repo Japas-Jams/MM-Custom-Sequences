@@ -27996,5 +27996,26 @@
     "file": "Chrono Trigger/Millenial Fair.mmrs",
     "preview": "Chrono Trigger/Millenial Fair.ogg"
   },
+  {
+    "uuid": "438a6170-4064-4bff-b0a4-9819cb5c5297",
+    "creationDate": "2026-04-05T03:40:20.339Z",
+    "game": "Banjo-Kazooie",
+    "song": "Clanker's Cavern (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Clanker's Cavern (Variant B).mmrs",
+    "preview": "Banjo-Kazooie/Clanker's Cavern (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
