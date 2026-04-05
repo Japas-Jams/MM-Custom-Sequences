@@ -28017,5 +28017,26 @@
     "file": "Banjo-Kazooie/Clanker's Cavern (Variant B).mmrs",
     "preview": "Banjo-Kazooie/Clanker's Cavern (Variant B).ogg"
   },
+  {
+    "uuid": "f61ff0bc-7e8b-4dac-8c3f-4a0ea966b5d7",
+    "creationDate": "2026-04-05T03:41:23.116Z",
+    "game": "Pokémon Red, Blue & Yellow",
+    "song": "Lavender Town",
+    "composers": [
+      "Junichi Masuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Red, Blue & Yellow/Lavender Town.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Lavender Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
