@@ -28079,5 +28079,27 @@
     "file": "Wave Race 64/Drake Lake.mmrs",
     "preview": "Wave Race 64/Drake Lake.ogg"
   },
+  {
+    "uuid": "bd856747-4573-4433-bd58-66220e5f7b5d",
+    "creationDate": "2026-04-05T03:46:54.401Z",
+    "game": "Banjo-Kazooie",
+    "song": "Cathedral",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Cathedral.mmrs",
+    "preview": "Banjo-Kazooie/Cathedral.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
