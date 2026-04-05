@@ -28121,5 +28121,23 @@
     "file": "Banjo-Kazooie/Final Battle.mmrs",
     "preview": "Banjo-Kazooie/Final Battle.ogg"
   },
+  {
+    "uuid": "9c0cc65f-61cb-4e7b-a25b-fb367ce612c7",
+    "creationDate": "2026-04-05T03:49:37.219Z",
+    "game": "Banjo-Kazooie",
+    "song": "Boggy's Race (Victory)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Banjo-Kazooie/Boggy's Race (Victory).mmrs",
+    "preview": "Banjo-Kazooie/Boggy's Race (Victory).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
