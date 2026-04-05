@@ -28294,5 +28294,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Fire Temple (1.0 ver.).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Fire Temple (1.0 ver.).mp3"
   },
+  {
+    "uuid": "bbccad89-06d7-465d-b0d3-7574f3399123",
+    "creationDate": "2026-04-05T14:15:54.849Z",
+    "game": "Final Fantasy IX",
+    "song": "Bermecia Kingdom",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy IX/Bermecia Kingdom.mmrs",
+    "preview": "Final Fantasy IX/Bermecia Kingdom.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
