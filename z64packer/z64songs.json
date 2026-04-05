@@ -28038,5 +28038,26 @@
     "file": "Pokémon Red, Blue & Yellow/Lavender Town.mmrs",
     "preview": "Pokémon Red, Blue & Yellow/Lavender Town.ogg"
   },
+  {
+    "uuid": "06f53be9-d4b0-48c8-9dc1-636ab455e96e",
+    "creationDate": "2026-04-05T03:41:57.951Z",
+    "game": "Banjo-Kazooie",
+    "song": "Boggy's Race",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Boggy's Race.mmrs",
+    "preview": "Banjo-Kazooie/Boggy's Race.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
