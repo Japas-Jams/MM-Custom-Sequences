@@ -27737,5 +27737,24 @@
     "file": "Final Fantasy IX/Stealthy Steiner.mmrs",
     "preview": "Final Fantasy IX/Stealthy Steiner.ogg"
   },
+  {
+    "uuid": "0d4d092a-d679-452b-aaf5-0951ef235fc9",
+    "creationDate": "2026-04-05T03:22:11.818Z",
+    "game": "Final Fantasy IX",
+    "song": "Kuja's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "2"
+    ],
+    "file": "Final Fantasy IX/Kuja's Theme.mmrs",
+    "preview": "Final Fantasy IX/Kuja's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
