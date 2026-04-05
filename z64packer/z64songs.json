@@ -228,7 +228,7 @@
     "uuid": "467cb86b-312e-41a0-a720-fe799acf9c94",
     "creationDate": "2026-03-06T03:36:16.134Z",
     "game": "Banjo-Tooie",
-    "song": "Ordnance Storage",
+    "song": "Ordnance Storage (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -239,11 +239,9 @@
     "categories": [
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Banjo-Tooie/Ordnance Storage.mmrs",
-    "preview": "https://www.youtube.com/watch?v=3WnHr2D7aqU"
+    "file": "Banjo-Tooie/Ordnance Storage (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=3WnHr2D7aqU",
+    "lastUpdateDate": "2026-04-05T02:54:36.556Z"
   },
   {
     "uuid": "eda43975-ac6a-4010-a123-780b0cccfc8d",
