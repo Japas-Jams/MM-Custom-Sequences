@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -29580,10 +29580,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "file": "NieR Replicant/The Wretched Automatons.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Hdxj7BZXqSg",
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "file": "NieR Replicant/The Wretched Automatons.mmrs",
+    "preview": "NieR Replicant/The Wretched Automatons.mp3",
+    "lastUpdateDate": "2026-05-21T18:39:39.680Z"
   },
   {
     "uuid": "7182a460-7c0b-4fb4-9511-8ae5a7d220e9",
@@ -61836,6 +61837,147 @@
     "uuid": "ace6e99a-0de5-4f52-b9c8-b33ee490aeb0",
     "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant B).mmrs",
     "preview": ""
+  },
+  {
+    "uuid": "2b797e4a-99c6-4985-8b91-8d411daac9bd",
+    "creationDate": "2026-05-21T18:39:39.634Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Song of Giga Rosa",
+    "composers": [
+      "Kenji Hiramatsu"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/Song of Giga Rosa.mmrs",
+    "preview": "https://youtu.be/ghaizSoQnaI",
+    "lastUpdateDate": "2026-05-21T18:39:39.758Z"
+  },
+  {
+    "uuid": "179e0a56-feed-49e4-a1f2-7a60ad241a2c",
+    "creationDate": "2026-05-21T18:39:39.708Z",
+    "game": "Fire Emblem Echoes Shadows of Valentia",
+    "song": "The Sacrifice and The Saint",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90 (myself)"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint.mp3",
+    "lastUpdateDate": "2026-05-21T18:39:39.708Z"
+  },
+  {
+    "uuid": "aabfbf5a-e674-4b33-950b-02d068bb98ce",
+    "creationDate": "2026-05-21T18:39:39.734Z",
+    "game": "The Legend of Zelda A Link to the Past",
+    "song": "Dark World",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Dark World.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark World.mp3",
+    "lastUpdateDate": "2026-05-21T18:39:39.734Z"
+  },
+  {
+    "uuid": "ef9cde8a-f751-46d6-bc2c-98822050803e",
+    "creationDate": "2026-05-21T18:39:39.784Z",
+    "game": "Final Fantasy XI",
+    "song": "Jeweled Boughs",
+    "composers": [
+      "Naoshi Mizuta"
+    ],
+    "converters": [
+      "Seba 20 90 (myself)"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy XI/Jeweled Boughs.mmrs",
+    "preview": "Final Fantasy XI/Jeweled Boughs.mp3",
+    "lastUpdateDate": "2026-05-21T18:39:39.784Z"
+  },
+  {
+    "uuid": "54a10bf8-8d52-4453-8637-869120f4965a",
+    "creationDate": "2026-05-21T18:39:39.809Z",
+    "game": "Star Fox",
+    "song": "Fortuna",
+    "composers": [
+      "Hajime Hirasawa"
+    ],
+    "converters": [
+      "Ruugosus"
+    ],
+    "type": "bgm",
+    "categories": [
+      "102",
+      "10C",
+      "112",
+      "11C"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Star Fox/Fortuna.mmrs",
+    "preview": "Star Fox/Fortuna.ogg",
+    "lastUpdateDate": "2026-05-21T18:39:39.809Z"
+  },
+  {
+    "uuid": "e153d57d-c851-414d-83f8-2d9b4f95f64d",
+    "creationDate": "2026-05-21T18:39:39.833Z",
+    "game": "Deltarune",
+    "song": "Paradise, Paradise",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Flieen"
+    ],
+    "type": "bgm",
+    "categories": [
+      "110",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Paradise, Paradise.mmrs",
+    "preview": "Deltarune/Paradise, Paradise.ogg",
+    "lastUpdateDate": "2026-05-21T18:39:39.833Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
