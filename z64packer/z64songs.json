@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -29580,10 +29580,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "file": "NieR Replicant/The Wretched Automatons.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Hdxj7BZXqSg",
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "file": "NieR Replicant/The Wretched Automatons.mmrs",
+    "preview": "NieR Replicant/The Wretched Automatons.mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.212Z"
   },
   {
     "uuid": "7182a460-7c0b-4fb4-9511-8ae5a7d220e9",
@@ -61836,6 +61837,354 @@
     "uuid": "ace6e99a-0de5-4f52-b9c8-b33ee490aeb0",
     "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant B).mmrs",
     "preview": ""
+  },
+  {
+    "uuid": "5378679e-4dce-454f-b3de-49d2f4c6f945",
+    "creationDate": "2026-05-24T17:30:40.398Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Song of Giga Rosa",
+    "composers": [
+      "Kenji Hiramatsu"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/Song of Giga Rosa.mmrs",
+    "preview": "https://youtu.be/ghaizSoQnaI",
+    "lastUpdateDate": "2026-05-24T17:40:54.294Z"
+  },
+  {
+    "uuid": "c8106a93-fa49-4f52-a87f-799f7b426829",
+    "creationDate": "2026-05-24T17:30:40.466Z",
+    "game": "Fire Emblem Echoes Shadows of Valentia",
+    "song": "The Sacrifice and The Saint",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90 (myself)"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint.mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.241Z"
+  },
+  {
+    "uuid": "4b2ac0a5-d146-4232-a368-c2bf57d810d3",
+    "creationDate": "2026-05-24T17:30:40.491Z",
+    "game": "The Legend of Zelda A Link to the Past",
+    "song": "Dark World",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Dark World.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark World.mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.267Z"
+  },
+  {
+    "uuid": "6d544d1c-95e0-41b3-8f88-64a604b55d9d",
+    "creationDate": "2026-05-24T17:30:40.541Z",
+    "game": "Final Fantasy XI",
+    "song": "Jeweled Boughs",
+    "composers": [
+      "Naoshi Mizuta"
+    ],
+    "converters": [
+      "Seba 20 90 (myself)"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy XI/Jeweled Boughs.mmrs",
+    "preview": "Final Fantasy XI/Jeweled Boughs.mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.321Z"
+  },
+  {
+    "uuid": "8441e5c3-99f4-4f20-8f91-8a76bc35f961",
+    "creationDate": "2026-05-24T17:30:40.565Z",
+    "game": "Star Fox",
+    "song": "Fortuna",
+    "composers": [
+      "Hajime Hirasawa"
+    ],
+    "converters": [
+      "Ruugosus"
+    ],
+    "type": "bgm",
+    "categories": [
+      "102",
+      "10C",
+      "112",
+      "11C"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Star Fox/Fortuna.mmrs",
+    "preview": "Star Fox/Fortuna.ogg",
+    "lastUpdateDate": "2026-05-24T17:40:54.347Z"
+  },
+  {
+    "uuid": "e2fef33c-f92b-4caa-a633-3870d56242ef",
+    "creationDate": "2026-05-24T17:30:40.590Z",
+    "game": "Deltarune",
+    "song": "Paradise, Paradise",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Flieen"
+    ],
+    "type": "bgm",
+    "categories": [
+      "110",
+      "136"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Deltarune/Paradise, Paradise.mmrs",
+    "preview": "Deltarune/Paradise, Paradise.ogg",
+    "lastUpdateDate": "2026-05-24T17:40:54.375Z"
+  },
+  {
+    "uuid": "74bd050c-7dcd-485a-8047-2ec9f31fc744",
+    "creationDate": "2026-05-24T17:40:54.404Z",
+    "game": "The Legend of Zelda Twilight Princess",
+    "song": "Death Sword Battle (with and without intro)",
+    "composers": [
+      "Toru Minegishij",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Philos-Kun"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Death Sword Battle (with and without intro).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Death Sword Battle (with and without intro).mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.429Z"
+  },
+  {
+    "uuid": "97e3ea79-c5d0-4ccc-85b0-120978c3b6d1",
+    "creationDate": "2026-05-24T17:40:54.454Z",
+    "game": "Memes",
+    "song": "FAH",
+    "composers": [
+      "Taileons"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "type": "bgm",
+    "categories": [
+      "120",
+      "121",
+      "122",
+      "124",
+      "137",
+      "139",
+      "141",
+      "155"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Memes/FAH.mmrs",
+    "preview": "Memes/FAH.wav",
+    "lastUpdateDate": "2026-05-24T17:40:54.454Z"
+  },
+  {
+    "uuid": "632ff605-d971-47f5-9e47-f3bdf6c95069",
+    "creationDate": "2026-05-24T17:40:54.480Z",
+    "game": "The Legend of Zelda Oracle of Seasons",
+    "song": "Windmill Theme",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Oracle of Seasons/Windmill Theme.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Windmill Theme.ogg",
+    "lastUpdateDate": "2026-05-24T17:40:54.480Z"
+  },
+  {
+    "uuid": "6b8c169f-35cb-4c7b-a71b-5c515c2479e2",
+    "creationDate": "2026-05-24T17:40:54.505Z",
+    "game": "New York Times Crossword",
+    "song": "San Jose Strut",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "New York Times Crossword/San Jose Strut.mmrs",
+    "preview": "New York Times Crossword/San Jose Strut.wav",
+    "lastUpdateDate": "2026-05-24T17:40:54.505Z"
+  },
+  {
+    "uuid": "2451910b-27dd-432e-9a95-cc558b088be3",
+    "creationDate": "2026-05-24T17:40:54.531Z",
+    "game": "New Super Mario Bros DS",
+    "song": "World 1-1",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "type": "bgm",
+    "categories": [
+      "10C",
+      "102",
+      "110",
+      "112",
+      "115",
+      "116"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "New Super Mario Bros DS/World 1-1.mmrs",
+    "preview": "New Super Mario Bros DS/World 1-1.mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.531Z"
+  },
+  {
+    "uuid": "e73c1d91-5f41-4e68-8275-0fa05e54cc35",
+    "creationDate": "2026-05-24T17:40:54.560Z",
+    "game": "ULTRAKILL",
+    "song": "Event Horizon (Reach for the Sun and Burn! Burn! Burn!)",
+    "composers": [
+      "Asri Patala"
+    ],
+    "converters": [
+      "Fish_waffle64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "ULTRAKILL/Event Horizon (Reach for the Sun and Burn! Burn! Burn!).mmrs",
+    "preview": "ULTRAKILL/Event Horizon (Reach for the Sun and Burn! Burn! Burn!).ogg",
+    "lastUpdateDate": "2026-05-24T17:40:54.560Z"
+  },
+  {
+    "uuid": "88ec3bb0-1d86-4577-80cf-5a17c9827e7f",
+    "creationDate": "2026-05-24T17:40:54.588Z",
+    "game": "Wii U Console",
+    "song": "Mii Editor (Gamepad)",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wii U Console/Mii Editor (Gamepad).mmrs",
+    "preview": "Wii U Console/Mii Editor (Gamepad).ogg",
+    "lastUpdateDate": "2026-05-24T17:40:54.588Z"
+  },
+  {
+    "uuid": "578c7e9d-e31d-42c5-aed3-6a7002b630a0",
+    "creationDate": "2026-05-24T17:40:54.615Z",
+    "game": "Super Mario 3D World",
+    "song": "Switch Scramble Circus",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "type": "bgm",
+    "categories": [
+      "10C",
+      "102",
+      "110",
+      "113",
+      "115",
+      "116",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario 3D World/Switch Scramble Circus.mmrs",
+    "preview": "Super Mario 3D World/Switch Scramble Circus.mp3",
+    "lastUpdateDate": "2026-05-24T17:40:54.615Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
