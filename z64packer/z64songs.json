@@ -4410,7 +4410,7 @@
     "uuid": "370c2336-796b-44d7-9194-6e4bc071b091",
     "creationDate": "2026-03-13T03:11:42.210Z",
     "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Fortune Teller/Shop",
+    "song": "Fortune Teller",
     "composers": [
       "Koji Kondo"
     ],
@@ -4424,7 +4424,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda A Link to the Past/Fortune TellerShop.mmrs",
+    "file": "The Legend of Zelda A Link to the Past/Fortune Teller.mmrs",
     "preview": "https://www.youtube.com/watch?v=g0sOJtPVQRU"
   },
   {
@@ -6200,7 +6200,7 @@
     "uuid": "ee84a8f1-04f0-4f78-8769-77607486fa9a",
     "creationDate": "2026-03-14T02:14:39.367Z",
     "game": "Persona 3 FES",
-    "song": "3/31",
+    "song": "3∕31",
     "composers": [
       "Shoji Meguro"
     ],
@@ -6215,7 +6215,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Persona 3 FES/331.mmrs",
+    "file": "Persona 3 FES/3∕31.mmrs",
     "preview": "https://www.youtube.com/watch?v=wq4FBwlmzoE"
   },
   {
@@ -11021,7 +11021,7 @@
     "uuid": "39625bd0-857e-4e0a-be2d-d430257d18a0",
     "creationDate": "2026-03-18T02:46:57.059Z",
     "game": "Pokémon Ruby, Sapphire & Emerald",
-    "song": "Introduction / Routes 122 & 123",
+    "song": "Introduction∕Routes 122 & 123",
     "composers": [
       "Go Ichinose"
     ],
@@ -11035,8 +11035,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.mmrs",
-    "preview": "Pokémon Ruby, Sapphire & Emerald/IntroductionRoutes 122 & 123.ogg"
+    "file": "Pokémon Ruby, Sapphire & Emerald/Introduction∕Routes 122 & 123.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Introduction∕Routes 122 & 123.ogg"
   },
   {
     "uuid": "2d6cb3dd-e14a-4386-9921-e0bb6fbb5116",
@@ -11084,7 +11084,7 @@
     "uuid": "758793ea-0c5d-4e50-82d7-d479b9635486",
     "creationDate": "2026-03-18T02:51:23.138Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "Ecruteak City/Cianwood City",
+    "song": "Ecruteak City (Variant B)",
     "composers": [
       "Go Ichinose"
     ],
@@ -11098,8 +11098,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/Ecruteak CityCianwood City.ogg"
+    "file": "Pokémon Gold, Silver & Crystal/Ecruteak City (Variant B).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Ecruteak City (Variant B).ogg"
   },
   {
     "uuid": "217d79d3-844d-4e2c-ba14-0731205ee79a",
@@ -12002,7 +12002,7 @@
     "uuid": "4ff7507d-a449-42b1-a1bb-58bd0f043d4b",
     "creationDate": "2026-03-20T01:09:25.172Z",
     "game": "Pokémon Ranger",
-    "song": "Groudon/Kyogre/Rayquaza/Deoxys Capture",
+    "song": "Groudon∕Kyogre∕Rayquaza∕Deoxys Capture",
     "composers": [
       "Takuto Kitsuta",
       "Kinta Sato"
@@ -12019,8 +12019,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.mmrs",
-    "preview": "Pokémon Ranger/GroudonKyogreRayquazaDeoxys Capture.ogg"
+    "file": "Pokémon Ranger/Groudon∕Kyogre∕Rayquaza∕Deoxys Capture.mmrs",
+    "preview": "Pokémon Ranger/Groudon∕Kyogre∕Rayquaza∕Deoxys Capture.ogg"
   },
   {
     "uuid": "4fdb3c51-5ddf-4b5f-9b75-fc6fddf93b51",
@@ -12101,7 +12101,7 @@
     "uuid": "921f454f-bedd-467b-ad04-5d59976b688e",
     "creationDate": "2026-03-20T01:18:39.047Z",
     "game": "Pokémon Ruby, Sapphire & Emerald",
-    "song": "Battle! Regirock/Regice/Registeel",
+    "song": "Battle! Regirock∕Regice∕Registeel",
     "composers": [
       "Junichi Masuda"
     ],
@@ -12115,8 +12115,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.mmrs",
-    "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! RegirockRegiceRegisteel.ogg"
+    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! Regirock∕Regice∕Registeel.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Battle! Regirock∕Regice∕Registeel.ogg"
   },
   {
     "uuid": "7ecf7299-4070-44bb-9a4c-b968648238a8",
@@ -13645,7 +13645,7 @@
     "uuid": "647a7e44-43f0-44c0-8f82-45367d3fadec",
     "creationDate": "2026-03-21T01:21:10.176Z",
     "game": "Pokémon HeartGold & SoulSilver",
-    "song": "Viridian / Pewter / Saffron City",
+    "song": "Pewter City",
     "composers": [
       "Junichi Masuda"
     ],
@@ -13660,8 +13660,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.mmrs",
-    "preview": "Pokémon HeartGold & SoulSilver/Viridian  Pewter  Saffron City.ogg"
+    "file": "Pokémon HeartGold & SoulSilver/Pewter City.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Pewter City.ogg"
   },
   {
     "uuid": "e661adf7-8ea4-46c3-af5f-e321023199a5",
@@ -15142,7 +15142,7 @@
     "uuid": "0a4a75ab-3884-4336-9e71-cc1a0c69ce5a",
     "creationDate": "2026-03-22T00:46:52.602Z",
     "game": "The Legend of Zelda: Skyward Sword",
-    "song": "Koloktos / Moldarach",
+    "song": "Koloktos (Variant B)",
     "composers": [
       "Mahito Yokota"
     ],
@@ -15156,8 +15156,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.mmrs",
-    "preview": "The Legend of Zelda Skyward Sword/Koloktos  Moldarach.ogg"
+    "file": "The Legend of Zelda Skyward Sword/Koloktos (Variant B).mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Koloktos (Variant B).ogg"
   },
   {
     "uuid": "fe3cdaf4-9ca3-46b8-b401-b4c1eff9081a",
@@ -15720,7 +15720,7 @@
     "uuid": "47636a99-773f-4eba-95b5-95e25cfb91d2",
     "creationDate": "2026-03-22T02:59:15.737Z",
     "game": "Super Castlevania IV",
-    "song": "Dance of the Holy Man/Theme of Simon Belmont",
+    "song": "Theme of Simon Belmont",
     "composers": [
       "Michiru Yamane"
     ],
@@ -15736,7 +15736,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Castlevania IV/Dance of the Holy ManTheme of Simon Belmont.mmrs",
+    "file": "Super Castlevania IV/Theme of Simon Belmont.mmrs",
     "preview": "https://www.youtube.com/watch?v=wD_7sAzP9gE"
   },
   {
@@ -31468,8 +31468,8 @@
   {
     "uuid": "5ab3d726-8c0f-4f6f-8f7e-26197736a54c",
     "creationDate": "2026-04-11T17:40:02.539Z",
-    "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Game Select (GBA ver.)",
+    "game": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "song": "Game Select",
     "composers": [
       "Koji Kondo"
     ],
@@ -31484,8 +31484,8 @@
       "6",
       "16"
     ],
-    "file": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).ogg",
+    "file": "The Legend of Zelda A Link to the Past & Four Swords/Game Select.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past & Four Swords/Game Select.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -31493,8 +31493,8 @@
   {
     "uuid": "d8b5f3b9-2ca1-4ae3-8735-173b5a7690f7",
     "creationDate": "2026-04-11T17:40:37.060Z",
-    "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Quest Log (GBA ver.)",
+    "game": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "song": "Quest Log",
     "composers": [
       "Koji Kondo"
     ],
@@ -31507,8 +31507,8 @@
       "6",
       "16"
     ],
-    "file": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).ogg",
+    "file": "The Legend of Zelda A Link to the Past & Four Swords/Quest Log.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past & Four Swords/Quest Log.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -31516,8 +31516,8 @@
   {
     "uuid": "93236a3a-fd96-43da-8863-befc84cebc01",
     "creationDate": "2026-04-11T17:41:54.604Z",
-    "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Sea of Trees (GBA ver.)",
+    "game": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "song": "Sea of Trees",
     "composers": [
       "Koji Kondo"
     ],
@@ -31530,8 +31530,8 @@
       "2",
       "3"
     ],
-    "file": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).ogg",
+    "file": "The Legend of Zelda A Link to the Past & Four Swords/Sea of Trees.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past & Four Swords/Sea of Trees.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -31539,8 +31539,8 @@
   {
     "uuid": "8325537f-3dad-4e09-b858-ec2193645df8",
     "creationDate": "2026-04-11T17:45:40.822Z",
-    "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Vaati's Palace (GBA ver.)",
+    "game": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "song": "Vaati's Palace",
     "composers": [
       "Koji Kondo"
     ],
@@ -31552,8 +31552,8 @@
       "2",
       "3"
     ],
-    "file": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).ogg",
+    "file": "The Legend of Zelda A Link to the Past & Four Swords/Vaati's Palace.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past & Four Swords/Vaati's Palace.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
