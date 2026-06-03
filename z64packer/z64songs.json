@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -61856,7 +61856,9 @@
     ],
     "usesCustomBank": true,
     "file": "Xenoblade Chronicles 2/Gormotti Forest.mmrs",
-    "preview": "https://www.youtube.com/watch?v=MMEcjXiEmkg"
+    "preview": "https://www.youtube.com/watch?v=MMEcjXiEmkg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
