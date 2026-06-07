@@ -14334,7 +14334,8 @@
     ],
     "converters": [
       "Darkychao"
-    ]
+    ],
+    "preview": "previews/Super Mario Bros. 3/Athletic.ogg"
   },
   {
     "game": "Freshly-Picked Tingle's Rosy Rupeeland",
@@ -24121,7 +24122,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "6e938266-3f03-41ee-b548-ccf39e4f36e8",
-    "file": "Shin Megami Tensei II/Gym.mmrs"
+    "file": "Shin Megami Tensei II/Gym.mmrs",
+    "preview": "previews/Shin Megami Tensei II/Gym.mp3"
   },
   {
     "uuid": "4e66e3df-8835-4bc8-af8c-40ab912b9050",
@@ -33480,7 +33482,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Air Fortress/Evacuation (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Air Fortress/Evacuation (8bit Version).mp3"
   },
   {
     "uuid": "b0af6632-7673-4036-8116-7ccd24678255",
@@ -33503,7 +33505,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Castle (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Castle (8bit Version).mp3"
   },
   {
     "uuid": "a1bc9927-741e-4bc1-9d34-913953dece47",
@@ -33526,7 +33528,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Flippant (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Flippant (8bit Version).mp3"
   },
   {
     "uuid": "616b0fe8-464c-44f6-a2c5-59941a1a9f71",
@@ -33550,7 +33552,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Friends (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Friends (8bit Version).mp3"
   },
   {
     "uuid": "09454e6c-d3d9-431f-9280-a0e87ed35521",
@@ -33573,7 +33575,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Hippy (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Hippy (8bit Version).mp3"
   },
   {
     "uuid": "3bb49480-8d22-455a-ab32-6453f8183400",
@@ -33595,7 +33597,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Love (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Love (8bit Version).mp3"
   },
   {
     "uuid": "7afda33a-c454-4fd6-a99d-476f51d0f5ba",
@@ -33618,7 +33620,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Pollyanna (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Pollyanna (8bit Version).mp3"
   },
   {
     "uuid": "9dea7fc7-c668-4c37-a76b-dea8ed986e79",
@@ -33642,7 +33644,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/School (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/School (8bit Version).mp3"
   },
   {
     "uuid": "84b89049-0704-42cf-81b7-16cbe9e133c3",
@@ -33666,7 +33668,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "EarthBound Beginnings/Youngtown (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/EarthBound Beginnings/Youngtown (8bit Version).mp3"
   },
   {
     "uuid": "5b07bc50-1bec-4477-a55e-6738a7c8a713",
@@ -33688,7 +33690,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "M.C. Kids/Card Clear (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/M.C. Kids/Card Clear (8bit Version).mp3"
   },
   {
     "uuid": "f1ddee42-710f-42da-9eb1-713fe17d4127",
@@ -33711,7 +33713,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "M.C. Kids/Cutscene (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/M.C. Kids/Cutscene (8bit Version).mp3"
   },
   {
     "uuid": "dc0f1d00-3839-49f9-aa40-bd9f49d94840",
@@ -33732,7 +33734,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Sheriff Domestic/Got Disk (Alternate Version).mmrs",
-    "preview": ""
+    "preview": "previews/Sheriff Domestic/Got Disk (Alternate Version).mp3"
   },
   {
     "uuid": "0fa6f6d9-2ce7-4402-82fe-315abb9d0662",
@@ -33755,7 +33757,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Super Robin Hood/Ground (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Super Robin Hood/Ground (8bit Version).mp3"
   },
   {
     "uuid": "6187d995-69b7-4308-ac28-c0c94b4cb85f",
@@ -33776,7 +33778,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda/Death Mountain (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda/Death Mountain (8bit Version).mp3"
   },
   {
     "uuid": "c44a02da-9717-4d15-abdc-c3ced0527b46",
@@ -33797,7 +33799,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda/Dungeon (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda/Dungeon (8bit Version).mp3"
   },
   {
     "uuid": "a3aabe24-e626-4275-b650-d1cbe4501194",
@@ -33818,7 +33820,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "The Legend of Zelda/Temple Clear (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda/Temple Clear (8bit Version).mp3"
   },
   {
     "uuid": "e320e25f-d5de-4e48-9757-a09a3ade5d81",
@@ -33840,7 +33842,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Treasure Island Dizzy/Island (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Treasure Island Dizzy/Island (8bit Version).mp3"
   },
   {
     "uuid": "5a20cb07-7772-4fd7-9b17-6a7c7947ade8",
@@ -33864,7 +33866,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Xexyz/Inside (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Xexyz/Inside (8bit Version).mp3"
   },
   {
     "uuid": "88e445d9-c356-494e-82a7-24e137778032",
@@ -33887,7 +33889,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Xexyz/Outside (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Xexyz/Outside (8bit Version).mp3"
   },
   {
     "uuid": "3a9e6543-d314-42a1-aafa-be32f6c171f2",
@@ -33909,7 +33911,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/Encounter (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/Encounter (8bit Version).mp3"
   },
   {
     "uuid": "8613c4e5-ab81-43f3-8a6c-3598f1508bfa",
@@ -33930,7 +33932,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/Field (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/Field (8bit Version).mp3"
   },
   {
     "uuid": "57d2e599-4e78-4592-97c8-506140b329cf",
@@ -33951,7 +33953,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/Great Palace (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/Great Palace (8bit Version).mp3"
   },
   {
     "uuid": "44c5a39b-1d24-4dbe-a3b4-e29137f95b37",
@@ -33973,7 +33975,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/House (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/House (8bit Version).mp3"
   },
   {
     "uuid": "7c784529-4013-4cb8-8363-be1748548ce6",
@@ -33994,7 +33996,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/Level Up (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/Level Up (8bit Version).mp3"
   },
   {
     "uuid": "4db2e64d-76c4-43d5-95e2-e33a83a78ebe",
@@ -34015,7 +34017,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/Temple (Variant A) (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/Temple (Variant A) (8bit Version).mp3"
   },
   {
     "uuid": "abdac7ec-ee10-4246-9712-77fa533db6fa",
@@ -34037,7 +34039,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Zelda II The Adventure of Link/Town (8bit Version).mmrs",
-    "preview": ""
+    "preview": "previews/Zelda II The Adventure of Link/Town (8bit Version).mp3"
   },
   {
     "uuid": "e77e446b-caeb-4db8-8cff-88316bfcb368",
@@ -37459,7 +37461,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "983d6012-4540-4f5b-a43d-958d120df376",
-    "file": "A Hat in Time/Alpine Skyline (Time Rift).mmrs"
+    "file": "A Hat in Time/Alpine Skyline (Time Rift).mmrs",
+    "preview": "previews/A Hat in Time/Alpine Skyline (Time Rift).ogg"
   },
   {
     "game": "A Hat in Time",
@@ -37474,7 +37477,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "99ea553c-f6d3-4328-a2c0-e8d9d9e10ff4",
-    "file": "A Hat in Time/Time Rift Story Book.mmrs"
+    "file": "A Hat in Time/Time Rift Story Book.mmrs",
+    "preview": "previews/A Hat in Time/Time Rift Story Book.ogg"
   },
   {
     "uuid": "97039fa8-eef4-41ab-a259-5b89b873e2a1",
@@ -44066,7 +44070,7 @@
       "0"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Hyrule Castle.mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Breath of the Wild/Hyrule Castle.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44087,7 +44091,7 @@
       "6"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Kass' Theme.mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Breath of the Wild/Kass' Theme.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44110,7 +44114,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Battle Mode.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Battle Mode.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44131,7 +44135,7 @@
       "5"
     ],
     "file": "Mario Kart 64/Banshee Boardwalk.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Banshee Boardwalk.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44153,7 +44157,7 @@
       "5"
     ],
     "file": "Mario Kart 64/Bowser's Castle.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Bowser's Castle.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44175,7 +44179,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Congratulations!.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Congratulations!.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44196,7 +44200,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/No Trophy For You!.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/No Trophy For You!.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44217,7 +44221,7 @@
       "4"
     ],
     "file": "Mario Kart 64/Choco Mountian.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Choco Mountian.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44239,7 +44243,7 @@
       "1"
     ],
     "file": "Mario Kart 64/DK's Jungle Parkway.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/DK's Jungle Parkway.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44262,7 +44266,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Frappe Snowland.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Frappe Snowland.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44283,7 +44287,7 @@
       "1"
     ],
     "file": "Mario Kart 64/Koopa Troopa Beach.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Koopa Troopa Beach.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44306,7 +44310,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Luigi Raceway.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Luigi Raceway.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44328,7 +44332,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Main Menu.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Main Menu.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44349,7 +44353,7 @@
       "4"
     ],
     "file": "Mario Kart 64/Moo Moo Farm.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Moo Moo Farm.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -44371,7 +44375,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Star Power.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Star Power.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44393,7 +44397,7 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Toad's Turnpike.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Toad's Turnpike.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -44417,7 +44421,7 @@
     "uuid": "95dcdcb7-51e8-4e01-a08b-07e58a67c403",
     "creationDate": "2026-05-01T16:23:07.566Z",
     "file": "Mario Kart 64/Kalimari Desert.mmrs",
-    "preview": ""
+    "preview": "previews/Mario Kart 64/Kalimari Desert.mp3"
   },
   {
     "game": "Mario Kart 64",
@@ -44439,7 +44443,7 @@
     "uuid": "00de7014-c8be-47bd-a3b9-502d25bfce24",
     "creationDate": "2026-05-01T16:23:07.566Z",
     "file": "Mario Kart 64/Rainbow Road.mmrs",
-    "preview": ""
+    "preview": "previews/Mario Kart 64/Rainbow Road.mp3"
   },
   {
     "uuid": "27afd162-2183-41b6-9679-48ad5f7ed536",
@@ -44976,7 +44980,7 @@
       "6"
     ],
     "file": "The Legend of Zelda Skyward Sword/Groose's Theme.mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Skyward Sword/Groose's Theme.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45107,7 +45111,7 @@
       "1"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45191,7 +45195,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45256,7 +45260,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45341,7 +45345,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Ganon's Castle (MM Version).mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Ocarina of Time/Ganon's Castle (MM Version).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45535,7 +45539,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Water Temple (MM Version).mmrs",
-    "preview": "",
+    "preview": "previews/The Legend of Zelda Ocarina of Time/Water Temple (MM Version).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45619,7 +45623,7 @@
     "usesFormmask": false,
     "uuid": "96aaa17c-818c-4843-81a8-33d64a3db0cf",
     "file": "The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mp3"
   },
   {
     "game": "The Legend of Zelda: Ocarina of Time",
@@ -45719,7 +45723,7 @@
       "2"
     ],
     "file": "Star Fox 64/Aquas (Variant B).mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Aquas (Variant B).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45741,7 +45745,7 @@
       "1"
     ],
     "file": "Star Fox 64/Area 6.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Area 6.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45762,7 +45766,7 @@
       "5"
     ],
     "file": "Star Fox 64/Bolse.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Bolse.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45783,7 +45787,7 @@
       "7"
     ],
     "file": "Star Fox 64/Boss Battle 2.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Boss Battle 2.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45805,7 +45809,7 @@
       "1"
     ],
     "file": "Star Fox 64/Fichina.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Fichina.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45827,7 +45831,7 @@
       "1"
     ],
     "file": "Star Fox 64/Meteo.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Meteo.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45849,7 +45853,7 @@
       "2"
     ],
     "file": "Star Fox 64/Sector Y.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Sector Y.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45871,7 +45875,7 @@
       "1"
     ],
     "file": "Star Fox 64/Titania.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Titania.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45893,7 +45897,7 @@
       "3"
     ],
     "file": "Star Fox 64/Zoness.mmrs",
-    "preview": "",
+    "preview": "previews/Star Fox 64/Zoness.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45915,7 +45919,7 @@
       "1"
     ],
     "file": "Super Mario Galaxy 2/Sky Station Galaxy.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario Galaxy 2/Sky Station Galaxy.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45939,7 +45943,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Bob-Omb Battlefield.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Bob-Omb Battlefield.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -45960,7 +45964,7 @@
       "3"
     ],
     "file": "Super Mario 64/Big Boo's Haunt.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Big Boo's Haunt.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45982,7 +45986,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Bowser's Road.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Bowser's Road.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -46002,7 +46006,7 @@
       "7"
     ],
     "file": "Super Mario 64/Stage Boss.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Stage Boss.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46024,7 +46028,7 @@
       "1"
     ],
     "file": "Super Mario 64/Peach's Castle.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Peach's Castle.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46046,7 +46050,7 @@
       "3"
     ],
     "file": "Super Mario 64/Cool, Cool Mountain.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Cool, Cool Mountain.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46067,7 +46071,7 @@
       "10"
     ],
     "file": "Super Mario 64/Final Battle Clear.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Final Battle Clear.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46091,7 +46095,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Venom.mp3",
     "file": "Star Fox 64/Venom.mmrs"
   },
   {
@@ -46113,7 +46117,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Katarina.mp3",
     "file": "Star Fox 64/Katarina.mmrs"
   },
   {
@@ -46134,7 +46138,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Boss Battle 1.mp3",
     "file": "Star Fox 64/Boss Battle 1.mmrs"
   },
   {
@@ -46156,7 +46160,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Corneria.mp3",
     "file": "Star Fox 64/Corneria.mmrs"
   },
   {
@@ -46178,7 +46182,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Sector X.mp3",
     "file": "Star Fox 64/Sector X.mmrs"
   },
   {
@@ -46201,7 +46205,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Star Wolf.mp3",
     "file": "Star Fox 64/Star Wolf.mmrs"
   },
   {
@@ -46223,7 +46227,7 @@
     "converters": [
       "DeathBasket"
     ],
-    "preview": "",
+    "preview": "previews/Star Fox 64/Boss Battle 3.mp3",
     "file": "Star Fox 64/Boss Battle 3.mmrs"
   },
   {
@@ -46242,7 +46246,7 @@
       "9"
     ],
     "file": "Super Mario 64/Bowser's Message.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Bowser's Message.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46263,7 +46267,7 @@
       "8"
     ],
     "file": "Super Mario 64/Bowser Clear.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Bowser Clear.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46285,7 +46289,7 @@
       "1"
     ],
     "file": "Super Mario 64/File Select.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/File Select.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46306,7 +46310,7 @@
       "7"
     ],
     "file": "Super Mario 64/Ultimate Bowser (Variant A).mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Ultimate Bowser (Variant A).mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46327,7 +46331,7 @@
       "10"
     ],
     "file": "Super Mario 64/Opening.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Opening.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46370,7 +46374,7 @@
       "8"
     ],
     "file": "Super Mario 64/Peach's Letter.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Peach's Letter.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46391,7 +46395,7 @@
       "8"
     ],
     "file": "Mario Kart 64/Race.mmrs",
-    "preview": "",
+    "preview": "previews/Mario Kart 64/Race.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46412,7 +46416,7 @@
       "10"
     ],
     "file": "Super Mario 64/Peach is Saved.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Peach is Saved.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46433,7 +46437,7 @@
       "8"
     ],
     "file": "Super Mario 64/Correct Solution.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Correct Solution.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46454,7 +46458,7 @@
       "8"
     ],
     "file": "Super Mario 64/Power Star.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Power Star.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46476,7 +46480,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Star Get.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Star Get.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -46496,7 +46500,7 @@
       "8"
     ],
     "file": "Super Mario 64/Toad's Message.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Toad's Message.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46518,7 +46522,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Course Clear.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Course Clear.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -46538,7 +46542,7 @@
       "2"
     ],
     "file": "Super Mario 64/Hazy Maze Cave.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Hazy Maze Cave.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46561,7 +46565,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Dire, Dire Docks.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Dire, Dire Docks.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -46582,7 +46586,7 @@
       "3"
     ],
     "file": "Super Mario 64/Lethal Lava Land.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Lethal Lava Land.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46604,7 +46608,7 @@
       "3"
     ],
     "file": "Super Mario 64/Piranha Plant's Lullaby.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Piranha Plant's Lullaby.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46627,7 +46631,7 @@
       "6"
     ],
     "file": "Super Mario 64/Merry-Go-Round.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Merry-Go-Round.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46650,7 +46654,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Slider (Variant B).mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Slider (Variant B).mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -46671,7 +46675,7 @@
       "3"
     ],
     "file": "Super Mario 64/Looping Steps.mmrs",
-    "preview": "",
+    "preview": "previews/Super Mario 64/Looping Steps.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -61487,7 +61491,7 @@
     "usesFormmask": false,
     "uuid": "37ba1b08-ba7f-4e0b-a35b-a1190f09bda3",
     "file": "Banjo-Tooie/Cloud Cuckooland.mmrs",
-    "preview": ""
+    "preview": "previews/Banjo-Tooie/Cloud Cuckooland.mp3"
   },
   {
     "game": "Banjo-Tooie",
@@ -61509,7 +61513,7 @@
     "usesFormmask": false,
     "uuid": "eb3db6df-4d01-4a27-b7c3-4f142031e7a8",
     "file": "Banjo-Tooie/Hailfire Peak (Fire Side).mmrs",
-    "preview": ""
+    "preview": "previews/Banjo-Tooie/Hailfire Peak (Fire Side).mp3"
   },
   {
     "game": "Banjo-Tooie",
@@ -61531,7 +61535,7 @@
     "usesFormmask": false,
     "uuid": "2796c9ee-378e-4ca9-81a3-3a5183247a1a",
     "file": "Banjo-Tooie/Jinjo Village.mmrs",
-    "preview": ""
+    "preview": "previews/Banjo-Tooie/Jinjo Village.mp3"
   },
   {
     "game": "Joshua8600",
@@ -61575,7 +61579,7 @@
     "usesFormmask": false,
     "uuid": "d855c6ef-2d00-4a9c-aa32-e447a30c8e5c",
     "file": "Joshua8600/Mythic Prize V2.mmrs",
-    "preview": ""
+    "preview": "previews/Joshua8600/Mythic Prize V2.mp3"
   },
   {
     "game": "Joshua8600",
@@ -61597,7 +61601,7 @@
     "usesFormmask": false,
     "uuid": "50d09cc2-4ff4-4929-b217-bddc9c8ffac8",
     "file": "Joshua8600/Mythic Prize.mmrs",
-    "preview": ""
+    "preview": "previews/Joshua8600/Mythic Prize.mp3"
   },
   {
     "game": "Joshua8600",
@@ -61619,7 +61623,7 @@
     "usesFormmask": false,
     "uuid": "408cf1d7-0fdc-4dd7-9542-e23438ba107d",
     "file": "Joshua8600/Scalar Meetings.mmrs",
-    "preview": ""
+    "preview": "previews/Joshua8600/Scalar Meetings.mp3"
   },
   {
     "game": "Mario Party",
@@ -61642,7 +61646,7 @@
     "usesFormmask": false,
     "uuid": "3747471c-d748-4c9a-ba13-9a6990fd234c",
     "file": "Mario Party/Mario's Rainbow Castle (Variant B).mmrs",
-    "preview": ""
+    "preview": "previews/Mario Party/Mario's Rainbow Castle (Variant B).mp3"
   },
   {
     "game": "Mario Tennis",
@@ -61664,7 +61668,7 @@
     "usesFormmask": false,
     "uuid": "068d703b-4932-4815-8335-6c2c7b323906",
     "file": "Mario Tennis/Game Point (Variant B).mmrs",
-    "preview": ""
+    "preview": "previews/Mario Tennis/Game Point (Variant B).mp3"
   },
   {
     "game": "Metroid",
@@ -61684,7 +61688,7 @@
     "usesFormmask": false,
     "uuid": "6824f0ed-e46e-4dbc-8c8e-03067424f47a",
     "file": "Metroid/Kraid's Lair (Variant B).mmrs",
-    "preview": ""
+    "preview": "previews/Metroid/Kraid's Lair (Variant B).mp3"
   },
   {
     "game": "The Legend of Zelda: Phantom Hourglass",
@@ -61709,7 +61713,7 @@
     "usesFormmask": false,
     "uuid": "f5711e71-5d61-4bb2-b0ea-84d74347e03f",
     "file": "The Legend of Zelda Phantom Hourglass/Set Sail for Adventure.mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Phantom Hourglass/Set Sail for Adventure.mp3"
   },
   {
     "game": "The Legend of Zelda: Spirit Tracks",
@@ -61732,7 +61736,7 @@
     "usesFormmask": false,
     "uuid": "8716188b-cbbb-4fba-b89d-63d2e86c3a7d",
     "file": "The Legend of Zelda Spirit Tracks/Fleeing by Demon Train.mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Spirit Tracks/Fleeing by Demon Train.mp3"
   },
   {
     "game": "The Legend of Zelda: Skyward Sword",
@@ -61752,7 +61756,7 @@
     "usesFormmask": false,
     "uuid": "400e3183-696a-4f3c-a096-920d78a201e2",
     "file": "The Legend of Zelda Skyward Sword/Fi's Theme.mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Skyward Sword/Fi's Theme.mp3"
   },
   {
     "game": "The Legend of Zelda: Skyward Sword",
@@ -61772,7 +61776,7 @@
     "usesFormmask": false,
     "uuid": "d93e6304-0319-4862-b180-f013cd5464b8",
     "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme (Variant B).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Skyward Sword/Ghirahim's Theme (Variant B).mp3"
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
@@ -61793,7 +61797,7 @@
     "usesFormmask": false,
     "uuid": "3476410b-b739-4679-9fd5-df5efb000975",
     "file": "The Legend of Zelda Twilight Princess/Courage.mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Twilight Princess/Courage.mp3"
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
@@ -61814,7 +61818,7 @@
     "usesFormmask": false,
     "uuid": "a74f0778-f3df-44ea-bf79-2ead44f93de9",
     "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant A).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Twilight Princess/STAR Game (Variant A).mp3"
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
@@ -61835,7 +61839,7 @@
     "usesFormmask": false,
     "uuid": "ace6e99a-0de5-4f52-b9c8-b33ee490aeb0",
     "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant B).mmrs",
-    "preview": ""
+    "preview": "previews/The Legend of Zelda Twilight Princess/STAR Game (Variant B).mp3"
   },
   {
     "uuid": "24758c9e-010f-433e-8189-26d3f4f3f9dc",
