@@ -12349,7 +12349,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.mmrs",
-    "preview": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.ogg"
+    "preview": "Metroid Prime 2 Echoes/Torvus Bog Subterranean.ogg",
+    "lufs": "-18.88"
   },
   {
     "uuid": "7a251f83-7373-4419-8ac8-5e841d4aac79",
