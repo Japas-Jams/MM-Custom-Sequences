@@ -56684,7 +56684,7 @@
   {
     "uuid": "d05b04db-a217-47c6-90e6-940045937c13",
     "creationDate": "2026-05-10T02:33:18.308Z",
-    "game": "Resident Evil 2 (1998)",
+    "game": "Resident Evil 2",
     "song": "The Front Hall",
     "composers": [
       "Masami Ueda"
@@ -56697,8 +56697,8 @@
       "2",
       "3"
     ],
-    "file": "Resident Evil 2 (1998)/The Front Hall.mmrs",
-    "preview": "Resident Evil 2 (1998)/The Front Hall.ogg",
+    "file": "Resident Evil 2/The Front Hall.mmrs",
+    "preview": "Resident Evil 2/The Front Hall.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -56707,7 +56707,7 @@
   {
     "uuid": "0ce72661-b9d4-4728-916d-b235b5f99662",
     "creationDate": "2026-05-10T02:34:45.957Z",
-    "game": "Resident Evil 2 (1998)",
+    "game": "Resident Evil 2",
     "song": "Secure Place",
     "composers": [
       "Masami Ueda"
@@ -56722,8 +56722,8 @@
       "6",
       "16"
     ],
-    "file": "Resident Evil 2 (1998)/Secure Place.mmrs",
-    "preview": "Resident Evil 2 (1998)/Secure Place.ogg",
+    "file": "Resident Evil 2/Secure Place.mmrs",
+    "preview": "Resident Evil 2/Secure Place.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -56732,7 +56732,7 @@
   {
     "uuid": "58bc8420-e748-4e46-a0c9-b15759d6d135",
     "creationDate": "2026-05-10T02:35:45.220Z",
-    "game": "Resident Evil 2 (1998)",
+    "game": "Resident Evil 2",
     "song": "The Library",
     "composers": [
       "Masami Ueda"
@@ -56746,8 +56746,8 @@
       "2",
       "3"
     ],
-    "file": "Resident Evil 2 (1998)/The Library.mmrs",
-    "preview": "Resident Evil 2 (1998)/The Library.ogg",
+    "file": "Resident Evil 2/The Library.mmrs",
+    "preview": "Resident Evil 2/The Library.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -56781,7 +56781,7 @@
   {
     "uuid": "3504827d-d72b-4d3d-bb87-5a213c1b1aa8",
     "creationDate": "2026-05-10T02:41:20.327Z",
-    "game": "Resident Evil (1996)",
+    "game": "Resident Evil",
     "song": "Wesker's Theme",
     "composers": [
       "Masami Ueda",
@@ -56797,8 +56797,8 @@
       "3",
       "6"
     ],
-    "file": "Resident Evil (1996)/Wesker's Theme.mmrs",
-    "preview": "Resident Evil (1996)/Wesker's Theme.ogg",
+    "file": "Resident Evil/Wesker's Theme.mmrs",
+    "preview": "Resident Evil/Wesker's Theme.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -56807,7 +56807,7 @@
   {
     "uuid": "169f864d-b1e9-4d0e-96de-65d9f587be92",
     "creationDate": "2026-05-10T02:51:38.520Z",
-    "game": "Resident Evil 2 (1998)",
+    "game": "Resident Evil 2",
     "song": "T'-B",
     "composers": [
       "Masami Ueda"
@@ -56819,8 +56819,8 @@
     "categories": [
       "7"
     ],
-    "file": "Resident Evil 2 (1998)/T'-B.mmrs",
-    "preview": "Resident Evil 2 (1998)/T'-B.ogg",
+    "file": "Resident Evil 2/T'-B.mmrs",
+    "preview": "Resident Evil 2/T'-B.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -62535,7 +62535,7 @@
   {
     "uuid": "edf40729-53bf-4ae1-a8ed-1ec24b071ded",
     "creationDate": "2026-05-19T03:07:17.376Z",
-    "game": "Pokémon Ultra Sun and Ultra Moon",
+    "game": "Pokémon Ultra Sun & Ultra Moon",
     "song": "Showdown! (Ultra Necrozma)",
     "composers": [
       "Go Ichinose"
@@ -62548,8 +62548,8 @@
       "4",
       "7"
     ],
-    "file": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).mmrs",
-    "preview": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).ogg",
+    "file": "Pokémon Ultra Sun & Ultra Moon/Showdown! (Ultra Necrozma).mmrs",
+    "preview": "Pokémon Ultra Sun & Ultra Moon/Showdown! (Ultra Necrozma).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -64570,5 +64570,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-17.44"
-  }
+  },
+  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

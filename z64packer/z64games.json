@@ -333,6 +333,7 @@
   },
   {
     "game": "Demon's Crest",
+    "series": "Ghosts 'n Goblins Series",
     "logo": "https://i.imgur.com/13kXlFU.png"
   },
   {
@@ -590,6 +591,7 @@
   },
   {
     "game": "Grand Theft Auto: Vice City",
+    "series": "Grand Theft Auto Series",
     "logo": "https://i.imgur.com/BUwWuud.png"
   },
   {
@@ -1495,7 +1497,7 @@
     "short_name": "Resident Evil DC"
   },
   {
-    "game": "Resident Evil 2 (1998)",
+    "game": "Resident Evil 2",
     "series": "Resident Evil Series",
     "logo": "https://i.imgur.com/sdIxA6b.png"
   },
@@ -1752,6 +1754,7 @@
   },
   {
     "game": "Spider-Man (Acclaim)",
+    "series": "Spider-Man Series",
     "logo": "https://i.imgur.com/ZztHZxj.png"
   },
   {
@@ -1841,6 +1844,7 @@
   },
   {
     "game": "Super Ghouls 'n Ghosts",
+    "series": "Ghosts 'n Goblins Series",
     "logo": "https://i.imgur.com/Q3WMIQk.png"
   },
   {
@@ -1937,7 +1941,7 @@
   },
   {
     "game": "Super Mario World 2: Yoshi's Island",
-    "series": "Super Mario Series",
+    "series": "Yoshi Series",
     "logo": "https://i.imgur.com/mzFBubW.png",
     "short_name": "Yoshi's Island"
   },
@@ -2138,115 +2142,115 @@
   },
   {
     "game": "Touhou Artificial Dream in Arcadia",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/zxAGNaZ.png",
     "short_name": "Touhou ADiA"
   },
   {
     "game": "Touhou 11: Subterranean Animism",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/TGbpxDH.png",
     "short_name": "Touhou 11"
   },
   {
     "game": "Touhou 8: Imperishable Night",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/k7pDWwJ.png",
     "short_name": "Touhou 8"
   },
   {
     "game": "Touhou 10: Mountain of Faith",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/j254w8T.png",
     "short_name": "Touhou 10"
   },
   {
     "game": "Touhou 4: Lotus Land Story",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/QRTgB7g.png",
     "short_name": "Touhou 4"
   },
   {
     "game": "Touhou 10.5: Scarlet Weather Rhapsody",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/bMzNBDs.png",
     "short_name": "Touhou 10.5"
   },
   {
     "game": "Touhou 12.3: Choudokyuu Guignol no Nazo wo Oe",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/uLohFDp.png",
     "short_name": "Touhou 12.3"
   },
   {
     "game": "Touhou 15.5: Antinomy of Common Flowers",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/BkSddN5.png",
     "short_name": "Touhou 15.5"
   },
   {
     "game": "Touhou 9: Phantasmagoria of Flower View",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/UAmNF6P.png",
     "short_name": "Touhou 9"
   },
   {
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/PY86OeL.png",
     "short_name": "Touhou 15"
   },
   {
     "game": "Touhou 17: Wily Beast and Weakest Creature",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/Iv8mU0s.png",
     "short_name": "Touhou 17"
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/0f9Uu7j.png",
     "short_name": "Touhou 6"
   },
   {
     "game": "Touhou 18: Unconnected Marketeers",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/ZDsMCJ5.png",
     "short_name": "Touhou 18"
   },
   {
     "game": "Touhou 1: The Highly Responsive to Prayers",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/u2BfhqJ.png",
     "short_name": "Touhou 1"
   },
   {
     "game": "Touhou 12: Undefined Fantastic Object",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/78T3vVI.png",
     "short_name": "Touhou 12"
   },
   {
     "game": "Touhou 13: Ten Desires",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/33ciPgY.png",
     "short_name": "Touhou 13"
   },
   {
     "game": "Touhou 16: Hidden Star in Four Seasons",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/nQEnuoy.png",
     "short_name": "Touhou 16"
   },
   {
     "game": "Touhou 7: Perfect Cherry Blossom",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/UsSPP1a.png",
     "short_name": "Touhou 7"
   },
   {
     "game": "Touhou 3: The Phantasmagoria of Dim.Dream",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "logo": "https://i.imgur.com/mzIhPtH.png",
     "short_name": "Touhou 3"
   },
@@ -2479,12 +2483,14 @@
   {
     "game": "Dragon Quest IV: Chapters of the Chosen",
     "series": "Dragon Quest Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/659f7811510c2a2b265a09a56095c702.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/659f7811510c2a2b265a09a56095c702.png",
+    "short_name": "Dragon Quest IV"
   },
   {
     "game": "Dragon Quest IX: Sentinels of the Starry Skies",
     "series": "Dragon Quest Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6be93f7a96fed60c477d30ae1de032fd.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6be93f7a96fed60c477d30ae1de032fd.png",
+    "short_name": "Dragon Quest IX"
   },
   {
     "game": "Mario Party DS",
@@ -2493,7 +2499,7 @@
   },
   {
     "game": "Touhou 14: Double Dealing Character",
-    "series": "Touhou Series",
+    "series": "Touhou Project",
     "short_name": "Touhou 14",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/f41aa56e9d3009c6e7a339032bc3589b.png"
   },
@@ -2701,6 +2707,7 @@
   },
   {
     "game": "Silent Hill 2",
+    "series": "Silent Hill Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/1dc3a89d0d440ba31729b0ba74b93a33.png"
   },
   {
@@ -2806,6 +2813,7 @@
   },
   {
     "game": "Wonder Boy III: The Dragon's Trap",
+    "series": "Wonder Boy Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/708985cc1d6977124e38b27ee7cba1f2.png"
   },
   {
@@ -3216,7 +3224,9 @@
   },
   {
     "game": "Monkey Island 2: LeChuck's Revenge",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/15114b232670d53c100a833d5b55946f.png"
+    "series": "Monkey Island Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/15114b232670d53c100a833d5b55946f.png",
+    "short_name": "Monkey Island 2"
   },
   {
     "game": "Mario Kart 8",
@@ -3470,6 +3480,7 @@
   },
   {
     "game": "Harvest Moon: Back to Nature",
+    "series": "Harvest Moon Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/96670197fabdac700cca192d9fa97f1f.png"
   },
   {
@@ -3517,6 +3528,7 @@
   },
   {
     "game": "SaGa Frontier",
+    "series": "SaGa Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/543aed787cac2df5cab649947c2d641a.png"
   },
   {
@@ -3617,7 +3629,7 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/5136b65c9852fc84dbe935e11613f9b9.png"
   },
   {
-    "game": "Resident Evil (1996)",
+    "game": "Resident Evil",
     "series": "Resident Evil Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/c8758b517083196f05ac29810b924aca.png"
   },
@@ -3649,6 +3661,7 @@
   },
   {
     "game": "Star Ocean: Till the End of Time",
+    "series": "Star Ocean Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/84648eaca6a7fc8394fbdb9cf07fd236.png",
     "short_name": "Star Ocean 3"
   },
@@ -3762,7 +3775,7 @@
     "short_name": "Pokémon LGPE"
   },
   {
-    "game": "Pokémon Ultra Sun and Ultra Moon",
+    "game": "Pokémon Ultra Sun & Ultra Moon",
     "series": "Pokémon Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3c9cb08585a40829bc88130b0b8ebdf.png",
     "short_name": "Pokémon USUM"
@@ -3840,6 +3853,7 @@
   },
   {
     "game": "Turok 2: Seeds of Evil",
+    "series": "Turok Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/3bd4017318837e92a66298c7855f4427.png"
   },
   {
@@ -3853,6 +3867,554 @@
   {
     "game": "Joshua8600",
     "series": "Original Compositions"
+  },
+  {
+    "game": "20th Century Fox",
+    "series": "TV and Movies",
+    "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40965629-e974-4fe4-b318-0af0fed59ccb/deex2s3-96079717-ab4b-40bc-b4a7-2e8cbd402a4a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80MDk2NTYyOS1lOTc0LTRmZTQtYjMxOC0wYWYwZmVkNTljY2IvZGVleDJzMy05NjA3OTcxNy1hYjRiLTQwYmMtYjRhNy0yZThjYmQ0MDJhNGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OZR3jEjLD1Nyawd4UY3CpgyBBiiBK0t5Z1Jr2-ntcpg"
+  },
+  {
+    "game": "Altered Beast",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/332420753a397279bdbd90c9ac4d33f9.png"
+  },
+  {
+    "game": "Animal Crossing: City Folk",
+    "series": "Animal Crossing Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/df613558c15ae2f7ad53bc2c71e8447b.png"
+  },
+  {
+    "game": "Antonio Vivaldi",
+    "series": "Classical Compositions",
+    "logo": "https://i.scdn.co/image/12caee0d8c2843b37e2b19da99e385010a2f8c5b"
+  },
+  {
+    "game": "Assassin's Creed II",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bc419ad99b06b6b3e155039d714e2061.png"
+  },
+  {
+    "game": "Bad Dudes",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/524d8bc19ac712d1ab429056a2a993c8.png"
+  },
+  {
+    "game": "Bubble Bobble",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0f3b266202a9e5e84c6b1229e21e1fa9.png"
+  },
+  {
+    "game": "Castlevania: Harmony of Dissonance",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/81ed4d7130d22722194f33b1ab0f937c.png"
+  },
+  {
+    "game": "Chip 'n Dale: Rescue Rangers",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f03a19ab4d5c48383069e84012b1723a.png"
+  },
+  {
+    "game": "Clair Obscur: Expedition 33",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8336f05746072f34cde26ca89a7d4e2e.png"
+  },
+  {
+    "game": "Columns",
+    "series": "Columns Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/172fd0d638b3282151bd8f3d652cb640.png"
+  },
+  {
+    "game": "Columns III: Revenge of Columns",
+    "series": "Columns Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/533a42a835b25ce0b262e20e29e6d689.png"
+  },
+  {
+    "game": "Comix Zone",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3d2d0418e6f72774f366f5d741b8a6ad.png"
+  },
+  {
+    "game": "Deadly Premonition",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/cf8aee46a3f1cc6e982f1cf1a8acb3c9.png"
+  },
+  {
+    "game": "Dragon Ball",
+    "series": "Anime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/1280px-Dragon_Ball_anime_logo.png"
+  },
+  {
+    "game": "Dragon Quest",
+    "series": "Dragon Quest Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c72c3a6a686b4da74aecacb95f78b256.png"
+  },
+  {
+    "game": "Dragon Quest III: The Seeds of Salvation",
+    "series": "Dragon Quest Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bd1de862c509c34de95c9a2655e48586.png",
+    "short_name": "Dragon Quest III"
+  },
+  {
+    "game": "Dragon Quest VII: Fragments of the Forgotten Past",
+    "series": "Dragon Quest Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ecc8647b514cb6ae769b6af99410a092.png",
+    "short_name": "Dragon Quest VII"
+  },
+  {
+    "game": "Dungeon Master II: The Legend of Skullkeep",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ec0ff0c25a118cbb78190b2cf27adbd6.png",
+    "short_name": "Dungeon Master II"
+  },
+  {
+    "game": "Elden Ring",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6076036fdb272f49688c571013f3ede1.png"
+  },
+  {
+    "game": "F-Zero 99",
+    "series": "F-Zero Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ca24ace054f22ad5ec0f5314f4f32ca2.png"
+  },
+  {
+    "game": "F-Zero GX",
+    "series": "F-Zero Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/60519c3dd22587d6de04d5f1e28bd41d.png"
+  },
+  {
+    "game": "Fire Emblem"
+  },
+  {
+    "game": "Fire Emblem Gaiden"
+  },
+  {
+    "game": "Fire Emblem Heroes",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9fa6e27bc99c0b69a035721498cc4710.png"
+  },
+  {
+    "game": "Frostpunk",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/27093d5113f87e06a397683429a64363.png"
+  },
+  {
+    "game": "Ghouls 'n Ghosts",
+    "series": "Ghosts 'n Goblins Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b6f05a7baab2fe0eea07e59bd5b0b317.png"
+  },
+  {
+    "game": "Golden Axe",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/dc1913d422398c25c5f0b81cab94cc87.png"
+  },
+  {
+    "game": "Grand Theft Auto: San Andreas",
+    "series": "Grand Theft Auto Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/88a199611ac2b85bd3f76e8ee7e55650.png"
+  },
+  {
+    "game": "Guilty Gear X",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/657e31ff3231b847d7604f6647a2dfc9.png"
+  },
+  {
+    "game": "Gunstar Heroes",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/60315f2e8a5b4904cf2972fa3d2a3c19.png"
+  },
+  {
+    "game": "Hades",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f1291fd5dfbeaea377eaad66b2623961.png"
+  },
+  {
+    "game": "Halo 2",
+    "series": "Halo Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e97ee2054defb209c35fe4dc94599061.png"
+  },
+  {
+    "game": "Halo Reach",
+    "series": "Halo Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6e340d78952ce32a0d28d70814292bb2.png"
+  },
+  {
+    "game": "Harvest Moon DS",
+    "series": "Harvest Moon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/225de5ef23fbfa96f02a8e1e8626ab66.png"
+  },
+  {
+    "game": "Hatsune Miku",
+    "series": "Bands and Artists",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hatsune_Miku_logo_%28Project_Sekai%29.svg/3840px-Hatsune_Miku_logo_%28Project_Sekai%29.svg.png"
+  },
+  {
+    "game": "Hell's Kitchen",
+    "series": "TV and Movies",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/800692dce23ba9aedee4781b12277b74.png"
+  },
+  {
+    "game": "Hyperdimension Neptunia Re;Birth1",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/be388ce1c78198aedd205d6e44eb292d.png"
+  },
+  {
+    "game": "Invincible",
+    "series": "TV and Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Invincible_comic_series_logo.png/960px-Invincible_comic_series_logo.png"
+  },
+  {
+    "game": "J.J. & Jeff",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65b02eb3b457d64d6d5a10c5a441ad46.png"
+  },
+  {
+    "game": "Kevin R.",
+    "series": "Original Compositions",
+    "logo": ""
+  },
+  {
+    "game": "Kirby and the Forgotten Land",
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/107dd95cbdbd492c7f55e7128eaebce5.png"
+  },
+  {
+    "game": "Kirby's Block Ball",
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6bbd80b04535d39be5e02dbfd8730469.png"
+  },
+  {
+    "game": "Kirby's Epic Yarn",
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ad554d8c3b06d6b97ee76a2448bd7913.png"
+  },
+  {
+    "game": "La-Mulana",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3fe89afd10fe28f02efde3670e20da4a.png"
+  },
+  {
+    "game": "Lands of Lore: The Throne of Chaos",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d26cf5a5aa1c2999c8339d77fc3eed44.png"
+  },
+  {
+    "game": "LISA: The Joyful",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1fad47435b48d3e522734f0c6e416621.png"
+  },
+  {
+    "game": "Mario Kart: Super Circuit",
+    "series": "Mario Kart Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2404d480bb9068047a2fb584b0c5a44c.png"
+  },
+  {
+    "game": "Maui Mallard in Cold Shadow",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6ef07f927172f6d48f2e72d606a03713.png"
+  },
+  {
+    "game": "Mega Man 5",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/97e907221af01aec5f7adcdc49d72b39.png"
+  },
+  {
+    "game": "Mega Man 9",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/202f46e749ba97e38bb0cd9aca4ca010.png"
+  },
+  {
+    "game": "Metal Slug 2",
+    "series": "Metal Slug Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/08d24d640ddb54ad66f3562185bc0f49.png"
+  },
+  {
+    "game": "Metroid Prime: Hunters",
+    "series": "Metroid Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2cd2915e69546904e4e5d4a2ac9e1652.png"
+  },
+  {
+    "game": "Monster Hunter Generations Ultimate",
+    "series": "Monster Hunter Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8cb958257e5a77381e730fc3ce4b8b32.png"
+  },
+  {
+    "game": "Moon Whistle",
+    "logo": "https://i.imgur.com/0dsytiA.png"
+  },
+  {
+    "game": "NBC TV Network",
+    "series": "TV and Movies",
+    "logo": "https://www.nbc.com/generetic/generated/images/4fac8d8aaa7d8798a512dac0322d8d14.png"
+  },
+  {
+    "game": "Ninja Gaiden",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7da18d0326a9f46a4817e19c805819ae.png"
+  },
+  {
+    "game": "One Piece",
+    "series": "Anime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_onepiece_2021.png"
+  },
+  {
+    "game": "One Way Heroics",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/601255c5cbaa9e94e9f6a54d551f7ef1.png"
+  },
+  {
+    "game": "Phasmophobia",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/530cd267315741da2f57ea61dd741d51.png"
+  },
+  {
+    "game": "PlayStation 2",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bc353c4c6a6f7743290ce11723414424.png",
+    "short_name": "PS2"
+  },
+  {
+    "game": "Pocky & Rocky 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3784b58223ea0143f88f024aa1c04b89.png"
+  },
+  {
+    "game": "Pokémon 2000",
+    "series": "Pokémon Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/English_M02_Logo.png"
+  },
+  {
+    "game": "Pokémon Legends: Arceus",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a4d89012e1026d243518a526dacccacf.png"
+  },
+  {
+    "game": "Rayman Origins",
+    "series": "Rayman Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f72b5935d3c9a1dbc4dc2cb5bd078cd8.png"
+  },
+  {
+    "game": "Robot Wars: Advanced Destruction",
+    "series": "Robot Wars Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2ad65101287c37d8c91ba4be4e5594b6.png"
+  },
+  {
+    "game": "Romancing SaGa 3",
+    "series": "SaGa Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9cea10c7ff109c6e61727a0d45492ead.png"
+  },
+  {
+    "game": "SGDQ Triforce Percent",
+    "series": "The Legend of Zelda ROM Hacks",
+    "logo": "https://i.imgur.com/4sQlRod.png",
+    "short_name": "Triforce%"
+  },
+  {
+    "game": "Shadow of the Colossus",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/73ca2872fcef4234578eb337b4932d3c.png"
+  },
+  {
+    "game": "Silent Hill 3",
+    "series": "Silent Hill Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/623a1f8e55863044aa680a8fa581c36a.png"
+  },
+  {
+    "game": "Snatcher",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ef152a79c2f6111858309f64e2d68ebd.png"
+  },
+  {
+    "game": "Sonic Advance 3",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7269e7952aa48c4379151a29d01e25dd.png"
+  },
+  {
+    "game": "Sonic Chaos",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fcee1c9ad92de3cb8a6ed6d0622cb4ad.png"
+  },
+  {
+    "game": "Sonic Forces",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d8ea3ca79431cf87985f72c5fefb428a.png"
+  },
+  {
+    "game": "Sonic Mega Collection",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e5f3045e4478665d73a7f8a89ef4782e.png"
+  },
+  {
+    "game": "Sonic Pinball Party",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4fa0a0925c9527b40fb2353fc03e2bf0.png"
+  },
+  {
+    "game": "Sonic Riders: Zero Gravity",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f937c8fddbe66ab03c563f16d5cfa50c.png"
+  },
+  {
+    "game": "Sonic Robo Blast 2",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/85353d3b2f39b9c9b5ee3576578c04b7.png"
+  },
+  {
+    "game": "Sonic Rush",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/61bdf049525b7d4c2cf79257ec7c2c56.png"
+  },
+  {
+    "game": "Sonic Spinball",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4855678ca8b08b092ab353309336db8a.png"
+  },
+  {
+    "game": "Sonic the Hedgehog (8-bit)",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d8ecd4e7a1dba725d1179c30cb2531c5.png"
+  },
+  {
+    "game": "Sonic the Hedgehog 2 (8-bit)",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a7f6c96dac16f8ff45d7ea3549a10010.png"
+  },
+  {
+    "game": "Spider-Man 2",
+    "series": "Spider-Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/66030ae89f1bcffb8a4070b4a03e430f.png"
+  },
+  {
+    "game": "Splatoon 2",
+    "series": "Splatoon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/361ae29cb5e0e0beaee8d2cced3a4453.png"
+  },
+  {
+    "game": "SpongeBob SquarePants: The Yellow Avenger",
+    "series": "SpongeBob SquarePants Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a081cab429ff7a3b96e0a07319f1049e.png",
+    "short_name": "SpongeBob: The Yellow Avenger"
+  },
+  {
+    "game": "Star Ocean: The Second Story",
+    "series": "Star Ocean Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b2fdb4e6edcd80ed0c1620ddf6ff5389.png",
+    "short_name": "Star Ocean 2"
+  },
+  {
+    "game": "Streets of Rage 2",
+    "series": "Streets of Rage Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7bab7650be60b0738e22c3b8745f937d.png"
+  },
+  {
+    "game": "Sunset Riders",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/21d58309d158bcb0e3e70a3827221e7c.png"
+  },
+  {
+    "game": "Super Mario 64 Land",
+    "series": "Super Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/cd2d84f463b7118981165fe14fa02914.png"
+  },
+  {
+    "game": "Super Monkey Ball 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3a5a64a567a75090add692e2a4377e8d.png"
+  },
+  {
+    "game": "Super Robot Wars Gaiden: Masoukishin",
+    "series": "Robot Wars Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/dfd9daa9afec8fc846becb997c324968.png"
+  },
+  {
+    "game": "Super Robot Wars: Original Generation",
+    "series": "Robot Wars Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/602033ce4e5da4e6a829881523433297.png"
+  },
+  {
+    "game": "Super Smash T.V.",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1d89489ef93142f71ad9a0cd7cba45d1.png"
+  },
+  {
+    "game": "T.A.T. Communications",
+    "series": "TV and Movies",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b1/TAT_logo_1980.svg/revision/latest?cb=20211229055306"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles",
+    "series": "Teenage Mutant Ninja Turtles Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e875a3ad4f52e44482240713d709930e.png",
+    "short_name": "TMNT"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+    "series": "Teenage Mutant Ninja Turtles Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7a9aa819c5733930f0df26f4c3e0e4ff.png",
+    "short_name": "TMNT II"
+  },
+  {
+    "game": "The Addams Family: Pugsley's Scavenger Hunt",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0dca022617c7379c73fc91bf42642da8.png"
+  },
+  {
+    "game": "The Elder Scrolls III: Morrowind",
+    "series": "The Elder Scrolls Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5d6646aad9bcc0be55b2c82f69750387.png",
+    "short_name": "Morrowind"
+  },
+  {
+    "game": "The Eric Andre Show",
+    "series": "TV and Movies",
+    "logo": "https://static.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png/revision/latest?cb=20150624051214"
+  },
+  {
+    "game": "The Legend of Zelda: Spirit Tracks 64",
+    "series": "The Legend of Zelda ROM Hacks",
+    "logo": "",
+    "short_name": "Zelda: Spirit Tracks 64"
+  },
+  {
+    "game": "The Price is Right",
+    "series": "TV and Movies",
+    "logo": "https://static.wikia.nocookie.net/priceisright/images/5/5d/Tpir-logo-2022.png/revision/latest/scale-to-width-down/250?cb=20220924065326"
+  },
+  {
+    "game": "The Secret Of Monkey Island",
+    "series": "Monkey Island Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d1f157379ea7e51d4a8c07aff102a43f.png",
+    "short_name": "Monkey Island"
+  },
+  {
+    "game": "The SpongeBob SquarePants Movie",
+    "series": "SpongeBob SquarePants Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/182fe53e6c20be432aa0277667511ae2.png",
+    "short_name": "The SpongeBob Movie"
+  },
+  {
+    "game": "Tomb Raider II",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f9028faec74be6ec9b852b0a542e2f39.png"
+  },
+  {
+    "game": "Touhou 18.5: 100th Black Market",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/658554b5cdaf6ce721d68cf2a0be6734.png",
+    "short_name": "Touhou 18.5"
+  },
+  {
+    "game": "Turok: Dinosaur Hunter",
+    "series": "Turok Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/54a2a6a714d383485e79899dd53e8b24.png"
+  },
+  {
+    "game": "Ultima Online",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d6305e4149bc8b9672b74d1021bb7eef.png"
+  },
+  {
+    "game": "Undertale Yellow",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/915464a6b655320681a2a2557623a88c.png"
+  },
+  {
+    "game": "Windows 7",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/29353ce24ad093d9324c479b7a1bd107.png"
+  },
+  {
+    "game": "Windows 95",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/51b68f5195a2b629640c55358cd4a7f5.png"
+  },
+  {
+    "game": "Windows ME",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/53d49d481da5aed1facef3cb5d3e52b9.png"
+  },
+  {
+    "game": "Wonder Boy in Monster Land",
+    "series": "Wonder Boy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0595e5860fe9c5eaba82fb617087dbc1.png"
+  },
+  {
+    "game": "World of Illusion",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9d0fcc7311d2f9f58104bdfafc6b41eb.png"
+  },
+  {
+    "game": "Zelda The Wand of Gamelon",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ce6f311f2548c0e40fbd9beaaa288d32.png"
+  },
+  {
+    "game": "Simon the Sorcerer",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/315c28e89007ee350945951fd373fa01.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
