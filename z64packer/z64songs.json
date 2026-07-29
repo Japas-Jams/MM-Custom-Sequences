@@ -651,7 +651,7 @@
     "uuid": "81d23377-b622-4646-9482-51315e3b7406",
     "creationDate": "2026-03-06T17:36:51.440Z",
     "game": "Banjo-Kazooie",
-    "song": "Spiral Mountain",
+    "song": "Spiral Mountain (Normal, Underwater)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -665,7 +665,7 @@
     ],
     "usesCustomBank": true,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Spiral Mountain.mmrs",
+    "file": "Banjo-Kazooie/Spiral Mountain (Normal, Underwater).mmrs",
     "preview": "https://www.youtube.com/watch?v=yPz26RpFiuY",
     "lastUpdateDate": "2026-04-05T04:12:29.647Z",
     "notes": "This song changes while swimming.",
@@ -677,7 +677,7 @@
     "uuid": "5df25d06-a1ab-488f-89d2-92a9976eab0a",
     "creationDate": "2026-03-06T17:37:42.853Z",
     "game": "Banjo-Kazooie",
-    "song": "Treasure Trove Cove",
+    "song": "Treasure Trove Cove (Normal, Underwater, Near Ship)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -692,7 +692,7 @@
     ],
     "usesCustomBank": true,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Treasure Trove Cove.mmrs",
+    "file": "Banjo-Kazooie/Treasure Trove Cove (Normal, Underwater, Near Ship).mmrs",
     "preview": "https://www.youtube.com/watch?v=MU897v1VhX4",
     "lastUpdateDate": "2026-04-05T04:13:00.769Z",
     "notes": "This song changes based on being in combat or while swimming.",
@@ -837,7 +837,7 @@
     "game": "Castlevania",
     "song": "Wicked Child",
     "composers": [
-      "Michiru Yamane"
+      "Kinuyo Yamashita"
     ],
     "converters": [
       "BigBomba88"
@@ -6126,7 +6126,7 @@
     "uuid": "398169b4-99eb-443a-b00e-0738f59a3ffc",
     "creationDate": "2026-03-14T01:12:37.958Z",
     "game": "Animal Crossing",
-    "song": "2 AM",
+    "song": "2 A.M.",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -6141,7 +6141,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Animal Crossing/2 AM.mmrs",
+    "file": "Animal Crossing/2 A.M..mmrs",
     "preview": "https://www.youtube.com/watch?v=-00SSiQ0dXE",
     "lufs": "-19.33",
     "hash": "e4497b704fd5e0fdc5d6c4c0df479db0"
@@ -12586,7 +12586,7 @@
     "uuid": "4fae02a7-af27-4beb-8b7b-63d340f10ba8",
     "creationDate": "2026-03-18T23:00:30.879Z",
     "game": "Animal Crossing: Wild World",
-    "song": "Cafe Theme",
+    "song": "The Roost",
     "composers": [
       "Kazumi Totaka",
       "Asuka Hayazaki"
@@ -12603,8 +12603,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Animal Crossing Wild World/Cafe Theme.mmrs",
-    "preview": "Animal Crossing Wild World/Cafe Theme.ogg",
+    "file": "Animal Crossing Wild World/The Roost.mmrs",
+    "preview": "Animal Crossing Wild World/The Roost.ogg",
     "lufs": "-26.73",
     "hash": "ec7922ba0ee646d8a1461a7dec11eb40"
   },
@@ -18442,30 +18442,6 @@
     "hash": "47a3ab0275259eea0166f236f3d885b3"
   },
   {
-    "uuid": "ab627060-e336-461e-8dc6-b3e59734e719",
-    "creationDate": "2026-03-23T16:18:11.548Z",
-    "game": "Castlevania: Aria of Sorrow",
-    "song": "Top Floor",
-    "composers": [
-      "Michiru Yamane"
-    ],
-    "converters": [
-      "Seba 20 90"
-    ],
-    "type": "bgm",
-    "categories": [
-      "0",
-      "2"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Castlevania Aria of Sorrow/Top Floor.mmrs",
-    "preview": "Castlevania Aria of Sorrow/Top Floor.mp3",
-    "lufs": "-18.97",
-    "hash": "f0f08549f6ee55e04dc456c011941187"
-  },
-  {
     "uuid": "21cf2ea2-884d-4561-a936-1d5c8366dfe8",
     "creationDate": "2026-03-23T16:19:40.174Z",
     "game": "Castlevania: Dawn of Sorrow",
@@ -23941,7 +23917,7 @@
     "uuid": "87c15394-a942-4fe6-8730-bcd5e4185158",
     "creationDate": "2026-03-25T23:28:55.792Z",
     "game": "Banjo-Kazooie",
-    "song": "Game Over (Variant A)",
+    "song": "Game Over",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -23956,8 +23932,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Banjo-Kazooie/Game Over (Variant A).mmrs",
-    "preview": "Banjo-Kazooie/Game Over (Variant A).ogg",
+    "file": "Banjo-Kazooie/Game Over.mmrs",
+    "preview": "Banjo-Kazooie/Game Over.ogg",
     "lufs": "-17.34",
     "hash": "60e5a546d4d4a98b7dc12a919daad50b"
   },
@@ -29636,29 +29612,6 @@
     "usesFormmask": false,
     "lufs": "-22.76",
     "hash": "0d5569d6e559549e27a598da227b86f2"
-  },
-  {
-    "uuid": "6713e88d-6380-4b10-a9f0-a4aae108fa08",
-    "creationDate": "2026-04-04T17:01:57.022Z",
-    "game": "Banjo-Kazooie",
-    "song": "Game Over (Grunty Laugh ver.)",
-    "composers": [
-      "Grant Kirkhope"
-    ],
-    "converters": [
-      "Isghj"
-    ],
-    "type": "fanfare",
-    "categories": [
-      "9"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "file": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mmrs",
-    "preview": "Banjo-Kazooie/Game Over (Grunty Laugh ver.).mp3",
-    "usesFormmask": false,
-    "lufs": "-25.28",
-    "hash": "fcb4d4f595cad3675a6eac9cf362d7b2"
   },
   {
     "uuid": "8a89c09f-c19f-45ea-93d4-429440f42f13",
@@ -36344,7 +36297,7 @@
     "game": "Castlevania: Portrait of Ruin",
     "song": "Invitation of a Crazed Moon",
     "composers": [
-      "Michiru Yamane"
+      "Yuzo Koshiro"
     ],
     "converters": [
       "Asra"
@@ -40718,7 +40671,10 @@
     "preview": "A Hat in Time/Alpine Skyline (Time Rift).ogg",
     "lufs": "-26.14",
     "hash": "ca678d4d0f6d1c3bedec09a65125382e",
-    "creationDate": "2026-07-28T03:37:39.560Z"
+    "creationDate": "2026-07-28T03:37:39.560Z",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ]
   },
   {
     "game": "A Hat in Time",
@@ -40737,7 +40693,10 @@
     "preview": "A Hat in Time/Time Rift Story Book.ogg",
     "lufs": "-22.12",
     "hash": "cb420990bc6084eae35aefc951529773",
-    "creationDate": "2026-07-28T03:37:39.623Z"
+    "creationDate": "2026-07-28T03:37:39.623Z",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ]
   },
   {
     "uuid": "97039fa8-eef4-41ab-a259-5b89b873e2a1",
@@ -67668,7 +67627,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Banjo Kazooie",
+    "game": "Banjo-Kazooie",
     "song": "Spiral Mountain",
     "composers": [
       "Grant Kirkhope"
@@ -67679,7 +67638,7 @@
     "uuid": "7d6d561e-5db7-47de-aebb-e071d6036d36",
     "hash": "604fd69660b7edfd29e4a0bd26fc61d9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Banjo Kazooie/Spiral Mountain.mmrs",
+    "file": "Banjo-Kazooie/Spiral Mountain.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67691,7 +67650,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Banjo Kazooie",
+    "game": "Banjo-Kazooie",
     "song": "Treasure Trove Cove",
     "composers": [
       "Grant Kirkhope"
@@ -67702,7 +67661,7 @@
     "uuid": "c45ac5f1-fcf5-40e4-accf-d33af6a6f533",
     "hash": "b34923381d9fc0698620f6db9284374b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Banjo Kazooie/Treasure Trove Cove.mmrs",
+    "file": "Banjo-Kazooie/Treasure Trove Cove.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68089,15 +68048,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Castlevania Dawn of Dissonance",
-    "song": "Belnades Theme",
+    "game": "Persona 3",
+    "song": "Aria of the Soul",
     "converters": [
       "Asra"
+    ],
+    "composers": [
+      "Shoji Meguro"
     ],
     "uuid": "070d5ce6-709b-4e38-a0bf-df64c6f49477",
     "hash": "595c2dc93c62d56044eb243f81c7ec96",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania Dawn of Dissonance/Belnades Theme.mmrs",
+    "file": "Persona 3/Aria of the Soul.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68108,28 +68070,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Castlevania Dawn of Dissonance",
-    "song": "Name Screen",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "fcd1b076-7506-4cb1-a29c-8db3b3072eec",
-    "hash": "4655e29cfd7bfb16029a85476146903d",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania Dawn of Dissonance/Name Screen.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "3",
-      "6",
-      "16"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This version is extracted from romhack \"Castlevania: Dawn of Dissonance\" with the title \"Belnades Theme\"."
   },
   {
     "game": "Super Mario Sunshine",
@@ -68155,15 +68097,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Castlevania 2 Simon's Quest",
+    "game": "Castlevania II: Simon's Quest",
     "song": "Bloody Tears",
     "converters": [
       "BigBomba88"
     ],
+    "composers": [
+      "Kenichi Matsubara"
+    ],
     "uuid": "3871dbc0-c0b5-4f41-93f6-04da57698e4b",
     "hash": "e393a1cef34b7fcacb3ea781e614a864",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania 2 Simon's Quest/Bloody Tears.mmrs",
+    "file": "Castlevania II: Simon's Quest/Bloody Tears.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68181,6 +68126,9 @@
     "song": "Vampire Killer",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Satoe Terashima"
     ],
     "uuid": "c762cb1a-9033-4155-b91a-4f7e4917869e",
     "hash": "41aff9c0cbe6e4af340beef43fda11fc",
@@ -68842,7 +68790,7 @@
   },
   {
     "game": "Animal Crossing",
-    "song": "Title Screen",
+    "song": "Title",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -68852,7 +68800,7 @@
     "uuid": "df4ca47a-a277-4c8a-8175-e7dba9402bfc",
     "hash": "86879ca1c93a9e12c379deb0a5e0e1a2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing/Title Screen.mmrs",
+    "file": "Animal Crossing/Title.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68867,7 +68815,7 @@
   },
   {
     "game": "Animal Crossing",
-    "song": "5 pm",
+    "song": "5 P.M.",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -68877,7 +68825,7 @@
     "uuid": "f025572a-3ffd-4e12-b028-51ae64a2530e",
     "hash": "1c287c95ff191484d4ad1d4f7d8d1587",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing/5 pm.mmrs",
+    "file": "Animal Crossing/5 P.M..mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68916,7 +68864,7 @@
   },
   {
     "game": "Animal Crossing",
-    "song": "Toy Day",
+    "song": "Christmas Eve",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -68926,7 +68874,7 @@
     "uuid": "0b6d240e-3d71-45c0-a2ec-12346c744956",
     "hash": "e1e2e3c596974c3c54f96e861e78a2be",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing/Toy Day.mmrs",
+    "file": "Animal Crossing/Christmas Eve.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68991,7 +68939,7 @@
   },
   {
     "game": "Animal Crossing",
-    "song": "Nooks Cranny",
+    "song": "Nook's Cranny",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -69001,7 +68949,7 @@
     "uuid": "684b0317-6a91-4259-8699-04640073a4ee",
     "hash": "7b8d123bdfb25dcc7eb6fe3d1475b378",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing/Nooks Cranny.mmrs",
+    "file": "Animal Crossing/Nook's Cranny.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69014,7 +68962,7 @@
   },
   {
     "game": "Animal Crossing",
-    "song": "12pm",
+    "song": "12 P.M.",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -69024,7 +68972,7 @@
     "uuid": "2ffbcd92-b5f1-4b04-b381-4a674329c243",
     "hash": "ae1b9e1ac960d46d8d5d39cda04defe9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing/12pm.mmrs",
+    "file": "Animal Crossing/12 P.M..mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69248,7 +69196,7 @@
   },
   {
     "game": "Animal Crossing: New Horizons",
-    "song": "Welcome Horizons (Main Theme)",
+    "song": "Welcome Horizons",
     "composers": [
       "Yasuaki Iwata"
     ],
@@ -69258,7 +69206,7 @@
     "uuid": "a1eea079-ee37-4c6c-8368-bebbe60ca245",
     "hash": "763829a039bb2bebdb48cb7cf6bfe944",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing New Horizons/Welcome Horizons (Main Theme).mmrs",
+    "file": "Animal Crossing New Horizons/Welcome Horizons.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69271,7 +69219,7 @@
   },
   {
     "game": "Blaster Master",
-    "song": "Stage 1",
+    "song": "Area 1",
     "composers": [
       "Naoki Kodaka"
     ],
@@ -69281,7 +69229,7 @@
     "uuid": "124262e7-7ffb-49a7-b20b-5ace15d32f0f",
     "hash": "c9b9ce2c800a14994444e3e69b5893b9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Blaster Master/Stage 1.mmrs",
+    "file": "Blaster Master/Area 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69895,28 +69843,6 @@
     "usesFormmask": false
   },
   {
-    "game": "A Hat in Time (Prototype)",
-    "song": "A City of Calcite",
-    "converters": [
-      "joshua8600"
-    ],
-    "uuid": "a657a55b-c0f8-4705-8879-4e0d9adcfae2",
-    "hash": "3c72b52cc67bf9eaf438fa53e45a5319",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "A Hat in Time (Prototype)/A City of Calcite.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "157"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Master of Time (Demo)",
     "song": "Unused Track",
     "converters": [
@@ -70418,15 +70344,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Baten Kaitos",
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
     "song": "The True Mirror",
     "converters": [
       "Asra"
     ],
+    "composers": [
+      "Motoi Sakuraba"
+    ],
     "uuid": "e9b7445a-2b0d-4e63-9cc9-1d1d82b637a0",
     "hash": "2c3f618c75bca16b91e9fa96d22d1731",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Baten Kaitos/The True Mirror.mmrs",
+    "file": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70437,18 +70366,6 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
-  },
-  {
-    "game": "Castlevania 2: Simon's Quest",
-    "song": "Bloody Tears",
-    "converters": [
-      "BigBomba88"
-    ],
-    "uuid": "013916ca-13d4-4af4-9d77-354c0a453a10",
-    "hash": "e393a1cef34b7fcacb3ea781e614a864",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania 2 Simon's Quest/Bloody Tears.mmrs",
-    "preview": ""
   },
   {
     "game": "Kingdom Hearts",
@@ -70739,15 +70656,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Blood (1997)",
-    "song": "Infuscomus (cblood07)",
+    "game": "Blood",
+    "song": "Infuscomus",
     "converters": [
       "Surprise Pie"
+    ],
+    "composers": [
+      "Guy Whitmore",
+      "Daniel Bernstein"
     ],
     "uuid": "d617ba12-1c56-4320-842a-1ed1fb023ec1",
     "hash": "d9b4acc106633b07ef5ef3b9581d6149",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Blood (1997)/Infuscomus (cblood07).mmrs",
+    "file": "Blood/Infuscomus.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71020,7 +70941,7 @@
   },
   {
     "game": "Animal Crossing: Wild World",
-    "song": "Title Theme",
+    "song": "Title",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -71030,7 +70951,7 @@
     "uuid": "4c37722a-d662-41a1-87d9-2261be596741",
     "hash": "36719955044a9a68c77543ac86a0d776",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing Wild World/Title Theme.mmrs",
+    "file": "Animal Crossing Wild World/Title.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71142,7 +71063,7 @@
   },
   {
     "game": "A Hat in Time",
-    "song": "Timepiece Get",
+    "song": "Time Piece Get",
     "composers": [
       "Pascal Michael Stiefel"
     ],
@@ -71152,7 +71073,7 @@
     "uuid": "c532c3d9-dc8b-461c-8c3d-009e09925d05",
     "hash": "e2f74538ce0b967e219c02fec149cfdc",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "A Hat in Time/Timepiece Get.mmrs",
+    "file": "A Hat in Time/Time Piece Get.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -71370,8 +71291,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Body Harvest [Nintendo 64]",
-    "song": "Battle Theme (Track 43)",
+    "game": "Body Harvest",
+    "song": "Battle Theme",
     "composers": [
       "Stuart Ross & Allan Walker"
     ],
@@ -71381,7 +71302,7 @@
     "uuid": "0afc6745-e5e0-483e-b370-45e5aaef3370",
     "hash": "cc4c9a6f25fc1774ddfa23af6a0be447",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Body Harvest [Nintendo 64]/Battle Theme (Track 43).mmrs",
+    "file": "Body Harvest/Battle Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71420,6 +71341,9 @@
     "song": "Survival from the Force",
     "converters": [
       "Asra"
+    ],
+    "composers": [
+      "Motoi Sakuraba"
     ],
     "uuid": "51a41821-d61b-4a16-905c-7fc3d6f239e2",
     "hash": "2e81b0f67eb2badf6f48ef86d1f8da46",
@@ -71798,7 +71722,7 @@
   },
   {
     "game": "Animal Crossing: City Folk",
-    "song": "City Theme (Day)",
+    "song": "The City (Day)",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -71808,7 +71732,7 @@
     "uuid": "3ef741e3-8472-4a82-8720-25cb565ea60e",
     "hash": "44d60622c64bc8d535e38e74c476f67f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing City Folk/City Theme (Day).mmrs",
+    "file": "Animal Crossing City Folk/The City (Day).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71822,18 +71746,20 @@
     "usesFormmask": false
   },
   {
-    "game": "Banjo Kazooie",
-    "song": "Grunty Has Won (Joshua8600's Fix)",
+    "game": "Banjo-Kazooie",
+    "song": "Grunty's Laugh",
     "composers": [
       "Grant Kirkhope"
     ],
     "converters": [
-      "Isghj (Reposted with permission)"
+      "Isghj",
+      "Joshua8600"
     ],
-    "uuid": "3db41a82-18df-4cb7-8e4c-e0a39ecd24c5",
+    "uuid": "6713e88d-6380-4b10-a9f0-a4aae108fa08",
+    "creationDate": "2026-04-04T17:01:57.022Z",
     "hash": "e5b886a2f2fedb32fc22acf1e4ff649f",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Banjo Kazooie/Grunty Has Won (Joshua8600's Fix).mmrs",
+    "lastUpdateDate": "2026-07-28T03:33:56.104Z",
+    "file": "Banjo-Kazooie/Grunty's Laugh.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -72437,6 +72363,9 @@
     "converters": [
       "dnvic"
     ],
+    "composers": [
+      "Soichi Terada"
+    ],
     "uuid": "92b1cf5d-d36e-4bfd-b4d5-663c490e454e",
     "hash": "67481a14c7b98ec2199dd1c4a0b0ea39",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -72527,6 +72456,9 @@
     "converters": [
       "dnvic"
     ],
+    "composers": [
+      "Soichi Terada"
+    ],
     "uuid": "a64e3f28-140c-46fe-8602-33b5d8faed5d",
     "hash": "508cdf31001d021ecba7d1c5fe692b5a",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -72544,7 +72476,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Brain Age",
+    "game": "Brain Age: Train Your Brain in Minutes a Day!",
     "song": "Configuration",
     "converters": [
       "dnvic"
@@ -72552,7 +72484,7 @@
     "uuid": "e156593e-10b9-4353-9386-3b379d920918",
     "hash": "6592766370d25e43cef652c2ac62cc4c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Brain Age/Configuration.mmrs",
+    "file": "Brain Age Train Your Brain in Minutes a Day!/Configuration.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72742,7 +72674,7 @@
   },
   {
     "game": "3D Dot Game Heroes",
-    "song": "Breakout (a.k.a. Scott the Woz Theme)",
+    "song": "Breakout",
     "composers": [
       "Shinji Hosoe, Ayako Saso, Shoichiro Sakamoto, Teruo Taniguchi, Norihiro Hurukawa"
     ],
@@ -72752,7 +72684,7 @@
     "uuid": "83d59250-50ff-4b11-b9f3-4871f4da0a06",
     "hash": "2e65ea736ce2ac64b68047aaad711b00",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "3D Dot Game Heroes/Breakout (a.k.a. Scott the Woz Theme).mmrs",
+    "file": "3D Dot Game Heroes/Breakout.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72764,7 +72696,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "a.k.a. Scoot the Woz theme"
   },
   {
     "game": "Mario and Luigi Superstar Saga",
@@ -72886,7 +72819,11 @@
     "song": "Dance of Illusions",
     "game": "Castlevania: Circle of the Moon",
     "converters": [
-      "detectivesky612"
+      "DetectiveSky612"
+    ],
+    "composers": [
+      "Sotaro Tojima",
+      "Hiroshi Mitsuoka"
     ],
     "uuid": "f206c6db-0104-48a2-a400-333ccac9b83e",
     "hash": "10f4c46d73815c44776cb3136f477bc0",
@@ -73154,14 +73091,17 @@
   },
   {
     "game": "Apollo Justice: Ace Attorney",
-    "song": "Cross Examination - Moderate 2007",
+    "song": "Cross-Examination ~ Moderato 2007",
     "converters": [
       "MaxPlaysGamesBadly"
+    ],
+    "composers": [
+      "Toshihiko Horiyama"
     ],
     "uuid": "c0cc4986-8a4a-42bb-8350-302507c2e58b",
     "hash": "fc796fbdb402239a7d4644f9d59c5152",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Apollo Justice Ace Attorney/Cross Examination - Moderate 2007.mmrs",
+    "file": "Apollo Justice Ace Attorney/Cross-Examination ~ Moderato 2007.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74090,7 +74030,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Bug Fables",
+    "game": "Bug Fables: The Everlasting Sapling",
     "song": "His Friends Call Him Spuder (Don't Call Him Spuder)",
     "composers": [
       "Tristan Alric"
@@ -74101,7 +74041,7 @@
     "uuid": "cb94ad59-141d-4721-ace7-813e72c2e69e",
     "hash": "8aea49b2f78693c79470a69d7f581b0f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Bug Fables/His Friends Call Him Spuder (Don't Call Him Spuder).mmrs",
+    "file": "Bug Fables The Everlasting Sapling/His Friends Call Him Spuder (Don't Call Him Spuder).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74234,7 +74174,7 @@
   },
   {
     "game": "Advance Wars 2: Black Hole Rising",
-    "song": "Olaf’s Theme",
+    "song": "Olaf's Theme",
     "composers": [
       "Yoshito Hirano"
     ],
@@ -74244,7 +74184,7 @@
     "uuid": "9a967cba-ba74-47c7-9b72-20ab0f919cd4",
     "hash": "af29660a0cb1c743515ed0e2dbef6a35",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Advance Wars 2 Black Hole Rising/Olaf’s Theme.mmrs",
+    "file": "Advance Wars 2 Black Hole Rising/Olaf's Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74941,10 +74881,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Celeste (2018)",
+    "game": "Celeste",
     "song": "Celestial Resort (Good Karma Mix)",
     "composers": [
-      "Lena Raine (Remix by Christa Lee)"
+      "Lena Raine",
+      "Christa Lee"
     ],
     "converters": [
       "Retroflex"
@@ -74952,7 +74893,7 @@
     "uuid": "50569d6d-5a58-4a5b-b9a2-a0cd05135eb5",
     "hash": "6d743749aa17f929e37621e43bf42e27",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Celeste (2018)/Celestial Resort (Good Karma Mix).mmrs",
+    "file": "Celeste/Celestial Resort (Good Karma Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75502,14 +75443,17 @@
   },
   {
     "game": "Chibi-Robo! Park Patrol",
-    "song": "Chassy Buggy Theme",
+    "song": "Chassy Buggy",
     "converters": [
       "SuzyCC"
+    ],
+    "composers": [
+      "Eishin Kawakami"
     ],
     "uuid": "934e10d7-53f8-4e55-9164-f2273955cd91",
     "hash": "7a82dec1de79a61ff4d8121d18a7f7a2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Chibi-Robo! Park Patrol/Chassy Buggy Theme.mmrs",
+    "file": "Chibi-Robo! Park Patrol/Chassy Buggy.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76266,30 +76210,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Among Us (2018)",
-    "composers": [
-      "Marcus Bromander(?)"
-    ],
-    "converters": [
-      "Retroflex"
-    ],
-    "song": "amongus_ded_body_found_FANFARE",
-    "uuid": "b73464d8-2e28-4070-b9d3-0f94772d11ee",
-    "hash": "94a59d9f92830e322f536721157321ce",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Among Us (2018)/amongus_ded_body_found_FANFARE.mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "8",
-      "9",
-      "10"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "castlevaniadungeon.net",
     "song": "Crystal Teardrops",
     "composers": [
@@ -76384,7 +76304,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Celeste (2018)",
+    "game": "Celeste",
     "song": "Resurrections",
     "composers": [
       "Lena Raine"
@@ -76395,7 +76315,7 @@
     "uuid": "6aa766aa-c190-44f1-9eee-9619b9ba378a",
     "hash": "6742e022ecb85d853ea19ca964767542",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Celeste (2018)/Resurrections.mmrs",
+    "file": "Celeste/Resurrections.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76985,7 +76905,7 @@
     "game": "Earthworm Jim",
     "song": "Down the Tubes",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "fbbc4d5e-fd2f-46a7-b49d-165186c1de98",
     "hash": "d1820a5048d43e249055c0aecd65861e",
@@ -77006,7 +76926,7 @@
     "game": "Earthworm Jim",
     "song": "For Pete's Sake",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "bd55bb1b-eb65-4145-8b4a-05b54da9f5f2",
     "hash": "c15c537ddb55436483373501c71092b7",
@@ -77027,7 +76947,7 @@
     "song": "ff9-The_Dark_Messenger",
     "game": "TODO",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "90f1794f-7fdf-49e9-bd56-09d40fa336ac",
     "hash": "93a29444dcb5d4a52856d4e87df843f1",
@@ -77046,7 +76966,7 @@
     "game": "Earthworm Jim",
     "song": "Snot a Problem",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "9de8e595-68ac-45b8-a5cc-f00d6c69765c",
     "hash": "af936beaef5d964711b58b58bde6b93a",
@@ -77065,7 +76985,7 @@
     "game": "Final Fantasy IX",
     "song": "Battle 2 (Boss theme)",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "ae7b3035-dbef-4527-9581-9547e3696452",
     "hash": "b9fcb8cbb984f3f2018aa5049a068426",
@@ -77108,7 +77028,7 @@
     "game": "Parasite Eve",
     "song": "Out of Phase",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "40cdbd33-e2c3-42c3-ae52-b59eb5463b58",
     "hash": "c876dc79b79b839e49766e96c3994b6a",
@@ -77243,7 +77163,7 @@
     "game": "Earthworm Jim",
     "song": "Who Turned Out the Lights?",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "ad2e47b4-b562-439c-a7d9-5df92c14434c",
     "hash": "319756d3760de00aa22de662c117629e",
@@ -77462,7 +77382,7 @@
     "game": "Mr Nutz",
     "song": "Woody Land 1 & 2",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "4da743d2-295e-4204-bcc2-e46572034fd1",
     "hash": "be2f349ff43f78a94cf629cd23ac32dd",
@@ -77509,7 +77429,7 @@
     "game": "Mr Nutz",
     "song": "Adventure Park",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "0dd4f427-b624-4cf5-86a7-d014c84d424f",
     "hash": "a38b1572fb65c70a9d01b32ee08061e1",
@@ -77530,7 +77450,7 @@
     "game": "Shin Megami Tensei II",
     "song": "3D: Center",
     "converters": [
-      "rhubarbnightcoreremix"
+      "Shijima"
     ],
     "uuid": "8e14808f-2428-444e-8e5e-4b21d6703470",
     "hash": "ddb393299b40784926b1587cebcff015",
@@ -77550,7 +77470,7 @@
     "game": "Doom",
     "song": "Nobody Told Me About id",
     "converters": [
-      "rhubarbnightcoreremix"
+      "Shijima"
     ],
     "uuid": "c1a297c8-41c6-45a6-a41e-477825404d5c",
     "hash": "b12e6dd6de7d7b40ac8197e8a4907492",
@@ -77570,7 +77490,10 @@
     "game": "ActRaiser",
     "song": "Fillmore",
     "converters": [
-      "rhubarbnightcoreremix"
+      "Shijima"
+    ],
+    "composers": [
+      "Yuzo Koshiro"
     ],
     "uuid": "be85bfde-27bd-44ae-abbc-02c1f9470ec5",
     "hash": "c3feabbb61dbe073e1df56801de5d833",
@@ -77638,7 +77561,7 @@
     "game": "Mr Nutz",
     "song": "Woody Land 3-4",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "c7ce0f12-1e7a-4998-b6d6-761b6fe7fddc",
     "hash": "81d48f618748679599b6661e1fda0837",
@@ -77880,7 +77803,7 @@
     "game": "Mr Nutz",
     "song": "Mean Streets",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "7e3bee1d-aa02-43c6-9ae7-01170b66362b",
     "hash": "abc673c0c9d1570228971126e8b148f6",
@@ -77901,7 +77824,7 @@
     "game": "Mr Nutz",
     "song": "Volcano Underpass",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "995c5f12-3384-4fcf-9f7e-597dbba3d10c",
     "hash": "e8e2eca8f60ba7f43d6b52067529dc15",
@@ -77942,7 +77865,7 @@
     "game": "Mr Nutz",
     "song": "Living Room",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "7cd8040e-bc32-446d-af02-eca84fb50224",
     "hash": "c7366bfeb8896d5d6adf8933bef57d6b",
@@ -78167,7 +78090,7 @@
     "game": "Mario & Luigi: Superstar Saga",
     "song": "Showdown with Cackletta!",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "4dcf0c38-19f2-4e6b-afe1-05682d213754",
     "hash": "12674a7e27685c7497507f02b56df387",
@@ -78250,14 +78173,17 @@
   },
   {
     "game": "Bomberman 64",
-    "song": "Green Garden",
+    "song": "Green Garden [3]",
     "converters": [
-      "alfthebard"
+      "Alf"
+    ],
+    "composers": [
+      "Akifumi Tada"
     ],
     "uuid": "bb69f384-427c-47f4-848b-5385a507953e",
     "hash": "c2625c0840138c7eb885f9524bc6461c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Bomberman 64/Green Garden.mmrs",
+    "file": "Bomberman 64/Green Garden [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78275,7 +78201,7 @@
       "Leon Riskin"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "cd09015f-1add-4b5d-8c5e-676834861e3d",
     "hash": "605ca1f171019d5abeccf2a5da32bcb7",
@@ -78305,7 +78231,7 @@
     ],
     "song": "cpbc_wrong_end_FANFARE",
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "9a7ed6c4-0492-4400-a66b-a87891577c2c",
     "hash": "d428f23970556e33f9dc840b9c918c13",
@@ -78540,7 +78466,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "d3448311-6802-43ec-a0a1-e717b8d1ec69",
     "hash": "4f8e65cae00a75951d9c1501df4b4e0f",
@@ -78562,7 +78488,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "7eff766c-f5ad-412e-963e-cdfa4e480bb9",
     "hash": "0d099692b0ccb70ddcb2cd461473d0cb",
@@ -78585,7 +78511,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "e36565d1-e4f1-42b5-98cd-9b53d105e3fc",
     "hash": "104790b6fedde4d35bc3e3f41c484efe",
@@ -78608,7 +78534,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "68c9c677-6abc-47ce-b526-004eae48ba61",
     "hash": "0814e0940c0335a70431f12a3288f0fd",
@@ -78631,7 +78557,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "4a7ab60f-27bb-423e-9206-5b93dad6c085",
     "hash": "ff9298eb5bb75f3aa67ac90374620054",
@@ -78655,7 +78581,7 @@
       "Chad York, Darren Radtke and Mike Peacock"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b73063ed-288b-4d01-ab04-1a2156722edc",
     "hash": "de931a45f8fffe11d0cfdb1cc62d997b",
@@ -78678,7 +78604,7 @@
       "Chad York, Darren Radtke and Mike Peacock"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "0c4b9bd1-6250-4b50-afe5-b695ff19017e",
     "hash": "af23f7519b907132282da6756e08f49d",
@@ -78701,7 +78627,7 @@
       "Kenta Nagata & Toru Minegishi"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "ac505db0-2ec1-4117-aab0-946373de66be",
     "hash": "d3288bf68a708a94a19f3d1018ddec4a",
@@ -78724,7 +78650,7 @@
       "Tsunku & Masami Yone"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "feffd492-432e-40b1-b19f-6c1e79324d95",
     "hash": "8502a223bf7ce4f3be60f4b7f84c3d14",
@@ -78795,7 +78721,7 @@
       "Kōji Kondō und Shinobu Tanaka"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "0fedffec-1e87-4751-8303-8978f5a83ba2",
     "hash": "7710ddf989d4138d1db41374147fa7fd",
@@ -78859,10 +78785,11 @@
     "game": "Castlevania: Portrait of Ruin",
     "song": "Chaotic Playground",
     "composers": [
-      "Michiru Yamane & Yuzo Koshiro"
+      "Michiru Yamane",
+      "Yuzo Koshiro"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "523b0ee6-c1b6-4986-9686-602b97a7aec3",
     "hash": "fd55929f298d57b7afc1a68ac0ca9158",
@@ -78885,7 +78812,7 @@
       "Takeru Kanazaki, Rei Kondoh, and Hiroki Morishita"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "da1aa70f-ada0-496c-a47a-d0a6efa2feb8",
     "hash": "f72007cef3a895f3c29a56d5707c5a48",
@@ -78907,7 +78834,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "9a6f60cb-713a-4188-8a64-e38ecbadd45c",
     "hash": "e2a3647f632b9567a84cf15a41546285",
@@ -78930,7 +78857,7 @@
       "Minako Adachi & Kiyohiro Sada"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "17943efb-c3a6-428c-baf8-05afd46a0c68",
     "hash": "09eb913d2963cba46caedfc70ffd1063",
@@ -78952,7 +78879,7 @@
       "Minako Adachi & Kiyohiro Sada"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "fd14ee87-d52a-4187-ae82-3318059ae02b",
     "hash": "0f0ba58a27d328cbdc329c95f470a8a9",
@@ -78974,7 +78901,7 @@
       "Minako Adachi & Kiyohiro Sada"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "0f830393-460a-4002-997d-886685824d5f",
     "hash": "24bd1786e93fe0879d9eeb21a86e3053",
@@ -78996,7 +78923,7 @@
       "Yoshito Hirano, Yuka Tsujiyoko, Ryo Nagamatsu & Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "d16cf1f1-1a3c-40bf-b64a-aed9001da42a",
     "hash": "7c0e1309dcf2271e811862d9b7dd613e",
@@ -79019,7 +78946,7 @@
       "Tsunku & Masami Yone"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "08bece27-0f83-43a0-9948-565dd56ef878",
     "hash": "d48a65c6e3784e95c8e75e829a203087",
@@ -79082,7 +79009,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "54a2794a-e5a2-4705-a399-6b7df08884e9",
     "hash": "96a836d971372124c065a1f52e2a8f00",
@@ -79105,7 +79032,7 @@
       "Koichi Sugiyama"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b3fbdeaa-e1df-4925-85d4-e9bb608c2248",
     "hash": "451cfb6ef6360f41ce6e837e0e1c4402",
@@ -79122,28 +79049,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Among Us (2018)",
-    "composers": [
-      "Marcus Bromander (most likely ?)"
-    ],
-    "converters": [
-      "Retroflex"
-    ],
-    "song": "amongus_ded_body_found_FANFARE",
-    "uuid": "df28f12e-6296-4649-9d85-5b1e47b3f051",
-    "hash": "94a59d9f92830e322f536721157321ce",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Among Us (2018)/amongus_ded_body_found_FANFARE.mmrs",
-    "preview": ""
-  },
-  {
     "game": "Mario & Luigi: Superstar Saga",
     "song": "Cackletta Battle",
     "composers": [
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b7d6449e-b87a-4872-aca1-57d7f8c66a65",
     "hash": "47a9a198d9021717e3bba187906d6c34",
@@ -79166,7 +79078,7 @@
       "Junichi Masuda"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "afec0302-64d8-4a28-bd8e-ce802fd126d4",
     "hash": "7b8fb0aba746c4116e8fb42e7596d620",
@@ -79191,7 +79103,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "af4dac01-5555-467f-8709-b5bdcc5779e4",
     "hash": "0aff2c928488f4609af26567e61da3f3",
@@ -79215,7 +79127,7 @@
       "Minako Adachi, Junichi Masuda, Go Ichinose, Hiromitsu Maeba, Teruo Taniguchi, Hitomi Sato, Toby Fox"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "43e72aa3-9cc3-40f9-a58f-1155f0b47e75",
     "hash": "bde741ab831ed240dd5b4983448d0c42",
@@ -79239,7 +79151,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "d8b1f7e1-179b-42b7-86e0-47e9da2cc1ef",
     "hash": "2422c8bac48bb84548120a0135cf4335",
@@ -79261,7 +79173,7 @@
       "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "f03503f0-90dc-44ec-b196-c90fd14d62fb",
     "hash": "b7ffc31e72315c45f7f7120eb8bfe56f",
@@ -79285,7 +79197,7 @@
       "Eric Barone"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "60e7bae1-32a7-4b6c-b035-68d085e96938",
     "hash": "a41e1ccc2f98978f471b1971be6ec58d",
@@ -79321,18 +79233,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Celeste (2018)",
+    "game": "Celeste",
     "song": "Confronting Myself",
     "composers": [
       "Lena Raine"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "dbaf89e0-1f58-4155-8b07-a971e8fe88d4",
     "hash": "381a66440d961753d0ca9e9a5305ccea",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Celeste (2018)/Confronting Myself.mmrs",
+    "file": "Celeste/Confronting Myself.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79355,7 +79267,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a8fb392a-b353-4315-8dd7-c2205f5c1ceb",
     "hash": "e671eff462f918f8d7ba4b2304bfe5c7",
@@ -79370,7 +79282,7 @@
       "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "784089e6-959a-41e2-8834-d6ea48d3f0c4",
     "hash": "3ef4d4cc4cf25498c5c9b3a4c601043f",
@@ -79393,7 +79305,7 @@
       "Eric Barone"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "952427ed-3c9b-4341-bec2-fffe3fd0a7f2",
     "hash": "e8bf1684174804fcd0a51f10c4fc8960",
@@ -79416,7 +79328,7 @@
       "Tim Follin"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a688e931-f42c-4bdf-b726-98530ef4a6d6",
     "hash": "311ca4c54d1eb3f5682d38a414453f10",
@@ -79438,7 +79350,7 @@
       "Eric Barone"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "61807531-5c9b-4293-8452-3e98e84f11b2",
     "hash": "3c8b2e41bbd38d2c3d1170ec7f45e183",
@@ -79485,7 +79397,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "31a78c71-6d73-4b99-909b-b99132c0d82e",
     "hash": "935e3050996eb4653a37080d648ced9d",
@@ -79505,7 +79417,7 @@
     "game": "Rabbit and Steel",
     "song": "A Valiant Battle",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "958324d9-2d9f-436d-8f19-928ac16bc446",
     "hash": "6c5e7b2de535a6b7237ee0cd145ef61b",
@@ -79525,7 +79437,10 @@
     "game": "Bomberman 64",
     "song": "Blue Resort",
     "converters": [
-      "alfthebard"
+      "Alf"
+    ],
+    "composers": [
+      "Akifumi Tada"
     ],
     "uuid": "c0bf628f-0c6d-40f0-802b-f7fcb155c7c3",
     "hash": "bde26590bbcd23bf9e236d4738da09f9",
@@ -79548,7 +79463,7 @@
       "Koichi Sugiyama"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "ed8560fd-cba9-455b-a702-83fa37b8b166",
     "hash": "13fb8b377010b79fbc865647946b30a7",
@@ -79572,7 +79487,7 @@
       "Koichi Sugiyama"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "76fcf0c5-7bc8-4e9d-a4fc-d92643a8847d",
     "hash": "ace6b46937e18eceff9bc14c798f6684",
@@ -79592,7 +79507,7 @@
     "game": "Earthworm Jim",
     "song": "Groovy!",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "9b223f62-ebf3-4622-ab3a-c821b0e87312",
     "hash": "bc90ec3aea8079d966717edfd98e26cf",
@@ -79609,14 +79524,17 @@
   },
   {
     "game": "Bomberman 64",
-    "song": "Stage Clear Fanfare",
+    "song": "Stage Clear",
     "converters": [
-      "alfthebard"
+      "Alf"
+    ],
+    "composers": [
+      "Akifumi Tada"
     ],
     "uuid": "62544db6-3812-4325-9116-5ecc3f3218c4",
     "hash": "1fe05bbd138acb9a807a3449fbaae075",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Bomberman 64/Stage Clear Fanfare.mmrs",
+    "file": "Bomberman 64/Stage Clear.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -79628,14 +79546,17 @@
   },
   {
     "game": "Bomberman 64",
-    "song": "Boss Clear Fanfare",
+    "song": "Boss Clear",
     "converters": [
-      "alfthebard"
+      "Alf"
+    ],
+    "composers": [
+      "Akifumi Tada"
     ],
     "uuid": "be176033-4f77-4663-99c9-e9f118af79e0",
     "hash": "327f3d6c2bc51433f59b4923080607ff",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Bomberman 64/Boss Clear Fanfare.mmrs",
+    "file": "Bomberman 64/Boss Clear.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -79652,7 +79573,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "f975635b-6907-4899-924e-af89718979e7",
     "hash": "f310c34d2a420bb2030914843fce2bec",
@@ -79674,7 +79595,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b072fcfd-7b62-4f97-9a69-95af1cda3e5a",
     "hash": "8bc1b3fac43654a4f575240889582527",
@@ -79696,7 +79617,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "e0f4c2be-0a5f-4a15-957d-ba4fe5835d7b",
     "hash": "ebf13d908d6e49797f9c8859dc3d90fd",
@@ -79718,7 +79639,7 @@
       "Jun'ichi Masuda"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b91774d0-abd4-4545-843e-87928e21d298",
     "hash": "9298836988adbb5070d1fbc3be0e9c0b",
@@ -79741,7 +79662,7 @@
       "Yuka Tsujiyoko"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "ead65ce2-457d-4e3e-8a04-9b0fd299e48f",
     "hash": "f767da92139b863e49d190063aaa7f69",
@@ -79764,7 +79685,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "04de0015-30c7-49eb-a7c4-cbb5527c7c44",
     "hash": "f4f5551bc6fa4d1f5c8777d4461e0285",
@@ -79787,7 +79708,7 @@
       "Manaka Kataoka"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "bde86014-6809-4374-82d0-1178ad0f4c3e",
     "hash": "56d888115bacda466a00b922a0bf0aea",
@@ -79811,7 +79732,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "16326aca-dbd7-4a30-8878-8e7f3852bb63",
     "hash": "a1f1ccb63ae803a8fcb8fc964871f168",
@@ -79915,7 +79836,7 @@
       "PuffballsUnited"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "378bf2cb-30c2-45db-9b8f-8e989ef3c21e",
     "hash": "c8b2d06918a0c144dfe5eb05408b335b",
@@ -79964,7 +79885,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "84b6fbae-6816-4364-b4b1-324299a925ec",
     "hash": "35ee73ce8343b193b396b921b3ca02df",
@@ -79989,7 +79910,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "1be8d0fa-99a6-4989-8fed-fc92a092019a",
     "hash": "12d53b7a413aee7c6befad79c03d6a82",
@@ -80013,7 +79934,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "050b82f7-50ae-485c-a176-c502290c309f",
     "hash": "750159eb4e6597599997bef3ce30dac3",
@@ -80035,7 +79956,7 @@
       "Yuka Tsujiyoko"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a6b39944-e7e9-40fe-aaf0-42ef3e49e6f3",
     "hash": "8eaf96afb49d87d69e6d3f572bc05474",
@@ -80119,7 +80040,7 @@
     "song": "Beach Parade",
     "game": "Il magnifico cornuto M11 from Armando Trovaioli",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "825e1301-d4e0-4db7-8b29-f17bb46e3227",
     "hash": "1101ebff5fa3937afba2dd2cabcd1496",
@@ -80141,10 +80062,10 @@
     "game": "Castlevania: Order of Ecclesia",
     "song": "Welcome to Legend [2]",
     "composers": [
-      "Michiru Yamane & Yasuhiro Ichihashi"
+      "Michiru Yamane"
     ],
     "converters": [
-      "Myself"
+      "DetectiveSky612"
     ],
     "uuid": "2fdcebbc-33cb-40f7-9229-3b92be4de6b1",
     "hash": "211c0cfed9942b653ede6bb5cc9fa919",
@@ -80166,7 +80087,7 @@
       "Glenn Stafford"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "52c6cad5-5f61-4759-a4d3-2911fcfbfbe7",
     "hash": "e026c37e5d0016863feb8578aa999e67",
@@ -80191,7 +80112,7 @@
       "SYBO Games"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "ed2d58c2-e2e2-4a67-871b-c50b45815ebc",
     "hash": "2c3d3979762084205dba1125afece88a",
@@ -80215,7 +80136,7 @@
       "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "5f7db763-0a8b-4ecc-bdc5-4793bc0439b3",
     "hash": "7528a70bc86a3f2a5e3d4e4b44d7aef6",
@@ -80263,7 +80184,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "0e7a3a41-e82b-47a3-a6aa-fcebf797bcdb",
     "hash": "a66574adaaaff6fa25f5f31bc46ae310",
@@ -80286,7 +80207,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b6297623-4b19-432e-b524-026171803a2c",
     "hash": "0d099692b0ccb70ddcb2cd461473d0cb",
@@ -80301,7 +80222,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "5ea27367-85f4-49d9-afa1-555d820054aa",
     "hash": "1085aaf87ff9aa6e535b9c3e0504fa3a",
@@ -80328,7 +80249,7 @@
       "Koji Kondo, Atsuko Asahi, Toru Minegishi, Sayako Doi"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "b6968e59-6923-4196-a7e6-27563c683005",
     "hash": "1e8d9b4d55a525b248167362a0cb7dcd",
@@ -80355,7 +80276,7 @@
     ],
     "game": "TODO",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "52ff7bb4-fd19-4407-b4be-7d3637e6b999",
     "hash": "b2f3940c2ddb15e3c3d0494a22d7ed0e",
@@ -80381,7 +80302,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b4f825f1-fc01-4ed5-8c03-555ea150261e",
     "hash": "cc97e1fefbb077b9ef4bbb6d630440e3",
@@ -80455,7 +80376,7 @@
       "Shogo Sakai"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "02473dcc-8dbc-4209-8bfd-46509e3d3eaa",
     "hash": "0dbbf41716f56ed55529529598ce5022",
@@ -80479,7 +80400,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "0bf502e2-0325-4afd-b01d-2b9808a9c12d",
     "hash": "68634ee60e75bdc79361f275da5c9ca0",
@@ -80528,7 +80449,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "601948c9-dc7d-4bfd-aaaf-8132e24858b5",
     "hash": "5add22369978087e56031495458082d2",
@@ -80552,7 +80473,7 @@
       "Graeme Norgate"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "73a34e74-2399-4035-9480-5264a8e2818d",
     "hash": "eff85d48dd5fc28024c2e0db23448068",
@@ -80605,7 +80526,7 @@
       "Masato Nakamura"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "31f15cac-1c14-4270-aef2-aaab7d9f0eb5",
     "hash": "134909f1398d771a6a35803c64d9f7fa",
@@ -80694,7 +80615,7 @@
       "(Unknown)"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "c913008e-c17a-43a6-b400-399003cbc3de",
     "hash": "58132a991e1efe14a32d82d38ff8fcb0",
@@ -80718,10 +80639,11 @@
     "game": "Super Castlevania IV",
     "song": "The Cave",
     "composers": [
-      "Masanori Adachi & Tarou Kudou"
+      "Masanori Adachi",
+      "Tarou Kudou"
     ],
     "converters": [
-      "Me"
+      "DetectiveSky612"
     ],
     "uuid": "a777dd98-3267-4d87-8598-ea37d432a6e4",
     "hash": "8b355cb2dce644a50276daafe794b31e",
@@ -80841,7 +80763,7 @@
       "Shiho Fujii, Ryo Nagamatsu, Kenta Nagata"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "9073a866-7130-4e6a-911e-50eeec778860",
     "hash": "b73eaf8b9bd6c931ce3739c82857ab4a",
@@ -81016,6 +80938,9 @@
     "converters": [
       "3Pills"
     ],
+    "composers": [
+      "LouisF"
+    ],
     "uuid": "fa6358e6-1ea8-411a-ae9f-08f8f72affad",
     "hash": "057b1a2d7f8c446ef9fd9cbbeb6674ba",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -81186,7 +81111,7 @@
       "Brad Buxer"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "6235b673-20bf-4a29-b976-581342cc6ed0",
     "hash": "9ad33c0ed2b7e473b1724cead528ea97",
@@ -81209,7 +81134,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "586c45c4-0494-423c-9f51-4c99e76ed9e5",
     "hash": "203ee434b3fa02e0300a5c004f61ced3",
@@ -81260,7 +81185,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "864cebbd-5e5b-4c55-8114-6cfad1e623a1",
     "hash": "5184bc2efda7a70d503936011a6411da",
@@ -81452,7 +81377,7 @@
       "Masanobu Matsunaga"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "f4cba4d2-62bd-4249-a026-ff7b6e30b550",
     "hash": "023ec623d150f6ac5084294fae736d8c",
@@ -81476,14 +81401,17 @@
   },
   {
     "game": "Bloodborne",
-    "song": "Ludwig, The Accursed & Holy Blade",
+    "song": "Ludwig, the Holy Blade",
     "converters": [
       "pixelshake92"
+    ],
+    "composers": [
+      "Nobuyoshi Suzuki"
     ],
     "uuid": "2ee56b67-9fd9-4e79-a6d5-51cbe212a102",
     "hash": "b589805f7f6209a6a627480de12382ea",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Bloodborne/Ludwig, The Accursed & Holy Blade.mmrs",
+    "file": "Bloodborne/Ludwig, the Holy Blade.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81500,7 +81428,7 @@
       "Masami Yone"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "45c51c0b-e46d-41bc-9448-41e32b17072b",
     "hash": "2b0204b591b3e293808f61b2b4bd9a9a",
@@ -81526,7 +81454,7 @@
       "Tsunku♂"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "c81c4dd7-3d51-4f32-a3d8-56e73913d0ad",
     "hash": "87d976ea26bd3599fbc20c27b2ebbad6",
@@ -81553,7 +81481,7 @@
       "Hironao Yamamoto"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "247ad2bf-75b8-45e3-aa8b-7b39feb03414",
     "hash": "5749470c9c5142d89144f6421bf733d6",
@@ -81577,7 +81505,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b4424ead-7597-4ddb-befb-aecacd9fa3a2",
     "hash": "761732a115577c6cf172bb4a5aa9c3d7",
@@ -81643,7 +81571,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "dbf2ae4c-8869-45c0-a198-a75b72ac92f7",
     "hash": "712fe4eb05352bddd8f758ca0f765826",
@@ -81669,7 +81597,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "6b1eac2b-7894-45ea-9f16-c4156885a399",
     "hash": "6dadf50229cc99d3f94df766c832ed6b",
@@ -81697,7 +81625,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "c60d1464-43d6-449e-ac2c-8739303eccc6",
     "hash": "84a7751b1af9c67591954210bbfb0958",
@@ -81721,7 +81649,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "1c4c438e-0988-429b-b62f-b1593037868c",
     "hash": "bb0c668c7b3581ee6fea83da263af9e7",
@@ -81743,10 +81671,10 @@
     "game": "Castlevania: Aria of Sorrow",
     "song": "Demon Castle Top Floor",
     "composers": [
-      "Michiru Yamane Takashi"
+      "Michiru Yamane"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "75a749d4-c152-4984-9dae-366ea73da7f6",
     "hash": "12e18ba359110d8538a6bf627b4496c0",
@@ -81797,7 +81725,7 @@
       "Minako Hamano"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "591a2f47-51a3-4f78-9b23-78708ae730c0",
     "hash": "2b4d027734087cb877fd56d477764364",
@@ -81843,7 +81771,7 @@
       "Yoshito Hirano"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "30c5c8eb-2a35-4cbc-a3ea-1403ab904e3d",
     "hash": "147f215802dda3455a79bf27c4b9f72f",
@@ -81866,7 +81794,7 @@
       "Jonathan Coulton"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "07519453-979d-46a1-a39c-c1725f76108b",
     "hash": "27f5b0bef76a05ee7c840448cfffc9df",
@@ -81985,7 +81913,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "50f9c485-43f7-43f7-8e7c-881b9318ec8a",
     "hash": "9d8ff1b93a8f9070b1ece7045702b7ac",
@@ -82011,7 +81939,7 @@
       "Yuka Tsujiyoko"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "53dbcd94-84df-474e-a48f-ef9629151840",
     "hash": "8eee532b57256108a37079f7714f6ccf",
@@ -82052,7 +81980,10 @@
     "game": "Breath of Fire",
     "song": "The Battle Begins",
     "converters": [
-      "alfthebard"
+      "Alf"
+    ],
+    "composers": [
+      "Yasuaki Fujita"
     ],
     "uuid": "8c2d1ba2-45d4-401c-83c9-2bfb6a3c46d9",
     "hash": "38b2da551acf240966ff76f32c085925",
@@ -82099,7 +82030,7 @@
       "Yuka Tsujiyoko"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a7fcde57-d8fe-423b-b073-066ca80cf248",
     "hash": "a72949420de8992509bd06cfe5d00433",
@@ -82123,7 +82054,7 @@
       "Masato Nakamura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "f777b6e0-46ce-4c62-b362-6fe1239c851b",
     "hash": "4b00c5903e2baeb293b7ed1b12cf76fc",
@@ -82138,7 +82069,7 @@
       "Hirokazu Tanaka"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "44c94c02-2966-4ef9-abe7-3e07efaba520",
     "hash": "3a24693d42cff04f9c647a1280ef9127",
@@ -82236,7 +82167,7 @@
       "Yōko Shimomura"
     ],
     "converters": [
-      "retroflex420"
+      "Retroflex"
     ],
     "uuid": "ce915e43-95e5-4aa3-84df-c562bc749264",
     "hash": "5af49bcdde48cffff2e15d837287dc64",
@@ -82329,7 +82260,7 @@
       "Kazumi Totaka"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "d38d2af9-4bca-4447-9ba2-84e20642e2fc",
     "hash": "e6299f1ca920d869404d9653ec32358a",
@@ -82476,7 +82407,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "ed787dbc-1f2f-488b-a091-a3f15ed2ce9a",
     "hash": "c946cbdc245e4ba1eb32e819b5228df6",
@@ -82501,7 +82432,7 @@
       "Kazumi Totaka"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "c110e39d-7add-4985-959e-cbc54f7e2c04",
     "hash": "1dfdda8ed8f46bfbd77b19f06bafa05e",
@@ -82521,10 +82452,11 @@
     "game": "Castlevania: Dawn of Sorrow",
     "song": "The Abyss",
     "composers": [
-      "Michiru Yamane & Masahiko Kimura"
+      "Michiru Yamane",
+      "Masahiko Kimura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "4583fceb-bbe5-42db-a2cb-f9ff3f5c3b91",
     "hash": "1e13c09071417344521d2d6d1a774b95",
@@ -82571,7 +82503,7 @@
       "Koji Kondo and Shinobu Tanaka"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "962d16aa-0be4-49cd-97a4-f3943350777c",
     "hash": "c2eaada1cd19b536285f78c0ed90731e",
@@ -82642,7 +82574,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "d6c8b8ce-f200-4606-bd77-b866e187fb4e",
     "hash": "a79bc49f16dbb8e12ab984c12700fa60",
@@ -82690,7 +82622,7 @@
       "Michiru Yamane"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "535f9964-6b77-430a-8757-c39619884e7a",
     "hash": "ac652ad9da51c765f90b7eaba817e399",
@@ -82713,7 +82645,7 @@
       "Takeru Kanazaki"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b5eead9b-628c-4571-b582-ceab1636a738",
     "hash": "b3c80514706d382af2187bc0e3f1b766",
@@ -82780,7 +82712,7 @@
       "Takeru Kanazaki"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "885be2a3-4bd6-4175-b0e0-f7ca0d5eb5ec",
     "hash": "e0f0ebe3a5a238fe4580328ace944a54",
@@ -82802,7 +82734,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "e9d73d53-b0c7-4893-a6dd-223a34e2921b",
     "hash": "7f693857935913b1bafe64bb45c2414c",
@@ -82881,7 +82813,7 @@
       "Toru Minegishi and Asuka Ohta"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "2955dede-4c2c-4e19-9732-27fac8ba254e",
     "hash": "e96003568e63ae69f6eb6cb56d2900f1",
@@ -82994,7 +82926,7 @@
     "song": "augh",
     "game": "TODO",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "fb2fc5da-e608-4237-941a-ff9ce0d7fe07",
     "hash": "2630f227870638b99db22aa1e510822e",
@@ -83090,18 +83022,18 @@
     "usesFormmask": false
   },
   {
-    "composers": [
-      "Kenta Nagata, Hajime Wakai, Toru Minegishi & Koji Kondo"
-    ],
-    "game": "Also me",
-    "song": "https://youtu.be/rBvAz3890-Y?si=8G4sYMUaM855wv1B",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Title Theme",
     "converters": [
       "piiiano"
+    ],
+    "composers": [
+      "Kenta Nagata"
     ],
     "uuid": "4e3a0f22-5105-4ccb-aebd-c6520c22af04",
     "hash": "5f6ce89887c29d24bc86cfc25c011503",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Also me/httpsyoutu.berBvAz3890-Ysi=8G4sYMUaM855wv1B.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Title Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83140,7 +83072,7 @@
     ],
     "song": "DK_OK",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "fa7c2dfd-a68b-4453-addb-c50b14c03f3d",
     "hash": "2630f227870638b99db22aa1e510822e",
@@ -83203,7 +83135,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "52e50608-b382-4901-9694-56eb93168cbd",
     "hash": "2b2fd3f0227cfc4eaba6b32534d7403d",
@@ -83228,7 +83160,7 @@
     "game": "Final Fantasy XI",
     "song": "Jeweled Boughs",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
     ],
     "uuid": "7a9ca348-16b8-4fff-b804-33677af936c6",
     "hash": "9a895ac6bf5e2a4e2f7a7bb4df1b6760",
@@ -83252,7 +83184,7 @@
       "Keisuke Ito"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "bf728e9a-173f-48c0-b695-a8de8249adaa",
     "hash": "af3b3e6fd151626dc5789003fe1a7f43",
@@ -83280,7 +83212,7 @@
       "Hitomi Sato"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a7e7c00d-c0ae-44dd-9359-599dde455ffa",
     "hash": "d1f55b76bd2042766d2f228078af8f69",
@@ -83308,7 +83240,7 @@
       "Hitomi Sato"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "69e3a019-6dd2-4348-b07e-9e660206584f",
     "hash": "8a9f9fa4a29b07f665de9d12d2ac60cf",
@@ -83385,7 +83317,7 @@
       "Tsunku♂"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "8da66875-5b80-40fa-afd9-241d0a3117ee",
     "hash": "265f736cbd407ec1f1816874aaa4a135",
@@ -83415,7 +83347,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "9ca4bcf0-fde2-43ab-8722-16ebc231a88c",
     "hash": "4b7600026ea11403b20de45dfaf78487",
@@ -83438,7 +83370,7 @@
     "game": "Mario Party 3",
     "song": "Chancetime",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "510eb6e2-caf5-41c9-b631-e215da6d8e93",
     "hash": "0493bf5bc1134fcbdd52119effe745e8",
@@ -84008,7 +83940,7 @@
     "game": "Golden Sun: The Lost Age",
     "song": "Air's Rock",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
     ],
     "uuid": "a7d29dce-a7dd-4d75-b0b7-b04b46847fbb",
     "hash": "2e2830ed3e580411c7333d629ff25fd7",
@@ -84056,7 +83988,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "be279d41-c61a-401c-a7cd-515dafc65969",
     "hash": "a06a852a2b4d7ff44dd263ac4dae8466",
@@ -84082,7 +84014,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "c34e7dee-4179-4fc1-90bc-a8a756a84fc6",
     "hash": "3d1e43a0abe54b118801c80d574094f4",
@@ -84110,7 +84042,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "1fe635ac-4869-4fd4-ae56-87fce374632c",
     "hash": "0b05b5920c68dc9968f4ea42bcf36b56",
@@ -84134,7 +84066,7 @@
       "Hironobu Yahata, Shinya Ohtouge"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "a558e96a-1045-46de-84b4-d883703b6dbf",
     "hash": "b2e41ff6ebdb53bb260731eafe3b2ce8",
@@ -84175,7 +84107,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "73f44e8a-5c70-4179-9e35-e8daff3abee6",
     "hash": "e7bd499e8e491f8219da8cac24a3c75b",
@@ -84201,7 +84133,7 @@
       "Shiho Fujii, Ryo Nagamatsu, Kenta Nagata"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "165246d4-507c-4424-b248-dc88106d89df",
     "hash": "b4c42a172a7068853e509aab3a230cf4",
@@ -84228,7 +84160,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "0613dc49-fef2-4cf0-8e15-3e905e695553",
     "hash": "d878638fcc70339c374cf46cf3209453",
@@ -84256,7 +84188,7 @@
       "Asuka Ohta, Hajime Wakai, Koji Kondo"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "a7be7683-db05-4bb9-a116-2dc9f0ab6ea4",
     "hash": "920a0633e7520a0d3da02f58e5c6b985",
@@ -84345,7 +84277,7 @@
     "song": "CreativeExercisefix",
     "game": "TODO",
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "24f2194f-bd07-4a6e-8b8e-71800f78136e",
     "hash": "824b5a69bcf228b1304275fec59f2fdf",
@@ -84372,7 +84304,7 @@
       "Asuka Ohta, Hajime Wakai, Koji Kondo"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "d9e38ba5-a797-458e-8a9a-0a39693c1c7a",
     "hash": "fe66263469a64af314eda8f1162f8533",
@@ -84393,7 +84325,7 @@
     "game": "Spongebob Squarepants",
     "song": "Fog Horn Sound Effect (Yes i really did this)",
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "111a8c5f-6072-4aca-9497-af2f006effe7",
     "hash": "ea7ff76f115997491cf804341eecd7f7",
@@ -84412,17 +84344,17 @@
   },
   {
     "game": "Castlevania",
-    "song": "Wicked Child (Stage 3)",
+    "song": "Wicked Child [2]",
     "composers": [
-      "Kinuyo Yamashita, Satoe Terashima"
+      "Kinuyo Yamashita"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "f63262c0-35e3-406d-9726-28e3b0461277",
     "hash": "9725b1981e833f126e806451137fdd53",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania/Wicked Child (Stage 3).mmrs",
+    "file": "Castlevania/Wicked Child [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84435,7 +84367,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This is a REMAKE of an old song I did years ago, but with better instrumentation!"
   },
   {
     "game": "New Super Mario Bros. Wii",
@@ -84444,7 +84377,7 @@
       "Shiho Fujii"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "ce2b55b5-0219-436e-b32c-6d8c1b2e08d3",
     "hash": "948a3da1ae8742dbaad5460655f8d717",
@@ -84468,7 +84401,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "21292265-1c28-4de5-835c-5fa56c5b4e09",
     "hash": "7bc23af2e5d596511a448f67b7bf215b",
@@ -84494,7 +84427,7 @@
       "Masakazu Sugimori"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "21a3662f-5075-4684-ab2e-74665846f238",
     "hash": "e1a2f1852bc4eaedba5a32881e8e0dd3",
@@ -84516,7 +84449,7 @@
     "song": "Old Spice Whistle",
     "game": "TODO",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "9bfc88f5-b223-4d2f-9ee6-504b04541b07",
     "hash": "bc2b4c5b4705a24db7b1588eef1659c2",
@@ -84546,7 +84479,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "5e24afa8-f672-4719-be16-54662bf18222",
     "hash": "f013a3fdf4e768f516a2def046e0d272",
@@ -84569,7 +84502,7 @@
     "game": "Super Mario 64",
     "song": "Yahoo",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b31a055e-1eb9-4f08-b62d-ff0245e4fb82",
     "hash": "0493bf5bc1134fcbdd52119effe745e8",
@@ -84652,7 +84585,7 @@
       "David Logan"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "4845a2f7-9de1-486d-afbc-1b7ac2032f3e",
     "hash": "c8f6008f3abf1cd9509bee533d7227a4",
@@ -84677,7 +84610,7 @@
       "Akio Ohmori, Ritsuo Kamimura, Keiichi Suzuki, Hirokazu Tanaka"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "b21df8b5-25e7-4a1e-8eae-85041ef335ce",
     "hash": "bca00b36778b8519ab6740fdc161bd07",
@@ -84699,7 +84632,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "6096feac-5d1d-4785-bbea-8645b5c48c78",
     "hash": "b8ac57ba7d276e93da15a6036d35ed80",
@@ -84724,7 +84657,7 @@
       "Kazumi Totaka, Manaka Kataoka, Atsuko Asahi"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "b3e89323-69ef-43fd-a3bb-3256a1b9c532",
     "hash": "97f310b64fd04932ee4fbe3cbe364f27",
@@ -84771,7 +84704,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "b761679e-35a0-4327-bb86-87917e93384f",
     "hash": "83ca93f2548cc0c4e80d7a33842dece0",
@@ -84796,7 +84729,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "047effa1-4b80-4a76-b1be-9f56d36515f5",
     "hash": "8184a61d710f9073bb059d22f875156a",
@@ -84821,7 +84754,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "e4b86315-7b50-4639-8b33-895c3f920532",
     "hash": "cab90846008e369e613adbbc0d60739f",
@@ -84846,7 +84779,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "daf6b6c0-74ee-4a34-bb97-3941a210db0c",
     "hash": "f1ede381b6c2273d6eb3b5320e698c52",
@@ -84871,7 +84804,7 @@
       "Atsushi Kitajoh"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "9b70ea6f-1930-4184-8399-15987c0e17a6",
     "hash": "0568e2c7c3c226fce9dc70bc43b4e61d",
@@ -84896,7 +84829,7 @@
       "Leon Riskin"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "1baf7834-4946-40db-881d-b315001067d3",
     "hash": "03b232bcd892a01923943875ee7815ec",
@@ -84920,7 +84853,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "ecba4292-73e4-4d41-843c-7eebfb766a21",
     "hash": "ffb19452e9c22720f371d457c1a2ea29",
@@ -84971,7 +84904,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "98b88d67-6271-44a3-b97d-9b2537fcf9e0",
     "hash": "536683b22a3a129e79d29ecea6f49bda",
@@ -85017,7 +84950,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "b7b65127-a214-42be-ba32-78530d4ebb47",
     "hash": "a6a525b9dc9457cd9e89ac33862d0497",
@@ -85042,7 +84975,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "e00330ed-30f8-4aff-8685-2c51b899c5c4",
     "hash": "082b0e995fc59a802cac216f1b76f368",
@@ -85065,7 +84998,7 @@
       "Koichi Sugiyama"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "4f56d4b1-595a-4cd8-b031-35f58a7f7b7f",
     "hash": "833d7bdfe7e094ae2a04d204e09f2247",
@@ -85114,7 +85047,7 @@
       "Asuka Hayazaki"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "9a1f7605-d375-4a60-bec9-f1253f5d9906",
     "hash": "32527faf293528cdee5487e4c36a6af2",
@@ -85140,7 +85073,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "8d93afb9-a1e2-4dac-ab0e-acb688d19f76",
     "hash": "5d9cf5baf7369c15209ae1bf44f23b93",
@@ -85165,7 +85098,7 @@
       "Tsunku♂"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "5b9b57e0-67e4-401c-8e1f-ada1094a6e83",
     "hash": "ffb8af7e35b3c7cfe88d0139c5b936d7",
@@ -85195,7 +85128,7 @@
       "Jun Ishikawa"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "4878a1c2-84c2-4a01-aefd-ddb3e99f09ea",
     "hash": "59fb0ce5a5f7cd2c27b9851ae6cb638b",
@@ -85268,7 +85201,7 @@
       "Hitomi Sato"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "6ba1f4cf-a8bb-4bc2-8e38-290d2595c057",
     "hash": "67ac77b605f05dd4b50d996b7f7dd50d",
@@ -85317,14 +85250,17 @@
   },
   {
     "game": "Among Us",
-    "song": "Impostor",
+    "song": "Round Start",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Marcus Bromander"
     ],
     "uuid": "f8c4ec57-e047-4319-81f2-4ec6f4e80200",
     "hash": "f4028bb1a6df994a021f04c44868b378",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Among Us/Impostor.mmrs",
+    "file": "Among Us/Round Start.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -85421,10 +85357,10 @@
     "game": "Castlevania: Portrait of Ruin",
     "song": "Invitation of a Crazed Moon [2]",
     "composers": [
-      "Michiru Yamane and Yūzō Koshiro"
+      "Yuzo Koshiro"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "4379de84-fee9-45da-87b4-9a11f12341f4",
     "hash": "b87fa2013fffcd7281c34a03a6cc726a",
@@ -85496,7 +85432,7 @@
       "Hiroki Morishita"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "52410175-50dd-4a2c-90a5-a5e0e0bc46c0",
     "hash": "975ae69d0f806126f9649b4a3e0e0d15",
@@ -85522,7 +85458,7 @@
       "Hironao Yamamoto"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "3192c3b1-2900-4997-aa40-747dcbc39577",
     "hash": "b21782c19b2df0e0b889c436c2f9712b",
@@ -85549,7 +85485,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "d2e799b6-a333-44d2-a0c7-97f392d3b9e8",
     "hash": "632baea88315f333d48ff0bfe622e0c6",
@@ -85573,7 +85509,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "2b20d8d3-2518-4dde-a77f-f6decd295c6c",
     "hash": "1bb488ad39de0f9ecfc22290dc402695",
@@ -85593,14 +85529,17 @@
   },
   {
     "game": "Bayonetta 2",
-    "song": "Tomorrow is mine (basic piano ver.)",
+    "song": "Tomorrow Is Mine (Piano)",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Hiroshi Yamaguchi"
     ],
     "uuid": "915d8a28-2b42-4c22-8c98-15609592cf18",
     "hash": "4022e706971ed6e3e9d4494da3c0a573",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Bayonetta 2/Tomorrow is mine (basic piano ver.).mmrs",
+    "file": "Bayonetta 2/Tomorrow Is Mine (Piano).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85619,7 +85558,7 @@
       "Koichi Sugiyama"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "4eeef85e-3d0e-475f-bdb0-3ca92b49fb0a",
     "hash": "de7acb898a42bf507355f56ed8a68b0a",
@@ -85640,7 +85579,11 @@
     "game": "Castlevania: Circle of the Moon",
     "song": "Clockwork Mansion",
     "converters": [
-      "detectivesky612"
+      "DetectiveSky612"
+    ],
+    "composers": [
+      "Sotaro Tojima",
+      "Hiroshi Mitsuoka"
     ],
     "uuid": "c73e3035-158d-463e-b80c-68311dd9ddf5",
     "hash": "f7a19231b94d693488b67fead034e493",
@@ -85740,15 +85683,15 @@
     "usesFormmask": false
   },
   {
-    "game": "Brainrot",
-    "song": "Goofy Ahh Horn",
+    "game": "Memes",
+    "song": "Goofy Ahh Car Horn",
     "converters": [
       "Philos-Kun"
     ],
     "uuid": "3786cd2c-3855-4aca-ac4a-88dfb550117b",
     "hash": "b9f917227678ef775b4a0fe7e7686fca",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Brainrot/Goofy Ahh Horn.mmrs",
+    "file": "Memes/Goofy Ahh Car Horn.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -85757,13 +85700,17 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Also known as the \"Dixie Horn\""
   },
   {
     "game": "A Hat in Time",
     "song": "Peace and Tranquility [2]",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Pascal Michael Stiefel"
     ],
     "uuid": "223564a6-8a40-44a3-8e36-2b8f5ace6341",
     "hash": "f843626b74f7cf4713f5159e7c2a5eb1",
@@ -85817,7 +85764,7 @@
       "Kinta Sato, Shinobu Amayake & Takuto Kitsuta"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "3058ccae-36f2-4dbc-9c0d-73dbb5b2003e",
     "hash": "02f12facde8d115664c9d95452856e8b",
@@ -85898,7 +85845,7 @@
       "Kenichi Nishimaki, Masanobu Matsunaga, & Minako Hamano"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a2d1d056-462c-42f0-a104-56e12f345b80",
     "hash": "a3b735d8d45bf1f50ed146458ec26f46",
@@ -85950,7 +85897,7 @@
       "Hitomi Sato"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "c4b70733-d043-46e2-8b05-6114a472f9ea",
     "hash": "dced28019293eace4767f20bd7466c51",
@@ -85973,7 +85920,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "15183635-0527-46bb-b368-905261d55c82",
     "hash": "417c05fd1b68948c907fef03fc1e6f6e",
@@ -85999,7 +85946,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "41efe20a-4fb4-48af-a13b-0f7465f1ea68",
     "hash": "2205188b6d099f56aff5dbb58ff25718",
@@ -86069,7 +86016,7 @@
       "Junichi Masuda, Go Ichinose, Hitomi Sato, Morikazu Aoki"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "33e1ba34-c400-4aac-b8fb-f7b00a534c2a",
     "hash": "bc4ef9e16459bda576d98c959dfbd1bb",
@@ -86161,15 +86108,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Brainrot",
-    "song": "Yippee",
+    "game": "Memes",
+    "song": "Yippee!",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "German Cola Kid"
     ],
     "uuid": "df8912cb-41f8-4d8d-83bc-3e7fd4d6f2e6",
     "hash": "07cf952675765ee862c380ac0b3dc733",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Brainrot/Yippee.mmrs",
+    "file": "Memes/Yippee!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86190,7 +86140,7 @@
       "Go Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "55d3f21a-0d4e-4a7a-8f2b-afc3a157a434",
     "hash": "a1f1ccb63ae803a8fcb8fc964871f168",
@@ -86199,18 +86149,18 @@
     "preview": ""
   },
   {
-    "game": "Animal Crossing (series)",
+    "game": "Animal Crossing",
     "song": "Able Sisters",
     "composers": [
-      "Kazumi Totaka, Manaka Kataoka, Shiho Fujii"
+      "Kazumi Totaka"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "95a085a0-bd43-4ebe-994f-888276e649f7",
     "hash": "62b08bebf448eef734983e3e3c930390",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Animal Crossing (series)/Able Sisters.mmrs",
+    "file": "Animal Crossing/Able Sisters.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86293,7 +86243,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "1e551b85-eee7-4f04-9e16-04086668fe72",
     "hash": "d1559420594e35d71ccbc6375f4c9974",
@@ -86319,7 +86269,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "385297c9-e168-4ff2-8dc0-0bd5c599297a",
     "hash": "9c83666439687642983aaca2fb7704d4",
@@ -86427,7 +86377,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "f1b30845-2652-450e-b2c6-001999876b99",
     "hash": "9fb668193580e5333a6722e53fe70d26",
@@ -86475,7 +86425,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "16d75d21-73b9-48db-883e-49d424533e6f",
     "hash": "aeffdf2ade735a61b4d71c89409f8adc",
@@ -86499,7 +86449,7 @@
     "song": "FAH",
     "game": "TODO",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "8380d26d-09af-4b43-9b66-dc12973b7e8c",
     "hash": "c18c4abbdf33f0ffb71de3c6d85dd4da",
@@ -86525,7 +86475,7 @@
     "song": "WOW",
     "game": "TODO",
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "264d1c89-13a6-4979-bedc-d690f166be3b",
     "hash": "1a19afc8f4d688fbf050515ae48ae695",
@@ -86577,6 +86527,9 @@
     "song": "Unwelcome School",
     "converters": [
       "Wily Willy"
+    ],
+    "composers": [
+      "Mitsukiyo"
     ],
     "uuid": "763040b6-b572-4b60-9005-2cbc378d2990",
     "hash": "efa9db49ce7e41020dbf1ccbfa828a1e",
@@ -86678,7 +86631,11 @@
     "game": "Castlevania Legends",
     "song": "Bloody Tears",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
+    ],
+    "composers": [
+      "Kaoru Okada",
+      "Youichi Iwata"
     ],
     "uuid": "34823e93-f280-41c3-814d-9964adc3ec23",
     "hash": "a00da31dbe939e88238c9d2deac5ab78",
@@ -86725,7 +86682,7 @@
       "Bart Roijmans"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "f802c3e2-6ec7-4baa-9be0-288609cebde9",
     "hash": "6f7283e1a2504f760eb147209621406a",
@@ -86800,7 +86757,7 @@
     "game": "Fire Emblem: The Sacred Stones",
     "song": "Distant Roads [2]",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
     ],
     "uuid": "e29fe576-4e0d-42fd-b263-8bc2ca9a8eb2",
     "hash": "f02df48bc61f815481a236ebd436c5ce",
@@ -86821,7 +86778,7 @@
     "game": "Fire Emblem: The Sacred Stones",
     "song": "Rise Above [2]",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
     ],
     "uuid": "c312c937-cd7a-4963-acf4-a2dd34daebca",
     "hash": "424d169b94cbc0b8c751ef14e36f1b4f",
@@ -86839,14 +86796,17 @@
   },
   {
     "game": "Castlevania: Aria of Sorrow",
-    "song": "Top Floor [2]",
+    "song": "Demon Castle Top Floor [2]",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
+    ],
+    "composers": [
+      "Michiru Yamane"
     ],
     "uuid": "e673475c-ae77-4a8c-a691-816d1bccffad",
     "hash": "91d338e95cee5e5ee1d491d731f74740",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania Aria of Sorrow/Top Floor [2].mmrs",
+    "file": "Castlevania Aria of Sorrow/Demon Castle Top Floor [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86884,7 +86844,7 @@
     "game": "Fire Emblem Echoes: Shadows of Valentia",
     "song": "The Sacrifice and The Saint [2]",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
     ],
     "uuid": "9e90fce0-41ce-4ea5-8a20-16d8a3f2ec7d",
     "hash": "7502eee68ccf58c65cfc2191910a9d12",
@@ -86971,7 +86931,7 @@
     "game": "Star Ocean: The Second Story",
     "song": "Stab the Sword of Justice (Battle theme)",
     "converters": [
-      "alfthebard"
+      "Alf"
     ],
     "uuid": "a85a4993-579b-4b37-b587-3e7bf13a57ac",
     "hash": "005b10253497325a9600fa73183eb094",
@@ -87068,7 +87028,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "ee8dc315-4c42-403a-822e-976a182663e4",
     "hash": "60f15c16090ffd90266523ed68d17676",
@@ -87119,7 +87079,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "72ed8997-ceee-46cb-983a-d09134414c25",
     "hash": "e889fbe5cb69035ba9cbd43f3598a2fe",
@@ -87146,7 +87106,7 @@
     ],
     "game": "TODO",
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "078c09c4-7417-4b23-a7ea-ac0d34fc6547",
     "hash": "a52c61d11e62dbe057e866992f8cc56b",
@@ -87241,7 +87201,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "67bba53e-7ac4-46c2-90a9-6274a7923e9c",
     "hash": "f18620245654cd72c900596c2aa2852b",
@@ -87289,7 +87249,7 @@
       "Koichi Sugiyama"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "e5580b85-fe89-4a20-8179-de6c7cab07d8",
     "hash": "bd8a09c40c9cfc1160378d5419d1c9f3",
@@ -87313,7 +87273,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "38a7f30a-1bf7-4b89-90b0-9a6aba9623eb",
     "hash": "2608e53017a072ac18bfea283826ee65",
@@ -87365,7 +87325,7 @@
       "Gō Ichinose"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "c348f6ed-bfcf-4bb6-bd31-2eb47a451486",
     "hash": "4356dc90ca2375786e4464bd8425259b",
@@ -87398,7 +87358,7 @@
       "Jun'ichi Masuda"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "a5f2e264-2ba9-4a4f-9ac4-c1a326b305c7",
     "hash": "cfe06c2ab459edd1af5652045252c5fb",
@@ -87427,7 +87387,7 @@
       "Junichi Masuda"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "eb994136-8ca1-4c05-91f3-fcd1b8fc548a",
     "hash": "40e214d0505baea2f0ebb3698008e7ce",
@@ -87457,7 +87417,7 @@
       "Grant Kirkhope"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "44756a11-0d97-4f3d-a618-acd00f9458ef",
     "hash": "ba3d5b66b60fb9be2c8fea2b24a42c46",
@@ -87487,7 +87447,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "cc62e93b-8a08-49ce-95f5-b5c391888fb2",
     "hash": "75e81c73d6797f94516a685e1f75f8a2",
@@ -87508,7 +87468,10 @@
     "game": "Castlevania: Circle of the Moon",
     "song": "Awake",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
+    ],
+    "composers": [
+      "Sotaro Tojima"
     ],
     "uuid": "5ef0ad79-113d-4511-98e4-fd58cea45981",
     "hash": "a45d680a5f099b62796c14453e6c0632",
@@ -87594,7 +87557,7 @@
       "Hideki Naganuma"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "2f26788e-e94c-43bf-a686-9868c7a9d5df",
     "hash": "4b6e4fe84f8a405f76301f502310ccdf",
@@ -87662,7 +87625,7 @@
     "game": "ChiptuneKirby, from Musescore",
     "song": "The Valedictory Elegy",
     "converters": [
-      "seba_20_90"
+      "Seba 20 90"
     ],
     "uuid": "82bc47b3-82c0-4ff3-8cd0-544303cb099a",
     "hash": "92d2a446771474251d892096c6d09e54",
@@ -87724,7 +87687,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "therealreliable"
+      "TheRealReliable"
     ],
     "uuid": "b8c10f18-1ef3-4876-a7de-93ab097df35c",
     "hash": "84d2660d647fdf587aa47d940d97a86b",
@@ -87797,7 +87760,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "f2dfcff0-4c89-4982-812e-e5369d1cf61e",
     "hash": "c88c4bec36c1497c01f030d81e21e09e",
@@ -87824,7 +87787,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "bigbomba88"
+      "BigBomba88"
     ],
     "uuid": "c0dbcc89-44bc-4df2-ba11-c0df73b09a1e",
     "hash": "c5bc1340597cc4700c7376073f88bd57",
@@ -87923,8 +87886,14 @@
   {
     "uuid": "48ca5664-5d0b-4630-8496-4108d68b4371",
     "creationDate": "2026-07-28T04:03:20.025Z",
-    "game": "Among Us (2018)",
-    "song": "amongus_ded_body_found_FANFARE [2]",
+    "game": "Among Us",
+    "song": "Body Found",
+    "composers": [
+      "Marcus Bromander"
+    ],
+    "converters": [
+      "Retroflex"
+    ],
     "type": "fanfare",
     "categories": [
       "8",
@@ -87934,7 +87903,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Among Us (2018)/amongus_ded_body_found_FANFARE [2].mmrs",
+    "file": "Among Us/Body Found.mmrs",
     "preview": "",
     "hash": "70c54f401c3011a7643c6b379078b46d"
   },
