@@ -4187,7 +4187,7 @@
     "uuid": "5e86473f-721d-4246-9fae-9d363a702f0b",
     "creationDate": "2026-03-13T01:50:43.135Z",
     "game": "Deltarune",
-    "song": "World Revolving",
+    "song": "THE WORLD REVOLVING [2]",
     "composers": [
       "Toby Fox"
     ],
@@ -4203,7 +4203,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Deltarune/World Revolving.mmrs",
+    "file": "Deltarune/THE WORLD REVOLVING [2].mmrs",
     "preview": "https://www.youtube.com/watch?v=O5Of6JmcQyg",
     "lufs": "-13.24",
     "hash": "b78bd80b8faa60ce9ded49bba2df690d"
@@ -29485,7 +29485,7 @@
     "uuid": "54a7f5c0-01e3-4e44-a5b0-15664673d1c8",
     "creationDate": "2026-04-02T14:08:33.095Z",
     "game": "Deus Ex",
-    "song": "Unatco",
+    "song": "UNATCO",
     "composers": [
       "Alexander Brandon"
     ],
@@ -29499,8 +29499,8 @@
       "3",
       "6"
     ],
-    "file": "Deus Ex/Unatco.mmrs",
-    "preview": "Deus Ex/Unatco.mp3",
+    "file": "Deus Ex/UNATCO.mmrs",
+    "preview": "Deus Ex/UNATCO.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -67492,18 +67492,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Chrono Trigger (PS1)",
+    "game": "Chrono Trigger",
     "song": "A Meeting With Destiny",
     "composers": [
       "Tsuyoshi Sekito"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "6fdbd77d-0b42-4b13-97e8-b9d90b0cd90e",
     "hash": "592c94ed5d2aa5ab7a32859846c653fd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Chrono Trigger (PS1)/A Meeting With Destiny.mmrs",
+    "file": "Chrono Trigger/A Meeting With Destiny.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67512,7 +67512,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This track appears in the extras menu only in the PS1 release."
   },
   {
     "game": "Paper Mario: The Origami King",
@@ -67521,7 +67522,7 @@
       "Yoshito Sekigawa, Shoh Murakami, Yoshiaki Kimura, Hiroki Morishita, Fumihiro Isobe;"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "16c08f90-ad30-4812-94e2-e52e044b4043",
     "hash": "e767d635e1e42214a29e1d1697823b49",
@@ -68484,28 +68485,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Dawn and Dusk",
-    "song": "Dusk Palace Gardens",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "a1ffc327-63df-4757-99ec-21feeae60aee",
-    "hash": "241f6ffe1419e379b6f4baa6918f1d06",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dawn and Dusk/Dusk Palace Gardens.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Undertale",
     "song": "Spider Dance",
     "composers": [
@@ -69144,8 +69123,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Donkey Kong Country 2",
-    "song": "Ice Theme",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "In a Snow-Bound Land",
     "composers": [
       "David Wise"
     ],
@@ -69155,7 +69134,7 @@
     "uuid": "9e8f9532-d617-4476-8782-8ae32865f22d",
     "hash": "8d9409bae923bbd616313b50078db9c0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Country 2/Ice Theme.mmrs",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/In a Snow-Bound Land.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69169,8 +69148,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Donkey Kong Country 2",
-    "song": "Hot Head Bop",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Hot-Head Bop",
     "composers": [
       "David Wise"
     ],
@@ -69180,7 +69159,7 @@
     "uuid": "69800c25-92f6-4a71-acb0-2a50f787255a",
     "hash": "8df0c896e7586593e03369514393a154",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Country 2/Hot Head Bop.mmrs",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Hot-Head Bop.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69323,7 +69302,7 @@
       "Motoi Sakuraba"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "0dfe6af0-1bce-4ac6-b26e-eb6bac67b4e9",
     "hash": "6235db25fed3f93dbee4ed0af4e21410",
@@ -69346,7 +69325,7 @@
       "Masanori Hikichi"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "8c57b41d-c4f1-41df-a856-199cada9038f",
     "hash": "5f1b190dd7b4a30c8be6968247113143",
@@ -69369,7 +69348,7 @@
       "Robin Beanland"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "a8353427-ce4d-4c29-800f-4b90addc185b",
     "hash": "560b1ad759fb8628e55ecf9ad0c2a93a",
@@ -69907,7 +69886,7 @@
   },
   {
     "game": "Deltarune",
-    "song": "man",
+    "song": "Man",
     "composers": [
       "Toby Fox"
     ],
@@ -69917,7 +69896,7 @@
     "uuid": "dcc36a3f-6341-43de-ae1b-512dcedde87b",
     "hash": "ec1fc9e3f31e6c008b59dc3b8b4025fa",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Deltarune/man.mmrs",
+    "file": "Deltarune/Man.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70148,7 +70127,7 @@
     "song": "AoiShoudou",
     "game": "TODO",
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "7daed467-80a0-486e-a15d-a14edc75cd32",
     "hash": "f0a69941ea123408713f362268f12e9c",
@@ -70236,7 +70215,7 @@
     "game": "Pokemon BlackWhite",
     "song": "Undella Town (Winter/Autumn/Spring)",
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "0b990dd3-ee31-46bc-8d8d-3505207504a5",
     "hash": "2fa7f41a77d1089b4aff1720938642f0",
@@ -70261,7 +70240,7 @@
       "猫叉Master (Naoyuki Sato)"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "5878db1c-aa6d-44ba-8841-bc4bc6439ffc",
     "hash": "e1af883541d186dc81f96f5e03df3f8c",
@@ -70305,7 +70284,7 @@
     "game": "Final Fantasy IX",
     "song": "Rose of May / Loss of Me",
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "60ba0070-8333-402a-a827-7262537aed84",
     "hash": "7e3b331f95f2c257226618017f230dbb",
@@ -70818,14 +70797,17 @@
   },
   {
     "game": "Chrono Trigger",
-    "song": "No Hope (Game Over)",
+    "song": "The Day the World Revived",
     "converters": [
       "Asra"
+    ],
+    "composers": [
+      "Yasunori Mitsuda"
     ],
     "uuid": "0e6ec5f1-673a-4bac-9dc1-fe10cefb30fc",
     "hash": "96c05c973ed3c576ba68f797bcf12cdf",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Chrono Trigger/No Hope (Game Over).mmrs",
+    "file": "Chrono Trigger/The Day the World Revived.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71320,7 +71302,7 @@
       "Ludwig van Beethoven, remixed by BanYa"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "89148309-5848-4687-8745-e113d33b13de",
     "hash": "8feb5d72e0b5736023e95da9124447f3",
@@ -71886,7 +71868,7 @@
       "Togo Project (Hiroyuki Togo)"
     ],
     "converters": [
-      "retronika_"
+      "Nika~"
     ],
     "uuid": "d1ee1fd2-3250-4c3c-bb7a-625c879fb0c9",
     "hash": "3e6887891b335f5e0625e36f7d5bbcb1",
@@ -72239,7 +72221,7 @@
     "game": "Deus Ex",
     "song": "UNATCO [2]",
     "composers": [
-      "Alexander Brandon, Dan Gardopée, Michiel van den Bos"
+      "Alexander Brandon"
     ],
     "converters": [
       "bcguppy"
@@ -74007,7 +73989,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Donkey Kong Country 2",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
     "song": "Forest Interlude",
     "composers": [
       "David Wise"
@@ -74018,7 +74000,7 @@
     "uuid": "4d192e4e-9f06-448f-82d7-3a794776aa8b",
     "hash": "ac65a8221fc0b45378b71f4b227e1990",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Country 2/Forest Interlude.mmrs",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Forest Interlude.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74273,8 +74255,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Donkey Kong Country 2",
-    "song": "Boss Theme",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Boss Bossanova",
     "composers": [
       "David Wise"
     ],
@@ -74284,7 +74266,7 @@
     "uuid": "270b8a2e-1999-41b9-9e29-20ffb23de793",
     "hash": "18dae57fd2954d75b35ca3eee9a4c8df",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Country 2/Boss Theme.mmrs",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Boss Bossanova.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75940,7 +75922,7 @@
     "game": "Donkey Kong Country Returns",
     "song": "Sloppy Sands",
     "composers": [
-      "David Wise, Kenji Yamamoto"
+      "Kenji Yamamoto"
     ],
     "converters": [
       "PixelShake92"
@@ -77324,7 +77306,7 @@
   },
   {
     "game": "Donkey Kong Country",
-    "song": "Gangplank Galleon",
+    "song": "Gang-Plank Galleon",
     "composers": [
       "David Wise"
     ],
@@ -77334,7 +77316,7 @@
     "uuid": "73466d56-1d98-430f-9603-06dc3da9b351",
     "hash": "9b6bacceb8386303077462ee50c6c3ce",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Country/Gangplank Galleon.mmrs",
+    "file": "Donkey Kong Country/Gang-Plank Galleon.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77883,7 +77865,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Doki Doki Literature Club! (2017)",
+    "game": "Doki Doki Literature Club!",
     "song": "Okay, Everyone! (Monika)",
     "composers": [
       "Dan Salvato"
@@ -77894,7 +77876,7 @@
     "uuid": "ce6a0585-e7dc-40ff-8852-3849c8058ae3",
     "hash": "dc39251cddfbcd9b244f81f977aa16bf",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Doki Doki Literature Club! (2017)/Okay, Everyone! (Monika).mmrs",
+    "file": "Doki Doki Literature Club!/Okay, Everyone! (Monika).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78225,18 +78207,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Corpse Party BloodCovered (2008)",
+    "game": "Corpse Party",
     "composers": [
       "Mao Hamamoto"
     ],
-    "song": "cpbc_wrong_end_FANFARE",
+    "song": "Wrong End",
     "converters": [
       "Retroflex"
     ],
     "uuid": "9a7ed6c4-0492-4400-a66b-a87891577c2c",
     "hash": "d428f23970556e33f9dc840b9c918c13",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Corpse Party BloodCovered (2008)/cpbc_wrong_end_FANFARE.mmrs",
+    "file": "Corpse Party/Wrong End.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -80735,7 +80717,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dinosaur Planet (N64)",
+    "game": "Dinosaur Planet",
     "song": "Krazoa Shrine",
     "composers": [
       "David Wise"
@@ -80746,7 +80728,7 @@
     "uuid": "876a65e9-2c2b-4062-9ae4-d2dd3bf2b393",
     "hash": "023fb2387dbdfb856810ed876374a44c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dinosaur Planet (N64)/Krazoa Shrine.mmrs",
+    "file": "Dinosaur Planet/Krazoa Shrine.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80821,7 +80803,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dinosaur Planet (N64)",
+    "game": "Dinosaur Planet",
     "song": "The Shop",
     "composers": [
       "David Wise"
@@ -80832,7 +80814,7 @@
     "uuid": "5163a1d7-0191-4cb1-91ce-fedf01a6e52f",
     "hash": "6bef648b0e52329534818cc0c04df5ab",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dinosaur Planet (N64)/The Shop.mmrs",
+    "file": "Dinosaur Planet/The Shop.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81742,10 +81724,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Danganronpa Trigger Happy Havoc",
+    "game": "Danganronpa: Trigger Happy Havoc",
     "song": "Beautiful Dead",
     "converters": [
       "3Pills"
+    ],
+    "composers": [
+      "Masafumi Takada"
     ],
     "uuid": "c60616a7-6535-4784-8abd-2f01c0dd3e89",
     "hash": "5ff7dc3bff32431d94b3bbf6bfab63bb",
@@ -81956,7 +81941,7 @@
   },
   {
     "game": "Chrono Trigger",
-    "song": "Ocean Palace/Undersea Palace",
+    "song": "Ocean Palace",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -81966,7 +81951,7 @@
     "uuid": "ba5845d4-28c8-4f40-8635-889837b648d3",
     "hash": "d053346134483819db8c80229a4f786a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Chrono Trigger/Ocean PalaceUndersea Palace.mmrs",
+    "file": "Chrono Trigger/Ocean Palace.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82229,9 +82214,10 @@
   },
   {
     "game": "Deltarune",
-    "song": "*Raise Up Your Bat!*",
+    "song": "Raise Up Your Bat",
     "composers": [
-      "~~Dess Holiday~~ Toby Fox"
+      "Toby Fox",
+      "Dess Holiday"
     ],
     "converters": [
       "asticky"
@@ -82239,7 +82225,7 @@
     "uuid": "41d5fec4-06c4-4b1b-b1de-0557f8dbc3b5",
     "hash": "a2c5edab1705378e6fc341ec2cc77f8c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Deltarune/Raise Up Your Bat!.mmrs",
+    "file": "Deltarune/Raise Up Your Bat.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82304,7 +82290,7 @@
   },
   {
     "game": "Cuphead",
-    "song": "King Dice Theme (All bets are off)",
+    "song": "All Bets Are Off",
     "composers": [
       "Kristofer Maddigan"
     ],
@@ -82314,7 +82300,7 @@
     "uuid": "78c1fc2a-a2ac-4cdf-bec1-a40f0dab5057",
     "hash": "8d4b21625ee185eb9fcb34b5a3256bed",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Cuphead/King Dice Theme (All bets are off).mmrs",
+    "file": "Cuphead/All Bets Are Off.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82838,7 +82824,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "Me! (Flieen)"
+      "Flieen"
     ],
     "uuid": "6fd90322-ea3d-4dad-8c4d-45a97e61b25f",
     "hash": "835c0d2a4c27b64f7f3fb498b5c4a9d5",
@@ -82861,7 +82847,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "Me! (Flieen)"
+      "Flieen"
     ],
     "uuid": "e5366322-2dd5-4f20-8af2-2355422eb8f1",
     "hash": "b491deaa09debae3776e68ecd3514f00",
@@ -83066,18 +83052,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Donkey Kong 64 (OK)",
+    "game": "Donkey Kong 64",
     "composers": [
-      "Grant Kirkhope (OK)"
+      "Grant Kirkhope"
     ],
-    "song": "DK_OK",
+    "song": "OK",
     "converters": [
       "TheRealReliable"
     ],
     "uuid": "fa7c2dfd-a68b-4453-addb-c50b14c03f3d",
     "hash": "2630f227870638b99db22aa1e510822e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong 64 (OK)/DK_OK.mmrs",
+    "file": "Donkey Kong 64/OK.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83085,7 +83071,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "🆗"
   },
   {
     "game": "The Legend of Zelda: Skyward Sword",
@@ -83392,7 +83379,7 @@
   },
   {
     "game": "Deltarune",
-    "song": "*Welcome to the Ｇᖇℇℇᑎ ᖇOOᗰ*",
+    "song": "Welcome to the Green Room",
     "composers": [
       "Toby Fox"
     ],
@@ -83402,7 +83389,7 @@
     "uuid": "5edbaa4c-2b75-49c2-8fc2-4c33cec59164",
     "hash": "c584177bcb59e62eb23f3db6ef8f6610",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Deltarune/Welcome to the Ｇᖇℇℇᑎ ᖇOOᗰ.mmrs",
+    "file": "Deltarune/Welcome to the Green Room.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83822,7 +83809,8 @@
     "game": "Digimon World",
     "song": "Machinedramon Battle",
     "composers": [
-      "Koji Yamada & Yuko Ishii"
+      "Koji Yamada",
+      "Yuko Ishii"
     ],
     "converters": [
       "Murmy"
@@ -83892,7 +83880,7 @@
   },
   {
     "game": "Donkey Kong Country 2: Diddy's Kong Quest",
-    "song": "Stickerbush Symphony/Stickerbrush Symphony/Bramble Blast",
+    "song": "Stickerbrush Symphony",
     "composers": [
       "David Wise"
     ],
@@ -83902,7 +83890,7 @@
     "uuid": "a78f8ba2-9e59-4740-85d0-099f92fe1754",
     "hash": "eadfe776d27abfe31f430949d340c94f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Stickerbush SymphonyStickerbrush SymphonyBramble Blast.mmrs",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Stickerbrush Symphony.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84679,7 +84667,8 @@
     "game": "Deltarune",
     "song": "Raise Up Your Bat (Jazz Arrangement)",
     "composers": [
-      "Toby Fox"
+      "Toby Fox",
+      "Dess Holiday"
     ],
     "converters": [
       "Flieen"
@@ -85504,7 +85493,7 @@
   },
   {
     "game": "Deltarune",
-    "song": "Welcome to The City",
+    "song": "WELCOME TO THE CITY",
     "composers": [
       "Toby Fox"
     ],
@@ -85514,7 +85503,7 @@
     "uuid": "2b20d8d3-2518-4dde-a77f-f6decd295c6c",
     "hash": "1bb488ad39de0f9ecfc22290dc402695",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Deltarune/Welcome to The City.mmrs",
+    "file": "Deltarune/WELCOME TO THE CITY.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86676,7 +86665,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Club Penguin Elite Penguin Force",
+    "game": "Club Penguin: Elite Penguin Force",
     "song": "Gadget Room",
     "composers": [
       "Bart Roijmans"
@@ -87622,7 +87611,7 @@
     "usesFormmask": false
   },
   {
-    "game": "ChiptuneKirby, from Musescore",
+    "game": "Baten Kaitos Origins",
     "song": "The Valedictory Elegy",
     "converters": [
       "Seba 20 90"
@@ -87630,7 +87619,7 @@
     "uuid": "82bc47b3-82c0-4ff3-8cd0-544303cb099a",
     "hash": "92d2a446771474251d892096c6d09e54",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "ChiptuneKirby, from Musescore/The Valedictory Elegy.mmrs",
+    "file": "Baten Kaitos Origins/The Valedictory Elegy.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87736,6 +87725,10 @@
     "song": "Cutie Mew Mew Magic",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "Toby Fox",
+      "Camellia"
     ],
     "uuid": "2cb00df7-d3e5-4e45-9cb1-3a017786016b",
     "hash": "d047da5da93d506847df28a02a0d9406",

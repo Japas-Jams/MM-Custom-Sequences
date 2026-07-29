@@ -3339,6 +3339,7 @@
   },
   {
     "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "series": "Baten Kaitos Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/2af1e9eaa807096a11b32ed26ecc2cbb.png",
     "short_name": "Baten Kaitos"
   },
@@ -4452,8 +4453,8 @@
   },
   {
     "game": "Brain Age: Train Your Brain in Minutes a Day!",
-    "short_name": "Brain Age",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fff98e721ed96517d940eb5b2daf2d18.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fff98e721ed96517d940eb5b2daf2d18.png",
+    "short_name": "Brain Age"
   },
   {
     "game": "Breath of Fire",
@@ -4476,40 +4477,30 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ec36a30e2246869154a49fd10429c52b.png"
   },
   {
-    "game": "ChiptuneKirby, from Musescore"
+    "game": "Baten Kaitos Origins",
+    "series": "Baten Kaitos Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/82674fc29bc0d9895cee346548c2cb5c.png"
   },
   {
-    "game": "Chrono Trigger (PS1)"
+    "game": "Club Penguin: Elite Penguin Force",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4332aede19e10d33866aa5a827976256.png"
   },
   {
-    "game": "Club Penguin Elite Penguin Force"
+    "game": "Corpse Party",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2162aa360552823da93fca82bf2a26f0.png"
   },
   {
-    "game": "Corpse Party BloodCovered (2008)"
+    "game": "Cory in the House (DS)",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/46bec2bf8c370766d8bf5ef8000b6942.png"
   },
   {
-    "game": "Cory in the House (DS)"
+    "game": "Cuphead",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f006fce6b378b6c31c833f30032ca481.png"
   },
   {
-    "game": "Cuphead"
-  },
-  {
-    "game": "Danganronpa Trigger Happy Havoc"
-  },
-  {
-    "game": "Dawn and Dusk"
-  },
-  {
-    "game": "Dinosaur Planet (N64)"
-  },
-  {
-    "game": "Doki Doki Literature Club! (2017)"
-  },
-  {
-    "game": "Donkey Kong 64 (OK)"
-  },
-  {
-    "game": "Donkey Kong Country 2"
+    "game": "Danganronpa: Trigger Happy Havoc",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3493894fa4ea036cfc6433c3e2ee63b0.png",
+    "short_name": "Danganronpa"
   },
   {
     "game": "Donkey Kong Jungle Beat (2004)"
