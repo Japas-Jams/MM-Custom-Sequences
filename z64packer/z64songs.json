@@ -67870,15 +67870,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest 6",
-    "song": "Devil's Tower (DS Version)",
+    "game": "Dragon Quest VI: Realms of Revelation",
+    "song": "Devil's Tower (DS ver.)",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Koichi Sugiyama"
     ],
     "uuid": "d0d4d2a3-372b-402a-b2ea-548be6efcf26",
     "hash": "ded357478ee038d3edd790e2e8b349f9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest 6/Devil's Tower (DS Version).mmrs",
+    "file": "Dragon Quest VI Realms of Revelation/Devil's Tower (DS ver.).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67894,15 +67897,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest 5",
-    "song": "Violent Enemies (Battle theme, DS Version)",
+    "game": "Dragon Quest V: Hand of the Heavenly Bride",
+    "song": "Violent Enemies (DS ver.)",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Koichi Sugiyama"
     ],
     "uuid": "23b44acb-520b-4542-8567-43e8b2f5d3b6",
     "hash": "4c5dd2a562288046178093bb13d65386",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest 5/Violent Enemies (Battle theme, DS Version).mmrs",
+    "file": "Dragon Quest V Hand of the Heavenly Bride/Violent Enemies (DS ver.).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67960,15 +67966,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest 5",
-    "song": "Toward the Horizon (Overworld, DS Version)",
+    "game": "Dragon Quest V: Hand of the Heavenly Bride",
+    "song": "Toward the Horizon (DS ver.)",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Koichi Sugiyama"
     ],
     "uuid": "72d252ae-ab26-415d-8797-22a2d46a9b07",
     "hash": "2ad9540a30ec346573fb89bace7132af",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest 5/Toward the Horizon (Overworld, DS Version).mmrs",
+    "file": "Dragon Quest V Hand of the Heavenly Bride/Toward the Horizon (DS ver.).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68744,7 +68753,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Doom Plutonia 2",
+    "game": "DOOM: Plutonia 2",
     "song": "Nobody Told Me About Plutonia",
     "composers": [
       "James \"Jimmy\" Paddock"
@@ -68755,7 +68764,7 @@
     "uuid": "b8f01f58-120a-4243-a4fc-444489e236c2",
     "hash": "2bad939895010d661a56aacffa8cc006",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Doom Plutonia 2/Nobody Told Me About Plutonia.mmrs",
+    "file": "DOOM Plutonia 2/Nobody Told Me About Plutonia.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69649,10 +69658,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Doom 2",
+    "game": "Doom II",
     "song": "The Demon's Dead",
     "composers": [
-      "Robert Prince"
+      "Bobby Prince"
     ],
     "converters": [
       "ZoeyZolotova"
@@ -69660,7 +69669,7 @@
     "uuid": "f5355158-c394-4795-b26b-9898f6fdc5dc",
     "hash": "709b8b338e667483be38ef0b6b4d783b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Doom 2/The Demon's Dead.mmrs",
+    "file": "Doom II/The Demon's Dead.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72191,7 +72200,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Ancient Aliens",
+    "game": "DOOM: Ancient Aliens",
     "song": "Flee",
     "composers": [
       "Stuart \"Stewboy\" Rynn"
@@ -72202,7 +72211,7 @@
     "uuid": "1467a02c-5ee9-4ab4-941e-f2d2d6145f8b",
     "hash": "624a1b5440774d9cfd5b153d27eb4e9b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Ancient Aliens/Flee.mmrs",
+    "file": "DOOM: Ancient Aliens/Flee.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73055,21 +73064,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false
-  },
-  {
-    "game": "Donkey Kong 64",
-    "song": "Monkey Smash (multiplayer theme)",
-    "composers": [
-      "Grant Kirkhope"
-    ],
-    "converters": [
-      "QueenSnopea"
-    ],
-    "uuid": "97335bb0-8c95-4079-b8d7-dbbd21845e62",
-    "hash": "7158a18edc12c334c3d2f872611f825c",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong 64/Monkey Smash (multiplayer theme).mmrs",
-    "preview": ""
   },
   {
     "game": "Apollo Justice: Ace Attorney",
@@ -76889,6 +76883,9 @@
     "converters": [
       "Alf"
     ],
+    "composers": [
+      "Tommy Tallarico"
+    ],
     "uuid": "fbbc4d5e-fd2f-46a7-b49d-165186c1de98",
     "hash": "d1820a5048d43e249055c0aecd65861e",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -76909,6 +76906,10 @@
     "song": "For Pete's Sake",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Mark Miller",
+      "Tommy Tallarico"
     ],
     "uuid": "bd55bb1b-eb65-4145-8b4a-05b54da9f5f2",
     "hash": "c15c537ddb55436483373501c71092b7",
@@ -76949,6 +76950,9 @@
     "song": "Snot a Problem",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Tommy Tallarico"
     ],
     "uuid": "9de8e595-68ac-45b8-a5cc-f00d6c69765c",
     "hash": "af936beaef5d964711b58b58bde6b93a",
@@ -77146,6 +77150,9 @@
     "song": "Who Turned Out the Lights?",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Mark Miller"
     ],
     "uuid": "ad2e47b4-b562-439c-a7d9-5df92c14434c",
     "hash": "319756d3760de00aa22de662c117629e",
@@ -78788,10 +78795,10 @@
     "usesFormmask": false
   },
   {
-    "game": "FE Three Houses",
+    "game": "Fire Emblem: Three Houses",
     "song": "A Funeral of Flowers (Thunder)",
     "composers": [
-      "Takeru Kanazaki, Rei Kondoh, and Hiroki Morishita"
+      "Rei Kondoh"
     ],
     "converters": [
       "TheRealReliable"
@@ -78799,7 +78806,7 @@
     "uuid": "da1aa70f-ada0-496c-a47a-d0a6efa2feb8",
     "hash": "f72007cef3a895f3c29a56d5707c5a48",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "FE Three Houses/A Funeral of Flowers (Thunder).mmrs",
+    "file": "Fire Emblem Three Houses/A Funeral of Flowers (Thunder).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79008,7 +79015,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest VIII",
+    "game": "Dragon Quest VIII: Journey of the Cursed King",
     "song": "Quiet Village",
     "composers": [
       "Koichi Sugiyama"
@@ -79019,7 +79026,7 @@
     "uuid": "b3fbdeaa-e1df-4925-85d4-e9bb608c2248",
     "hash": "451cfb6ef6360f41ce6e837e0e1c4402",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest VIII/Quiet Village.mmrs",
+    "file": "Dragon Quest VIII Journey of the Cursed King/Quiet Village.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79439,7 +79446,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest 9",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
     "song": "Painful Feelings",
     "composers": [
       "Koichi Sugiyama"
@@ -79450,7 +79457,7 @@
     "uuid": "ed8560fd-cba9-455b-a702-83fa37b8b166",
     "hash": "13fb8b377010b79fbc865647946b30a7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest 9/Painful Feelings.mmrs",
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Painful Feelings.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79463,7 +79470,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest 4",
+    "game": "Dragon Quest IV: Chapters of the Chosen",
     "song": "Battle for Glory",
     "composers": [
       "Koichi Sugiyama"
@@ -79474,7 +79481,7 @@
     "uuid": "76fcf0c5-7bc8-4e9d-a4fc-d92643a8847d",
     "hash": "ace6b46937e18eceff9bc14c798f6684",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest 4/Battle for Glory.mmrs",
+    "file": "Dragon Quest IV Chapters of the Chosen/Battle for Glory.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79490,6 +79497,9 @@
     "song": "Groovy!",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Doug TenNapel"
     ],
     "uuid": "9b223f62-ebf3-4622-ab3a-c821b0e87312",
     "hash": "bc90ec3aea8079d966717edfd98e26cf",
@@ -79839,7 +79849,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Ball Kai Ultimate Butouden",
+    "game": "Dragon Ball Kai: Ultimate Butouden",
     "song": "Hyperbolic Time Chamber",
     "converters": [
       "syntheticsaturn"
@@ -80198,7 +80208,7 @@
     "preview": ""
   },
   {
-    "game": "Donkey Kong Jungle Beat (2004)",
+    "game": "Donkey Kong Jungle Beat",
     "song": "Battle for Storm Hill",
     "composers": [
       "Mahito Yokota"
@@ -80209,7 +80219,7 @@
     "uuid": "5ea27367-85f4-49d9-afa1-555d820054aa",
     "hash": "1085aaf87ff9aa6e535b9c3e0504fa3a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong Jungle Beat (2004)/Battle for Storm Hill.mmrs",
+    "file": "Donkey Kong Jungle Beat/Battle for Storm Hill.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84593,9 +84603,10 @@
   },
   {
     "game": "EarthBound",
-    "song": "Buy Somethin' Will Ya!?",
+    "song": "Buy Somethin' Will Ya!",
     "composers": [
-      "Akio Ohmori, Ritsuo Kamimura, Keiichi Suzuki, Hirokazu Tanaka"
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
     ],
     "converters": [
       "BigBomba88"
@@ -85541,7 +85552,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest IV (4)",
+    "game": "Dragon Quest IV: Chapters of the Chosen",
     "song": "Wagon Wheels' March",
     "composers": [
       "Koichi Sugiyama"
@@ -85552,7 +85563,7 @@
     "uuid": "4eeef85e-3d0e-475f-bdb0-3ca92b49fb0a",
     "hash": "de7acb898a42bf507355f56ed8a68b0a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest IV (4)/Wagon Wheels' March.mmrs",
+    "file": "Dragon Quest IV Chapters of the Chosen/Wagon Wheels' March.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
