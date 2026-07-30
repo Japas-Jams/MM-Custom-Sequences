@@ -4541,37 +4541,14 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/584b98aac2dddf59ee2cf19ca4ccb75e.png"
   },
   {
-    "game": "Final Fantasy 1 Pixel Remaster"
+    "game": "Final Fantasy Tactics Advance",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3695c15033a98875d655072649e59b27.png"
   },
   {
-    "game": "Final Fantasy 10-2"
-  },
-  {
-    "game": "Final Fantasy 2 (SNES)"
-  },
-  {
-    "game": "Final Fantasy 5"
-  },
-  {
-    "game": "Final Fantasy 7"
-  },
-  {
-    "game": "Final Fantasy 8"
-  },
-  {
-    "game": "Final Fantasy III (DS Version)"
-  },
-  {
-    "game": "Final Fantasy Tactics Advance"
-  },
-  {
-    "game": "Final Fantasy XI"
-  },
-  {
-    "game": "Final Fantasy XI Rise of the Zilart"
-  },
-  {
-    "game": "Final Fantasy XIV Stormblood"
+    "game": "Final Fantasy XI",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5465772e1379d52a6ffc40444c7cbf09.png"
   },
   {
     "game": "Fire Emblem 7 (The Blazing Sword)"
@@ -4586,7 +4563,9 @@
     "game": "Fleeing the Complex (2015)"
   },
   {
-    "game": "FNAF World"
+    "game": "FNaF World",
+    "series": "Five Nights at Freddy's Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/64f07f012a35c83d7c556ba0b69ef64e.png"
   },
   {
     "game": "Freddy Fazbear's Pizzeria Simulator (2017)"

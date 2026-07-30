@@ -368,7 +368,7 @@
   {
     "uuid": "c76b7941-a654-41b2-b18d-0b4cb42042af",
     "creationDate": "2026-03-06T03:46:12.312Z",
-    "game": "Doom II",
+    "game": "DOOM II",
     "song": "Countdown to Death",
     "composers": [
       "Bobby Prince"
@@ -384,7 +384,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Doom II/Countdown to Death.mmrs",
+    "file": "DOOM II/Countdown to Death.mmrs",
     "preview": "https://www.youtube.com/watch?v=r1j8v0q3Jz0",
     "lufs": "-21.28",
     "hash": "88c90c9e79e2d6af3f71e9e052586f28"
@@ -392,7 +392,7 @@
   {
     "uuid": "78d408c3-def8-4250-8afc-87f0d440039f",
     "creationDate": "2026-03-06T03:48:09.625Z",
-    "game": "Doom II",
+    "game": "DOOM II",
     "song": "Into Sandy's City",
     "composers": [
       "Bobby Prince"
@@ -407,7 +407,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Doom II/Into Sandy's City.mmrs",
+    "file": "DOOM II/Into Sandy's City.mmrs",
     "preview": "https://www.youtube.com/watch?v=1jYkYMK89k0",
     "lufs": "-19.14",
     "hash": "8203eb436568ec53b15b88b120079cdf"
@@ -415,7 +415,7 @@
   {
     "uuid": "02008a7e-9c5e-441d-84fc-e6b5630ff21c",
     "creationDate": "2026-03-06T03:49:51.216Z",
-    "game": "Doom II",
+    "game": "DOOM II",
     "song": "Running from Evil",
     "composers": [
       "Bobby Prince"
@@ -430,7 +430,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Doom II/Running from Evil.mmrs",
+    "file": "DOOM II/Running from Evil.mmrs",
     "preview": "https://www.youtube.com/watch?v=B1CivGkj21g",
     "lufs": "-17.70",
     "hash": "768604bb4e694950d9b03770a6f76c00"
@@ -21110,31 +21110,6 @@
     "hash": "ecc528838c2c0763186cca38504a6dbf"
   },
   {
-    "uuid": "82f2579e-77fc-4237-9613-55d089003fb9",
-    "creationDate": "2026-03-24T01:46:05.584Z",
-    "game": "Final Fantasy VII",
-    "song": "Still More Fighting",
-    "composers": [
-      "Nobuo Uematsu"
-    ],
-    "converters": [
-      "Philos-Kun"
-    ],
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false,
-    "file": "Final Fantasy VII/Still More Fighting.mmrs",
-    "preview": "Final Fantasy VII/Still More Fighting.mp3",
-    "lufs": "-15.73",
-    "hash": "42ce56f0c54157f574465fd3211fb762"
-  },
-  {
     "uuid": "8608e703-4e81-4606-bc36-c5458606958c",
     "creationDate": "2026-03-24T01:46:57.914Z",
     "game": "Final Fantasy VII",
@@ -26963,7 +26938,7 @@
   {
     "uuid": "d24643b8-f7ce-4e1c-ab68-b43645607119",
     "creationDate": "2026-03-31T01:55:01.359Z",
-    "game": "Doom II",
+    "game": "DOOM II",
     "song": "The Demon's Dead (Arr. Master of Time)",
     "composers": [
       "Robert Prince"
@@ -26979,7 +26954,7 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "Doom II/The Demon's Dead (Arr. Master of Time).mmrs",
+    "file": "DOOM II/The Demon's Dead (Arr. Master of Time).mmrs",
     "preview": "https://www.youtube.com/watch?v=TOjJ1Hysnx8",
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -37367,7 +37342,7 @@
     "uuid": "b2a71a7e-428a-496b-9487-9e00941dfe50",
     "creationDate": "2026-04-13T22:26:17.715Z",
     "game": "Donkey Kong 64",
-    "song": "5 Door Temple (Variant A)",
+    "song": "Angry Aztec (Temple)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -37381,8 +37356,8 @@
       "16F",
       "111"
     ],
-    "file": "Donkey Kong 64/5 Door Temple (Variant A).mmrs",
-    "preview": "Donkey Kong 64/5 Door Temple (Variant A).ogg",
+    "file": "Donkey Kong 64/Angry Aztec (Temple).mmrs",
+    "preview": "Donkey Kong 64/Angry Aztec (Temple).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -38424,7 +38399,7 @@
     "uuid": "d62f1783-bc27-4bf1-98fb-8fe816275da8",
     "creationDate": "2026-04-18T16:35:15.284Z",
     "game": "Final Fantasy III",
-    "song": "Battle Theme",
+    "song": "Battle 1",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -38436,8 +38411,8 @@
       "4",
       "5"
     ],
-    "file": "Final Fantasy III/Battle Theme.mmrs",
-    "preview": "Final Fantasy III/Battle Theme.ogg",
+    "file": "Final Fantasy III/Battle 1.mmrs",
+    "preview": "Final Fantasy III/Battle 1.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -38988,7 +38963,7 @@
     "uuid": "391e9594-e1d1-41a4-b833-c16a2261a1a3",
     "creationDate": "2026-04-18T16:55:56.167Z",
     "game": "Final Fantasy Adventure",
-    "song": "Second Overworld (Alternate Version)",
+    "song": "In Search of the Holy Sword (Alternate Version)",
     "composers": [
       "Kenji Ito"
     ],
@@ -39001,8 +38976,8 @@
       "1",
       "3"
     ],
-    "file": "Final Fantasy Adventure/Second Overworld (Alternate Version).mmrs",
-    "preview": "Final Fantasy Adventure/Second Overworld (Alternate Version).ogg",
+    "file": "Final Fantasy Adventure/In Search of the Holy Sword (Alternate Version).mmrs",
+    "preview": "Final Fantasy Adventure/In Search of the Holy Sword (Alternate Version).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -44825,7 +44800,7 @@
   {
     "uuid": "1fe13547-6883-45c5-9bb4-d1bbd5e077e8",
     "creationDate": "2026-04-24T04:49:36.647Z",
-    "game": "Doom",
+    "game": "DOOM",
     "song": "At Doom's Gate",
     "composers": [
       "Bobby Prince"
@@ -44843,8 +44818,8 @@
       "5"
     ],
     "usesCustomBank": true,
-    "file": "Doom/At Doom's Gate.mmrs",
-    "preview": "Doom/At Doom's Gate.mp3",
+    "file": "DOOM/At Doom's Gate.mmrs",
+    "preview": "DOOM/At Doom's Gate.mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-18.25",
@@ -45451,31 +45426,6 @@
     "usesFormmask": false,
     "lufs": "-14.19",
     "hash": "89dba80e85cc9cb5245eaf4c28c3792b"
-  },
-  {
-    "uuid": "0ba0de55-42ef-487a-a70e-ea55c97ae3ee",
-    "creationDate": "2026-04-27T22:38:48.568Z",
-    "game": "Final Fantasy VII",
-    "song": "Mako Reactor",
-    "composers": [
-      "Nobuo Uematsu"
-    ],
-    "converters": [
-      "Ainurmusician64"
-    ],
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3"
-    ],
-    "usesCustomBank": true,
-    "file": "Final Fantasy VII/Mako Reactor.mmrs",
-    "preview": "Final Fantasy VII/Mako Reactor.ogg",
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-18.16",
-    "hash": "4ddc52c9ce38f020740e8b31a6f6f7c0"
   },
   {
     "uuid": "bb7a1a59-2054-483c-9ca5-acc312df20ea",
@@ -66508,7 +66458,7 @@
   {
     "uuid": "c89705e2-ee90-4f09-bef4-25a195ec1f9c",
     "creationDate": "2026-05-21T00:27:51.262Z",
-    "game": "Doom",
+    "game": "DOOM",
     "song": "Suspense",
     "composers": [
       "Bobby Prince"
@@ -66526,7 +66476,7 @@
       "6",
       "157"
     ],
-    "file": "Doom/Suspense.mmrs",
+    "file": "DOOM/Suspense.mmrs",
     "preview": "https://www.youtube.com/watch?v=Qx4-kn66oXo",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -67924,15 +67874,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 10-2",
+    "game": "Final Fantasy X-2",
     "song": "1000 Words (Piano)",
     "converters": [
       "Asra"
     ],
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
     "uuid": "859d3148-2ab1-4fc5-bbbd-8edc06a1f88e",
     "hash": "4bd9e66546f72931c685acd2cffc4c5b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 10-2/1000 Words (Piano).mmrs",
+    "file": "Final Fantasy X-2/1000 Words (Piano).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69658,7 +69612,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Doom II",
+    "game": "DOOM II",
     "song": "The Demon's Dead",
     "composers": [
       "Bobby Prince"
@@ -69669,7 +69623,7 @@
     "uuid": "f5355158-c394-4795-b26b-9898f6fdc5dc",
     "hash": "709b8b338e667483be38ef0b6b4d783b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Doom II/The Demon's Dead.mmrs",
+    "file": "DOOM II/The Demon's Dead.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69959,15 +69913,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 2 (SNES)",
-    "song": "Enemy Encounter (Version 2)",
+    "game": "Final Fantasy IV",
+    "song": "Battle [2]",
     "converters": [
       "Joshua8600"
+    ],
+    "composers": [
+      "Nobuo Uematsu"
     ],
     "uuid": "6fcc9155-58d3-410e-991f-d5d16f38b66f",
     "hash": "561be6dbba09fd5b93c0f0ce61169fa9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 2 (SNES)/Enemy Encounter (Version 2).mmrs",
+    "file": "Final Fantasy IV/Battle [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70291,14 +70248,17 @@
   },
   {
     "game": "Final Fantasy IX",
-    "song": "Rose of May / Loss of Me",
+    "song": "Rose of May",
     "converters": [
       "Nika~"
+    ],
+    "composers": [
+      "Nobuo Uematsu"
     ],
     "uuid": "60ba0070-8333-402a-a827-7262537aed84",
     "hash": "7e3b331f95f2c257226618017f230dbb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy IX/Rose of May  Loss of Me.mmrs",
+    "file": "Final Fantasy IX/Rose of May.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70690,32 +70650,6 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Donkey Kong 64",
-    "song": "Funkys Armory",
-    "composers": [
-      "Grant Kirkhope"
-    ],
-    "converters": [
-      "PixelShake92"
-    ],
-    "uuid": "9ff9eeb6-5994-4739-9606-2e58a8e61cb8",
-    "hash": "65d29de89d7f57f360cc92f689cb9de7",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong 64/Funkys Armory.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "3",
-      "4",
-      "12E",
-      "130",
-      "144"
-    ],
-    "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -71556,6 +71490,9 @@
     "converters": [
       "Cmellz"
     ],
+    "composers": [
+      "Masashi Hamauzu"
+    ],
     "uuid": "a3d61f27-c555-497b-9b51-08d66d77efc7",
     "hash": "baa475ccee5ec451c06475b1e7fc5db9",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -71691,14 +71628,18 @@
   },
   {
     "game": "Final Fantasy X",
-    "song": "Someday, The Dream Will End",
+    "song": "Someday The Dream Will End",
     "converters": [
       "Cmellz"
+    ],
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu"
     ],
     "uuid": "1c92d9ac-c790-4b55-8138-cf096a12d748",
     "hash": "3e236b2531a35c8f6fb3cb5219243bfa",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy X/Someday, The Dream Will End.mmrs",
+    "file": "Final Fantasy X/Someday The Dream Will End.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71787,6 +71728,9 @@
     "converters": [
       "Cmellz"
     ],
+    "composers": [
+      "Grant Kirkhope"
+    ],
     "uuid": "eef912c9-5112-489f-9044-14f1ca5893c1",
     "hash": "503becee3625a7bfc2ef8acf70a30474",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -71822,7 +71766,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy XIV Stormblood",
+    "game": "Final Fantasy XIV",
     "song": "Scale and Steel",
     "composers": [
       "Masayoshi Soken"
@@ -71833,7 +71777,7 @@
     "uuid": "e8ab2b5a-d157-40a9-af23-23644a223deb",
     "hash": "ed028d5764d4b4d23135d3e32223c878",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy XIV Stormblood/Scale and Steel.mmrs",
+    "file": "Final Fantasy XIV/Scale and Steel.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72721,17 +72665,17 @@
   },
   {
     "game": "Final Fantasy Adventure",
-    "song": "Overworld (Endless Battlefield)",
+    "song": "Endless Battlefield",
     "composers": [
       "Kenji Ito"
     ],
     "converters": [
-      "IDKShrug (I used midi files from vgmusic.com as a framework, but heavily edited both.)"
+      "IDKShrug"
     ],
     "uuid": "0f431a5d-831d-44b0-81b8-2ef0d3eed795",
     "hash": "3ced7e1e9b2236947f0367c12dd87c6c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy Adventure/Overworld (Endless Battlefield).mmrs",
+    "file": "Final Fantasy Adventure/Endless Battlefield.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72747,7 +72691,7 @@
   },
   {
     "game": "Final Fantasy Adventure",
-    "song": "Overworld 2 (In Search of the Sacred Sword)",
+    "song": "In Search of the Sacred Sword",
     "composers": [
       "Kenji Ito"
     ],
@@ -72757,7 +72701,7 @@
     "uuid": "460869bb-e0bc-4460-a8e1-dbe0454e9c78",
     "hash": "0bb19b0fd113c50a28aefbfb2e7eee1b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy Adventure/Overworld 2 (In Search of the Sacred Sword).mmrs",
+    "file": "Final Fantasy Adventure/In Search of the Sacred Sword.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72931,14 +72875,17 @@
   },
   {
     "game": "Final Fantasy Tactics Advance",
-    "song": "Snow Battle (Tutorial/Intro Battle)",
+    "song": "Snow Dancing in the Schoolyard",
     "converters": [
       "MaxPlaysGamesBadly"
+    ],
+    "composers": [
+      "Hitoshi Sakimoto"
     ],
     "uuid": "35c998cb-2805-4da8-9f0c-24de24f19c73",
     "hash": "c5624aed4a0783761a21a96e388f090f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy Tactics Advance/Snow Battle (TutorialIntro Battle).mmrs",
+    "file": "Final Fantasy Tactics Advance/Snow Dancing in the Schoolyard.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72953,14 +72900,17 @@
   },
   {
     "game": "Final Fantasy Tactics Advance",
-    "song": "Teach Me Mont Blanc (Cyril)",
+    "song": "Teach Me, Montblanc",
     "converters": [
       "MaxPlaysGamesBadly"
+    ],
+    "composers": [
+      "Hitoshi Sakimoto"
     ],
     "uuid": "8f7cd3de-a882-4f14-8953-c55a8ff43a21",
     "hash": "545513aaddb379c866dcfbfbcb17f55f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy Tactics Advance/Teach Me Mont Blanc (Cyril).mmrs",
+    "file": "Final Fantasy Tactics Advance/Teach Me, Montblanc.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73022,15 +72972,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy III (DS Version)",
-    "song": "The Crystal Tower",
+    "game": "Final Fantasy III",
+    "song": "The Crystal Tower (DS ver.)",
     "converters": [
       "maximilian9464"
+    ],
+    "composers": [
+      "Nobuo Uematsu"
     ],
     "uuid": "f5ad79cb-25c5-410d-8e9e-050dc0d8f075",
     "hash": "946758970ad88b922a6957a409a23b96",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy III (DS Version)/The Crystal Tower.mmrs",
+    "file": "Final Fantasy III/The Crystal Tower (DS ver.).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73224,27 +73177,6 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
-    "game": "Final Fantasy VII",
-    "song": "Tifa's Theme [2]",
-    "converters": [
-      "Philos-Kun"
-    ],
-    "uuid": "46588473-15c5-444a-bb90-22c78fa79673",
-    "hash": "41afec0faf689901bc1173a5ca5f60b0",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy VII/Tifa's Theme [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "4"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
     "usesFormmask": false
   },
   {
@@ -73493,28 +73425,6 @@
       "4",
       "5",
       "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
-    "game": "Final Fantasy VII",
-    "song": "Life Stream [2]",
-    "converters": [
-      "Philos-Kun"
-    ],
-    "uuid": "421db6a6-4231-45d6-8167-db06116e809d",
-    "hash": "9e4eeddd06bfcc7f2075cc26f8f90ad1",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy VII/Life Stream [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "6"
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
@@ -73927,14 +73837,14 @@
   },
   {
     "game": "Final Fantasy VII",
-    "song": "Still more fighting (v2)",
+    "song": "Still More Fighting",
     "converters": [
       "Philos-Kun"
     ],
-    "uuid": "1ba3be4d-62bb-431f-a336-7f2d626d3119",
+    "uuid": "82f2579e-77fc-4237-9613-55d089003fb9",
     "hash": "cfbcedb11693a88cc4e47eb1da9f48e8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy VII/Still more fighting (v2).mmrs",
+    "file": "Final Fantasy VII/Still More Fighting.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75694,7 +75604,7 @@
   },
   {
     "game": "Donkey Kong 64",
-    "song": "Armydillo 2",
+    "song": "Army Dillo 2 [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -75704,7 +75614,7 @@
     "uuid": "c51db8a4-0084-4753-a1f5-bfdc6837ddd7",
     "hash": "d6efc624a8f305cbb1a62388c68f4ced",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Donkey Kong 64/Armydillo 2.mmrs",
+    "file": "Donkey Kong 64/Army Dillo 2 [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76307,8 +76217,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 8",
-    "song": "Battle (Frog edition <:frog:921912502063861820> )",
+    "game": "Final Fantasy VIII",
+    "song": "Don't Be Afraid (Frog Edition)",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -76318,7 +76228,7 @@
     "uuid": "d0b8c4e6-abdc-478b-8808-e4d1b0f308d7",
     "hash": "7e1edd59871c96f23a55652b1aaa33ec",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 8/Battle (Frog edition frog921912502063861820 ).mmrs",
+    "file": "Final Fantasy VIII/Don't Be Afraid (Frog Edition).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76331,8 +76241,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 8",
-    "song": "Battle",
+    "game": "Final Fantasy VIII",
+    "song": "Don't Be Afraid",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -76342,7 +76252,7 @@
     "uuid": "9d28f8cf-6e89-4c65-b154-1df9606247f1",
     "hash": "7e1edd59871c96f23a55652b1aaa33ec",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 8/Battle.mmrs",
+    "file": "Final Fantasy VIII/Don't Be Afraid.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76969,14 +76879,17 @@
   },
   {
     "game": "Final Fantasy IX",
-    "song": "Battle 2 (Boss theme)",
+    "song": "Battle 2",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Nobuo Uematsu"
     ],
     "uuid": "ae7b3035-dbef-4527-9581-9547e3696452",
     "hash": "b9fcb8cbb984f3f2018aa5049a068426",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy IX/Battle 2 (Boss theme).mmrs",
+    "file": "Final Fantasy IX/Battle 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77456,7 +77369,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Doom",
+    "game": "DOOM",
     "song": "Nobody Told Me About id",
     "converters": [
       "Shijima"
@@ -77464,7 +77377,7 @@
     "uuid": "c1a297c8-41c6-45a6-a41e-477825404d5c",
     "hash": "b12e6dd6de7d7b40ac8197e8a4907492",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Doom/Nobody Told Me About id.mmrs",
+    "file": "DOOM/Nobody Told Me About id.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78992,8 +78905,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 1 Pixel Remaster",
-    "song": "Main Theme / Overworld",
+    "game": "Final Fantasy",
+    "song": "Main Theme (Pixel Remaster ver.)",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -79003,7 +78916,7 @@
     "uuid": "54a2794a-e5a2-4705-a399-6b7df08884e9",
     "hash": "96a836d971372124c065a1f52e2a8f00",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 1 Pixel Remaster/Main Theme  Overworld.mmrs",
+    "file": "Final Fantasy/Main Theme (Pixel Remaster ver.).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79087,7 +79000,7 @@
   },
   {
     "game": "Final Fantasy III",
-    "song": "Battle Theme 2 / Boss Theme",
+    "song": "Battle 2",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -79097,7 +79010,7 @@
     "uuid": "af4dac01-5555-467f-8709-b5bdcc5779e4",
     "hash": "0aff2c928488f4609af26567e61da3f3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy III/Battle Theme 2  Boss Theme.mmrs",
+    "file": "Final Fantasy III/Battle 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79773,7 +79686,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 5",
+    "game": "Final Fantasy V",
     "song": "The Fire-Powered Ship",
     "composers": [
       "Nobuo Uematsu"
@@ -79784,7 +79697,7 @@
     "uuid": "5fd12df1-5000-4a5b-a2fa-9ecc6d69ff31",
     "hash": "6821a45b9bd19236218b59aec1c33963",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 5/The Fire-Powered Ship.mmrs",
+    "file": "Final Fantasy V/The Fire-Powered Ship.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81250,7 +81163,7 @@
   },
   {
     "game": "Final Fantasy",
-    "song": "Overworld/Main Theme",
+    "song": "Main Theme",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -81260,7 +81173,7 @@
     "uuid": "0bd0c223-576a-4555-a9d6-82c414e2efb8",
     "hash": "5fcc941c1276f6f075620be02eb390a2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy/OverworldMain Theme.mmrs",
+    "file": "Final Fantasy/Main Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81274,7 +81187,7 @@
   },
   {
     "game": "Final Fantasy",
-    "song": "Chaos Shrine/Temple of the Fiends",
+    "song": "Chaos Shrine",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -81284,7 +81197,7 @@
     "uuid": "4cebf217-0302-4f60-a78b-4eed9907a8a6",
     "hash": "f280819c0206ca5305f0675477adf202",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy/Chaos ShrineTemple of the Fiends.mmrs",
+    "file": "Final Fantasy/Chaos Shrine.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81298,15 +81211,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy XI Rise of the Zilart",
+    "game": "Final Fantasy XI",
     "song": "Altepa Desert",
     "converters": [
       "MaxPlaysGamesBadly"
     ],
+    "composers": [
+      "Naoshi Mizuta"
+    ],
     "uuid": "ef92ca0c-cc32-4e97-a50f-ed2021e56bb9",
     "hash": "d18ec5f161f1dba1b829a3900f62b4c6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy XI Rise of the Zilart/Altepa Desert.mmrs",
+    "file": "Final Fantasy XI/Altepa Desert.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82564,7 +82480,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 5",
+    "game": "Final Fantasy V",
     "song": "Battle 1",
     "composers": [
       "Nobuo Uematsu"
@@ -82575,7 +82491,7 @@
     "uuid": "d6c8b8ce-f200-4606-bd77-b866e187fb4e",
     "hash": "a79bc49f16dbb8e12ab984c12700fa60",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 5/Battle 1.mmrs",
+    "file": "Final Fantasy V/Battle 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83159,6 +83075,9 @@
     "converters": [
       "Seba 20 90"
     ],
+    "composers": [
+      "Naoshi Mizuta"
+    ],
     "uuid": "7a9ca348-16b8-4fff-b804-33677af936c6",
     "hash": "9a895ac6bf5e2a4e2f7a7bb4df1b6760",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -83481,18 +83400,18 @@
     "usesFormmask": true
   },
   {
-    "game": "Final Fantasy 7",
-    "song": "Mako Reactor (Remaster/Reupload)",
+    "game": "Final Fantasy VII",
+    "song": "Mako Reactor",
     "composers": [
       "Nobuo Uematsu"
     ],
     "converters": [
       "ainurmusician64"
     ],
-    "uuid": "bddaf39e-8e48-4c9d-a7c1-5c011e62c526",
+    "uuid": "0ba0de55-42ef-487a-a70e-ea55c97ae3ee",
     "hash": "c614071e357ed3c966355060745b9b33",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 7/Mako Reactor (RemasterReupload).mmrs",
+    "file": "Final Fantasy VII/Mako Reactor.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84823,7 +84742,7 @@
     "usesFormmask": false
   },
   {
-    "game": "FNAF World",
+    "game": "FNaF World",
     "song": "8 Bit Travel 2 (Pinwheel Circus)",
     "composers": [
       "Leon Riskin"
@@ -84834,7 +84753,7 @@
     "uuid": "1baf7834-4946-40db-881d-b315001067d3",
     "hash": "03b232bcd892a01923943875ee7815ec",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "FNAF World/8 Bit Travel 2 (Pinwheel Circus).mmrs",
+    "file": "FNaF World/8 Bit Travel 2 (Pinwheel Circus).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84847,7 +84766,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Final Fantasy 7",
+    "game": "Final Fantasy VII",
     "song": "Rufus's Welcoming Ceremony",
     "composers": [
       "Nobuo Uematsu"
@@ -84858,7 +84777,7 @@
     "uuid": "ecba4292-73e4-4d41-843c-7eebfb766a21",
     "hash": "ffb19452e9c22720f371d457c1a2ea29",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy 7/Rufus's Welcoming Ceremony.mmrs",
+    "file": "Final Fantasy VII/Rufus's Welcoming Ceremony.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87243,7 +87162,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Dragon Quest IV (4)",
+    "game": "Dragon Quest IV: Chapters of the Chosen",
     "song": "Homeland",
     "composers": [
       "Koichi Sugiyama"
@@ -87254,7 +87173,7 @@
     "uuid": "e5580b85-fe89-4a20-8179-de6c7cab07d8",
     "hash": "bd8a09c40c9cfc1160378d5419d1c9f3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Dragon Quest IV (4)/Homeland.mmrs",
+    "file": "Dragon Quest IV Chapters of the Chosen/Homeland.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87578,26 +87497,6 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
-    "game": "Final Fantasy Crystal Chronicles",
-    "song": "Serenity (Next Year Miasma streams Screen)",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "d47445ff-074e-4af1-85cc-87bb2b1a92f8",
-    "hash": "f8667ee0b98ab60db57bdefd56595cff",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy Crystal Chronicles/Serenity (Next Year Miasma streams Screen).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "6",
-      "16"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
     "usesFormmask": false
   },
   {
