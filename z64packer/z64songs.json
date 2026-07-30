@@ -19941,30 +19941,6 @@
     "hash": "00fac07b5bd97a269dae5fc0568757d3"
   },
   {
-    "uuid": "7fdd4b40-9336-45d1-ba6d-4cc3aea0ce66",
-    "creationDate": "2026-03-23T23:15:57.267Z",
-    "game": "Fire Emblem Echoes: Shadows of Valentia",
-    "song": "The Sacrifice and the Saint",
-    "composers": [
-      "Takeru Kanazaki"
-    ],
-    "converters": [
-      "Seba 20 90"
-    ],
-    "type": "bgm",
-    "categories": [
-      "0",
-      "2"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mmrs",
-    "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mp3",
-    "lufs": "-16.68",
-    "hash": "fd9edb67f6b9d761ee2888e224db9586"
-  },
-  {
     "uuid": "01595673-bf3a-44b3-9436-6359166970e6",
     "creationDate": "2026-03-23T23:17:49.161Z",
     "game": "Fire Emblem Echoes: Shadows of Valentia",
@@ -68522,7 +68498,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "Distant Travels",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -68533,7 +68509,7 @@
     "uuid": "1e5c1565-2aa9-4b79-a414-101a62825e2f",
     "hash": "5fca0d6e50e3f7058548ca4ab15a2813",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Distant Travels.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Distant Travels.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68546,7 +68522,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "Fortune Telling",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -68557,7 +68533,7 @@
     "uuid": "950e4154-ee09-4e3d-b4ce-7f605b92ab57",
     "hash": "2b80989099f489a518ee3ef0a40d38b8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Fortune Telling.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Fortune Telling.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68634,8 +68610,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
-    "song": "Inescapable Fate",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Inescapable Fate [2]",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
     ],
@@ -68645,7 +68621,7 @@
     "uuid": "a3df871f-086a-4f51-a720-25a5dc6b79a7",
     "hash": "f7769938cec82a24529640dad6ce91e2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Inescapable Fate.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Inescapable Fate [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69233,7 +69209,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "Winds Across the Plains",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -69244,7 +69220,7 @@
     "uuid": "4a02f580-c13f-4613-8dc8-fc6b352c416f",
     "hash": "602010dc486e5b26a158b0a43f6d7ed8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Winds Across the Plains.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Winds Across the Plains.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69329,7 +69305,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "Precious Things",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -69340,7 +69316,7 @@
     "uuid": "be4970c3-fac9-4a20-aed0-2488a51fa074",
     "hash": "e0155529ec70fd93dbe1a88ad34f192b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Precious Things.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Precious Things.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69355,7 +69331,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "Strike!",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -69366,7 +69342,7 @@
     "uuid": "2602fceb-02b2-43c5-8c66-3e0f51352b46",
     "hash": "bfaf3428ec16310dbf980e762a884291",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Strike!.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Strike!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69378,7 +69354,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "The Kingdom of Bern",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -69389,7 +69365,7 @@
     "uuid": "5019843a-e60f-401c-b636-574b7a5f33cf",
     "hash": "c5e620d1195ca94278c27fc0cfda9963",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/The Kingdom of Bern.mmrs",
+    "file": "Fire Emblem The Blazing Blade/The Kingdom of Bern.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69402,7 +69378,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)",
+    "game": "Fire Emblem: The Blazing Blade",
     "song": "Rise to the Challenge",
     "composers": [
       "Yuka Tsujiyoko, Saki Haruyama"
@@ -69413,7 +69389,7 @@
     "uuid": "3a3983f4-33f2-4ead-bd8a-d9c5a6500e85",
     "hash": "f0c58ff3218c90b49b5d97ca7851e292",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem 7 (The Blazing Sword)/Rise to the Challenge.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Rise to the Challenge.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77103,8 +77079,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Five Nights at Freddy’s (2014)",
-    "song": "Toreador March | Freddy’s theme",
+    "game": "Five Nights at Freddy's",
+    "song": "Power Outage",
     "composers": [
       "Georges Bizet"
     ],
@@ -77114,7 +77090,7 @@
     "uuid": "a092215f-8029-485b-b115-01e7437e8d48",
     "hash": "c509867ba02ed96300b323ec5fbee6c3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Five Nights at Freddy’s (2014)/Toreador March  Freddy’s theme.mmrs",
+    "file": "Five Nights at Freddy's/Power Outage.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77128,7 +77104,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Song is \"Toreador March\" from opera \"Carmen\"."
   },
   {
     "song": "dkc2_boss_theme",
@@ -78097,8 +78074,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Freddy Fazbear's Pizzeria Simulator (2017)",
-    "song": "240 Bits Per Mile (Midnight Motorist)",
+    "game": "Freddy Fazbear's Pizzeria Simulator",
+    "song": "240 Bits Per Mile",
     "composers": [
       "Leon Riskin"
     ],
@@ -78108,7 +78085,7 @@
     "uuid": "cd09015f-1add-4b5d-8c5e-676834861e3d",
     "hash": "605ca1f171019d5abeccf2a5da32bcb7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Freddy Fazbear's Pizzeria Simulator (2017)/240 Bits Per Mile (Midnight Motorist).mmrs",
+    "file": "Freddy Fazbear's Pizzeria Simulator/240 Bits Per Mile.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80036,9 +80013,9 @@
   },
   {
     "game": "Fire Emblem: Three Houses",
-    "song": "Fodlan Winds (Rain)",
+    "song": "Fódlan Winds (Rain)",
     "composers": [
-      "Takeru Kanazaki, Hiroki Morishita, Rei Kondoh"
+      "Takeru Kanazaki"
     ],
     "converters": [
       "TheRealReliable"
@@ -80046,7 +80023,7 @@
     "uuid": "5f7db763-0a8b-4ecc-bdc5-4793bc0439b3",
     "hash": "7528a70bc86a3f2a5e3d4e4b44d7aef6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Three Houses/Fodlan Winds (Rain).mmrs",
+    "file": "Fire Emblem Three Houses/Fódlan Winds (Rain).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81913,7 +81890,7 @@
   },
   {
     "game": "Fire Emblem: Genealogy of the Holy War",
-    "song": "Doors of Destiny/Doorway to Destiny",
+    "song": "Doorway to Destiny",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -81923,7 +81900,7 @@
     "uuid": "f7af9788-e566-4019-99a3-8ddc6bcb4867",
     "hash": "41abe32e5f1d5f5eeea66fe45d3879bc",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Genealogy of the Holy War/Doors of DestinyDoorway to Destiny.mmrs",
+    "file": "Fire Emblem Genealogy of the Holy War/Doorway to Destiny.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82387,7 +82364,7 @@
   },
   {
     "game": "Fire Emblem: Genealogy of the Holy War",
-    "song": "Disturbance in Agustria/Uprising in Agustria",
+    "song": "Disturbance in Agustria",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -82397,7 +82374,7 @@
     "uuid": "f82b5ce5-f31a-48d5-89fd-2ac7d5ab6ecd",
     "hash": "65c945441ef8e301e9dc0bb272d57178",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Genealogy of the Holy War/Disturbance in AgustriaUprising in Agustria.mmrs",
+    "file": "Fire Emblem Genealogy of the Holy War/Disturbance in Agustria.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82552,7 +82529,7 @@
   },
   {
     "game": "Fire Emblem: Three Houses",
-    "song": "Blue Skies And A Battle (Rain Version)",
+    "song": "Blue Skies and a Battle (Rain)",
     "composers": [
       "Takeru Kanazaki"
     ],
@@ -82562,7 +82539,7 @@
     "uuid": "b5eead9b-628c-4571-b582-ceab1636a738",
     "hash": "b3c80514706d382af2187bc0e3f1b766",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Three Houses/Blue Skies And A Battle (Rain Version).mmrs",
+    "file": "Fire Emblem Three Houses/Blue Skies and a Battle (Rain).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85563,9 +85540,13 @@
   },
   {
     "game": "Fire Emblem: The Blazing Blade",
-    "song": "\"Softly with Grace\"",
+    "song": "Softly with Grace",
     "converters": [
       "frostingorb"
+    ],
+    "composers": [
+      "Saki Haruyama",
+      "Yuka Tsujiyoko"
     ],
     "uuid": "9cb381ea-11bc-41ad-9397-c11c50c24f8d",
     "hash": "5392b2e48bccea24938c16c93e1e6c53",
@@ -86577,6 +86558,9 @@
     "converters": [
       "Philos-Kun"
     ],
+    "composers": [
+      "Sound Ideas"
+    ],
     "uuid": "fdfd7ea5-e05f-435d-9f37-f140fb732d9f",
     "hash": "305753852ef8b82cec7661bff53bf461",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -86592,7 +86576,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Comes from sound library \"Audience Reactions I\", titled \"Small Studio Audience Of Children: Cheering 'Yea!', Cheering 01\""
   },
   {
     "game": "Club Penguin: Elite Penguin Force",
@@ -86650,6 +86635,9 @@
     "converters": [
       "ruugosus"
     ],
+    "composers": [
+      "Takeru Kanazaki"
+    ],
     "uuid": "daeebbbc-5eb5-421e-94fd-9fa856cb2f3d",
     "hash": "fcb3bb4a0a44690b35f463773d052f0d",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -86669,47 +86657,6 @@
       "157"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Fire Emblem: The Sacred Stones",
-    "song": "Distant Roads [2]",
-    "converters": [
-      "Seba 20 90"
-    ],
-    "uuid": "e29fe576-4e0d-42fd-b263-8bc2ca9a8eb2",
-    "hash": "f02df48bc61f815481a236ebd436c5ce",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem The Sacred Stones/Distant Roads [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "16"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Fire Emblem: The Sacred Stones",
-    "song": "Rise Above [2]",
-    "converters": [
-      "Seba 20 90"
-    ],
-    "uuid": "c312c937-cd7a-4963-acf4-a2dd34daebca",
-    "hash": "424d169b94cbc0b8c751ef14e36f1b4f",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem The Sacred Stones/Rise Above [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "2"
-    ],
-    "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -86761,14 +86708,17 @@
   },
   {
     "game": "Fire Emblem Echoes: Shadows of Valentia",
-    "song": "The Sacrifice and The Saint [2]",
+    "song": "The Sacrifice and the Saint",
     "converters": [
       "Seba 20 90"
     ],
-    "uuid": "9e90fce0-41ce-4ea5-8a20-16d8a3f2ec7d",
+    "composers": [
+      "Takeru Kanazaki"
+    ],
+    "uuid": "7fdd4b40-9336-45d1-ba6d-4cc3aea0ce66",
     "hash": "7502eee68ccf58c65cfc2191910a9d12",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint [2].mmrs",
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and the Saint.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [

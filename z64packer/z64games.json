@@ -4551,13 +4551,9 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/5465772e1379d52a6ffc40444c7cbf09.png"
   },
   {
-    "game": "Fire Emblem 7 (The Blazing Sword)"
-  },
-  {
-    "game": "Five Nights at Freddy's"
-  },
-  {
-    "game": "Five Nights at Freddy’s (2014)"
+    "game": "Five Nights at Freddy's",
+    "series": "Five Nights at Freddy's Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/68453fe4a8fe4478c75986c5da65af22.png"
   },
   {
     "game": "Fleeing the Complex (2015)"
@@ -4566,9 +4562,6 @@
     "game": "FNaF World",
     "series": "Five Nights at Freddy's Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/64f07f012a35c83d7c556ba0b69ef64e.png"
-  },
-  {
-    "game": "Freddy Fazbear's Pizzeria Simulator (2017)"
   },
   {
     "game": "Goldeneye007 (1997)"
