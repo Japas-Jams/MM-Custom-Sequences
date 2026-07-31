@@ -4597,9 +4597,6 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/cdda101035997acfaa6fdf17097f52b2.png"
   },
   {
-    "game": "Legend of Dragoon"
-  },
-  {
     "game": "Legend Of Zelda  Twilight Princess"
   },
   {
@@ -4614,34 +4611,19 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/d10ca2b9282b65ad1d975bf4b5e1c06e.png"
   },
   {
-    "game": "Love Live! School Idol Festival ALL STARS (2019-2023🪦 😭 )"
+    "game": "Love Live! School Idol Festival All Stars",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/de34593f1b96d86663ad38415f6594c4.png",
+    "short_name": "Love Live! SIFAS"
   },
   {
-    "game": "Luigi's Mansion Dark Moon"
+    "game": "Luigi's Mansion: Dark Moon",
+    "series": "Luigi's Mansion Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/db325debc9f5207b24faf6d6cd93f36f.png",
+    "short_name": "Luigi's Mansion 2"
   },
   {
-    "game": "Magical Starsign"
-  },
-  {
-    "game": "Majora's Mask"
-  },
-  {
-    "game": "Mario & Luigi Bowser’s Inside Story (2009)"
-  },
-  {
-    "game": "Mario & Luigi Dream Team (2013)"
-  },
-  {
-    "game": "Mario & Luigi Partners in Time (2005)"
-  },
-  {
-    "game": "Mario and Luigi Bowser's Inside Story"
-  },
-  {
-    "game": "Mario and Luigi Partners in Time"
-  },
-  {
-    "game": "Mario and Luigi Superstar Saga"
+    "game": "Magical Starsign",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e60624d4c57e4c744eeabd54648d21c2.png"
   },
   {
     "game": "Mario Kart Double Dash"
@@ -4660,12 +4642,6 @@
   },
   {
     "game": "Master of Time (Demo)"
-  },
-  {
-    "game": "Mega Man III (NES)"
-  },
-  {
-    "game": "Metal Gear 2"
   },
   {
     "game": "Metroid Zero Mission (2004)"

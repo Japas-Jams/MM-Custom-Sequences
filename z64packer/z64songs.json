@@ -42482,13 +42482,7 @@
     "game": "Metal Gear 2: Solid Snake",
     "song": "Zanzibar Land",
     "composers": [
-      "Masahiro Ikariko",
-      "Mutsuhiko Izumi",
-      "Yuko Kurahashi",
-      "Tomoya Tomita",
-      "Kazuhiko Uehara",
-      "Yuji Takenouchi",
-      "Tsuyoshi Sekito"
+      "Konami Kukeiha Club"
     ],
     "converters": [
       "Asra"
@@ -67596,15 +67590,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario and Luigi Bowser's Inside Story",
+    "game": "Mario & Luigi: Bowser's Inside Story",
     "song": "The Grand Finale",
     "converters": [
-      "Craig (reupload due to technical issues)"
+      "Craig"
+    ],
+    "composers": [
+      "Yoko Shimomura"
     ],
     "uuid": "f8833c44-dc4c-41e8-a6a7-58e04927ccda",
     "hash": "9d5267318e0cae89dcb00efb9954d1ba",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Bowser's Inside Story/The Grand Finale.mmrs",
+    "file": "Mario & Luigi Bowser's Inside Story/The Grand Finale.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67895,15 +67892,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Mega Man III (NES)",
+    "game": "Mega Man 3",
     "song": "Password",
     "converters": [
       "Amalgorithmic"
     ],
+    "composers": [
+      "Yasuaki Fujita"
+    ],
     "uuid": "cd6d0def-30fb-4385-9754-1842d55fb3c1",
     "hash": "c8b36b8452ed973bffb1f8b895180105",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mega Man III (NES)/Password.mmrs",
+    "file": "Mega Man 3/Password.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68917,50 +68917,6 @@
     "categories": [
       "1",
       "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Mario and Luigi Partners in Time",
-    "song": "Boss Battle",
-    "converters": [
-      "BigBomba88"
-    ],
-    "uuid": "71d6394a-19ab-45db-9ec9-f142ad516c13",
-    "hash": "9c83666439687642983aaca2fb7704d4",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Partners in Time/Boss Battle.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
-      "7",
-      "157"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Mario and Luigi Partners in Time",
-    "song": "Battle",
-    "converters": [
-      "BigBomba88"
-    ],
-    "uuid": "210ad936-3206-44e9-9c05-072d0fa669dc",
-    "hash": "6ec7317d1429828278de73481386d3df",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Partners in Time/Battle.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
-      "7",
-      "11A"
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -72306,15 +72262,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Metal Gear 2",
+    "game": "Metal Gear 2: Solid Snake",
     "song": "Theme of Solid Snake",
     "converters": [
       "dnvic"
     ],
+    "composers": [
+      "Konami Kukeiha Club"
+    ],
     "uuid": "69fadbb6-9b98-4c18-af90-47eaff7df6c5",
     "hash": "23570f5f16970d84786340e157769003",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Metal Gear 2/Theme of Solid Snake.mmrs",
+    "file": "Metal Gear 2 Solid Snake/Theme of Solid Snake.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72576,7 +72535,7 @@
     "notes": "a.k.a. Scoot the Woz theme"
   },
   {
-    "game": "Mario and Luigi Superstar Saga",
+    "game": "Mario & Luigi: Superstar Saga",
     "song": "Hoohoo Village",
     "composers": [
       "Yoko Shimomura"
@@ -72587,7 +72546,7 @@
     "uuid": "fed3045e-e8d3-492f-8d3e-02f4b3aeebc6",
     "hash": "a865c50852125f4fc580d58fe29786f5",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Superstar Saga/Hoohoo Village.mmrs",
+    "file": "Mario & Luigi Superstar Saga/Hoohoo Village.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73713,14 +73672,14 @@
   },
   {
     "game": "Mega Man 2",
-    "song": "Wily Castle",
+    "song": "Dr. Wily's Castle (8bit Version)",
     "converters": [
       "Philos-Kun"
     ],
     "uuid": "c69b6c85-06f4-4dca-b3ff-fd7d7f85fb1e",
     "hash": "45ec3ecd65a2f7d0013e8a5afa242dc2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mega Man 2/Wily Castle.mmrs",
+    "file": "Mega Man 2/Dr. Wily's Castle (8bit Version).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74316,10 +74275,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi Dream Team (2013)",
-    "song": "Final Antasma Battle",
+    "game": "Mario & Luigi: Dream Team",
+    "song": "The Final Antasma Battle",
     "composers": [
-      "Yōko Shimomura"
+      "Yoko Shimomura"
     ],
     "converters": [
       "Retroflex"
@@ -74327,7 +74286,7 @@
     "uuid": "b36bf65f-9b56-4caf-bc8c-a7586d41ee02",
     "hash": "b74d3f30bfdba8684277a0eb82e8fc8b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Dream Team (2013)/Final Antasma Battle.mmrs",
+    "file": "Mario & Luigi Dream Team/The Final Antasma Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74601,10 +74560,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi Bowser’s Inside Story (2009)",
-    "song": "Minigame 1",
+    "game": "Mario & Luigi: Bowser's Inside Story",
+    "song": "Mini Game 1",
     "composers": [
-      "Yōko Shimomura"
+      "Yoko Shimomura"
     ],
     "converters": [
       "Retroflex"
@@ -74612,7 +74571,7 @@
     "uuid": "65570c74-9505-45cd-b6be-7e0431f38a04",
     "hash": "ff99fc30ea6a631c964519f1ed601790",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Bowser’s Inside Story (2009)/Minigame 1.mmrs",
+    "file": "Mario & Luigi Bowser's Inside Story/Mini Game 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74715,33 +74674,6 @@
     "categories": [
       "0",
       "1",
-      "2",
-      "3",
-      "4",
-      "6",
-      "7",
-      "16"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Mario & Luigi Dream Team (2013)",
-    "song": "Never Let Up!",
-    "composers": [
-      "Yōko Shimomura"
-    ],
-    "converters": [
-      "Retroflex"
-    ],
-    "uuid": "6d6dbaef-eab0-4645-8677-597d95658a40",
-    "hash": "5af49bcdde48cffff2e15d837287dc64",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Dream Team (2013)/Never Let Up!.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
       "2",
       "3",
       "4",
@@ -74894,15 +74826,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Legend of Dragoon",
-    "song": "Castle Theme",
+    "game": "The Legend of Dragoon",
+    "song": "Royal Castle",
     "converters": [
       "PixelShake92"
+    ],
+    "composers": [
+      "Dennis Martin",
+      "Takeo Miratsu"
     ],
     "uuid": "960b42fb-5325-4492-978b-9689a094628f",
     "hash": "bbc50d07b1a911afb425c4239c6b2d73",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Dragoon/Castle Theme.mmrs",
+    "file": "The Legend of Dragoon/Royal Castle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74961,15 +74897,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Legend of Dragoon",
-    "song": "Bale Town Theme",
+    "game": "The Legend of Dragoon",
+    "song": "Royal Capital [2]",
     "converters": [
       "PixelShake92"
+    ],
+    "composers": [
+      "Dennis Martin",
+      "Takeo Miratsu"
     ],
     "uuid": "5e0d45da-c39d-4cf1-80d6-cdffba23f467",
     "hash": "d2da9f06a9a29baa98e5890e60a6f460",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Dragoon/Bale Town Theme.mmrs",
+    "file": "The Legend of Dragoon/Royal Capital [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75197,15 +75137,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Legend of Dragoon",
-    "song": "Ch2 Map",
+    "game": "The Legend of Dragoon",
+    "song": "World Map 2",
     "converters": [
       "PixelShake92"
+    ],
+    "composers": [
+      "Dennis Martin",
+      "Takeo Miratsu"
     ],
     "uuid": "5b517dfd-ac4f-41ee-9445-b1e5851724f5",
     "hash": "11312c71f4bba0e76529ce5126257f4b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Dragoon/Ch2 Map.mmrs",
+    "file": "The Legend of Dragoon/World Map 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75217,15 +75161,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Legend of Dragoon",
-    "song": "Roses Theme",
+    "game": "The Legend of Dragoon",
+    "song": "Rose's Twilight",
     "converters": [
       "PixelShake92"
+    ],
+    "composers": [
+      "Dennis Martin",
+      "Takeo Miratsu"
     ],
     "uuid": "8976def0-312e-4fc3-9546-b87c4532ec36",
     "hash": "00cfa4bb10ecc366f6d4f6bff3f0ba3b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Dragoon/Roses Theme.mmrs",
+    "file": "The Legend of Dragoon/Rose's Twilight.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75369,15 +75317,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Majora's Mask",
-    "song": "MM Title Theme (but it loops instead of going sinister)",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Title Screen (Early Loop)",
     "converters": [
       "isghj"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "5e7e8321-c970-4b17-9e6e-f17efef7770d",
     "hash": "bc61bc61170cf5ecf07444e6e62c5038",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Majora's Mask/MM Title Theme (but it loops instead of going sinister).mmrs",
+    "file": "The Legend of Zelda Majora's Mask/Title Screen (Early Loop).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75387,7 +75338,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Instead of going sinister and showing Majora is just keeps looping."
   },
   {
     "game": "New Super Mario Bros. (2006)",
@@ -76246,7 +76198,7 @@
     "usesFormmask": false
   },
   {
-    "game": "LISA The Painful",
+    "game": "LISA: The Painful",
     "song": "Work Harder",
     "converters": [
       "syntheticsaturn"
@@ -77849,10 +77801,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi Partners in Time (2005)",
-    "song": "Another's Requiem (Elder Princess Shroob battle / Final boss)",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Another's Requiem",
     "composers": [
-      "Yōko Shimomura"
+      "Yoko Shimomura"
     ],
     "converters": [
       "Retroflex"
@@ -77860,7 +77812,7 @@
     "uuid": "3a791417-3e9c-460a-afc9-58e67823ab9d",
     "hash": "aae8247edb6b7406953fe1d6643d2e2b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Partners in Time (2005)/Another's Requiem (Elder Princess Shroob battle  Final boss).mmrs",
+    "file": "Mario & Luigi Partners in Time/Another's Requiem.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77929,14 +77881,17 @@
   },
   {
     "game": "Mario & Luigi: Superstar Saga",
-    "song": "Showdown with Cackletta!",
+    "song": "The Last Cackletta",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Yoko Shimomura"
     ],
     "uuid": "4dcf0c38-19f2-4e6b-afe1-05682d213754",
     "hash": "12674a7e27685c7497507f02b56df387",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Superstar Saga/Showdown with Cackletta!.mmrs",
+    "file": "Mario & Luigi Superstar Saga/The Last Cackletta.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77984,10 +77939,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi Partners in Time (2005)",
-    "song": "Serious Trouble (Panic)",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Serious Trouble!",
     "composers": [
-      "Yōko Shimomura"
+      "Yoko Shimomura"
     ],
     "converters": [
       "Retroflex"
@@ -77995,7 +77950,7 @@
     "uuid": "057187bd-0f70-4f65-ae63-95a7fdd5e144",
     "hash": "7824712b7c75d09dee9fb2394265b404",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Partners in Time (2005)/Serious Trouble (Panic).mmrs",
+    "file": "Mario & Luigi Partners in Time/Serious Trouble!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78090,10 +78045,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi Bowser’s Inside Story (2009)",
+    "game": "Mario & Luigi: Bowser's Inside Story",
     "song": "Fawful is There",
     "composers": [
-      "Yōko Shimomura"
+      "Yoko Shimomura"
     ],
     "converters": [
       "Retroflex"
@@ -78101,7 +78056,7 @@
     "uuid": "fad2372e-a9e8-4ed0-bdd7-3cc4ea4ed280",
     "hash": "2e2c6f645e8d2b80ed6504b7fbf2ab4a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Bowser’s Inside Story (2009)/Fawful is There.mmrs",
+    "file": "Mario & Luigi Bowser's Inside Story/Fawful is There.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78195,10 +78150,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi Partners in Time (2005)",
-    "song": "Listen Up, Now (Tutorial)",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Listen Up, Now",
     "composers": [
-      "Yōko Shimomura"
+      "Yoko Shimomura"
     ],
     "converters": [
       "Retroflex"
@@ -78206,7 +78161,7 @@
     "uuid": "5cecfaf7-f66f-456b-b97e-290734e3a1fc",
     "hash": "a75297989db772770a8f2f5af49c823d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Partners in Time (2005)/Listen Up, Now (Tutorial).mmrs",
+    "file": "Mario & Luigi Partners in Time/Listen Up, Now.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78416,7 +78371,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Luigi's Mansion Dark Moon",
+    "game": "Luigi's Mansion: Dark Moon",
     "song": "Gloomy Manor",
     "composers": [
       "Chad York, Darren Radtke and Mike Peacock"
@@ -78439,7 +78394,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Luigi's Mansion Dark Moon",
+    "game": "Luigi's Mansion: Dark Moon",
     "song": "Library Piano",
     "composers": [
       "Chad York, Darren Radtke and Mike Peacock"
@@ -78891,7 +78846,7 @@
   },
   {
     "game": "Mario & Luigi: Superstar Saga",
-    "song": "Cackletta Battle",
+    "song": "Fawful and Cackletta",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -78901,7 +78856,7 @@
     "uuid": "b7d6449e-b87a-4872-aca1-57d7f8c66a65",
     "hash": "47a9a198d9021717e3bba187906d6c34",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Superstar Saga/Cackletta Battle.mmrs",
+    "file": "Mario & Luigi Superstar Saga/Fawful and Cackletta.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82014,21 +81969,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario & Luigi: Dream Team (2013)",
-    "song": "Never Let Up!",
-    "composers": [
-      "Yōko Shimomura"
-    ],
-    "converters": [
-      "Retroflex"
-    ],
-    "uuid": "ce915e43-95e5-4aa3-84df-c562bc749264",
-    "hash": "5af49bcdde48cffff2e15d837287dc64",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario & Luigi Dream Team (2013)/Never Let Up!.mmrs",
-    "preview": ""
-  },
-  {
     "song": "Mozart_RequiemIntroitusOldMMR",
     "game": "TODO",
     "converters": [
@@ -82636,7 +82576,7 @@
   },
   {
     "game": "Mega Man X6",
-    "song": "Opening Stage/Crash Site Ruins",
+    "song": "Opening Stage",
     "composers": [
       "Naoto Tanaka"
     ],
@@ -82646,7 +82586,7 @@
     "uuid": "f8091bf0-6caa-412b-8e59-8de4d7c27d2a",
     "hash": "be2cfae4d06e91419da13bb2bb18c3f1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mega Man X6/Opening StageCrash Site Ruins.mmrs",
+    "file": "Mega Man X6/Opening Stage.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86109,8 +86049,8 @@
     "preview": ""
   },
   {
-    "game": "Mario and Luigi Partners in Time",
-    "song": "Battle Theme",
+    "game": "Mario & Luigi: Partners in Time",
+    "song": "Attack the Enemy",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -86120,7 +86060,7 @@
     "uuid": "1e551b85-eee7-4f04-9e16-04086668fe72",
     "hash": "d1559420594e35d71ccbc6375f4c9974",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Partners in Time/Battle Theme.mmrs",
+    "file": "Mario & Luigi Partners in Time/Attack the Enemy.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86133,21 +86073,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false
-  },
-  {
-    "game": "Mario and Luigi: Partners in Time",
-    "song": "Boss Battle",
-    "composers": [
-      "Yoko Shimomura"
-    ],
-    "converters": [
-      "BigBomba88"
-    ],
-    "uuid": "385297c9-e168-4ff2-8dc0-0bd5c599297a",
-    "hash": "9c83666439687642983aaca2fb7704d4",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Partners in Time/Boss Battle.mmrs",
-    "preview": ""
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
@@ -86243,7 +86168,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario and Luigi Partners in Time",
+    "game": "Mario & Luigi: Partners in Time",
     "song": "Peach's Castle",
     "composers": [
       "Yoko Shimomura"
@@ -86254,7 +86179,7 @@
     "uuid": "f1b30845-2652-450e-b2c6-001999876b99",
     "hash": "9fb668193580e5333a6722e53fe70d26",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Partners in Time/Peach's Castle.mmrs",
+    "file": "Mario & Luigi Partners in Time/Peach's Castle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86291,7 +86216,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario and Luigi Partners in Time",
+    "game": "Mario & Luigi: Partners in Time",
     "song": "Yoshi Village",
     "composers": [
       "Yoko Shimomura"
@@ -86302,7 +86227,7 @@
     "uuid": "16d75d21-73b9-48db-883e-49d424533e6f",
     "hash": "aeffdf2ade735a61b4d71c89409f8adc",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario and Luigi Partners in Time/Yoshi Village.mmrs",
+    "file": "Mario & Luigi Partners in Time/Yoshi Village.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87788,8 +87713,14 @@
   {
     "uuid": "178c0701-cfef-4783-87a0-a525ed17c425",
     "creationDate": "2026-07-28T04:03:26.947Z",
-    "game": "Mario & Luigi Dream Team (2013)",
-    "song": "Never Let Up! [2]",
+    "game": "Mario & Luigi: Dream Team",
+    "song": "Never Let Up!",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Retroflex"
+    ],
     "type": "bgm",
     "categories": [
       "3",
@@ -87802,15 +87733,21 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario & Luigi Dream Team (2013)/Never Let Up! [2].mmrs",
+    "file": "Mario & Luigi Dream Team/Never Let Up!.mmrs",
     "preview": "",
     "hash": "5f091828f0fa210627acfcb355dc179f"
   },
   {
     "uuid": "7c6ebe20-fc76-47ca-b999-06d74456332f",
     "creationDate": "2026-07-28T04:03:27.086Z",
-    "game": "Mario and Luigi Partners in Time",
-    "song": "Boss Battle [2]",
+    "game": "Mario and Luigi: Partners in Time",
+    "song": "Crisis of the Red and Green!",
+    "converters": [
+      "BigBomba88"
+    ],
+    "composers": [
+      "Yoko Shimomura"
+    ],
     "type": "bgm",
     "categories": [
       "4",
@@ -87821,7 +87758,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario and Luigi Partners in Time/Boss Battle [2].mmrs",
+    "file": "Mario and Luigi Partners in Time/Crisis of the Red and Green!.mmrs",
     "preview": "",
     "hash": "f1b0a52597d4120c192adbbb7f33894a"
   },
