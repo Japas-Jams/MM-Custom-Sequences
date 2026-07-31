@@ -4556,7 +4556,9 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/68453fe4a8fe4478c75986c5da65af22.png"
   },
   {
-    "game": "Fleeing the Complex (2015)"
+    "game": "Henry Stickmin 5: Fleeing the Complex",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1fa3b85e26b3058ead1ef2eec9be060e.png",
+    "short_name": "Fleeing the Complex"
   },
   {
     "game": "FNaF World",
@@ -4564,40 +4566,25 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/64f07f012a35c83d7c556ba0b69ef64e.png"
   },
   {
-    "game": "Goldeneye007 (1997)"
+    "game": "Guild Wars 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/617c81b47e4758942128b6bd2319d9c1.png"
   },
   {
-    "game": "Guild Wars 2"
+    "game": "Harvest Moon",
+    "series": "Harvest Moon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/77fe6e828924d44e593f7d864d1e6245.png"
   },
   {
-    "game": "Harvest Moon (SNES)"
+    "game": "Hong Kong 97",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/a/ae/Hong_Kong_97_Logo.png"
   },
   {
-    "game": "Hong Kong 97"
+    "game": "Jet Set Radio",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6460cc8da8c4b9e54b1ea75c275c3f35.png"
   },
   {
-    "game": "Il magnifico cornuto M11 from Armando Trovaioli"
-  },
-  {
-    "game": "Jet Set Radio"
-  },
-  {
-    "game": "Kerbal Space Program"
-  },
-  {
-    "game": "Kingdom Hearts 1"
-  },
-  {
-    "game": "Kingdom Hearts 2"
-  },
-  {
-    "game": "Kingdom Hearts Insider & Me"
-  },
-  {
-    "game": "Kirby (Series)"
-  },
-  {
-    "game": "Kirby and the Amazing Mirror"
+    "game": "Kerbal Space Program",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f6a93586c65233c024e23ffcec1d3007.png"
   },
   {
     "game": "Lazy Town"

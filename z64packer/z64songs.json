@@ -21701,7 +21701,7 @@
     "uuid": "49ccbf03-df37-4925-a705-ddec0f9568d7",
     "creationDate": "2026-03-24T02:25:07.898Z",
     "game": "Kirby 64: The Crystal Shards",
-    "song": "Boss",
+    "song": "Boss [2]",
     "composers": [
       "Jun Ishikawa"
     ],
@@ -21716,8 +21716,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Kirby 64 The Crystal Shards/Boss.mmrs",
-    "preview": "Kirby 64 The Crystal Shards/Boss.mp3",
+    "file": "Kirby 64 The Crystal Shards/Boss [2].mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Boss [2].mp3",
     "lufs": "-17.26",
     "hash": "93536eacc69702841cabec46ad52c552"
   },
@@ -21725,7 +21725,7 @@
     "uuid": "0ed9727d-4f5f-4329-8bf2-a1aea26598a1",
     "creationDate": "2026-03-24T02:26:10.762Z",
     "game": "Kirby 64: The Crystal Shards",
-    "song": "Miracle Matter",
+    "song": "Miracle Matter [2]",
     "composers": [
       "Jun Ishikawa"
     ],
@@ -21741,8 +21741,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Kirby 64 The Crystal Shards/Miracle Matter.mmrs",
-    "preview": "Kirby 64 The Crystal Shards/Miracle Matter.mp3",
+    "file": "Kirby 64 The Crystal Shards/Miracle Matter [2].mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Miracle Matter [2].mp3",
     "lufs": "-16.99",
     "hash": "2edcb4410284b350e85462db06324d49"
   },
@@ -21826,9 +21826,9 @@
     "uuid": "f1a3d253-f29d-4fce-a6f6-ed2175b7a909",
     "creationDate": "2026-03-24T02:29:51.186Z",
     "game": "Kirby's Adventure",
-    "song": "Green Greens",
+    "song": "Green Greens (8bit Version)",
     "composers": [
-      "Hirokazu Ando"
+      "Jun Ishikawa"
     ],
     "converters": [
       "Philos-Kun"
@@ -21844,8 +21844,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Kirby's Adventure/Green Greens.mmrs",
-    "preview": "Kirby's Adventure/Green Greens.mp3",
+    "file": "Kirby's Adventure/Green Greens (8bit Version).mmrs",
+    "preview": "Kirby's Adventure/Green Greens (8bit Version).mp3",
     "lufs": "-17.83",
     "hash": "33f99a9a2c462c59fc456c2e807c1f02"
   },
@@ -30993,7 +30993,7 @@
     "uuid": "4d92555f-f0d7-441f-81d9-8d48b79c7526",
     "creationDate": "2026-04-08T22:52:07.646Z",
     "game": "Kingdom Hearts",
-    "song": "Scherzodinotte",
+    "song": "Scherzo Di Notte",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -31005,8 +31005,8 @@
       "5",
       "7"
     ],
-    "file": "Kingdom Hearts/Scherzodinotte.mmrs",
-    "preview": "Kingdom Hearts/Scherzodinotte.ogg",
+    "file": "Kingdom Hearts/Scherzo Di Notte.mmrs",
+    "preview": "Kingdom Hearts/Scherzo Di Notte.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -67528,32 +67528,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Hollow Knight",
-    "song": "Dirtmouth [2]",
-    "composers": [
-      "Christopher Larkin"
-    ],
-    "converters": [
-      "Zeraphyr"
-    ],
-    "uuid": "8582ee3c-fa29-4285-a36a-1dcc19997a80",
-    "hash": "29520b388e6e7161826fe52f702224c3",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Hollow Knight/Dirtmouth [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "16"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Banjo-Kazooie",
     "song": "Spiral Mountain",
     "composers": [
@@ -68639,10 +68613,11 @@
     "game": "Hades",
     "song": "Good Riddance",
     "composers": [
-      "Darren Korb, Ashley Barrett (MIDI by Ucklin)"
+      "Darren Korb",
+      "Ashley Barrett"
     ],
     "converters": [
-      "catgirldragon151"
+      "Rokon"
     ],
     "uuid": "0f7fb4c3-2921-4724-a1cf-573ec271b760",
     "hash": "218773df0b87e93a360658811fdbf41d",
@@ -68654,29 +68629,6 @@
       "1",
       "3",
       "6"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Hades",
-    "song": "Death And I",
-    "composers": [
-      "Darren Korb"
-    ],
-    "converters": [
-      "catgirldragon151"
-    ],
-    "uuid": "24d5d96b-a7b7-4e8f-b6b3-e3915e3a41f2",
-    "hash": "f5d3954feb7239116cd4728b33da64df",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Hades/Death And I.mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "8",
-      "9"
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -68831,7 +68783,7 @@
   },
   {
     "game": "Guild Wars 2",
-    "song": "Halloween Time in Tyria",
+    "song": "Halloween in Tyria",
     "composers": [
       "Maclaine Diemer"
     ],
@@ -68841,7 +68793,7 @@
     "uuid": "143e5558-b096-420d-82b9-e5a9a8846cbf",
     "hash": "1e5e9208c62ab633addde70496cb6e39",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Guild Wars 2/Halloween Time in Tyria.mmrs",
+    "file": "Guild Wars 2/Halloween in Tyria.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69016,14 +68968,14 @@
   },
   {
     "game": "Kingdom Hearts Re:Coded",
-    "song": "System Battle - Normal",
+    "song": "No More Bugs!!",
     "converters": [
       "BigBomba88"
     ],
     "uuid": "f9ed3353-e365-4ec8-b0b3-ce149c1d222c",
     "hash": "79b9d6e12dac81aad6091b3c6bbd6978",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts ReCoded/System Battle - Normal.mmrs",
+    "file": "Kingdom Hearts ReCoded/No More Bugs!!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69402,14 +69354,17 @@
   },
   {
     "game": "Kirby Super Star",
-    "song": "VS Marx",
+    "song": "Vs. Marx",
     "converters": [
       "amalgorithmic"
+    ],
+    "composers": [
+      "Jun Ishikawa"
     ],
     "uuid": "9277733c-25be-4bdc-bbd3-6ed6406840bf",
     "hash": "158e645f974be4eb5b53ddf3595c0b56",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby Super Star/VS Marx.mmrs",
+    "file": "Kirby Super Star/Vs. Marx.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70293,14 +70248,14 @@
   },
   {
     "game": "Kingdom Hearts",
-    "song": "Scherzo Di Notte",
+    "song": "Scherzo Di Notte [2]",
     "converters": [
       "BigBomba88"
     ],
     "uuid": "4825f34e-79e8-464c-bdd5-36eea780dd6a",
     "hash": "48a29ba0123fb1c466c496adbd7ce523",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts/Scherzo Di Notte.mmrs",
+    "file": "Kingdom Hearts/Scherzo Di Notte [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70489,7 +70444,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Kirby (Series)",
+    "game": "Kirby's Adventure",
     "song": "Green Greens",
     "composers": [
       "Jun Ishikawa"
@@ -70500,7 +70455,7 @@
     "uuid": "81ad7873-b328-431c-afd6-a0a3d1faaa98",
     "hash": "2a3965376cefdad71fb057a1079b980a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby (Series)/Green Greens.mmrs",
+    "file": "Kirby's Adventure/Green Greens.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70783,14 +70738,17 @@
   },
   {
     "game": "Kirby 64: The Crystal Shards",
-    "song": "Boss [2]",
+    "song": "Boss",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Jun Ishikawa"
     ],
     "uuid": "c6995b4e-4311-420a-a3e3-dcee0da243d8",
     "hash": "2c04b923bb05a8901b1e2a48043cc0d2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby 64 The Crystal Shards/Boss [2].mmrs",
+    "file": "Kirby 64 The Crystal Shards/Boss.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70802,14 +70760,17 @@
   },
   {
     "game": "Kirby 64: The Crystal Shards",
-    "song": "Miracle Matter [2]",
+    "song": "Miracle Matter",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Jun Ishikawa"
     ],
     "uuid": "7b8ccae2-621e-4b88-9310-daa8b15818b2",
     "hash": "1d984e0e2c505fb12400a2aa63720f96",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby 64 The Crystal Shards/Miracle Matter [2].mmrs",
+    "file": "Kirby 64 The Crystal Shards/Miracle Matter.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70821,14 +70782,17 @@
   },
   {
     "game": "Kirby 64: The Crystal Shards",
-    "song": "Above The Clouds (aka Butter Building)",
+    "song": "Above The Clouds",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Hirokazu Ando"
     ],
     "uuid": "a79eabbc-1962-4d37-8fac-d94cb5f62a68",
     "hash": "5d985137211732deb302a87172dd6784",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby 64 The Crystal Shards/Above The Clouds (aka Butter Building).mmrs",
+    "file": "Kirby 64 The Crystal Shards/Above The Clouds.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71769,7 +71733,8 @@
     "game": "Kirby 64: The Crystal Shards",
     "song": "Shiver Star",
     "composers": [
-      "Jun Ishikawa, Hirokazu Ando"
+      "Jun Ishikawa",
+      "Hirokazu Ando"
     ],
     "converters": [
       "Cmellz"
@@ -72751,15 +72716,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Kirby and the Amazing Mirror",
+    "game": "Kirby & The Amazing Mirror",
     "song": "Rainbow Route",
     "converters": [
       "MaxPlaysGamesBadly"
     ],
+    "composers": [
+      "Hironobu Inagaki",
+      "Atsuyoshi Isemura"
+    ],
     "uuid": "d04f05c2-af26-4e93-b913-4b8f1f25d361",
     "hash": "272c3ba55be7cb826f28eef5b0897d92",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby and the Amazing Mirror/Rainbow Route.mmrs",
+    "file": "Kirby & The Amazing Mirror/Rainbow Route.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72973,15 +72942,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Kirby and the Amazing Mirror",
+    "game": "Kirby & The Amazing Mirror",
     "song": "Peppermint Palace",
     "converters": [
-      "MaxPlaysGamesBadly (with help from <@303283887772139520> ! Thank you again! )"
+      "MaxPlaysGamesBadly"
+    ],
+    "composers": [
+      "Hironobu Inagaki",
+      "Atsuyoshi Isemura"
     ],
     "uuid": "6f871734-017f-41d0-aacf-91b03e302441",
     "hash": "69102fdeb440be4e034c14b036a97a5b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby and the Amazing Mirror/Peppermint Palace.mmrs",
+    "file": "Kirby & The Amazing Mirror/Peppermint Palace.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73069,15 +73042,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Kirby and the Amazing Mirror",
-    "song": "Cabbage Cavern (previously requested by <@693985630459396097> but worked on it before I knew that <:LUL:578126971079491594> )",
+    "game": "Kirby & The Amazing Mirror",
+    "song": "Cabbage Cavern",
     "converters": [
       "MaxPlaysGamesBadly"
+    ],
+    "composers": [
+      "Hironobu Inagaki",
+      "Atsuyoshi Isemura"
     ],
     "uuid": "1823eca9-a9f6-4a45-8075-5910c31dce4c",
     "hash": "f33d4ad3fb6428c0e677dd226b300675",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby and the Amazing Mirror/Cabbage Cavern (previously requested by @693985630459396097 but worked on it before I knew that LUL578126971079491594 ).mmrs",
+    "file": "Kirby & The Amazing Mirror/Cabbage Cavern.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73115,15 +73092,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Kirby and the Amazing Mirror",
+    "game": "Kirby & The Amazing Mirror",
     "song": "Candy Constellation",
     "converters": [
       "MaxPlaysGamesBadly"
     ],
+    "composers": [
+      "Hironobu Inagaki",
+      "Atsuyoshi Isemura"
+    ],
     "uuid": "9fef5f97-0706-4066-9942-42bc4d24caba",
     "hash": "adad32e98da7c71d311eff8a1f6a987a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby and the Amazing Mirror/Candy Constellation.mmrs",
+    "file": "Kirby & The Amazing Mirror/Candy Constellation.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73170,27 +73151,6 @@
     "categories": [
       "4",
       "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Kingdom Hearts 2",
-    "song": "The Afternoon Streets",
-    "converters": [
-      "Philos-Kun"
-    ],
-    "uuid": "50ca952a-d817-4c0d-95d7-7bf350f8328b",
-    "hash": "1d0e6720693684bb7f2c75c4b8d5954f",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts 2/The Afternoon Streets.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3"
     ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
@@ -73705,21 +73665,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Hades",
-    "song": "Death And I",
-    "composers": [
-      "Darren Korb"
-    ],
-    "converters": [
-      "isghj"
-    ],
-    "uuid": "f94372fe-dd9d-4d10-acd5-c538de7a54e4",
-    "hash": "f5d3954feb7239116cd4728b33da64df",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Hades/Death And I.mmrs",
-    "preview": ""
-  },
-  {
     "game": "LED Storm",
     "song": "Title Screen",
     "converters": [
@@ -74162,15 +74107,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Harvest Moon (SNES)",
-    "song": "Spring Theme",
+    "game": "Harvest Moon",
+    "song": "Spring",
     "converters": [
       "Heartybbq"
+    ],
+    "composers": [
+      "Tsuyoshi Tanaka"
     ],
     "uuid": "f0408537-2ff8-4220-9f2d-584fa414f079",
     "hash": "3cdfe3705e4eeb74dec5ef1188304a9b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Harvest Moon (SNES)/Spring Theme.mmrs",
+    "file": "Harvest Moon/Spring.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74183,15 +74131,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Harvest Moon (SNES)",
-    "song": "Town Theme",
+    "game": "Harvest Moon",
+    "song": "Town",
     "converters": [
       "Heartybbq"
+    ],
+    "composers": [
+      "Tsuyoshi Tanaka"
     ],
     "uuid": "69214b2e-d428-4a5f-85d9-4201cac28793",
     "hash": "a2fb878937ec4711d2c810b03b0ce7ae",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Harvest Moon (SNES)/Town Theme.mmrs",
+    "file": "Harvest Moon/Town.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77486,8 +77437,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Goldeneye007 (1997)",
-    "song": "el-Saghira Temple, Egyptian",
+    "game": "GoldenEye 007",
+    "song": "Egypt",
     "composers": [
       "Graeme Norgate"
     ],
@@ -77497,7 +77448,7 @@
     "uuid": "f611675d-d966-429c-a83c-aa45954491cc",
     "hash": "17f856232c369862a6e553da375f4429",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Goldeneye007 (1997)/el-Saghira Temple, Egyptian.mmrs",
+    "file": "GoldenEye 007/Egypt.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79712,8 +79663,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Fleeing the Complex (2015)",
-    "song": "Dance Mr. Funnybones (Distraction Dance)",
+    "game": "Henry Stickmin 5: Fleeing the Complex",
+    "song": "Dance Mr. Funnybones",
     "composers": [
       "PuffballsUnited"
     ],
@@ -79723,7 +79674,7 @@
     "uuid": "378bf2cb-30c2-45db-9b8f-8e989ef3c21e",
     "hash": "c8b2d06918a0c144dfe5eb05408b335b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fleeing the Complex (2015)/Dance Mr. Funnybones (Distraction Dance).mmrs",
+    "file": "Henry Stickmin 5 Fleeing the Complex/Dance Mr. Funnybones.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79786,7 +79737,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Kingdom Hearts 1",
+    "game": "Kingdom Hearts",
     "song": "Monstrous Monstro",
     "composers": [
       "Yoko Shimomura"
@@ -79797,7 +79748,7 @@
     "uuid": "1be8d0fa-99a6-4989-8fed-fc92a092019a",
     "hash": "12d53b7a413aee7c6befad79c03d6a82",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts 1/Monstrous Monstro.mmrs",
+    "file": "Kingdom Hearts/Monstrous Monstro.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79919,15 +79870,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Beach Parade",
-    "game": "Il magnifico cornuto M11 from Armando Trovaioli",
+    "song": "Fish Dance Beach Parade",
+    "game": "Memes",
     "converters": [
       "TheRealReliable"
+    ],
+    "composers": [
+      "Armando Trovajoli"
     ],
     "uuid": "825e1301-d4e0-4db7-8b29-f17bb46e3227",
     "hash": "1101ebff5fa3937afba2dd2cabcd1496",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Il magnifico cornuto M11 from Armando Trovaioli/Beach Parade.mmrs",
+    "file": "Memes/Fish Dance Beach Parade.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80349,8 +80303,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Goldeneye007 (1997)",
-    "song": "Converted Missile Train",
+    "game": "GoldenEye 007",
+    "song": "Train",
     "composers": [
       "Graeme Norgate"
     ],
@@ -80360,7 +80314,7 @@
     "uuid": "73a34e74-2399-4035-9480-5264a8e2818d",
     "hash": "eff85d48dd5fc28024c2e0db23448068",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Goldeneye007 (1997)/Converted Missile Train.mmrs",
+    "file": "GoldenEye 007/Train.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81010,7 +80964,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Kingdom Hearts 2",
+    "game": "Kingdom Hearts II",
     "song": "Spooks of Halloween Town",
     "composers": [
       "Yoko Shimomura"
@@ -81021,7 +80975,7 @@
     "uuid": "586c45c4-0494-423c-9f51-4c99e76ed9e5",
     "hash": "203ee434b3fa02e0300a5c004f61ced3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts 2/Spooks of Halloween Town.mmrs",
+    "file": "Kingdom Hearts II/Spooks of Halloween Town.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82861,18 +82815,18 @@
     "usesFormmask": false
   },
   {
-    "composers": [
-      "David Wise"
-    ],
-    "game": "Kingdom Hearts Insider & Me",
-    "song": "https://www.youtube.com/watch?v=-5rAjOjTGtc",
+    "game": "Donkey Kong Country",
+    "song": "Aquatic Ambience [2]",
     "converters": [
       "piiiano"
+    ],
+    "composers": [
+      "David Wise"
     ],
     "uuid": "bb18d349-1868-46f3-8fb4-1d20634e34f7",
     "hash": "26e3044e8eb1ab4f32fea6fe2d9857e7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts Insider & Me/httpswww.youtube.comwatchv=-5rAjOjTGtc.mmrs",
+    "file": "Donkey Kong Country/Aquatic Ambience [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83762,7 +83716,8 @@
     "game": "Kirby & The Amazing Mirror",
     "song": "Ending",
     "composers": [
-      "Hironobu Inagaki & Atsuyoshi Isemura"
+      "Hironobu Inagaki",
+      "Atsuyoshi Isemura"
     ],
     "converters": [
       "Murmy"
@@ -83835,6 +83790,9 @@
     "song": "Air's Rock",
     "converters": [
       "Seba 20 90"
+    ],
+    "composers": [
+      "Motoi Sakuraba"
     ],
     "uuid": "a7d29dce-a7dd-4d75-b0b7-b04b46847fbb",
     "hash": "2e2830ed3e580411c7333d629ff25fd7",
@@ -84669,7 +84627,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Kingdom Hearts 2",
+    "game": "Kingdom Hearts II",
     "song": "Old Friends, Old Rivals",
     "composers": [
       "Yoko Shimomura"
@@ -84680,7 +84638,7 @@
     "uuid": "daf6b6c0-74ee-4a34-bb97-3941a210db0c",
     "hash": "f1ede381b6c2273d6eb3b5320e698c52",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kingdom Hearts 2/Old Friends, Old Rivals.mmrs",
+    "file": "Kingdom Hearts II/Old Friends, Old Rivals.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85019,7 +84977,7 @@
   },
   {
     "game": "Kirby Super Star",
-    "song": "Gourmet Race 1/3",
+    "song": "Gourmet Race [2]",
     "composers": [
       "Jun Ishikawa"
     ],
@@ -85029,7 +84987,7 @@
     "uuid": "4878a1c2-84c2-4a01-aefd-ddb3e99f09ea",
     "hash": "59fb0ce5a5f7cd2c27b9851ae6cb638b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby Super Star/Gourmet Race 13.mmrs",
+    "file": "Kirby Super Star/Gourmet Race [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85713,14 +85671,17 @@
   },
   {
     "game": "Kirby's Adventure",
-    "song": "Green Greens (rear-end edition)",
+    "song": "Green Greens (Rear-End Edition)",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Jun Ishikawa"
     ],
     "uuid": "cea4f027-3f99-4329-92bc-9de4ec9b0014",
     "hash": "b5b8dca3d034cf32a238fa10d674456a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby's Adventure/Green Greens (rear-end edition).mmrs",
+    "file": "Kirby's Adventure/Green Greens (Rear-End Edition).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86502,14 +86463,18 @@
   },
   {
     "game": "Hong Kong 97",
-    "song": "Hong Kong 97",
+    "song": "Main Theme",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Jin Yueling",
+      "Jin Guolin"
     ],
     "uuid": "569e8fcf-9905-498e-906d-2d900bda24d9",
     "hash": "ed0483b67ec5f6d0200ea2a4af21259a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Hong Kong 97/Hong Kong 97.mmrs",
+    "file": "Hong Kong 97/Main Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87047,7 +87012,7 @@
       "Tomoya Tomita"
     ],
     "converters": [
-      "Me!"
+      "DetectiveSky612"
     ],
     "uuid": "82c9233c-4b39-4559-a67d-0cacb4aea68c",
     "hash": "a213ab75f17ba732cf4fb43ade78533b",
@@ -87421,30 +87386,34 @@
   },
   {
     "game": "Jet Set Radio",
-    "song": "Spray 7 & 8",
+    "song": "Spray 7",
     "composers": [
       "Hideki Naganuma"
     ],
     "converters": [
       "TheRealReliable"
     ],
-    "uuid": "2f26788e-e94c-43bf-a686-9868c7a9d5df",
-    "hash": "4b6e4fe84f8a405f76301f502310ccdf",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Jet Set Radio/Spray 7 & 8.mmrs",
+    "file": "Jet Set Radio/Spray 7.mmrs",
     "preview": "",
     "type": "fanfare",
-    "categories": [
-      "120",
-      "121",
-      "122",
-      "124",
-      "137",
-      "139",
-      "141",
-      "152",
-      "155"
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Jet Set Radio",
+    "song": "Spray 8",
+    "composers": [
+      "Hideki Naganuma"
     ],
+    "converters": [
+      "TheRealReliable"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Jet Set Radio/Spray 8.mmrs",
+    "preview": "",
+    "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false
@@ -87785,7 +87754,14 @@
     "uuid": "d5391200-5219-4ac0-8088-22132efea210",
     "creationDate": "2026-07-28T04:03:25.353Z",
     "game": "Hades",
-    "song": "Death And I [2]",
+    "song": "Death And I",
+    "composers": [
+      "Darren Korb"
+    ],
+    "converters": [
+      "Rokon",
+      "isghj"
+    ],
     "type": "fanfare",
     "categories": [
       "8",
@@ -87794,7 +87770,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Hades/Death And I [2].mmrs",
+    "file": "Hades/Death And I.mmrs",
     "preview": "",
     "hash": "05a2099a428960f1e79670746d094b78"
   },
