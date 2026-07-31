@@ -73666,14 +73666,17 @@
   },
   {
     "game": "LED Storm",
-    "song": "Title Screen",
+    "song": "Title Theme",
     "converters": [
       "dnvic"
+    ],
+    "composers": [
+      "Tim Follin"
     ],
     "uuid": "d0e96e42-4751-4862-8877-56dfe6915eaf",
     "hash": "0e52dcaf9f4746472f2acc0c7f10e3cb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "LED Storm/Title Screen.mmrs",
+    "file": "LED Storm/Title Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76248,6 +76251,9 @@
     "converters": [
       "syntheticsaturn"
     ],
+    "composers": [
+      "Austin Jorgensen"
+    ],
     "uuid": "048f68a9-88dc-4fe3-bb05-0db2e9bb3ddc",
     "hash": "76a8223c13bfbab898eb9aedc1d137c6",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -76529,10 +76535,13 @@
     "usesFormmask": false
   },
   {
-    "game": "LISA The Painful",
+    "game": "LISA: The Painful",
     "song": "Blood Simmer",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "Austin Jorgensen"
     ],
     "uuid": "5379b566-8d3f-4a6e-b086-74293c4675b9",
     "hash": "a9ab4029d21a646e6818ef18ab226d44",
@@ -76550,14 +76559,16 @@
   },
   {
     "game": "LISA: The Painful",
-    "song": "Blood Simmer",
+    "song": "Blood Simmer [2]",
     "converters": [
       "syntheticsaturn"
     ],
+    "composers": [
+      "Austin Jorgensen"
+    ],
     "uuid": "fbee047f-8809-4c74-bd02-ae585ea9de60",
-    "hash": "a9ab4029d21a646e6818ef18ab226d44",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "LISA The Painful/Blood Simmer.mmrs",
+    "file": "LISA The Painful/Blood Simmer [2].mmrs",
     "preview": ""
   },
   {
@@ -87773,26 +87784,6 @@
     "file": "Hades/Death And I.mmrs",
     "preview": "",
     "hash": "05a2099a428960f1e79670746d094b78"
-  },
-  {
-    "uuid": "be6b172a-4014-44f3-83e4-b5e94e69c355",
-    "creationDate": "2026-07-28T04:03:26.396Z",
-    "game": "LISA The Painful",
-    "song": "Blood Simmer [2]",
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3",
-      "4",
-      "5",
-      "16C"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false,
-    "file": "LISA The Painful/Blood Simmer [2].mmrs",
-    "preview": "",
-    "hash": "2a63720cb0ae22679abe5285d1f5ae6f"
   },
   {
     "uuid": "178c0701-cfef-4783-87a0-a525ed17c425",

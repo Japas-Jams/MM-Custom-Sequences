@@ -4083,6 +4083,7 @@
   },
   {
     "game": "LISA: The Joyful",
+    "series": "LISA Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/1fad47435b48d3e522734f0c6e416621.png"
   },
   {
@@ -4587,10 +4588,13 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/f6a93586c65233c024e23ffcec1d3007.png"
   },
   {
-    "game": "Lazy Town"
+    "game": "Lazy Town",
+    "series": "TV and Movies",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/Lazy_town_logo.png/revision/latest?cb=20161026212503"
   },
   {
-    "game": "LED Storm"
+    "game": "LED Storm",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/cdda101035997acfaa6fdf17097f52b2.png"
   },
   {
     "game": "Legend of Dragoon"
@@ -4605,7 +4609,9 @@
     "game": "Legend of Zelda Wind Waker"
   },
   {
-    "game": "LISA The Painful"
+    "game": "LISA: The Painful",
+    "series": "LISA Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d10ca2b9282b65ad1d975bf4b5e1c06e.png"
   },
   {
     "game": "Love Live! School Idol Festival ALL STARS (2019-2023🪦 😭 )"
