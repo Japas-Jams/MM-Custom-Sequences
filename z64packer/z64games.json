@@ -1130,6 +1130,7 @@
   },
   {
     "game": "Minecraft",
+    "series": "Minecraft Series",
     "logo": "https://i.imgur.com/hOIM62q.png"
   },
   {
@@ -4626,55 +4627,33 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e60624d4c57e4c744eeabd54648d21c2.png"
   },
   {
-    "game": "Mario Kart Double Dash"
-  },
-  {
-    "game": "Mario Kart Double Dash!! (2003)"
-  },
-  {
-    "game": "Mario Kart DS (2005)"
-  },
-  {
-    "game": "Mario Party 1"
-  },
-  {
     "game": "Master of Time"
   },
   {
     "game": "Master of Time (Demo)"
   },
   {
-    "game": "Metroid Zero Mission (2004)"
+    "game": "Miitopia",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1ffef630011b95d233d7dd7c7b078568.png"
   },
   {
-    "game": "Miitopia"
+    "game": "Minecraft: Story Mode",
+    "series": "Minecraft Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6c1df2b568ebd0b65f3c0df6c3808ae1.png"
   },
   {
-    "game": "Minecraft (2011)"
+    "game": "Monster Hunter: World",
+    "series": "Monster Hunter Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/789c5cf0a5d1b4e405320c592b24ee88.png"
   },
   {
-    "game": "Minecraft Story Mode"
+    "game": "Mr. Nutz",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2eda896b5a24ed1b2ba9848e53d445ef.png"
   },
   {
-    "game": "Mingo Games"
-  },
-  {
-    "game": "Monster Hunter World"
-  },
-  {
-    "game": "Mother 2 Gyigas Strikes Back  EarthBound (1994)"
-  },
-  {
-    "game": "MotherEarthbound Zero"
-  },
-  {
-    "game": "Mr Nutz"
-  },
-  {
-    "game": "Ms Pacman Maze Madness"
-  },
-  {
-    "game": "Mundial Ronaldinho Soccer 64  ⚽  (International Superstar Soccer 64 Hack)"
+    "game": "Ms. Pac-Man: Maze Madness",
+    "series": "Pac-Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/57e0b142ebde5f21c797b443ce27bb31.png"
   },
   {
     "game": "New Super Mario Bros DS"

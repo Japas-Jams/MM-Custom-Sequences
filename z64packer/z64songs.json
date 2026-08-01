@@ -3504,7 +3504,7 @@
     "uuid": "b1e5d62e-2e02-47ee-99bf-1a117b3380fd",
     "creationDate": "2026-03-11T23:30:40.096Z",
     "game": "Minecraft",
-    "song": "Stal (Variant A)",
+    "song": "Stal",
     "composers": [
       "C418"
     ],
@@ -3613,7 +3613,7 @@
     "uuid": "89e7e4da-5982-41f3-b049-db31ca53dc6b",
     "creationDate": "2026-03-12T00:52:04.957Z",
     "game": "EarthBound",
-    "song": "Snowman (Wave Instruments)",
+    "song": "Snowman (8bit Version)",
     "composers": [
       "Keiichi Suzuki",
       "Hirokazu Tanaka"
@@ -3631,7 +3631,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "EarthBound/Snowman (Wave).mmrs",
+    "file": "EarthBound/Snowman (8bit Version).mmrs",
     "preview": "https://www.youtube.com/watch?v=xFfyPCGHI2I",
     "lufs": "-14.86",
     "hash": "c42cbd8830a689aa207be416d272cfaf"
@@ -17781,7 +17781,7 @@
   {
     "uuid": "9aa95216-f712-4ef1-8bb9-69e4a7bf4e70",
     "creationDate": "2026-03-23T02:46:15.107Z",
-    "game": "Mario Party DS",
+    "game": "Mario Kart DS",
     "song": "Yoshi Falls",
     "composers": [
       "Shinobu Nagata"
@@ -17803,8 +17803,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario Party DS/Yoshi Falls.mmrs",
-    "preview": "Mario Party DS/Yoshi Falls.mp3",
+    "file": "Mario Kart DS/Yoshi Falls.mmrs",
+    "preview": "Mario Kart DS/Yoshi Falls.mp3",
     "lufs": "-14.46",
     "hash": "35b9e2ebcf8f2a9974439d4910aee9a6"
   },
@@ -42455,7 +42455,7 @@
     "game": "Minecraft",
     "song": "Wet Hands",
     "composers": [
-      "Daniel Rosenfeld"
+      "C418"
     ],
     "converters": [
       "Asra"
@@ -42903,7 +42903,7 @@
     "game": "Minecraft",
     "song": "Haggstrom (Part 1)",
     "composers": [
-      "Daniel Rosenfeld"
+      "C418"
     ],
     "converters": [
       "Asra"
@@ -42928,7 +42928,7 @@
     "game": "Minecraft",
     "song": "Haggstrom (Part 2)",
     "composers": [
-      "Daniel Rosenfeld"
+      "C418"
     ],
     "converters": [
       "Asra"
@@ -42953,7 +42953,7 @@
     "game": "Minecraft",
     "song": "Otherside",
     "composers": [
-      "Daniel Rosenfeld"
+      "Lena Raine"
     ],
     "converters": [
       "Asra"
@@ -42978,7 +42978,7 @@
     "game": "Minecraft",
     "song": "Stal (Variant B)",
     "composers": [
-      "Daniel Rosenfeld"
+      "C418"
     ],
     "converters": [
       "Asra"
@@ -42989,8 +42989,8 @@
       "1",
       "3"
     ],
-    "file": "Minecraft/Stal  (Variant B).mmrs",
-    "preview": "Minecraft/Stal  (Variant B).ogg",
+    "file": "Minecraft/Stal (Variant B).mmrs",
+    "preview": "Minecraft/Stal (Variant B).ogg",
     "lastUpdateDate": "2026-04-19T04:02:56.661Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -43630,7 +43630,7 @@
     "game": "Mario Party 2",
     "song": "Horror Land",
     "composers": [
-      "Yasunori Mitsuda"
+      "Hironao Yamamoto"
     ],
     "converters": [
       "Asra"
@@ -43682,7 +43682,7 @@
     "game": "Mario Party 3",
     "song": "Game Guy's Theme",
     "composers": [
-      "Yasunori Mitsuda"
+      "Ichiro Shimakura"
     ],
     "converters": [
       "Asra"
@@ -45011,7 +45011,7 @@
     "uuid": "1cd6a032-a049-446e-bc58-c4643f50ffdf",
     "creationDate": "2026-04-25T02:50:56.173Z",
     "game": "Memes",
-    "song": "HAHAHAHA, RONALDINHO SOCCER!",
+    "song": "HAHAHAHA, RONALDINHO SOCCSARRR!",
     "composers": [
       "The Eagle Group"
     ],
@@ -45025,8 +45025,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "file": "Memes/HAHAHAHA, RONALDINHO SOCCER!.mmrs",
-    "preview": "Memes/HAHAHAHA, RONALDINHO SOCCER!.ogg",
+    "file": "Memes/HAHAHAHA, RONALDINHO SOCCSARRR!.mmrs",
+    "preview": "Memes/HAHAHAHA, RONALDINHO SOCCSARRR!.ogg",
     "usesFormmask": false,
     "lufs": "-11.00",
     "hash": "23218a0402e75a545ed8062d99fd3f44"
@@ -68088,7 +68088,10 @@
     "game": "Mario Golf: Advance Tour",
     "song": "Waking Up",
     "converters": [
-      ""
+      "Asra"
+    ],
+    "composers": [
+      "Motoi Sakuraba"
     ],
     "uuid": "df278fb6-815d-4b9e-b442-31f5a4cec19f",
     "hash": "2b19b61ff60239ab3bc59c837f490a3f",
@@ -68886,27 +68889,25 @@
     "converters": [
       "BigBomba88"
     ],
+    "composers": [
+      "Hironobu Yahata",
+      "Shinya Outouge"
+    ],
     "uuid": "ca3b5817-3fd8-40dd-aea4-2d1d22d08cde",
-    "hash": "b2e41ff6ebdb53bb260731eafe3b2ce8",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Mario Party DS/Wiggler's Garden.mmrs",
     "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "6"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "type": "bgm"
   },
   {
     "game": "Mario Party DS",
     "song": "Toadette's Music Room",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Hironobu Yahata",
+      "Shinya Ohtouge"
     ],
     "uuid": "007a5490-9cdd-483f-a1df-8d55290a13b6",
     "hash": "1c7b47ab558d0e6221ac643087092f34",
@@ -69851,7 +69852,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Monster Hunter World",
+    "game": "Monster Hunter: World",
     "song": "Seliana (Day)",
     "composers": [
       "Akihiko Narita"
@@ -69877,8 +69878,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Monster Hunter World",
-    "song": "Rotten Vale Battle Theme",
+    "game": "Monster Hunter: World",
+    "song": "Rotten Vale (Battle)",
     "composers": [
       "Akihiko Narita"
     ],
@@ -69888,7 +69889,7 @@
     "uuid": "52413d66-9644-4c04-a2fe-a5134e2cf882",
     "hash": "628d97a882b83b8ad0cfa5f39e82d1a8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Monster Hunter World/Rotten Vale Battle Theme.mmrs",
+    "file": "Monster Hunter World/Rotten Vale (Battle).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72020,15 +72021,19 @@
     "usesFormmask": false
   },
   {
-    "game": "MotherEarthBound Zero",
+    "game": "EarthBound Beginnings",
     "song": "Magicant",
     "converters": [
       "Asra"
     ],
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
     "uuid": "3ef34190-fef5-4a79-8f80-be1cf03b16fb",
     "hash": "c76a21bd4d474d26eb7c32350d94d639",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "MotherEarthBound Zero/Magicant.mmrs",
+    "file": "EarthBound Beginnings/Magicant.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73605,14 +73610,17 @@
   },
   {
     "game": "Mario Party",
+    "song": "Wario - D'oh, I missed!",
     "converters": [
       "Fish_waffle64"
     ],
-    "song": "wario-doh",
+    "composers": [
+      "Thomas Spindler"
+    ],
     "uuid": "626cb7e2-7e75-4680-b9c0-7aec78471908",
     "hash": "4b32699ea1156feb782d1a5c938d6813",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Party/wario-doh.mmrs",
+    "file": "Mario Party/Wario - D'oh, I missed!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -73621,7 +73629,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Erm actually, Wario says \"So ein Mist!\" in german."
   },
   {
     "game": "LED Storm",
@@ -74220,8 +74229,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario Kart DS (2005)",
-    "song": "Luigi’s Mansion",
+    "game": "Mario Kart DS",
+    "song": "Luigi's Mansion",
     "composers": [
       "Shinobu Tanaka"
     ],
@@ -74231,7 +74240,7 @@
     "uuid": "7e247f3b-8a5b-4076-9f4a-59bb680a9322",
     "hash": "d73e931ea00c6ac011da4f678de1ed69",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Kart DS (2005)/Luigi’s Mansion.mmrs",
+    "file": "Mario Kart DS/Luigi's Mansion.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75042,10 +75051,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario Kart Double Dash!! (2003)",
+    "game": "Mario Kart: Double Dash!!",
     "song": "Circuit",
     "composers": [
-      "Shinobu Tanaka, Kenta Nagata"
+      "Shinobu Tanaka",
+      "Kenta Nagata"
     ],
     "converters": [
       "Retroflex"
@@ -75053,7 +75063,7 @@
     "uuid": "86b92eae-5ea4-4a29-9afc-7aafeb9879ce",
     "hash": "a2585420291db133d438411b6c398681",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Kart Double Dash!! (2003)/Circuit.mmrs",
+    "file": "Mario Kart Double Dash!!/Circuit.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75926,15 +75936,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Mingo Games",
-    "song": "mm2wood",
+    "game": "Mega Man 2",
+    "song": "mm2wood.mid",
     "converters": [
       "Shijima"
+    ],
+    "composers": [
+      "Takashi Tateishi",
+      "Mongo Games"
     ],
     "uuid": "b400be8f-0458-4d49-a4f3-ce4cd279fd08",
     "hash": "76b90ee93d147a2da4ccebcf73521de9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mingo Games/mm2wood.mmrs",
+    "file": "Mega Man 2/mm2wood.mid.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76444,7 +76458,7 @@
       "Semaj"
     ],
     "composers": [
-      "Diwi De Leon"
+      "C418"
     ],
     "uuid": "67bc96e7-5b04-4195-9181-2bd3fcdc5852",
     "hash": "bdb775030a54cf2868cf0daedcd6ed0d",
@@ -77075,6 +77089,12 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "Toshiyuki Sudo",
+      "Shinji Ushiroda",
+      "Yumi Takahashi",
+      "Megumi Inoue"
+    ],
     "uuid": "c0377eb5-95a0-4b5b-913b-b5797c381078",
     "hash": "07a07ad78c26367f68cc8c912cab2e83",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -77172,10 +77192,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Mr Nutz",
+    "game": "Mr. Nutz",
     "song": "Woody Land 1 & 2",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Raphaël Gesqua"
     ],
     "uuid": "4da743d2-295e-4204-bcc2-e46572034fd1",
     "hash": "be2f349ff43f78a94cf629cd23ac32dd",
@@ -77219,10 +77242,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Mr Nutz",
+    "game": "Mr. Nutz",
     "song": "Adventure Park",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Raphaël Gesqua"
     ],
     "uuid": "0dd4f427-b624-4cf5-86a7-d014c84d424f",
     "hash": "a38b1572fb65c70a9d01b32ee08061e1",
@@ -77351,15 +77377,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Mr Nutz",
-    "song": "Woody Land 3-4",
+    "game": "Mr. Nutz",
+    "song": "Woody Land 3 & 4",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Raphaël Gesqua"
     ],
     "uuid": "c7ce0f12-1e7a-4998-b6d6-761b6fe7fddc",
     "hash": "81d48f618748679599b6661e1fda0837",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mr Nutz/Woody Land 3-4.mmrs",
+    "file": "Mr. Nutz/Woody Land 3 & 4.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77494,18 +77523,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Mother 2 Gyigas Strikes Back  EarthBound (1994)",
+    "game": "EarthBound",
     "composers": [
-      "Hirokazu Tanaka, Keiichi Suzuki, Hiroshi Kanazu"
+      "Hirokazu Tanaka",
+      "Keiichi Suzuki"
     ],
     "converters": [
       "Retroflex"
     ],
-    "song": "what_FANFARE",
+    "song": "Sanctuary Guardian (What)",
     "uuid": "0018225a-eac1-4b9f-8238-1cc41e359533",
     "hash": "8916064e3fc4026f1b9e7fb9f9a2c4fd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mother 2 Gyigas Strikes Back  EarthBound (1994)/what_FANFARE.mmrs",
+    "file": "EarthBound/Sanctuary Guardian (What).mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -77515,7 +77545,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "what"
   },
   {
     "game": "Super Mario Galaxy (2007)",
@@ -77593,10 +77624,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Mr Nutz",
+    "game": "Mr. Nutz",
     "song": "Mean Streets",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Raphaël Gesqua"
     ],
     "uuid": "7e3bee1d-aa02-43c6-9ae7-01170b66362b",
     "hash": "abc673c0c9d1570228971126e8b148f6",
@@ -77614,10 +77648,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Mr Nutz",
+    "game": "Mr. Nutz",
     "song": "Volcano Underpass",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Raphaël Gesqua"
     ],
     "uuid": "995c5f12-3384-4fcf-9f7e-597dbba3d10c",
     "hash": "e8e2eca8f60ba7f43d6b52067529dc15",
@@ -77655,15 +77692,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Mr Nutz",
-    "song": "Living Room",
+    "game": "Mr. Nutz",
+    "song": "The Living Room",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Raphaël Gesqua"
     ],
     "uuid": "7cd8040e-bc32-446d-af02-eca84fb50224",
     "hash": "c7366bfeb8896d5d6adf8933bef57d6b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mr Nutz/Living Room.mmrs",
+    "file": "Mr. Nutz/The Living Room.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77853,10 +77893,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Metroid Zero Mission (2004)",
+    "game": "Metroid Zero Mission",
     "song": "Chozo Guide",
     "composers": [
-      "Kenji Yamamoto, Minako Hamano"
+      "Kenji Yamamoto",
+      "Minako Hamano"
     ],
     "converters": [
       "Retroflex"
@@ -77864,7 +77905,7 @@
     "uuid": "4e4c7dd7-1d16-42eb-b581-04c69e5642e0",
     "hash": "bc18c6b6b675da88aedaf36c07c834e0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Metroid Zero Mission (2004)/Chozo Guide.mmrs",
+    "file": "Metroid Zero Mission/Chozo Guide.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78074,15 +78115,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Minecraft Story Mode",
-    "song": "Wither Storm (battle)",
+    "game": "Minecraft: Story Mode",
+    "song": "Wither Storm (Battle Mix)",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "Antimo & Welles"
     ],
     "uuid": "35685e07-5fee-4624-9117-f4ee840362bb",
     "hash": "baa5275478a325117c01e9dfb1d6c4ed",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Minecraft Story Mode/Wither Storm (battle).mmrs",
+    "file": "Minecraft Story Mode/Wither Storm (Battle Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78122,7 +78166,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Minecraft (2011)",
+    "game": "Minecraft",
     "song": "Clark",
     "composers": [
       "C418"
@@ -78133,7 +78177,7 @@
     "uuid": "273205ba-408e-4491-961b-fb72a2f94802",
     "hash": "09b9a14ad2bb6652c229a58a9b230835",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Minecraft (2011)/Clark.mmrs",
+    "file": "Minecraft/Clark.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79166,14 +79210,17 @@
   },
   {
     "game": "Minecraft",
-    "song": "Double Time",
+    "song": "Double Time (Tumble)",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "Gareth Coker"
     ],
     "uuid": "af837490-8b79-415a-a189-7dbfbd5417ab",
     "hash": "74f42f3f86d866e7f668cdb9b4bcf12b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Minecraft/Double Time.mmrs",
+    "file": "Minecraft/Double Time (Tumble).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80411,7 +80458,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Love Live! School Idol Festival ALL STARS (2019-2023🪦 😭 )",
+    "game": "Love Live! School Idol Festival All Stars",
     "song": "Scout Theme",
     "composers": [
       "(Unknown)"
@@ -80422,7 +80469,7 @@
     "uuid": "c913008e-c17a-43a6-b400-399003cbc3de",
     "hash": "58132a991e1efe14a32d82d38ff8fcb0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Love Live! School Idol Festival ALL STARS (2019-2023🪦 😭 )/Scout Theme.mmrs",
+    "file": "Love Live! School Idol Festival All Stars/Scout Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83166,14 +83213,17 @@
   },
   {
     "game": "Mario Party 3",
-    "song": "Chancetime",
+    "song": "Announcer - Chance Time!",
     "converters": [
       "TheRealReliable"
+    ],
+    "composers": [
+      "Eriko Ibe"
     ],
     "uuid": "510eb6e2-caf5-41c9-b631-e215da6d8e93",
     "hash": "0493bf5bc1134fcbdd52119effe745e8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Party 3/Chancetime.mmrs",
+    "file": "Mario Party 3/Announcer - Chance Time!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83863,21 +83913,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario Party DS",
-    "song": "Wiggler's Garden",
-    "composers": [
-      "Hironobu Yahata, Shinya Ohtouge"
-    ],
-    "converters": [
-      "BigBomba88"
-    ],
-    "uuid": "a558e96a-1045-46de-84b4-d883703b6dbf",
-    "hash": "b2e41ff6ebdb53bb260731eafe3b2ce8",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Party DS/Wiggler's Garden.mmrs",
-    "preview": ""
-  },
-  {
     "game": "Super Mario Galaxy",
     "song": "Catastrophe",
     "composers": [
@@ -84326,7 +84361,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Ms Pacman Maze Madness",
+    "game": "Ms. Pac-Man: Maze Madness",
     "song": "Cleopactra",
     "composers": [
       "Jon Holland"
@@ -84337,7 +84372,7 @@
     "uuid": "0189905d-256f-4d27-85a4-f06d229bb9de",
     "hash": "fcf9bc7177bbf9be49be0a815e9db333",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Ms Pacman Maze Madness/Cleopactra.mmrs",
+    "file": "Ms. Pac-Man Maze Madness/Cleopactra.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84679,10 +84714,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario Kart Double Dash",
+    "game": "Mario Kart: Double Dash!!",
     "song": "Baby Park",
     "composers": [
-      "Shinobu Nagata"
+      "Shinobu Tanaka",
+      "Kenta Nagata"
     ],
     "converters": [
       "samracc"
@@ -84690,7 +84726,7 @@
     "uuid": "dc2b4ee4-2009-4735-8611-366a8d0c097f",
     "hash": "b36dc99fb2ce6a665547988cb30bf48e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Kart Double Dash/Baby Park.mmrs",
+    "file": "Mario Kart Double Dash!!/Baby Park.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85258,7 +85294,7 @@
   },
   {
     "game": "Mario Party 2",
-    "song": "Let the Game Begin",
+    "song": "Let the Game Begin!",
     "composers": [
       "Hironao Yamamoto"
     ],
@@ -85268,7 +85304,7 @@
     "uuid": "3192c3b1-2900-4997-aa40-747dcbc39577",
     "hash": "b21782c19b2df0e0b889c436c2f9712b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Party 2/Let the Game Begin.mmrs",
+    "file": "Mario Party 2/Let the Game Begin!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85405,15 +85441,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario Party 1",
-    "song": "Wario - Oh My God",
+    "game": "Mario Party",
+    "song": "Wario - Oh, my God!",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Thomas Spindler"
     ],
     "uuid": "613e7b90-5183-4ae3-b251-e932434be12b",
     "hash": "2fa2fcf1bcb1da95f2c378d5e2284262",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Party 1/Wario - Oh My God.mmrs",
+    "file": "Mario Party/Wario - Oh, my God!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -85425,15 +85464,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Mario Party 1",
-    "song": "Jungle Adventure",
+    "game": "Mario Party",
+    "song": "DK's Jungle Adventure",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Yasunori Mitsuda"
     ],
     "uuid": "0a5c2ae0-7817-4316-9797-b036e56f8fe7",
     "hash": "d5b65af9a708a3678b97b095212c369a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mario Party 1/Jungle Adventure.mmrs",
+    "file": "Mario Party/DK's Jungle Adventure.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85654,7 +85696,7 @@
     "game": "Mario Kart: Super Circuit",
     "song": "Sky Garden",
     "composers": [
-      "Kenichi Nishimaki, Masanobu Matsunaga, & Minako Hamano"
+      "Minako Hamano"
     ],
     "converters": [
       "TheRealReliable"
@@ -87281,35 +87323,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Mundial Ronaldinho Soccer 64  ⚽  (International Superstar Soccer 64 Hack)",
-    "song": "\"Hahahaha, Ronaldinho Soccsarrr!\" (TerminalMontage Ganondorf gets the Triforce)",
-    "converters": [
-      "ainurmusician64"
-    ],
-    "uuid": "04232c65-fd9d-498a-84c8-c41f2d261110",
-    "hash": "ae0e33674d67f16a13e6d5c840490050",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mundial Ronaldinho Soccer 64  ⚽  (International Superstar Soccer 64 Hack)/Hahahaha, Ronaldinho Soccsarrr! (TerminalMontage Ganondorf gets the Triforce).mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "9",
-      "121"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
-    "game": "Mundial Ronaldinho Soccer 64  ⚽  (International Superstar Soccer 64 Hack)",
+    "game": "Memes",
     "song": "R̶̞͗͆O̸̢̖͝Ñ̵̩͉́A̶͍̥̕͝L̴̦̈̾͝D̶̢̐̓̈́Ȉ̷ÑHO SOCCSA̳̣R̴̦͊̾͠RR!̸̪̲̊",
+    "safeName": "RONALDINHO SOCCSARRR! (Earrape)",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "The Eagle Group"
     ],
     "uuid": "5eccad0d-5de5-4428-850b-afcb60c8de5a",
     "hash": "ae0e33674d67f16a13e6d5c840490050",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Mundial Ronaldinho Soccer 64  ⚽  (International Superstar Soccer 64 Hack)/R̶̞͗͆O̸̢̖͝Ñ̵̩͉́A̶͍̥̕͝L̴̦̈̾͝D̶̢̐̓̈́Ȉ̷ÑHO SOCCSA̳̣R̴̦͊̾͠RR!̸̪̲̊.mmrs",
+    "file": "Memes/R̶̞͗͆O̸̢̖͝Ñ̵̩͉́A̶͍̥̕͝L̴̦̈̾͝D̶̢̐̓̈́Ȉ̷ÑHO SOCCSA̳̣R̴̦͊̾͠RR!̸̪̲̊.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -87418,21 +87444,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false
-  },
-  {
-    "game": "Ms Pacman Maze Madness",
-    "song": "Cleopactra",
-    "composers": [
-      "Jon Holland"
-    ],
-    "converters": [
-      "samracc"
-    ],
-    "uuid": "6ca133c4-dcfd-429e-81e8-bb0b026bf4ae",
-    "hash": "fcf9bc7177bbf9be49be0a815e9db333",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Ms Pacman Maze Madness/Cleopactra.mmrs",
-    "preview": ""
   },
   {
     "game": "Super Mario Sunshine",
@@ -87740,7 +87751,7 @@
   {
     "uuid": "7c6ebe20-fc76-47ca-b999-06d74456332f",
     "creationDate": "2026-07-28T04:03:27.086Z",
-    "game": "Mario and Luigi: Partners in Time",
+    "game": "Mario & Luigi: Partners in Time",
     "song": "Crisis of the Red and Green!",
     "converters": [
       "BigBomba88"
@@ -87758,26 +87769,9 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario and Luigi Partners in Time/Crisis of the Red and Green!.mmrs",
+    "file": "Mario & Luigi Partners in Time/Crisis of the Red and Green!.mmrs",
     "preview": "",
     "hash": "f1b0a52597d4120c192adbbb7f33894a"
-  },
-  {
-    "uuid": "85984894-ff49-4cb9-a87e-a1f79886a1ec",
-    "creationDate": "2026-07-28T04:03:27.560Z",
-    "game": "Mario Party DS",
-    "song": "Wiggler's Garden [2]",
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Mario Party DS/Wiggler's Garden [2].mmrs",
-    "preview": "",
-    "hash": "59563a6dabedbd96a3768025ae2d8361"
   },
   {
     "uuid": "a15b5b26-585a-450c-bc4a-70fc8f3fff76",
