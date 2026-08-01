@@ -1338,7 +1338,7 @@
   },
   {
     "game": "Planet Puzzle League",
-    "logo": "https://i.imgur.com/4wxqF0R.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a9ca4ff9b3fbbfd6b427ef5503cfeda4.png"
   },
   {
     "game": "Plants vs. Zombies",
@@ -4656,55 +4656,37 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/57e0b142ebde5f21c797b443ce27bb31.png"
   },
   {
-    "game": "New Super Mario Bros DS"
+    "game": "New York Times Crossword",
+    "logo": "https://i.imgur.com/vquOqLM.png"
   },
   {
-    "game": "New Super Mario Bros. (2006)"
+    "game": "Okage: Shadow King",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/84fc285ce49b9e96fefd21d68ab729c4.png",
+    "short_name": "Okage"
   },
   {
-    "game": "New Super Mario Bros. (DS)"
+    "game": "Ori and the Blind Forest",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7402e6a23d0aac72c66a65d238978da2.png"
   },
   {
-    "game": "New Super Mario Bros. Wii (2009)"
+    "game": "Paper Mario: Color Splash",
+    "series": "Paper Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/da0d1111d2dc5d489242e60ebcbaf988.png"
   },
   {
-    "game": "New York Times Crossword"
+    "game": "Parasite Eve",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/69dd2eff9b6a421d5ce262b093bdab23.png"
   },
   {
-    "game": "Nintendo Gamecube BIOS"
+    "game": "Persona 3 Reload",
+    "series": "Persona Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/be9a22cb85032b37ebb2eee3938bdb9b.png"
   },
   {
-    "game": "Ocarina of Time"
-  },
-  {
-    "game": "Okage"
-  },
-  {
-    "game": "Ori and the Blind Forest"
-  },
-  {
-    "game": "Paper Mario Color Splash"
-  },
-  {
-    "game": "Paper Mario TTYD"
-  },
-  {
-    "game": "Parasite Eve"
-  },
-  {
-    "game": "Perfect Dark (2000)"
-  },
-  {
-    "game": "Persona 3 Reload"
-  },
-  {
-    "game": "PlayStation 1 BIOS"
-  },
-  {
-    "game": "Plok!"
-  },
-  {
-    "game": "Pokemon 2000"
+    "game": "PlayStation",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/54cb42af64a35080c57d883b945de4c4.png",
+    "short_name": "PS1"
   },
   {
     "game": "Pokemon Black & White"
@@ -4756,9 +4738,6 @@
   },
   {
     "game": "Pokemon Stadium"
-  },
-  {
-    "game": "Pokemon The Movie 2000 The Power of One"
   },
   {
     "game": "Pokemon Trading Card Game (GBC)"

@@ -1712,7 +1712,7 @@
     "uuid": "968aa86e-9b96-499d-b2a2-3a730db7c3b8",
     "creationDate": "2026-03-07T16:48:37.592Z",
     "game": "Paper Mario",
-    "song": "Tubba Blubba Battle",
+    "song": "Ghost Gulping",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -1729,7 +1729,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Paper Mario/Tubba Blubba Battle.mmrs",
+    "file": "Paper Mario/Ghost Gulping.mmrs",
     "preview": "https://www.youtube.com/watch?v=ShIqJ0QNZ9I",
     "lufs": "-25.04",
     "hash": "649fa50dcd8611b975e238a33b25922f"
@@ -1738,7 +1738,7 @@
     "uuid": "89b8e807-d756-47e8-93db-02eb44374056",
     "creationDate": "2026-03-07T16:49:48.358Z",
     "game": "Paper Mario",
-    "song": "Goomba Road",
+    "song": "March Ahead",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -1755,7 +1755,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Paper Mario/Goomba Road.mmrs",
+    "file": "Paper Mario/March Ahead.mmrs",
     "preview": "https://www.youtube.com/watch?v=Fc79CqVykxQ",
     "lufs": "-29.20",
     "hash": "1f2351bdd7e47b0a0facc955f01cffe4"
@@ -3479,8 +3479,6 @@
     "game": "Omori",
     "song": "World's End Valentine",
     "composers": [
-      "Bo En",
-      "Jamie Lynn",
       "Pedro Silva"
     ],
     "converters": [
@@ -3990,7 +3988,7 @@
     "uuid": "5a3115b2-ef1e-4168-a21b-2fb9ecab62e7",
     "creationDate": "2026-03-12T04:26:51.342Z",
     "game": "Nintendo GameCube",
-    "song": "Intro",
+    "song": "Startup",
     "composers": [
       "Toru Minegishi"
     ],
@@ -4005,7 +4003,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Nintendo GameCube/Intro.mmrs",
+    "file": "Nintendo GameCube/Startup.mmrs",
     "preview": "https://www.youtube.com/watch?v=WfkvZU7ttmo",
     "lufs": "-22.42",
     "hash": "27063143715325c6353d5b446a70739f"
@@ -4687,7 +4685,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Paper Mario The Origami King/Musee Champignon.mmrs",
+    "file": "Paper Mario The Origami King/Museé Champignon.mmrs",
     "preview": "https://www.youtube.com/watch?v=VJZ5chMthUw",
     "lufs": "-21.29",
     "hash": "b55dc76a688ae7985340039ec7501931"
@@ -5306,7 +5304,8 @@
     "game": "New Super Mario Bros. Wii",
     "song": "Volcano",
     "composers": [
-      "Shiho Fujii and Ryo Nagamatsu"
+      "Shiho Fujii",
+      "Ryo Nagamatsu"
     ],
     "converters": [
       "Fish"
@@ -9022,9 +9021,9 @@
     "uuid": "3f37b259-c109-46e1-859f-8670d466bce0",
     "creationDate": "2026-03-15T02:28:14.077Z",
     "game": "Old School RuneScape",
-    "song": "Ferox",
+    "song": "The Enclave",
     "composers": [
-      "Ian Taylor"
+      "Iain Hetherington"
     ],
     "converters": [
       "Darkychao"
@@ -9037,7 +9036,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Ferox.mmrs",
+    "file": "Old School RuneScape/The Enclave.mmrs",
     "preview": "https://www.youtube.com/watch?v=LDQeyIJYM6I",
     "lufs": "-22.55",
     "hash": "aed2aee10ff31ab0558c26138de13be6"
@@ -9730,7 +9729,7 @@
     "uuid": "91cb2dcb-2fe5-4d83-879b-900e1d648196",
     "creationDate": "2026-03-16T22:46:47.011Z",
     "game": "Old School RuneScape",
-    "song": "Arceuus",
+    "song": "Arcane",
     "composers": [
       "Ian Taylor"
     ],
@@ -9746,7 +9745,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Arceuus.mmrs",
+    "file": "Old School RuneScape/Arcane.mmrs",
     "preview": "https://www.youtube.com/watch?v=Fn_610qJNZc",
     "lufs": "-19.33",
     "hash": "8fa72280267aa5f6bcc681b214b93b5d"
@@ -9755,9 +9754,9 @@
     "uuid": "7640ad5d-4866-4d3f-9594-7f1941e63af1",
     "creationDate": "2026-03-16T22:47:42.904Z",
     "game": "Old School RuneScape",
-    "song": "Zulrah",
+    "song": "Coil",
     "composers": [
-      "Ian Taylor"
+      "Ashleigh Bridges"
     ],
     "converters": [
       "Darkychao"
@@ -9770,7 +9769,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Zulrah.mmrs",
+    "file": "Old School RuneScape/Coil.mmrs",
     "preview": "https://www.youtube.com/watch?v=tcALfWIXj0g",
     "lufs": "-17.24",
     "hash": "2210da61c12faf24aa599cc0220fa4d6"
@@ -11844,7 +11843,7 @@
     "uuid": "e464f50d-ad5f-43d7-8fea-ad31cda3f67a",
     "creationDate": "2026-03-18T02:38:22.838Z",
     "game": "Perfect Dark",
-    "song": "Chicago: Stealth",
+    "song": "Chicago - Stealth",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -11858,8 +11857,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Perfect Dark/Chicago Stealth.mmrs",
-    "preview": "Perfect Dark/Chicago Stealth.ogg",
+    "file": "Perfect Dark/Chicago - Stealth.mmrs",
+    "preview": "Perfect Dark/Chicago - Stealth.ogg",
     "lufs": "-14.10",
     "hash": "d8a880c21cdf2583fc3046984a59a967"
   },
@@ -12416,7 +12415,7 @@
     "uuid": "b790cced-2e50-4300-888e-30329e39be09",
     "creationDate": "2026-03-18T22:46:29.134Z",
     "game": "Paper Mario",
-    "song": "Vs. Crystal King",
+    "song": "Freeze!",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -12432,8 +12431,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Paper Mario/Vs. Crystal King.mmrs",
-    "preview": "Paper Mario/Vs. Crystal King.ogg",
+    "file": "Paper Mario/Freeze!.mmrs",
+    "preview": "Paper Mario/Freeze!.ogg",
     "lufs": "-19.73",
     "hash": "0c8d1c784c6c22c9a8a6776d4d2068c3"
   },
@@ -15089,11 +15088,9 @@
     "uuid": "6746dcec-df28-46b0-8bcd-3140ea9b23c1",
     "creationDate": "2026-03-21T15:00:58.722Z",
     "game": "Old School RuneScape",
-    "song": "Ardougne",
+    "song": "Baroque",
     "composers": [
-      "Ian \"Mod Ian T\" Taylor",
-      "Ashleigh \"Mod Ash\" Bridges",
-      "Adam \"Mod Bond\" Bond"
+      "Ian Taylor"
     ],
     "converters": [
       "Darkychao"
@@ -15106,8 +15103,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Ardougne.mmrs",
-    "preview": "Old School RuneScape/Ardougne.ogg",
+    "file": "Old School RuneScape/Baroque.mmrs",
+    "preview": "Old School RuneScape/Baroque.ogg",
     "lufs": "-20.53",
     "hash": "ad4e55306e6e7926766d3faa945fb886"
   },
@@ -15898,7 +15895,7 @@
     "uuid": "81beb444-f572-4005-be71-078845b9870d",
     "creationDate": "2026-03-21T16:21:11.607Z",
     "game": "Old School RuneScape",
-    "song": "Pinballs",
+    "song": "Pinball Wizard",
     "composers": [
       "Ian Taylor"
     ],
@@ -15913,8 +15910,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Pinballs.mmrs",
-    "preview": "Old School RuneScape/Pinballs.ogg",
+    "file": "Old School RuneScape/Pinball Wizard.mmrs",
+    "preview": "Old School RuneScape/Pinball Wizard.ogg",
     "lufs": "-17.00",
     "hash": "b2b68bf6c07c6ad2f597eee6c48f287a"
   },
@@ -15922,9 +15919,9 @@
     "uuid": "56520ac8-1eda-4794-817f-e3380c50ee0d",
     "creationDate": "2026-03-21T16:21:49.947Z",
     "game": "Old School RuneScape",
-    "song": "Motherlode Mine",
+    "song": "Pick & Shovel",
     "composers": [
-      "Ian Taylor"
+      "Ashleigh Bridges"
     ],
     "converters": [
       "Darkychao"
@@ -15936,8 +15933,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Motherlode Mine.mmrs",
-    "preview": "Old School RuneScape/Motherlode Mine.ogg",
+    "file": "Old School RuneScape/Pick & Shovel.mmrs",
+    "preview": "Old School RuneScape/Pick & Shovel.ogg",
     "lufs": "-16.92",
     "hash": "1c2008a76d1d3362651bc6216995e484"
   },
@@ -15945,7 +15942,7 @@
     "uuid": "1118a02d-507f-4f91-92ec-8e49596309c7",
     "creationDate": "2026-03-21T16:22:23.731Z",
     "game": "Old School RuneScape",
-    "song": "Grand Exchange",
+    "song": "The Trade Parade",
     "composers": [
       "Ian Taylor"
     ],
@@ -15959,8 +15956,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Grand Exchange.mmrs",
-    "preview": "Old School RuneScape/Grand Exchange.ogg",
+    "file": "Old School RuneScape/The Trade Parade.mmrs",
+    "preview": "Old School RuneScape/The Trade Parade.ogg",
     "lastUpdateDate": "2026-03-21T16:23:32.457Z",
     "lufs": "-19.41",
     "hash": "d61f788429f3f17236e5c719ddf3be11"
@@ -15969,7 +15966,7 @@
     "uuid": "d06691a3-df69-4530-b779-d5e97ef49b1a",
     "creationDate": "2026-03-21T16:23:10.734Z",
     "game": "Old School RuneScape",
-    "song": "Phesant",
+    "song": "Pheasant Peasant (Intro)",
     "composers": [
       "Ian Taylor"
     ],
@@ -15983,8 +15980,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Phesant.mmrs",
-    "preview": "Old School RuneScape/Phesant.ogg",
+    "file": "Old School RuneScape/Pheasant Peasant (Intro).mmrs",
+    "preview": "Old School RuneScape/Pheasant Peasant (Intro).ogg",
     "lufs": "-22.53",
     "hash": "7ca50ea322769a207febc181efa84381"
   },
@@ -15992,7 +15989,7 @@
     "uuid": "c9559744-6857-4b0b-aada-2b9d39d2a804",
     "creationDate": "2026-03-21T16:24:14.023Z",
     "game": "Old School RuneScape",
-    "song": "Oh Dear",
+    "song": "Oh Dear!",
     "composers": [
       "Ian Taylor"
     ],
@@ -16006,8 +16003,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Oh Dear.mmrs",
-    "preview": "Old School RuneScape/Oh Dear.ogg",
+    "file": "Old School RuneScape/Oh Dear!.mmrs",
+    "preview": "Old School RuneScape/Oh Dear!.ogg",
     "lufs": "-21.50",
     "hash": "baebf97829304299d0864e149bde98ac"
   },
@@ -16015,7 +16012,7 @@
     "uuid": "ec113903-b5a9-4aa3-a4f4-f7519664438b",
     "creationDate": "2026-03-21T16:24:58.233Z",
     "game": "Old School RuneScape",
-    "song": "Grand Exchange (Fanfare)",
+    "song": "Grand Transaction",
     "composers": [
       "Ian Taylor"
     ],
@@ -16029,8 +16026,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Old School RuneScape/Grand Exchange (Fanfare).mmrs",
-    "preview": "Old School RuneScape/Grand Exchange (Fanfare).ogg",
+    "file": "Old School RuneScape/Grand Transaction.mmrs",
+    "preview": "Old School RuneScape/Grand Transaction.ogg",
     "lufs": "-17.28",
     "hash": "f5f3a1b3365b2a39e626dd54294fd4eb"
   },
@@ -24853,12 +24850,9 @@
       "6"
     ],
     "file": "Pikmin/The Impact Site.mmrs",
-    "preview": "Pikmin/The Impact Site.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-20.10",
-    "hash": "2b592b11d7a5d2abde3ec3a721be4838"
+    "usesFormmask": false
   },
   {
     "uuid": "784a030f-0dce-4146-bb62-c94a32223358",
@@ -31679,10 +31673,22 @@
     "hash": "fdbe704bf279bd462d23ec3441374933"
   },
   {
+    "game": "Persona 4",
+    "song": "Junes Theme",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Nika~"
+    ],
+    "type": "bgm",
+    "file": "Persona 4/Junes Theme.mmrs"
+  },
+  {
     "uuid": "a667d31a-8a1e-48c3-8921-b3996d2d17b0",
     "creationDate": "2026-04-09T00:50:52.263Z",
     "game": "Persona 4",
-    "song": "Junes Theme",
+    "song": "Junes Theme [2]",
     "composers": [
       "Ryota Kozuka"
     ],
@@ -31697,8 +31703,8 @@
       "157",
       "176"
     ],
-    "file": "Persona 4/Junes Theme.mmrs",
-    "preview": "Persona 4/Junes Theme.mp3",
+    "file": "Persona 4/Junes Theme [2].mmrs",
+    "preview": "Persona 4/Junes Theme [2].mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -49517,7 +49523,7 @@
   },
   {
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Shadow Temple",
+    "song": "Shadow Temple (MM Version)",
     "composers": [
       "Koji Kondo"
     ],
@@ -49532,8 +49538,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f54ef5d0-4378-4fc1-89a6-33412abef051",
-    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple.mmrs",
-    "preview": "https://www.youtube.com/watch?v=XISBVWK4l6s",
+    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple (MM Version).mmrs",
     "lufs": "-19.57",
     "hash": "89903efd9f6b3917d54ad3f7d16c798b",
     "creationDate": "2026-07-28T03:37:57.975Z"
@@ -60008,11 +60013,11 @@
     "game": "Super Paper Mario",
     "song": "Perfect Solution (Beta)",
     "composers": [
-      "Asra"
-    ],
-    "converters": [
       "Naoko Mitome",
       "Chika Sekigawa"
+    ],
+    "converters": [
+      "Asra"
     ],
     "type": "fanfare",
     "categories": [
@@ -67395,6 +67400,9 @@
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Adam Bond"
+    ],
     "uuid": "1ca6cef8-d429-4cdf-bf18-47fee22e6422",
     "hash": "717abb6a7be2b550a518e1ee58449fa1",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -67439,7 +67447,7 @@
     "game": "Paper Mario: The Origami King",
     "song": "Toad Town",
     "composers": [
-      "Yoshito Sekigawa, Shoh Murakami, Yoshiaki Kimura, Hiroki Morishita, Fumihiro Isobe;"
+      "Yoshito Sekigawa"
     ],
     "converters": [
       "Nika~"
@@ -67484,6 +67492,9 @@
     "song": "Mystics of Nature",
     "converters": [
       "Surprise Pie"
+    ],
+    "composers": [
+      "Julian Surma"
     ],
     "uuid": "ec67bd45-fe87-4dc8-a56b-44221f149008",
     "hash": "dec647ac2cba5fe03e12d38d501b3712",
@@ -67730,6 +67741,9 @@
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Ashleigh Bridges"
+    ],
     "uuid": "519345c3-0e0e-4e8e-b544-eb0898c60917",
     "hash": "5e813addcf655c4fb49ea465547321a9",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -67915,15 +67929,18 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros. (DS)",
-    "song": "Fortress Theme",
+    "game": "New Super Mario Bros.",
+    "song": "Fortress",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Asuka Ohta"
     ],
     "uuid": "08ec923e-640c-486a-a51d-acfae5b13653",
     "hash": "0cda5c55a6e6a3449eb520b05319eda5",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. (DS)/Fortress Theme.mmrs",
+    "file": "New Super Mario Bros/Fortress.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67938,15 +67955,19 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros. (DS)",
-    "song": "VS Theme",
+    "game": "New Super Mario Bros.",
+    "song": "Mario Vs. Luigi - Stage BGM 1",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Asuka Ohta",
+      "Hajime Wakai"
     ],
     "uuid": "9f2564f0-a207-4c8c-bb77-28f9995d2dd2",
     "hash": "5e4525a797273d1371bb83911b53233a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. (DS)/VS Theme.mmrs",
+    "file": "New Super Mario Bros/Mario Vs. Luigi - Stage BGM 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68062,15 +68083,18 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros. (DS)",
+    "game": "New Super Mario Bros.",
     "song": "Luigi's Casino",
     "converters": [
       "BigBomba88"
     ],
+    "composers": [
+      "Kenta Nagata"
+    ],
     "uuid": "2e5f44c8-82cc-4bc3-9594-25a0790ffac3",
     "hash": "74e0d380172015b4e4c0d762e20c0c2b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. (DS)/Luigi's Casino.mmrs",
+    "file": "New Super Mario Bros/Luigi's Casino.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68178,6 +68202,9 @@
     "song": "Invader",
     "converters": [
       "Surprise Pie"
+    ],
+    "composers": [
+      "Ashleigh Bridges"
     ],
     "uuid": "e828e424-e939-498b-86d2-980f5f73d522",
     "hash": "23cb946698a2a2c0d1243c4c317e8e97",
@@ -68462,7 +68489,7 @@
     "uuid": "89c400ff-6c88-4225-a8ee-438940585e17",
     "hash": "afd847e41e8dcb9f5abda2675faafbf1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Plants vs Zombies/Grasswalk.mmrs",
+    "file": "Plants vs. Zombies/Grasswalk.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68952,10 +68979,13 @@
     "converters": [
       "BigBomba88"
     ],
+    "composers": [
+      "Laura Shigihara"
+    ],
     "uuid": "bedbced4-d356-4576-a097-8477b62961c3",
     "hash": "330ca891aacb44404a6e62404ec9ae8e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Plants VS. Zombies/Loonboon.mmrs",
+    "file": "Plants vs. Zombies/Loonboon.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70160,26 +70190,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Pikmin",
-    "song": "The Impact Site [2]",
-    "converters": [
-      ".nyxael"
-    ],
-    "uuid": "a6f9332f-8845-4d45-9d58-fecda5e1e57b",
-    "hash": "8453d5f3ef01e7b3162eec8f01070bdd",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pikmin/The Impact Site [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "6"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
     "song": "The True Mirror",
     "converters": [
@@ -70448,29 +70458,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Persona 4",
-    "song": "Junes (Joshua8600's Version)",
-    "converters": [
-      "Joshua8600"
-    ],
-    "uuid": "6786c095-17fb-4035-a000-5819e1a98e25",
-    "hash": "42aa47478ae64343bcd3e1e3a2f42f1e",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Persona 4/Junes (Joshua8600's Version).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "157",
-      "176"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Pokemon Trading Card Game (GBC)",
     "song": "World Map/Mason Lab",
     "converters": [
@@ -70521,7 +70508,7 @@
     "game": "Old School RuneScape",
     "song": "Ice and Fire",
     "composers": [
-      "Adam Bond"
+      "Ian Taylor"
     ],
     "converters": [
       "Surprise Pie"
@@ -70674,14 +70661,17 @@
   },
   {
     "game": "Paper Mario: The Origami King",
-    "song": "The Museum",
+    "song": "Museé Champignon [2]",
     "converters": [
       "Felix_Helix_TM"
+    ],
+    "composers": [
+      "Hiroki Morishita"
     ],
     "uuid": "51313557-383b-43ef-a038-26c869a51c39",
     "hash": "bb61b949c1e3f40d146eba9eb5655b9d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Paper Mario The Origami King/The Museum.mmrs",
+    "file": "Paper Mario The Origami King/Museé Champignon [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71830,30 +71820,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Omori",
-    "song": "World's End Valentine [2]",
-    "composers": [
-      "Pedro Silva"
-    ],
-    "converters": [
-      "Fish_waffle64"
-    ],
-    "uuid": "aa9a7580-3412-4e58-a805-990c1697644f",
-    "hash": "d07cc811ba4e2c6c5a397634de87b6f2",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Omori/World's End Valentine [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Touhou Double Dealing Character",
     "song": "Kobito of the Shining Needle ~ Little Princess",
     "composers": [
@@ -71935,7 +71901,7 @@
   },
   {
     "game": "Ori and the Blind Forest",
-    "song": "Ori Main Theme",
+    "song": "Main Theme",
     "composers": [
       "Gareth Coker"
     ],
@@ -71945,7 +71911,7 @@
     "uuid": "24d1149d-11c7-417e-b82c-2ea68f28f9ff",
     "hash": "70e73a5a8c23023ccc4026625ebd2aab",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Ori and the Blind Forest/Ori Main Theme.mmrs",
+    "file": "Ori and the Blind Forest/Main Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72222,15 +72188,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Plok!",
+    "game": "Plok",
     "song": "Boss",
     "converters": [
       "dnvic"
     ],
+    "composers": [
+      "Tim Follin"
+    ],
     "uuid": "197bd431-e6e7-4ad6-a72a-b4327e090191",
     "hash": "cc8a5206f88b99dfa52034a866519f50",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Plok!/Boss.mmrs",
+    "file": "Plok/Boss.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72622,19 +72591,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Old School RuneScape",
-    "song": "Inferno",
-    "converters": [
-      "Surprise Pie"
-    ],
-    "uuid": "9ecdaef1-8fa6-488a-9020-27f792066dc2",
-    "hash": "717abb6a7be2b550a518e1ee58449fa1",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Old School RuneScape/Inferno.mmrs",
-    "preview": ""
-  },
-  {
-    "game": "Ocarina of Time",
+    "game": "The Legend of Zelda: Ocarina of Time",
     "song": "Shadow Temple",
     "composers": [
       "Koji Kondo"
@@ -72645,7 +72602,7 @@
     "uuid": "a7fa1b65-573d-4f78-b1b1-8ab8922800a0",
     "hash": "1afd8701ce74432f3e869f37f139ea65",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Ocarina of Time/Shadow Temple.mmrs",
+    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73749,21 +73706,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Ocarina of Time",
-    "song": "Shadow Temple",
-    "composers": [
-      "Koji Kondo"
-    ],
-    "converters": [
-      "Owl Is Not A Cat"
-    ],
-    "uuid": "80e31bf8-fbc9-47d8-a082-c9cfa7ed7d9b",
-    "hash": "1afd8701ce74432f3e869f37f139ea65",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Ocarina of Time/Shadow Temple.mmrs",
-    "preview": ""
-  },
-  {
     "game": "Touhou 6 Embodiment of Scarlet Devil",
     "song": "U.N. Owen Was Her?",
     "converters": [
@@ -74002,8 +73944,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Okage",
-    "song": "Levins Music Box",
+    "game": "Okage: Shadow King",
+    "song": "Levin's Music Box",
     "composers": [
       "Jun-ichi Doi"
     ],
@@ -74013,7 +73955,7 @@
     "uuid": "00f70761-4cf0-4363-8e2d-4429c16f142f",
     "hash": "ed23e6ed5237e60a63c6b7b015a57f55",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Okage/Levins Music Box.mmrs",
+    "file": "Okage Shadow King/Levin's Music Box.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74126,8 +74068,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Perfect Dark (2000)",
-    "song": "Chicago - Stealth",
+    "game": "Perfect Dark",
+    "song": "Chicago - Stealth [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -74137,7 +74079,7 @@
     "uuid": "18154cd2-5b55-4805-b80a-80c23d81884a",
     "hash": "4658479765643f960de02e7b6130df28",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Perfect Dark (2000)/Chicago - Stealth.mmrs",
+    "file": "Perfect Dark/Chicago - Stealth [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74310,18 +74252,18 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros. Wii (2009)",
+    "game": "New Super Mario Bros. Wii",
     "song": "Fortress",
     "composers": [
-      "Shiho Fujii, Ryo Nagamatsu, Kenta Nagata"
+      "Shiho Fujii",
+      "Ryo Nagamatsu"
     ],
     "converters": [
       "Retroflex"
     ],
     "uuid": "67fbacde-cbde-40af-90f9-79d4ed7bb95e",
-    "hash": "ecb3405f11641800fac57ee36d584bd1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. Wii (2009)/Fortress.mmrs",
+    "file": "New Super Mario Bros. Wii/Fortress.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75024,8 +74966,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Perfect Dark (2000)",
-    "song": "G5 Building – Reconnaissance",
+    "game": "Perfect Dark",
+    "song": "G5 Building - Reconnaissance",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -75035,7 +74977,7 @@
     "uuid": "197415b7-5ac6-431f-8479-93744793167c",
     "hash": "139fb8df2dc67fa1167c64136f5915ae",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Perfect Dark (2000)/G5 Building – Reconnaissance.mmrs",
+    "file": "Perfect Dark/G5 Building - Reconnaissance.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75267,6 +75209,9 @@
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "James Rodgers"
+    ],
     "uuid": "494ae91c-d3a5-4f5c-ad8c-f3c422a6b3cc",
     "hash": "7f0ba09c64e273fa7ed955b6f019c57f",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -75352,10 +75297,11 @@
     "notes": "Instead of going sinister and showing Majora is just keeps looping."
   },
   {
-    "game": "New Super Mario Bros. (2006)",
-    "song": "Vs. Mode 2",
+    "game": "New Super Mario Bros.",
+    "song": "Mario Vs. Luigi - Stage BGM 2",
     "composers": [
-      "Asuka Ota, Hajime Wakai, Koji Kondo"
+      "Asuka Ota",
+      "Hajime Wakai"
     ],
     "converters": [
       "Retroflex"
@@ -75363,7 +75309,7 @@
     "uuid": "1a802cc1-b4aa-4812-84aa-67b0b69b70e5",
     "hash": "eae8398d2df7d58bab0f64bf5976b27a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. (2006)/Vs. Mode 2.mmrs",
+    "file": "New Super Mario Bros/Mario Vs. Luigi - Stage BGM 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75912,6 +75858,10 @@
     "converters": [
       "SyntheticSaturn"
     ],
+    "composers": [
+      "Naoko Mitome",
+      "Chika Sekigawa"
+    ],
     "uuid": "06402364-97d2-46e0-a931-5d76350700f2",
     "hash": "c446312f4f12f0e7f26408128cdeff11",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -75965,7 +75915,7 @@
     "game": "Old School RuneScape",
     "song": "Sea Shanty 2",
     "composers": [
-      "*[REDACTED]*  🚔 🚨"
+      "Ian Taylor"
     ],
     "converters": [
       "ainurmusician64"
@@ -76832,6 +76782,9 @@
     "song": "Out of Phase",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Yoko Shimomura"
     ],
     "uuid": "40cdbd33-e2c3-42c3-ae52-b59eb5463b58",
     "hash": "c876dc79b79b839e49766e96c3994b6a",
@@ -77744,8 +77697,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Perfect Dark (2000)",
-    "song": "Air Base – Espionage",
+    "game": "Perfect Dark",
+    "song": "Air Base - Espionage",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -77755,7 +77708,7 @@
     "uuid": "52c7cf0d-0623-4c2c-a8d2-1179bf3d4388",
     "hash": "b58769d528a3aed38aed1e73111b4289",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Perfect Dark (2000)/Air Base – Espionage.mmrs",
+    "file": "Perfect Dark/Air Base - Espionage.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77943,21 +77896,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false
-  },
-  {
-    "game": "New Super Mario Bros. Wii (2009)",
-    "song": "Fortress",
-    "composers": [
-      "Shiho Fujii, Ryo Nagamatsu, Kenta Nagata"
-    ],
-    "converters": [
-      "Retroflex"
-    ],
-    "uuid": "cb83b40a-257c-4d41-813a-eac65322baac",
-    "hash": "ecb3405f11641800fac57ee36d584bd1",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. Wii (2009)/Fortress.mmrs",
-    "preview": ""
   },
   {
     "game": "Zelda Phantom Hourglass",
@@ -78220,7 +78158,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Perfect Dark (2000)",
+    "game": "Perfect Dark",
     "song": "Mission Complete",
     "composers": [
       "Grant Kirkhope"
@@ -78231,7 +78169,7 @@
     "uuid": "99c84b02-2c61-44da-b2fd-42e275467655",
     "hash": "bbef1b0bf7ddb5b160b5fb6b0d1cdf3f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Perfect Dark (2000)/Mission Complete.mmrs",
+    "file": "Perfect Dark/Mission Complete.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78757,10 +78695,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Paper Mario TTYD",
+    "game": "Paper Mario: The Thousand-Year Door",
     "song": "Super Bowser Bros. - Castle",
     "composers": [
-      "Yoshito Hirano, Yuka Tsujiyoko, Ryo Nagamatsu & Yoko Shimomura"
+      "Yuka Tsujiyoko",
+      "Yoshito Hirano"
     ],
     "converters": [
       "TheRealReliable"
@@ -78768,7 +78707,7 @@
     "uuid": "d16cf1f1-1a3c-40bf-b64a-aed9001da42a",
     "hash": "7c0e1309dcf2271e811862d9b7dd613e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Paper Mario TTYD/Super Bowser Bros. - Castle.mmrs",
+    "file": "Paper Mario The Thousand-Year Door/Super Bowser Bros. - Castle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79503,7 +79442,7 @@
   },
   {
     "game": "Paper Mario",
-    "song": "Koopa Bros Theme",
+    "song": "Attack of the Koopa Bros",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -79513,7 +79452,7 @@
     "uuid": "ead65ce2-457d-4e3e-8a04-9b0fd299e48f",
     "hash": "f767da92139b863e49d190063aaa7f69",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Paper Mario/Koopa Bros Theme.mmrs",
+    "file": "Paper Mario/Attack of the Koopa Bros.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79797,7 +79736,7 @@
   },
   {
     "game": "Paper Mario",
-    "song": "Tubba Blubba Chase",
+    "song": "The Castle Crumbles",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -79807,7 +79746,7 @@
     "uuid": "a6b39944-e7e9-40fe-aaf0-42ef3e49e6f3",
     "hash": "8eaf96afb49d87d69e6d3f572bc05474",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Paper Mario/Tubba Blubba Chase.mmrs",
+    "file": "Paper Mario/The Castle Crumbles.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80606,10 +80545,11 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros. Wii (2009)",
+    "game": "New Super Mario Bros. Wii",
     "song": "Athletic",
     "composers": [
-      "Shiho Fujii, Ryo Nagamatsu, Kenta Nagata"
+      "Shiho Fujii",
+      "Ryo Nagamatsu"
     ],
     "converters": [
       "Retroflex"
@@ -80617,7 +80557,7 @@
     "uuid": "9073a866-7130-4e6a-911e-50eeec778860",
     "hash": "b73eaf8b9bd6c931ce3739c82857ab4a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. Wii (2009)/Athletic.mmrs",
+    "file": "New Super Mario Bros. Wii/Athletic.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81006,14 +80946,17 @@
   },
   {
     "game": "Pizza Tower",
-    "song": "Unearthly Blues (John Gutter)",
+    "song": "Unearthly Blues",
     "converters": [
       "3Pills"
+    ],
+    "composers": [
+      "Mr. Sauceman"
     ],
     "uuid": "454b9a2f-386f-42fc-a80e-c0a78c91e57d",
     "hash": "e331d283835b158957b545ae8a8c257e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pizza Tower/Unearthly Blues (John Gutter).mmrs",
+    "file": "Pizza Tower/Unearthly Blues.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81674,7 +81617,7 @@
       "Masanobu Tsukamoto, Akiyoshi Nagao, and Toshiaki Sakoda"
     ],
     "converters": [
-      "oobie_stew"
+      "Oobie"
     ],
     "uuid": "bcff4eba-9f76-46bb-b36e-4fccc015d917",
     "hash": "d79eecff60977cb0bac716776341d887",
@@ -81697,7 +81640,7 @@
     "song": "Shadow_the_Hedgehog_-_Sad_Ending",
     "game": "TODO",
     "converters": [
-      "oobie_stew"
+      "Oobie"
     ],
     "uuid": "0bc18c7f-1693-4f2a-b938-5fdd4f04765c",
     "hash": "ef7f286dced307be201e1c939c789f80",
@@ -81789,7 +81732,7 @@
   },
   {
     "game": "Paper Mario",
-    "song": "Dry Dry Ruins",
+    "song": "Dry Dry Ruins Quest",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -81799,7 +81742,7 @@
     "uuid": "53dbcd94-84df-474e-a48f-ef9629151840",
     "hash": "8eee532b57256108a37079f7714f6ccf",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Paper Mario/Dry Dry Ruins.mmrs",
+    "file": "Paper Mario/Dry Dry Ruins Quest.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81880,7 +81823,7 @@
   },
   {
     "game": "Paper Mario",
-    "song": "Go! Mario! Go! (Phase 2)",
+    "song": "It's Burning! Mario, Get Ready!",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -81890,7 +81833,7 @@
     "uuid": "a7fcde57-d8fe-423b-b073-066ca80cf248",
     "hash": "a72949420de8992509bd06cfe5d00433",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Paper Mario/Go! Mario! Go! (Phase 2).mmrs",
+    "file": "Paper Mario/It's Burning! Mario, Get Ready!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82196,7 +82139,10 @@
     "game": "Persona 4",
     "song": "Belongings",
     "converters": [
-      "oobie_stew"
+      "Oobie"
+    ],
+    "composers": [
+      "Shoji Meguro"
     ],
     "uuid": "bba36a79-b0db-49cf-b417-45b040de9984",
     "hash": "190ff03457285d097a59996c5c4e8851",
@@ -82547,7 +82493,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Paper Mario Color Splash",
+    "game": "Paper Mario: Color Splash",
     "song": "World Map Medley",
     "composers": [
       "Takeru Kanazaki"
@@ -83356,18 +83302,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon The Movie 2000 The Power of One",
+    "game": "Pokémon 2000",
     "song": "The Chosen One",
     "composers": [
       "Ralph Schuckett"
     ],
     "converters": [
-      "Myself"
+      "DetectiveSky612"
     ],
     "uuid": "019b879e-0d1c-4d48-b198-b25333b329ec",
     "hash": "84069fb5bf8c72674d0963ee411dcafe",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon The Movie 2000 The Power of One/The Chosen One.mmrs",
+    "file": "Pokémon 2000/The Chosen One.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83404,18 +83350,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon The Movie 2000 The Power of One",
+    "game": "Pokémon 2000",
     "song": "Melody of End",
     "composers": [
       "Ralph Schuckett"
     ],
     "converters": [
-      "Myself"
+      "DetectiveSky612"
     ],
     "uuid": "602319c7-eedf-46f6-b998-0a8d5bb59e93",
     "hash": "08ebc23da970b3b3bd3b13383f72fe28",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon The Movie 2000 The Power of One/Melody of End.mmrs",
+    "file": "Pokémon 2000/Melody of End.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83428,18 +83374,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon The Movie 2000 The Power of One",
+    "game": "Pokémon 2000",
     "song": "To The Rescue",
     "composers": [
       "Ralph Schuckett"
     ],
     "converters": [
-      "Myself"
+      "DetectiveSky612"
     ],
     "uuid": "96dcfe14-b302-42d4-9e4c-a23a6b73e531",
     "hash": "45bbba52fe8757a6f5531d2be1a61c5c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon The Movie 2000 The Power of One/To The Rescue.mmrs",
+    "file": "Pokémon 2000/To The Rescue.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83521,18 +83467,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon The Movie 2000 The Power of One",
-    "song": "The Beast of the Sea",
+    "game": "Pokémon 2000",
+    "song": "Beast of the Sea",
     "composers": [
       "Ralph Schuckett"
     ],
     "converters": [
-      "Myself"
+      "DetectiveSky612"
     ],
     "uuid": "41372af7-cee8-4322-ba80-411d685f6d23",
     "hash": "f44bcf99112a871cce92ba40372271af",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon The Movie 2000 The Power of One/The Beast of the Sea.mmrs",
+    "file": "Pokémon 2000/Beast of the Sea.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83966,9 +83912,10 @@
   },
   {
     "game": "New Super Mario Bros. Wii",
-    "song": "World 7 - Cloud World",
+    "song": "World 7",
     "composers": [
-      "Shiho Fujii, Ryo Nagamatsu, Kenta Nagata"
+      "Shiho Fujii",
+      "Ryo Nagamatsu"
     ],
     "converters": [
       "BigBomba88"
@@ -83976,7 +83923,7 @@
     "uuid": "165246d4-507c-4424-b248-dc88106d89df",
     "hash": "b4c42a172a7068853e509aab3a230cf4",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. Wii/World 7 - Cloud World.mmrs",
+    "file": "New Super Mario Bros. Wii/World 7.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84020,10 +83967,10 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros DS",
-    "song": "Desert Theme",
+    "game": "New Super Mario Bros.",
+    "song": "Desert",
     "composers": [
-      "Asuka Ohta, Hajime Wakai, Koji Kondo"
+      "Asuka Ohta"
     ],
     "converters": [
       "BigBomba88"
@@ -84031,7 +83978,7 @@
     "uuid": "a7be7683-db05-4bb9-a116-2dc9f0ab6ea4",
     "hash": "920a0633e7520a0d3da02f58e5c6b985",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. DS/Desert Theme.mmrs",
+    "file": "New Super Mario Bros/Desert.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84136,10 +84083,10 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros DS",
-    "song": "Sort or 'Splode / Bob-Omb Squad",
+    "game": "New Super Mario Bros.",
+    "song": "Sort or 'Splode",
     "composers": [
-      "Asuka Ohta, Hajime Wakai, Koji Kondo"
+      "Kenta Nagata"
     ],
     "converters": [
       "BigBomba88"
@@ -84147,7 +84094,7 @@
     "uuid": "d9e38ba5-a797-458e-8a9a-0a39693c1c7a",
     "hash": "fe66263469a64af314eda8f1162f8533",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros. DS/Sort or 'Splode  Bob-Omb Squad.mmrs",
+    "file": "New Super Mario Bros/Sort or 'Splode.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84212,7 +84159,8 @@
     "game": "New Super Mario Bros. Wii",
     "song": "Beach",
     "composers": [
-      "Shiho Fujii"
+      "Shiho Fujii",
+      "Ryo Nagamatsu"
     ],
     "converters": [
       "TheRealReliable"
@@ -85013,18 +84961,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon 2000",
-    "song": "Lugia's Song Battle Remix",
+    "game": "Pokémon 2000",
+    "song": "Lugia's Song (Battle Remix)",
     "composers": [
-      "Ralph Schuckett, with arrangement by Sound of a Shadow"
+      "Ralph Schuckett",
+      "Sound Of A Shadow"
     ],
     "converters": [
-      "Me!"
+      "DetectiveSky612"
     ],
     "uuid": "25fa2893-7521-4022-878f-7f16331c7775",
     "hash": "9a5fbbf8f717ecc4e892a517fd222c6a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon 2000/Lugia's Song Battle Remix.mmrs",
+    "file": "Pokémon 2000/Lugia's Song (Battle Remix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85586,8 +85535,8 @@
     "usesFormmask": false
   },
   {
-    "game": "PlayStation 1 BIOS",
-    "song": "Startup noise",
+    "game": "PlayStation",
+    "song": "Startup",
     "composers": [
       "Takafumi Fujisawa"
     ],
@@ -85597,7 +85546,7 @@
     "uuid": "a407ba7e-6bcf-42c0-a23e-d4be90b26603",
     "hash": "f5d8a2de5bac311c9c2d3bc4dd16244f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "PlayStation 1 BIOS/Startup noise.mmrs",
+    "file": "PlayStation/Startup.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -85639,14 +85588,17 @@
   },
   {
     "game": "Pizza Tower",
-    "song": "Yeehaw Delivery Boy",
+    "song": "Yeehaw DeliveryBoy [2]",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "ClascyJitto"
     ],
     "uuid": "4234fdb7-70be-4479-b5ca-a0b6625263ad",
     "hash": "e3f47bc102559328b627f9bffa32f78e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pizza Tower/Yeehaw Delivery Boy.mmrs",
+    "file": "Pizza Tower/Yeehaw DeliveryBoy [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86715,8 +86667,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Nintendo Gamecube BIOS",
-    "song": "Startup noise",
+    "game": "Nintendo GameCube",
+    "song": "Startup [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -86726,7 +86678,7 @@
     "uuid": "b7bb51bd-dde5-4e52-b17f-9ab324fde975",
     "hash": "f97d5c523f513f7198080e9067254e2b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Nintendo Gamecube BIOS/Startup noise.mmrs",
+    "file": "Nintendo GameCube/Startup [2].mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86885,10 +86837,11 @@
     "usesFormmask": false
   },
   {
-    "game": "New Super Mario Bros DS",
-    "song": "World 1-1",
+    "game": "New Super Mario Bros.",
+    "song": "Athletic",
     "composers": [
-      "Koji Kondo"
+      "Asuka Ohta",
+      "Hajime Wakai"
     ],
     "converters": [
       "TheRealReliable"
@@ -86896,7 +86849,7 @@
     "uuid": "72ed8997-ceee-46cb-983a-d09134414c25",
     "hash": "e889fbe5cb69035ba9cbd43f3598a2fe",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "New Super Mario Bros DS/World 1-1.mmrs",
+    "file": "New Super Mario Bros/Athletic.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87772,45 +87725,6 @@
     "file": "Mario & Luigi Partners in Time/Crisis of the Red and Green!.mmrs",
     "preview": "",
     "hash": "f1b0a52597d4120c192adbbb7f33894a"
-  },
-  {
-    "uuid": "a15b5b26-585a-450c-bc4a-70fc8f3fff76",
-    "creationDate": "2026-07-28T04:03:28.639Z",
-    "game": "New Super Mario Bros. Wii (2009)",
-    "song": "Fortress [2]",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "3",
-      "5",
-      "6",
-      "16"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "New Super Mario Bros. Wii (2009)/Fortress [2].mmrs",
-    "preview": "",
-    "hash": "7d4eb3410e89e8ac9b44142925ea1104"
-  },
-  {
-    "uuid": "1a73b12e-2086-40c6-bcf0-afaee00f5c43",
-    "creationDate": "2026-07-28T04:03:29.042Z",
-    "game": "Old School RuneScape",
-    "song": "Inferno [2]",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "4",
-      "5",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Old School RuneScape/Inferno [2].mmrs",
-    "preview": "",
-    "hash": "afeef5c33673e0f1ea9ddba292650357"
   },
   {
     "uuid": "de835418-0884-4f02-95bb-3cd39b262f64",
