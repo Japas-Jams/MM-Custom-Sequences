@@ -4689,31 +4689,10 @@
     "short_name": "PS1"
   },
   {
-    "game": "Pokemon Black & White"
-  },
-  {
-    "game": "Pokemon Black 2 & White 2"
-  },
-  {
-    "game": "Pokemon Black 2 and White 2"
-  },
-  {
-    "game": "Pokemon BlackWhite"
-  },
-  {
-    "game": "Pokemon Diamond & Pearl"
-  },
-  {
-    "game": "Pokemon Diamond and Pearl"
-  },
-  {
-    "game": "Pokemon DiamondPearlPlatinum"
-  },
-  {
-    "game": "Pokemon Emerald"
-  },
-  {
-    "game": "Pokemon FireRed and LeafGreen"
+    "game": "Pokémon FireRed & LeafGreen",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/27d46017e2bfacef1fb6a88ab6ea11af.png",
+    "short_name": "Pokémon FRLG"
   },
   {
     "game": "Pokemon HeartgoldSoulsilver"
@@ -4723,9 +4702,6 @@
   },
   {
     "game": "Pokemon Omega Ruby  Alpha Sapphire (Fanmade)"
-  },
-  {
-    "game": "Pokemon Platinum"
   },
   {
     "game": "Pokemon Ruby and Sapphire"

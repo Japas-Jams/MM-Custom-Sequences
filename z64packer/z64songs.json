@@ -4722,7 +4722,7 @@
     "game": "Pokémon Black & White",
     "song": "Driftveil City",
     "composers": [
-      "Junichi Masuda"
+      "Hitomi Sato"
     ],
     "converters": [
       "Fish"
@@ -4745,7 +4745,7 @@
     "uuid": "db3a776b-e206-4f44-92ad-4792e67b7bd7",
     "creationDate": "2026-03-13T03:04:38.944Z",
     "game": "Pokémon Black & White",
-    "song": "Ghetsis Battle",
+    "song": "Battle! Ghetsis",
     "composers": [
       "Junichi Masuda"
     ],
@@ -4759,7 +4759,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Black & White/Ghetsis Battle.mmrs",
+    "file": "Pokémon Black & White/Battle! Ghetsis.mmrs",
     "preview": "https://www.youtube.com/watch?v=LRip6_8-kow",
     "lufs": "-15.41",
     "hash": "a05b0c5a65725935cf48ef344201f541"
@@ -4768,7 +4768,7 @@
     "uuid": "33a4ac67-b178-4453-bbba-038038222f35",
     "creationDate": "2026-03-13T03:05:22.983Z",
     "game": "Pokémon Black 2 & White 2",
-    "song": "Ghetsis Battle",
+    "song": "Battle! Ghetsis",
     "composers": [
       "Junichi Masuda"
     ],
@@ -4782,7 +4782,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Black 2 & White 2/Ghetsis Battle.mmrs",
+    "file": "Pokémon Black 2 & White 2/Battle! Ghetsis.mmrs",
     "preview": "https://www.youtube.com/watch?v=LUgyl7-TqL0",
     "lufs": "-15.69",
     "hash": "a8e04577866c39ef584900e09db14d0f"
@@ -9679,10 +9679,8 @@
     "game": "Pokémon Diamond, Pearl & Platinum",
     "song": "Lake Theme",
     "composers": [
-      "Go Ichinose",
-      "Junichi Masuda",
       "Hitomi Sato",
-      "Morikazu Aoki"
+      "Junichi Masuda"
     ],
     "converters": [
       "Darkychao"
@@ -21972,7 +21970,7 @@
     "uuid": "8c017b8d-74e5-4919-b02b-b98934dc23bd",
     "creationDate": "2026-03-25T03:16:25.084Z",
     "game": "Pokémon Black 2 & White 2",
-    "song": "Champion Iris",
+    "song": "Battle! Champion Iris",
     "composers": [
       "Junichi Masuda"
     ],
@@ -21988,8 +21986,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Black 2 & White 2/Champion Iris.mmrs",
-    "preview": "Pokémon Black 2 & White 2/Champion Iris.mp3",
+    "file": "Pokémon Black 2 & White 2/Battle! Champion Iris.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Battle! Champion Iris.mp3",
     "lufs": "-14.11",
     "hash": "9782823552fe12292b601d40af4af118"
   },
@@ -23399,11 +23397,7 @@
     "game": "Pokémon Black & White",
     "song": "Critical Health",
     "composers": [
-      "Shota Kageyama",
-      "Go Ichinose",
-      "Hitomi Sato",
-      "Junichi Masuda",
-      "Minako Adachi"
+      "Go Ichinose"
     ],
     "converters": [
       "Forest Siren"
@@ -70096,15 +70090,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon BlackWhite",
-    "song": "Undella Town (Winter/Autumn/Spring)",
+    "game": "Pokémon Black & White",
+    "song": "Undella Town",
     "converters": [
       "Nika~"
+    ],
+    "composers": [
+      "Hitomi Sato"
     ],
     "uuid": "0b990dd3-ee31-46bc-8d8d-3505207504a5",
     "hash": "2fa7f41a77d1089b4aff1720938642f0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon BlackWhite/Undella Town (WinterAutumnSpring).mmrs",
+    "file": "Pokémon Black & White/Undella Town.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70115,7 +70112,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This is the base theme, the one that plays on autumn, winter and spring."
   },
   {
     "game": "pop'n music 11 CS",
@@ -70776,15 +70774,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon BlackWhite",
-    "song": "Elite Four Battle",
+    "game": "Pokémon Black & White",
+    "song": "Battle! Elite Four",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
     ],
     "uuid": "2e475915-38ca-40ae-bc4a-4e5ec0a0ce40",
     "hash": "9cffa1642425944aa8a2c0fe8b64a12f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon BlackWhite/Elite Four Battle.mmrs",
+    "file": "Pokémon Black & White/Battle! Elite Four.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72090,15 +72092,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon FireRed and LeafGreen",
+    "game": "Pokémon FireRed & LeafGreen",
     "song": "Mt. Moon",
     "converters": [
       "vitaltoast"
     ],
+    "composers": [
+      "Junichi Masuda"
+    ],
     "uuid": "3a3a0da3-f104-42d7-8f78-db1f55c09552",
     "hash": "e845adbb66832d2f0d07fb49ca1143b1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon FireRed and LeafGreen/Mt. Moon.mmrs",
+    "file": "Pokémon FireRed & LeafGreen/Mt. Moon.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72358,15 +72363,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Emerald",
-    "song": "Frontier Brain Battle",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Battle! Frontier Brain",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Go Ichinose"
     ],
     "uuid": "770984ab-850b-426e-88b2-ae8e325f996c",
     "hash": "446fc5deca60dc363454f9b79a518d1b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Emerald/Frontier Brain Battle.mmrs",
+    "file": "Pokémon Ruby, Sapphire & Emerald/Battle! Frontier Brain.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75505,7 +75513,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Diamond and Pearl",
+    "game": "Pokémon Diamond, Pearl & Platinum",
     "song": "Snowpoint City (Night)",
     "composers": [
       "Hitomi Sato"
@@ -75516,7 +75524,7 @@
     "uuid": "bea6418d-d0f4-4bf5-a4ab-054f9e3194b1",
     "hash": "6e101363341c42c0d776548021fc4bc6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Diamond and Pearl/Snowpoint City (Night).mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Snowpoint City (Night).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76534,15 +76542,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
-    "song": "N Battle",
+    "game": "Pokémon Black & White",
+    "song": "Battle! N",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Junichi Masuda"
     ],
     "uuid": "99bc45bc-b249-4fce-828c-ba852e558207",
     "hash": "254cf35021c39f7e6f2fdf2d263dbf66",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/N Battle.mmrs",
+    "file": "Pokémon Black & White/Battle! N.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76620,15 +76631,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Platinum",
+    "game": "Pokémon Diamond, Pearl & Platinum",
     "song": "Distortion World",
     "converters": [
       "syntheticsaturn"
     ],
+    "composers": [
+      "Hitomi Sato"
+    ],
     "uuid": "ebf393b9-761d-442e-8de1-e51c2d9bee52",
     "hash": "0fc0398de060a18e07586b0bae4a5407",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Platinum/Distortion World.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Distortion World.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77556,15 +77570,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black 2 & White 2",
+    "game": "Pokémon Black 2 & White 2",
     "song": "Battle! Colress",
     "converters": [
       "syntheticsaturn"
     ],
+    "composers": [
+      "Hitomi Sato"
+    ],
     "uuid": "f08d0ce8-80a1-4d15-bc71-b81e5a295820",
     "hash": "a2e86136232a96ba83068bcd0df7a639",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black 2 & White 2/Battle! Colress.mmrs",
+    "file": "Pokémon Black 2 & White 2/Battle! Colress.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77625,15 +77642,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
-    "song": "Dragonspiral Tower",
+    "game": "Pokémon Black & White",
+    "song": "Dragonspiral Tower [2]",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Shota Kageyama"
     ],
     "uuid": "b5e98b97-7fec-4db3-9bf5-9f5ff24dcaf6",
     "hash": "3732bd27e1b83cc8600b504e1bdbcde0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Dragonspiral Tower.mmrs",
+    "file": "Pokémon Black & White/Dragonspiral Tower [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77725,15 +77745,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Diamond & Pearl",
-    "song": "Lake (Zora)",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Lake Theme (Zora Mix)",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Hitomi Sato",
+      "Junichi Masuda"
     ],
     "uuid": "123feeb7-483a-40ed-925c-0708b6e1cd4d",
     "hash": "8f4eecb6626ed88f2b19ac3b9e601799",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Diamond & Pearl/Lake (Zora).mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Lake Theme (Zora Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77746,15 +77770,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Diamond & Pearl",
+    "game": "Pokémon Diamond, Pearl & Platinum",
     "song": "TV Station",
     "converters": [
       "syntheticsaturn"
     ],
+    "composers": [
+      "Go Ichinose"
+    ],
     "uuid": "22f98a3c-8b28-4316-b6db-beb067e649e0",
     "hash": "f464b7a2cbfa71ec1a93cbb48db22de0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Diamond & Pearl/TV Station.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/TV Station.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78238,8 +78265,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Wifi Lobby",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Nintendo Wi-Fi Connection [2]",
     "composers": [
       "Go Ichinose"
     ],
@@ -78249,7 +78276,7 @@
     "uuid": "d3448311-6802-43ec-a0a1-e717b8d1ec69",
     "hash": "4f8e65cae00a75951d9c1501df4b4e0f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Wifi Lobby.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Nintendo Wi-Fi Connection [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78260,7 +78287,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
+    "game": "Pokémon Diamond, Pearl & Platinum",
     "song": "Amity Square",
     "composers": [
       "Go Ichinose"
@@ -78271,7 +78298,7 @@
     "uuid": "7eff766c-f5ad-412e-963e-cdfa4e480bb9",
     "hash": "0d099692b0ccb70ddcb2cd461473d0cb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Amity Square.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Amity Square.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78283,10 +78310,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
-    "song": "Route 2 / 3 (Autumn)",
+    "game": "Pokémon Black & White",
+    "song": "Route 2 (Autumn)",
     "composers": [
-      "Go Ichinose"
+      "Hitomi Sato"
     ],
     "converters": [
       "TheRealReliable"
@@ -78294,7 +78321,7 @@
     "uuid": "e36565d1-e4f1-42b5-98cd-9b53d105e3fc",
     "hash": "104790b6fedde4d35bc3e3f41c484efe",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Route 2  3 (Autumn).mmrs",
+    "file": "Pokémon Black & White/Route 2 (Autumn).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78306,10 +78333,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
-    "song": "Driftveil City",
+    "game": "Pokémon Black & White",
+    "song": "Driftveil City [2]",
     "composers": [
-      "Go Ichinose"
+      "Hitomi Sato"
     ],
     "converters": [
       "TheRealReliable"
@@ -78317,7 +78344,7 @@
     "uuid": "68c9c677-6abc-47ce-b526-004eae48ba61",
     "hash": "0814e0940c0335a70431f12a3288f0fd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Driftveil City.mmrs",
+    "file": "Pokémon Black & White/Driftveil City [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78329,10 +78356,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Poffin Cooking",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Poffins",
     "composers": [
-      "Go Ichinose"
+      "Hitomi Sato"
     ],
     "converters": [
       "TheRealReliable"
@@ -78340,7 +78367,7 @@
     "uuid": "4a7ab60f-27bb-423e-9206-5b93dad6c085",
     "hash": "ff9298eb5bb75f3aa67ac90374620054",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Poffin Cooking.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Poffins.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78924,8 +78951,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
-    "song": "Critical Health",
+    "game": "Pokémon Black & White",
+    "song": "Critical Health [2]",
     "composers": [
       "Go Ichinose"
     ],
@@ -78935,7 +78962,7 @@
     "uuid": "d8b1f7e1-179b-42b7-86e0-47e9da2cc1ef",
     "hash": "2422c8bac48bb84548120a0135cf4335",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Critical Health.mmrs",
+    "file": "Pokémon Black & White/Critical Health [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79418,10 +79445,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Platinum",
-    "song": "Wifi Plaza Parade",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Wi-Fi Plaza: Parade",
     "composers": [
-      "Jun'ichi Masuda"
+      "Hitomi Sato"
     ],
     "converters": [
       "TheRealReliable"
@@ -79429,7 +79456,7 @@
     "uuid": "b91774d0-abd4-4545-843e-87928e21d298",
     "hash": "9298836988adbb5070d1fbc3be0e9c0b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Platinum/Wifi Plaza Parade.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Wi-Fi Plaza Parade.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79511,8 +79538,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
-    "song": "Join Avenue",
+    "game": "Pokémon Black & White",
+    "song": "Join Avenue [2]",
     "composers": [
       "Go Ichinose"
     ],
@@ -79522,7 +79549,7 @@
     "uuid": "16326aca-dbd7-4a30-8878-8e7f3852bb63",
     "hash": "a1f1ccb63ae803a8fcb8fc964871f168",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Join Avenue.mmrs",
+    "file": "Pokémon Black & White/Join Avenue [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79664,8 +79691,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Taking an Underground Flag",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Captured a Flag!",
     "composers": [
       "Go Ichinose"
     ],
@@ -79675,7 +79702,7 @@
     "uuid": "84b6fbae-6816-4364-b4b1-324299a925ec",
     "hash": "35ee73ce8343b193b396b921b3ca02df",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Taking an Underground Flag.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Captured a Flag!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79713,8 +79740,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Sinnoh Underground",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "The Underground",
     "composers": [
       "Go Ichinose"
     ],
@@ -79724,7 +79751,7 @@
     "uuid": "050b82f7-50ae-485c-a176-c502290c309f",
     "hash": "750159eb4e6597599997bef3ce30dac3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Sinnoh Underground.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/The Underground.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79966,10 +79993,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
+    "game": "Pokémon Diamond, Pearl & Platinum",
     "song": "Route 201 (Night)",
     "composers": [
-      "Go Ichinose"
+      "Hitomi Sato"
     ],
     "converters": [
       "TheRealReliable"
@@ -79977,7 +80004,7 @@
     "uuid": "0e7a3a41-e82b-47a3-a6aa-fcebf797bcdb",
     "hash": "a66574adaaaff6fa25f5f31bc46ae310",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Route 201 (Night).mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Route 201 (Night).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79987,21 +80014,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false
-  },
-  {
-    "game": "Pokemon Diamond/Pearl/Platinum",
-    "song": "Amity Square",
-    "composers": [
-      "Go Ichinose"
-    ],
-    "converters": [
-      "TheRealReliable"
-    ],
-    "uuid": "b6297623-4b19-432e-b524-026171803a2c",
-    "hash": "0d099692b0ccb70ddcb2cd461473d0cb",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Amity Square.mmrs",
-    "preview": ""
   },
   {
     "game": "Donkey Kong Jungle Beat",
@@ -80084,8 +80096,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon HeartgoldSoulsilver",
-    "song": "Kanto Trainer Battle",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Battle! Trainer (Kanto)",
     "composers": [
       "Go Ichinose"
     ],
@@ -80095,7 +80107,7 @@
     "uuid": "b4f825f1-fc01-4ed5-8c03-555ea150261e",
     "hash": "cc97e1fefbb077b9ef4bbb6d630440e3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon HeartgoldSoulsilver/Kanto Trainer Battle.mmrs",
+    "file": "Pokémon HeartGold & SoulSilver/Battle! Trainer (Kanto).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80182,10 +80194,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Rival Battle",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Rival",
     "composers": [
-      "Go Ichinose"
+      "Junichi Masuda"
     ],
     "converters": [
       "TheRealReliable"
@@ -80193,7 +80205,7 @@
     "uuid": "0bf502e2-0325-4afd-b01d-2b9808a9c12d",
     "hash": "68634ee60e75bdc79361f275da5c9ca0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Rival Battle.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Rival.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80971,7 +80983,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black & White",
+    "game": "Pokémon Black & White",
     "song": "Anville Town",
     "composers": [
       "Go Ichinose"
@@ -80982,7 +80994,7 @@
     "uuid": "864cebbd-5e5b-4c55-8114-6cfad1e623a1",
     "hash": "5184bc2efda7a70d503936011a6411da",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Anville Town.mmrs",
+    "file": "Pokémon Black & White/Anville Town.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82997,8 +83009,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Great Marsh (Safari Zone)",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Great Marsh",
     "composers": [
       "Hitomi Sato"
     ],
@@ -83008,7 +83020,7 @@
     "uuid": "a7e7c00d-c0ae-44dd-9359-599dde455ffa",
     "hash": "d1f55b76bd2042766d2f228078af8f69",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Great Marsh (Safari Zone).mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Great Marsh.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83025,8 +83037,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Floaroma Town (Day)",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Floaroma Town",
     "composers": [
       "Hitomi Sato"
     ],
@@ -83036,7 +83048,7 @@
     "uuid": "69e3a019-6dd2-4348-b07e-9e660206584f",
     "hash": "8a9f9fa4a29b07f665de9d12d2ac60cf",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Floaroma Town (Day).mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Floaroma Town.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85697,8 +85709,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Arceus Battle",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Arceus",
     "composers": [
       "Hitomi Sato"
     ],
@@ -85708,7 +85720,7 @@
     "uuid": "c4b70733-d043-46e2-8b05-6114a472f9ea",
     "hash": "dced28019293eace4767f20bd7466c51",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Arceus Battle.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Arceus.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85816,10 +85828,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Champion Cynthia Battle",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Champion Cynthia [2]",
     "composers": [
-      "Junichi Masuda, Go Ichinose, Hitomi Sato, Morikazu Aoki"
+      "Junichi Masuda"
     ],
     "converters": [
       "BigBomba88"
@@ -85827,7 +85839,7 @@
     "uuid": "33e1ba34-c400-4aac-b8fb-f7b00a534c2a",
     "hash": "bc4ef9e16459bda576d98c959dfbd1bb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Champion Cynthia Battle.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Champion Cynthia [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85840,15 +85852,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Black 2 and White 2",
-    "song": "Elesa Gym",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Elesa's Gym",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Go Ichinose",
+      "Hitomi Sato"
     ],
     "uuid": "7044d0d7-72d5-4afe-b79d-0617b0c78cd8",
     "hash": "c2634b4686f83487f32063fc9ee99fda",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black 2 and White 2/Elesa Gym.mmrs",
+    "file": "Pokémon Black 2 & White 2/Elesa's Gym.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85938,21 +85954,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false
-  },
-  {
-    "game": "Pokemon Black & White",
-    "song": "Join Avenue",
-    "composers": [
-      "Go Ichinose"
-    ],
-    "converters": [
-      "TheRealReliable"
-    ],
-    "uuid": "55d3f21a-0d4e-4a7a-8f2b-afc3a157a434",
-    "hash": "a1f1ccb63ae803a8fcb8fc964871f168",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Black & White/Join Avenue.mmrs",
-    "preview": ""
   },
   {
     "game": "Animal Crossing",
@@ -86579,15 +86580,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Black  White",
-    "song": "Driftveil City (AKA. Dancing Toothless song)",
+    "game": "Pokémon Black & White",
+    "song": "Driftveil City [3]",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Hitomi Sato"
     ],
     "uuid": "3761d271-5301-4b9c-8253-139a231a7c7d",
     "hash": "3693fec5af66c6bf332f0eaa5a40b529",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Black  White/Driftveil City (AKA. Dancing Toothless song).mmrs",
+    "file": "Pokémon Black & White/Driftveil City [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87084,10 +87088,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Contest: Dress Up",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Contest (Dress Up)",
     "composers": [
-      "Gō Ichinose"
+      "Hitomi Sato",
+      "Junichi Masuda"
     ],
     "converters": [
       "TheRealReliable"
@@ -87095,7 +87100,7 @@
     "uuid": "c348f6ed-bfcf-4bb6-bd31-2eb47a451486",
     "hash": "4356dc90ca2375786e4464bd8425259b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon DiamondPearlPlatinum/Contest Dress Up.mmrs",
+    "file": "Pokémon Diamond, Pearl & Platinum/Contest (Dress Up).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87117,10 +87122,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon HeartgoldSoulsilver",
+    "game": "Pokémon HeartGold & SoulSilver",
     "song": "Goldenrod City",
     "composers": [
-      "Jun'ichi Masuda"
+      "Junichi Masuda",
+      "Shota Kageyama"
     ],
     "converters": [
       "TheRealReliable"
@@ -87128,7 +87134,7 @@
     "uuid": "a5f2e264-2ba9-4a4f-9ac4-c1a326b305c7",
     "hash": "cfe06c2ab459edd1af5652045252c5fb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon HeartgoldSoulsilver/Goldenrod City.mmrs",
+    "file": "Pokémon HeartGold & SoulSilver/Goldenrod City.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87729,8 +87735,14 @@
   {
     "uuid": "de835418-0884-4f02-95bb-3cd39b262f64",
     "creationDate": "2026-07-28T04:03:29.886Z",
-    "game": "Pokemon Black & White",
-    "song": "Join Avenue [2]",
+    "game": "Pokémon Black & White",
+    "song": "Join Avenue",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "TheRealReliable"
+    ],
     "type": "bgm",
     "categories": [
       "0",
@@ -87739,26 +87751,9 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokemon Black & White/Join Avenue [2].mmrs",
+    "file": "Pokémon Black & White/Join Avenue.mmrs",
     "preview": "",
     "hash": "8e3222a1382e17ddb3654ef92dde9e40"
-  },
-  {
-    "uuid": "7785acc5-b2fa-4283-82b0-d531c5548d6b",
-    "creationDate": "2026-07-28T04:03:30.027Z",
-    "game": "Pokemon DiamondPearlPlatinum",
-    "song": "Amity Square [2]",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Pokemon DiamondPearlPlatinum/Amity Square [2].mmrs",
-    "preview": "",
-    "hash": "db22254a2d53d386bacddebcbe27f774"
   },
   {
     "uuid": "03baee9e-84f9-4602-9d28-a79127958d90",
