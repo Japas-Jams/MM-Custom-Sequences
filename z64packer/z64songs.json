@@ -5574,7 +5574,7 @@
     "uuid": "004e2094-4ef7-4c39-9ca8-479c5c414afe",
     "creationDate": "2026-03-13T04:22:46.458Z",
     "game": "Pokémon XD: Gale of Darkness",
-    "song": "Miror B. Theme (Variant A)",
+    "song": "Miror B. Theme",
     "composers": [
       "Tsukasa Tawada"
     ],
@@ -5590,7 +5590,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon XD Gale of Darkness/Miror B. Theme (Variant A).mmrs",
+    "file": "Pokémon XD Gale of Darkness/Miror B. Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=--XddepDGfs",
     "lufs": "-15.03",
     "hash": "d649b76201a36abab0598a2cbe1c1a7d"
@@ -9402,13 +9402,9 @@
     "uuid": "480444cb-9ac9-4a15-899e-f3ae9b60e4c8",
     "creationDate": "2026-03-16T00:17:50.137Z",
     "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
-    "song": "Skypeak Final Pass",
+    "song": "Sky Peak Final Pass",
     "composers": [
-      "Arata Iiyoshi",
-      "Hideki Sakamoto",
-      "Keisuke Ito",
-      "Ryoma Nakamura",
-      "Kenichi Saito"
+      "Arata Iiyoshi"
     ],
     "converters": [
       "Darkychao"
@@ -9421,7 +9417,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Skypeak Final Pass.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Sky Peak Final Pass.mmrs",
     "preview": "https://www.youtube.com/watch?v=3qBLEfCkfW8",
     "lufs": "-21.42",
     "hash": "4c690464bfddf286529e885eb5fee521"
@@ -22258,7 +22254,7 @@
     "uuid": "d503c975-e8ef-4098-b415-6fed623c5514",
     "creationDate": "2026-03-25T03:35:24.852Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "Goldenrod City",
+    "song": "Goldenrod City (8bit Version)",
     "composers": [
       "Junichi Masuda"
     ],
@@ -22274,8 +22270,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/Goldenrod City.mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/Goldenrod City.mp3",
+    "file": "Pokémon Gold, Silver & Crystal/Goldenrod City (8bit Version).mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Goldenrod City (8bit Version).mp3",
     "lufs": "-18.03",
     "hash": "1e3caa3c49daded5401e3948b1d9e097"
   },
@@ -44835,7 +44831,7 @@
       "Eric André?"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -44859,7 +44855,7 @@
       "Andrew Benon"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -44887,7 +44883,7 @@
       "Grant Kirkhope"
     ],
     "converters": [
-      "Ainurmusician64",
+      "ainurmusician64",
       "Asra"
     ],
     "type": "bgm",
@@ -44917,7 +44913,7 @@
       "Takashi Nagasako"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -44940,7 +44936,7 @@
       "Takashi Nagasako"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -44964,7 +44960,7 @@
       "Yu-Peng Chen"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -44991,7 +44987,7 @@
       "Arata liyoshi"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45016,7 +45012,7 @@
       "The Eagle Group"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45041,7 +45037,7 @@
       "Jeff Tymoschuk"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45066,7 +45062,7 @@
       "Johann Sebastian Bach"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45090,7 +45086,7 @@
       "Johann Sebastian Bach"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "notes": "🧛",
     "type": "fanfare",
@@ -45115,7 +45111,7 @@
       "Nate Bihldorff"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45139,7 +45135,7 @@
       "Nate Bihldorff"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45163,7 +45159,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45187,7 +45183,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45211,7 +45207,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45234,7 +45230,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45257,7 +45253,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45281,7 +45277,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45306,7 +45302,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45329,7 +45325,7 @@
       "Hajime Wakai"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45353,7 +45349,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45379,7 +45375,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45406,7 +45402,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45430,7 +45426,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45456,7 +45452,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45483,7 +45479,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45508,7 +45504,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45535,7 +45531,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45559,7 +45555,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45583,7 +45579,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45606,7 +45602,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45634,7 +45630,7 @@
       "Takashi Nagasako"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45658,7 +45654,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "fanfare",
     "categories": [
@@ -45711,7 +45707,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45738,7 +45734,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45761,7 +45757,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -45786,7 +45782,7 @@
       "Nobuo Uematsu"
     ],
     "converters": [
-      "Ainurmusician64"
+      "ainurmusician64"
     ],
     "type": "bgm",
     "categories": [
@@ -65543,6 +65539,12 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
+    "composers": [
+      "Arata liyoshi"
+    ],
+    "converters": [
+      "ainurmusician64"
+    ],
     "uuid": "dac1b50f-731e-4e51-8185-cdf25844f838",
     "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.ogg",
@@ -70456,15 +70458,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Trading Card Game (GBC)",
-    "song": "World Map/Mason Lab",
+    "game": "Pokémon Trading Card Game",
+    "song": "World Map",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Ichiro Shimakura"
     ],
     "uuid": "697dd6b9-4d8e-4efc-8370-a0fec362256a",
     "hash": "48bee294bff35f3713867430f4a45576",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Trading Card Game (GBC)/World MapMason Lab.mmrs",
+    "file": "Pokémon Trading Card Game/World Map.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71245,35 +71250,15 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Ruby Destiny life of Guardians",
-    "song": "Rainleaf Town",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "53025c9e-61d7-4abe-b43d-98d1ebe4607a",
-    "hash": "2e62b1dd70450cb15bf6317c8be2654a",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Ruby Destiny life of Guardians/Rainleaf Town.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Pokémon Ruby Destiny life of Guardians",
-    "song": "It's an unused Music track in the files.",
+    "game": "Pokémon Ruby Destiny: Life of Guardians",
+    "song": "Unused Track",
     "converters": [
       "Asra"
     ],
     "uuid": "115e3325-36a2-41a6-8f68-7dfea3968fbf",
     "hash": "aab08a28bd047dc06688f0a6df0b4870",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Ruby Destiny life of Guardians/It's an unused Music track in the files..mmrs",
+    "file": "Pokémon Ruby Destiny Life of Guardians/Unused Track.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71282,10 +71267,11 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Help needed! We need to find out from which songs this is based of."
   },
   {
-    "game": "Pokémon Ruby Destiny life of Guardians",
+    "game": "Pokémon Ruby Destiny: Life of Guardians",
     "song": "Oceanshine City",
     "converters": [
       "Asra"
@@ -71293,7 +71279,7 @@
     "uuid": "f6921fc6-b21f-4489-9db1-631ec25be830",
     "hash": "d3b652b501ec1f1b2a1622c4afa1aed1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Ruby Destiny life of Guardians/Oceanshine City.mmrs",
+    "file": "Pokémon Ruby Destiny Life of Guardians/Oceanshine City.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71302,7 +71288,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Help needed! We need to find out from which songs this is based of."
   },
   {
     "game": "Windows OS",
@@ -71870,7 +71857,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Ruby Destiny Life of Guardians",
+    "game": "Pokémon Ruby Destiny: Life of Guardians",
     "song": "Team Earth",
     "converters": [
       "Asra"
@@ -71879,7 +71866,8 @@
     "hash": "6c2413e8f1d35be60bdfafb83c79608a",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Pokémon Ruby Destiny Life of Guardians/Team Earth.mmrs",
-    "preview": ""
+    "preview": "",
+    "notes": "Help needed! We need to find out from which songs this is based of."
   },
   {
     "song": "Your Eternity is your Tragedy",
@@ -72997,15 +72985,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Ruby and Sapphire",
-    "song": "Room of Glory (Hall of Fame)",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Hall of Fame",
     "converters": [
       "vitaltoast"
+    ],
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
     ],
     "uuid": "99f31bcd-57f0-4bd9-b13d-5f6d56a5bda8",
     "hash": "50ac8c79b923165911fac7305f0b742b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Ruby and Sapphire/Room of Glory (Hall of Fame).mmrs",
+    "file": "Pokémon Ruby, Sapphire & Emerald/Hall of Fame.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74881,8 +74873,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon XD Gale of Darkness",
-    "song": "Mirror B Theme",
+    "game": "Pokémon XD: Gale of Darkness",
+    "song": "Miror B. Theme [2]",
     "composers": [
       "Tsukasa Tawada"
     ],
@@ -74892,7 +74884,7 @@
     "uuid": "2be3c913-6cca-4e1c-a091-3f52e5c6f796",
     "hash": "d1e9e9a90d10f99e6e8060af58028885",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon XD Gale of Darkness/Mirror B Theme.mmrs",
+    "file": "Pokémon XD Gale of Darkness/Miror B. Theme [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74953,15 +74945,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon ScarletViolet",
-    "song": "Final Battle (vs AI Professor)",
+    "game": "Pokémon Scarlet & Violet",
+    "song": "Battle! Zero Lab",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "Toby Fox"
     ],
     "uuid": "e5c3d52c-40d4-4740-ba4c-4591a76e935c",
     "hash": "93f82f462ccb2573cf569e5ce6c19ef1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon ScarletViolet/Final Battle (vs AI Professor).mmrs",
+    "file": "Pokémon Scarlet & Violet/Battle! Zero Lab.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78879,7 +78874,7 @@
   },
   {
     "game": "Pokémon Sun & Moon",
-    "song": "Kahuna Battle",
+    "song": "Battle! Island Kahuna",
     "composers": [
       "Junichi Masuda"
     ],
@@ -78889,7 +78884,7 @@
     "uuid": "afec0302-64d8-4a28-bd8e-ce802fd126d4",
     "hash": "7b8fb0aba746c4116e8fb42e7596d620",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Sun & Moon/Kahuna Battle.mmrs",
+    "file": "Pokémon Sun & Moon/Battle! Island Kahuna.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78927,10 +78922,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Scarlet & Violet",
-    "song": "Nemona Battle",
+    "game": "Pokémon Scarlet & Violet",
+    "song": "Battle! Nemona",
     "composers": [
-      "Minako Adachi, Junichi Masuda, Go Ichinose, Hiromitsu Maeba, Teruo Taniguchi, Hitomi Sato, Toby Fox"
+      "Hitomi Sato"
     ],
     "converters": [
       "TheRealReliable"
@@ -78938,7 +78933,7 @@
     "uuid": "43e72aa3-9cc3-40f9-a58f-1155f0b47e75",
     "hash": "bde741ab831ed240dd5b4983448d0c42",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Scarlet & Violet/Nemona Battle.mmrs",
+    "file": "Pokémon Scarlet & Violet/Battle! Nemona.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79200,8 +79195,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Legends Arceus",
-    "song": "Post-Game Legendary",
+    "game": "Pokémon Legends: Arceus",
+    "song": "Battle! Remarkable Pokémon",
     "composers": [
       "Go Ichinose"
     ],
@@ -79211,7 +79206,7 @@
     "uuid": "31a78c71-6d73-4b99-909b-b99132c0d82e",
     "hash": "935e3050996eb4653a37080d648ced9d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Legends Arceus/Post-Game Legendary.mmrs",
+    "file": "Pokémon Legends Arceus/Battle! Remarkable Pokémon.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80243,8 +80238,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon ScarletViolet",
-    "song": "Tera Raid Battle",
+    "game": "Pokémon Scarlet & Violet",
+    "song": "Battle! Tera Raid",
     "composers": [
       "Toby Fox"
     ],
@@ -80254,7 +80249,7 @@
     "uuid": "601948c9-dc7d-4bfd-aaaf-8132e24858b5",
     "hash": "5add22369978087e56031495458082d2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon ScarletViolet/Tera Raid Battle.mmrs",
+    "file": "Pokémon Scarlet & Violet/Battle! Tera Raid.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82981,7 +82976,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Mystery Dungeon Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky",
     "song": "Sky Peak Forest",
     "composers": [
       "Keisuke Ito"
@@ -82992,7 +82987,7 @@
     "uuid": "bf728e9a-173f-48c0-b695-a8de8249adaa",
     "hash": "af3b3e6fd151626dc5789003fe1a7f43",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Sky Peak Forest.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Sky Peak Forest.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84997,10 +84992,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Sword and Shield",
+    "game": "Pokémon Sword & Shield",
     "song": "Klara's Theme",
     "composers": [
-      "Hitomi Sato"
+      "Minako Adachi"
     ],
     "converters": [
       "TheRealReliable"
@@ -85008,7 +85003,7 @@
     "uuid": "6ba1f4cf-a8bb-4bc2-8e38-290d2595c057",
     "hash": "67ac77b605f05dd4b50d996b7f7dd50d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Sword and Shield/Klara's Theme.mmrs",
+    "file": "Pokémon Sword & Shield/Klara's Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85805,14 +85800,17 @@
   },
   {
     "game": "Pokemon Stadium",
-    "song": "Petit Cup Round 4 (Circus Gym Leader theme)",
+    "song": "Petit Cup (Battles 4-6)",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Junichi Masuda"
     ],
     "uuid": "8e58c5ef-dd3a-4b80-b50a-2e003b41f89e",
     "hash": "32e9e193f62e10447753ed9ff34f75fd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Stadium/Petit Cup Round 4 (Circus Gym Leader theme).mmrs",
+    "file": "Pokemon Stadium/Petit Cup (Battles 4-6).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86188,15 +86186,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Gold  Silver  Crystal",
-    "song": "Goldenrod city (MM Version)",
+    "game": "Pokémon Gold, Silver & Crystal",
+    "song": "Goldenrod City",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Junichi Masuda"
     ],
     "uuid": "149f1266-dfcd-4334-ba16-7dd3c782cc98",
     "hash": "eb227d2c03fd5d868253cfff81e8b5b3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokémon Gold  Silver  Crystal/Goldenrod city (MM Version).mmrs",
+    "file": "Pokémon Gold, Silver & Crystal/Goldenrod City.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87152,10 +87153,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Omega Ruby  Alpha Sapphire (Fanmade)",
-    "song": "Game On!",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Game On! (Fanmade)",
     "composers": [
-      "Junichi Masuda"
+      "Junichi Masuda",
+      "ZenithAegis"
     ],
     "converters": [
       "TheRealReliable"
@@ -87163,7 +87165,7 @@
     "uuid": "eb994136-8ca1-4c05-91f3-fcd1b8fc548a",
     "hash": "40e214d0505baea2f0ebb3698008e7ce",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Omega Ruby  Alpha Sapphire (Fanmade)/Game On!.mmrs",
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Game On! (Fanmade).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87179,7 +87181,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Concept for a remastered version of Mauville Game Corner."
   },
   {
     "game": "Donkey Kong 64",

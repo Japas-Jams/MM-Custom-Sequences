@@ -4695,46 +4695,16 @@
     "short_name": "Pokémon FRLG"
   },
   {
-    "game": "Pokemon HeartgoldSoulsilver"
-  },
-  {
-    "game": "Pokemon Legends Arceus"
-  },
-  {
-    "game": "Pokemon Omega Ruby  Alpha Sapphire (Fanmade)"
-  },
-  {
-    "game": "Pokemon Ruby and Sapphire"
-  },
-  {
-    "game": "Pokemon Scarlet & Violet"
-  },
-  {
-    "game": "Pokemon ScarletViolet"
-  },
-  {
-    "game": "Pokemon Stadium"
-  },
-  {
-    "game": "Pokemon Trading Card Game (GBC)"
-  },
-  {
-    "game": "Pokemon XD Gale of Darkness"
-  },
-  {
-    "game": "Pokémon Black  White"
-  },
-  {
-    "game": "Pokémon Gold  Silver  Crystal"
-  },
-  {
     "game": "Pokémon Mystery Dungeon Explorers of Sky"
   },
   {
     "game": "Pokémon Ruby Destiny life of Guardians"
   },
   {
-    "game": "Pokémon Sun & Moon"
+    "game": "Pokémon Sun & Moon",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3df9f63b70bff498764b4daa10ce8f6a.png",
+    "short_name": "Pokémon SM"
   },
   {
     "game": "Pokémon Sword and Shield"
