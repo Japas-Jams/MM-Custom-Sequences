@@ -2760,7 +2760,9 @@
   },
   {
     "game": "Old School RuneScape",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a39878ae282a18ea051ad89e7875a272.png"
+    "series": "RuneScape Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a39878ae282a18ea051ad89e7875a272.png",
+    "short_name": "OSRS"
   },
   {
     "game": "The Legend of Zelda: Breath of the Wild",
@@ -4555,14 +4557,29 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/5465772e1379d52a6ffc40444c7cbf09.png"
   },
   {
+    "game": "Henry Stickmin 5: Fleeing the Complex",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1fa3b85e26b3058ead1ef2eec9be060e.png",
+    "short_name": "Fleeing the Complex"
+  },
+  {
     "game": "Five Nights at Freddy's",
     "series": "Five Nights at Freddy's Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/68453fe4a8fe4478c75986c5da65af22.png"
   },
   {
-    "game": "Henry Stickmin 5: Fleeing the Complex",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1fa3b85e26b3058ead1ef2eec9be060e.png",
-    "short_name": "Fleeing the Complex"
+    "game": "Five Nights at Freddy's 2",
+    "series": "Five Nights at Freddy's Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2298d2d15377df1b320d007677c07a07.png"
+  },
+  {
+    "game": "Five Nights at Freddy's 3",
+    "series": "Five Nights at Freddy's Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5f26cc984eaa1376b07fc0439d531dba.png"
+  },
+  {
+    "game": "Five Nights at Freddy's 4",
+    "series": "Five Nights at Freddy's Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65ae450c5536606c266f49f1c08321f2.png"
   },
   {
     "game": "FNaF World",
@@ -4745,40 +4762,13 @@
     "game": "Ruby Destiny Life of Guardians"
   },
   {
-    "game": "RuneScape"
+    "game": "RuneScape",
+    "series": "RuneScape Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/28a1faa9dd2f69eeef4279da40dcdfe0.png"
   },
   {
-    "game": "RuneScape  Old School RuneScape"
-  },
-  {
-    "game": "RuneScape HD"
-  },
-  {
-    "game": "Secret of Mana (SNES)"
-  },
-  {
-    "game": "Sheepo"
-  },
-  {
-    "game": "Sonic 3"
-  },
-  {
-    "game": "Sonic 3 & Knuckles (Sonic & Knuckles)"
-  },
-  {
-    "game": "Sonic 3 (1994)"
-  },
-  {
-    "game": "Sonic the Hedgehog (1991)"
-  },
-  {
-    "game": "Sonic the Hedgehog 2 (1992)"
-  },
-  {
-    "game": "Sonic the Hedgehog 3 (1994)"
-  },
-  {
-    "game": "SoundDogs.com"
+    "game": "Sheepo",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7d348be465a24fdb6406c44428cce9a1.png"
   },
   {
     "game": "Spengrob"

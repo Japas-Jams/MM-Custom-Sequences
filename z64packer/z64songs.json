@@ -5374,7 +5374,7 @@
     "uuid": "f3c78144-cec1-49eb-a0c8-cb124c838e38",
     "creationDate": "2026-03-13T04:08:48.170Z",
     "game": "Sonic & Knuckles",
-    "song": "Flying Battery Zone (Variant A)",
+    "song": "Flying Battery Zone (Act 1)",
     "composers": [
       "Howard Drossin"
     ],
@@ -5391,7 +5391,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Sonic & Knuckles/Flying Battery Zone (Variant A).mmrs",
+    "file": "Sonic & Knuckles/Flying Battery Zone (Act 1).mmrs",
     "preview": "https://www.youtube.com/watch?v=3I8_cElYGiY",
     "lufs": "-19.09",
     "hash": "89ebfed8624ceac691bc9cfd36fc0230"
@@ -26145,6 +26145,9 @@
       "3",
       "4"
     ],
+    "composers": [
+      "Tsukasa Masuko"
+    ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -26262,7 +26265,7 @@
     "uuid": "8e46a470-9250-47ab-962d-b6966a3588b9",
     "creationDate": "2026-03-30T02:27:23.372Z",
     "game": "Sonic the Hedgehog 3",
-    "song": "Ice Cap Zone - Both Acts",
+    "song": "Ice Cap Zone (Both Acts)",
     "composers": [
       "Brad Buxer"
     ],
@@ -26277,8 +26280,8 @@
       "5"
     ],
     "usesCustomBank": true,
-    "file": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mmrs",
-    "preview": "Sonic the Hedgehog 3/Ice Cap Zone - Both Acts.mp3",
+    "file": "Sonic the Hedgehog 3/Ice Cap Zone (Both Acts).mmrs",
+    "preview": "Sonic the Hedgehog 3/Ice Cap Zone (Both Acts).mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-16.14",
@@ -67285,15 +67288,18 @@
     "hash": "b518f734fbab9a964e9416116a939fe6"
   },
   {
-    "game": "RuneScape",
+    "game": "Old School RuneScape",
     "song": "Xenophobe",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Ian Taylor"
+    ],
     "uuid": "1739536d-188d-4e7e-8319-29af4907824c",
     "hash": "5f427850f6e9719770391c30ca58921d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape/Xenophobe.mmrs",
+    "file": "Old School RuneScape/Xenophobe.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67305,15 +67311,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape",
+    "game": "Old School RuneScape",
     "song": "Lament of Meiyerditch",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Ian Taylor"
+    ],
     "uuid": "4f9dc17e-3922-4114-a7d5-8e273808c976",
     "hash": "273d37d447ccb1e33d26594bebd11253",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape/Lament of Meiyerditch.mmrs",
+    "file": "Old School RuneScape/Lament of Meiyerditch.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67327,15 +67336,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape",
+    "game": "Old School RuneScape",
     "song": "Mausoleum",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Ian Taylor"
+    ],
     "uuid": "24e0917b-8fd3-459f-a437-006fcd5bdc30",
     "hash": "e8ff15ce02984a9e700415369c751219",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape/Mausoleum.mmrs",
+    "file": "Old School RuneScape/Mausoleum.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67347,15 +67359,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape HD",
+    "game": "RuneScape",
     "song": "Stealing Creation",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Adam Bond"
+    ],
     "uuid": "06fd42b1-1cb2-43dc-9a83-c2a073ec2287",
     "hash": "7792aba842c6c418e847c5e47f93caaa",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape HD/Stealing Creation.mmrs",
+    "file": "RuneScape/Stealing Creation.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67369,15 +67384,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape HD",
+    "game": "RuneScape",
     "song": "The Adventurer",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Ian Taylor"
+    ],
     "uuid": "c224492b-33ce-448f-a786-c5e247f09dd0",
     "hash": "7f9efc873b6c6f8d4c8c5c392c1da90d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape HD/The Adventurer.mmrs",
+    "file": "RuneScape/The Adventurer.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67464,15 +67482,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape",
+    "game": "Old School RuneScape",
     "song": "The Other Side",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Ian Taylor"
+    ],
     "uuid": "26f875ea-4241-43ca-b64c-4c313e4679a9",
     "hash": "dec905d884f0ce4133df15267054dbbb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape/The Other Side.mmrs",
+    "file": "Old School RuneScape/The Other Side.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67509,15 +67530,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape HD",
+    "game": "RuneScape",
     "song": "Night-gazer Khighorahk",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Adam Bond"
+    ],
     "uuid": "31ffcbb4-a4d7-4abe-a374-85fcf7a83305",
     "hash": "79bb8af8d0f1be8af45bf8424b98c5f7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape HD/Night-gazer Khighorahk.mmrs",
+    "file": "RuneScape/Night-gazer Khighorahk.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67576,15 +67600,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape",
+    "game": "Old School RuneScape",
     "song": "Armadyl Alliance",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Adam Bond"
+    ],
     "uuid": "6155f394-dfbb-409f-9914-8097dd8711b4",
     "hash": "20cded03ab838469211e0cb70fc31883",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape/Armadyl Alliance.mmrs",
+    "file": "Old School RuneScape/Armadyl Alliance.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67755,15 +67782,18 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape HD",
+    "game": "RuneScape",
     "song": "Zaros Stirs",
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Chris Jolley"
+    ],
     "uuid": "edec3c6a-9da5-4234-ac59-93efb5a000a6",
     "hash": "95d840cae697113ab45710fe978e4ee9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape HD/Zaros Stirs.mmrs",
+    "file": "RuneScape/Zaros Stirs.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68156,6 +68186,9 @@
     "converters": [
       "BigBomba88"
     ],
+    "composers": [
+      "Masato Nakamura"
+    ],
     "uuid": "b6964ac2-a841-4323-8114-dbf7f1274421",
     "hash": "02d37dabc08e07b2b95ab5bee7c33cf0",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -68538,32 +68571,6 @@
     "type": "bgm",
     "categories": [
       "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Resident Evil Director's Cut",
-    "song": "Mansion Basement",
-    "composers": [
-      "Takashi Niigaki"
-    ],
-    "converters": [
-      "Yaruzu"
-    ],
-    "uuid": "affd10d2-9232-4616-91e5-12441fcbbf87",
-    "hash": "2617a6ba057fcc382758b2f3ee1795fb",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Resident Evil Director's Cut/Mansion Basement.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3",
-      "4",
-      "5",
-      "6"
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -69548,10 +69555,10 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape HD",
-    "song": "Born to do This",
+    "game": "RuneScape",
+    "song": "Born to Do This",
     "composers": [
-      "Jagex Games Studio Ltd."
+      "Sam Jones"
     ],
     "converters": [
       "Surprise Pie"
@@ -69559,7 +69566,7 @@
     "uuid": "be249663-89fa-43c5-8c81-c2e1afbbcace",
     "hash": "69f0ce2477faef7580bb1f37c11783ea",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape HD/Born to do This.mmrs",
+    "file": "RuneScape/Born to Do This.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69573,7 +69580,7 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape HD",
+    "game": "RuneScape",
     "song": "Zaros Zeitgeist",
     "composers": [
       "Adam Bond"
@@ -69584,7 +69591,7 @@
     "uuid": "004a47d4-b69e-420a-be2b-1a68b20c8afe",
     "hash": "8513723723735314d3cf3aa9b6e3efa4",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape HD/Zaros Zeitgeist.mmrs",
+    "file": "RuneScape/Zaros Zeitgeist.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71488,14 +71495,17 @@
   },
   {
     "game": "Sonic Adventure 2",
-    "song": "Rumbling HWY (Mission Street)",
+    "song": "Rumbling HWY ...for Mission Street",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Jun Senoue"
     ],
     "uuid": "dea415a8-21cb-4d5b-88aa-8a2bc2312feb",
     "hash": "bda622cee90288b7fc1529263e1f0f93",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic Adventure 2/Rumbling HWY (Mission Street).mmrs",
+    "file": "Sonic Adventure 2/Rumbling HWY ...for Mission Street.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72380,18 +72390,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic Adventure 2",
-    "song": "Rumbling HWY (Mission Street)",
-    "converters": [
-      "Vidya James"
-    ],
-    "uuid": "ec455df0-3d10-4cb7-8252-50842551ac31",
-    "hash": "bda622cee90288b7fc1529263e1f0f93",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic Adventure 2/Rumbling HWY (Mission Street).mmrs",
-    "preview": ""
-  },
-  {
     "game": "The Legend of Zelda: Spirit Tracks",
     "song": "Dark Realm",
     "converters": [
@@ -72458,7 +72456,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Secret of Mana (SNES)",
+    "game": "Secret of Mana",
     "song": "Into the Thick of It",
     "composers": [
       "Hiroki Kikuta"
@@ -72469,7 +72467,7 @@
     "uuid": "21a7a27f-facd-4ba5-9c06-e8e1eb3109dd",
     "hash": "f47a5cc39f3b8043951fc96791656407",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Secret of Mana (SNES)/Into the Thick of It.mmrs",
+    "file": "Secret of Mana/Into the Thick of It.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74103,10 +74101,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic 3 (1994)",
+    "game": "Sonic the Hedgehog 3",
     "song": "File Select",
     "composers": [
-      "(Unknown)"
+      "Masayuki Nagao"
     ],
     "converters": [
       "Retroflex"
@@ -74114,7 +74112,7 @@
     "uuid": "3d36eb98-7fab-47f6-bfd3-ce22ed0d2489",
     "hash": "1ae24ddf62586b3321d74f11dd1d7ad9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic 3 (1994)/File Select.mmrs",
+    "file": "Sonic the Hedgehog 3/File Select.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75611,7 +75609,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic the Hedgehog (1991)",
+    "game": "Sonic the Hedgehog",
     "song": "Labyrinth Zone",
     "composers": [
       "Masato Nakamura"
@@ -75622,7 +75620,7 @@
     "uuid": "feb53a2e-c5cf-418f-aedc-fa9ee913ae0b",
     "hash": "4aee0bedd264ebc717604f98208f7f47",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic the Hedgehog (1991)/Labyrinth Zone.mmrs",
+    "file": "Sonic the Hedgehog/Labyrinth Zone.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76969,10 +76967,12 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic 3 (1994)",
-    "song": "Hydrocity Zone Act 1",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Hydrocity Zone (Act 1)",
     "composers": [
-      "(Allegedly) Tatsuyuki Maeda, Sachio Ogawa, Masanori Hikichi"
+      "Tatsuyuki Maeda",
+      "Sachio Ogawa",
+      "Masanori Hikichi"
     ],
     "converters": [
       "Retroflex"
@@ -76980,7 +76980,7 @@
     "uuid": "94e3e575-1b9d-439d-a2d6-6e60df59ae0d",
     "hash": "db90db3d319441a4f5327fee634f9173",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic 3 (1994)/Hydrocity Zone Act 1.mmrs",
+    "file": "Sonic the Hedgehog 3/Hydrocity Zone (Act 1).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77300,9 +77300,12 @@
   },
   {
     "game": "Shin Megami Tensei II",
-    "song": "3D: Center",
+    "song": "3D Center",
     "converters": [
       "Shijima"
+    ],
+    "composers": [
+      "Tsukasa Masuko"
     ],
     "uuid": "8e14808f-2428-444e-8e5e-4b21d6703470",
     "hash": "ddb393299b40784926b1587cebcff015",
@@ -77362,8 +77365,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic the Hedgehog 2 (1992)",
-    "song": "Boss theme",
+    "game": "Sonic the Hedgehog 2",
+    "song": "Boss",
     "composers": [
       "Masato Nakamura"
     ],
@@ -77373,7 +77376,7 @@
     "uuid": "602665c3-40c0-4eba-a6fa-37c96ba7d74e",
     "hash": "b96dc1dce6d79238aab01323cd098916",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic the Hedgehog 2 (1992)/Boss theme.mmrs",
+    "file": "Sonic the Hedgehog 2/Boss.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78170,10 +78173,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic the Hedgehog 3 (1994)",
+    "game": "Sonic the Hedgehog 3",
     "song": "Marble Garden Zone",
     "composers": [
-      "(Allegedly) Miyoko Takaoka"
+      "Miyoko Takaoka"
     ],
     "converters": [
       "Retroflex"
@@ -78181,7 +78184,7 @@
     "uuid": "cfb3bfc1-cbcb-49c1-b32f-784732df6240",
     "hash": "5bca6002b0b70c712c4e4a9ecca3db59",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic the Hedgehog 3 (1994)/Marble Garden Zone.mmrs",
+    "file": "Sonic the Hedgehog 3/Marble Garden Zone.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78277,10 +78280,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic the Hedgehog 3 (1994)",
+    "game": "Sonic the Hedgehog 3",
     "song": "Knuckles Approaches",
     "composers": [
-      "Michael Jackson, Brad Buxer"
+      "Howard Drossin"
     ],
     "converters": [
       "Retroflex"
@@ -78288,7 +78291,7 @@
     "uuid": "48c14679-9a4b-44dc-bd3c-2f2401095174",
     "hash": "5cf1adeb9174a88f1420a2af3a063dfb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic the Hedgehog 3 (1994)/Knuckles Approaches.mmrs",
+    "file": "Sonic the Hedgehog 3/Knuckles Approaches.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78611,7 +78614,7 @@
   },
   {
     "game": "Shin Megami Tensei II",
-    "song": "3D: Expanse",
+    "song": "3D Expanse",
     "composers": [
       "Tsukasa Masuko"
     ],
@@ -78633,7 +78636,7 @@
   },
   {
     "game": "Shin Megami Tensei II",
-    "song": "2D: Field",
+    "song": "2D Field",
     "composers": [
       "Tsukasa Masuko"
     ],
@@ -80406,7 +80409,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic the Hedgehog 2 (1992)",
+    "game": "Sonic the Hedgehog 2",
     "song": "Mystic Cave Zone",
     "composers": [
       "Masato Nakamura"
@@ -80417,7 +80420,7 @@
     "uuid": "31f15cac-1c14-4270-aef2-aaab7d9f0eb5",
     "hash": "134909f1398d771a6a35803c64d9f7fa",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic the Hedgehog 2 (1992)/Mystic Cave Zone.mmrs",
+    "file": "Sonic the Hedgehog 2/Mystic Cave Zone.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80435,55 +80438,156 @@
     "usesFormmask": false
   },
   {
-    "game": "SoundDogs.com",
+    "game": "Five Nights at Freddy's",
     "song": "XSCREAM.wav",
     "converters": [
       "LoadingError"
     ],
-    "uuid": "45d4bc81-c3dc-40ac-b79d-a2a07ddcfdfd",
-    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "composers": [
+      "SoundDogs"
+    ],
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "SoundDogs.com/XSCREAM.wav.mmrs",
+    "file": "Five Nights at Freddy's/XSCREAM.wav.mmrs",
     "preview": "",
     "type": "fanfare",
-    "categories": [
-      "8",
-      "9"
-    ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false
   },
   {
-    "song": "FNaF_4_-_XSCREAM.wav_Loud",
-    "game": "TODO",
+    "game": "Five Nights at Freddy's",
+    "song": "XSCREAM.wav (Loud)",
     "converters": [
-      "loadingerror"
+      "LoadingError"
     ],
-    "uuid": "22378187-04a6-4ff3-9598-7e13e64334fb",
-    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "composers": [
+      "SoundDogs"
+    ],
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/FNaF_4_-_XSCREAM.wav_Loud.mmrs",
+    "file": "Five Nights at Freddy's/XSCREAM.wav (Loud).mmrs",
     "preview": "",
     "type": "fanfare",
-    "categories": [
-      "8",
-      "9"
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Five Nights at Freddy's 2",
+    "song": "XSCREAM.wav",
+    "converters": [
+      "LoadingError"
     ],
+    "composers": [
+      "SoundDogs"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Five Nights at Freddy's 2/XSCREAM.wav.mmrs",
+    "preview": "",
+    "type": "fanfare",
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Five Nights at Freddy's 2",
+    "song": "XSCREAM.wav (Loud)",
+    "converters": [
+      "LoadingError"
+    ],
+    "composers": [
+      "SoundDogs"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Five Nights at Freddy's 2/XSCREAM.wav (Loud).mmrs",
+    "preview": "",
+    "type": "fanfare",
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Five Nights at Freddy's 3",
+    "song": "XSCREAM.wav",
+    "converters": [
+      "LoadingError"
+    ],
+    "composers": [
+      "SoundDogs"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Five Nights at Freddy's 3/XSCREAM.wav.mmrs",
+    "preview": "",
+    "type": "fanfare",
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Five Nights at Freddy's 3",
+    "song": "XSCREAM.wav (Loud)",
+    "converters": [
+      "LoadingError"
+    ],
+    "composers": [
+      "SoundDogs"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Five Nights at Freddy's 3/XSCREAM.wav (Loud).mmrs",
+    "preview": "",
+    "type": "fanfare",
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Five Nights at Freddy's 4",
+    "song": "XSCREAM.wav",
+    "converters": [
+      "LoadingError"
+    ],
+    "composers": [
+      "SoundDogs"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Five Nights at Freddy's 4/XSCREAM.wav.mmrs",
+    "preview": "",
+    "type": "fanfare",
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
+  },
+  {
+    "game": "Five Nights at Freddy's 4",
+    "song": "XSCREAM.wav (Loud)",
+    "converters": [
+      "LoadingError"
+    ],
+    "composers": [
+      "SoundDogs"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Five Nights at Freddy's 4/XSCREAM.wav (Loud).mmrs",
+    "preview": "",
+    "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false
   },
   {
     "game": "Sonic Robo Blast 2",
-    "song": "Deep Sea Zone 1",
+    "song": "Deep Sea Zone Act 1",
     "converters": [
       "3Pills"
+    ],
+    "composers": [
+      "clairebun",
+      "Shane Strife",
+      "Arrow"
     ],
     "uuid": "33994dc4-a914-4ab3-8c13-bd52598d5ea9",
     "hash": "ff924025699f0b189030f9895c9e9be5",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic Robo Blast 2/Deep Sea Zone 1.mmrs",
+    "file": "Sonic Robo Blast 2/Deep Sea Zone Act 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80998,8 +81102,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic 3",
-    "song": "Carnival Night Zone Act 1",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Carnival Night Zone (Act 1)",
     "composers": [
       "Brad Buxer"
     ],
@@ -81009,7 +81113,7 @@
     "uuid": "6235b673-20bf-4a29-b976-581342cc6ed0",
     "hash": "9ad33c0ed2b7e473b1724cead528ea97",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic 3/Carnival Night Zone Act 1.mmrs",
+    "file": "Sonic the Hedgehog 3/Carnival Night Zone (Act 1).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81952,8 +82056,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic The Hedgehog",
-    "song": "Casino Night Zone (2-player)",
+    "game": "Sonic the Hedgehog",
+    "song": "Casino Night Zone (2 Player)",
     "composers": [
       "Masato Nakamura"
     ],
@@ -81963,7 +82067,7 @@
     "uuid": "f777b6e0-46ce-4c62-b362-6fe1239c851b",
     "hash": "4b00c5903e2baeb293b7ed1b12cf76fc",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic The Hedgehog/Casino Night Zone (2-player).mmrs",
+    "file": "Sonic the Hedgehog/Casino Night Zone (2 Player).mmrs",
     "preview": ""
   },
   {
@@ -82490,15 +82594,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Sonic 3 & Knuckles (Sonic & Knuckles)",
-    "song": "Flying Battery Zone Act 1",
+    "game": "Sonic & Knuckles",
+    "song": "Flying Battery Zone (Act 1)",
     "converters": [
       "ruugosus"
+    ],
+    "composers": [
+      "Howard Drossin"
     ],
     "uuid": "aa20a0ce-dd35-4444-8b28-bf889d562fef",
     "hash": "902b051e369ffd52e6ba51ce19de32f8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic 3 & Knuckles (Sonic & Knuckles)/Flying Battery Zone Act 1.mmrs",
+    "file": "Sonic & Knuckles/Flying Battery Zone (Act 1).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83626,7 +83733,7 @@
   },
   {
     "game": "Sonic Adventure 2",
-    "song": "Believe in Myself ver.2 (Tails Theme)",
+    "song": "Believe in Myself - ver.2",
     "composers": [
       "Jun Senoue"
     ],
@@ -83636,7 +83743,7 @@
     "uuid": "3a8ed371-9358-4b13-80b2-c577ec806c33",
     "hash": "40a0fb08a5844f7aa7523a5a9d0d5425",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic Adventure 2/Believe in Myself ver.2 (Tails Theme).mmrs",
+    "file": "Sonic Adventure 2/Believe in Myself - ver.2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85573,9 +85680,12 @@
   },
   {
     "game": "Sonic Unleashed",
-    "song": "\"Cool Edge (Day)\"",
+    "song": "Cool Edge (Day)",
     "converters": [
       "frostingorb"
+    ],
+    "composers": [
+      "Tomoya Ohtani"
     ],
     "uuid": "c80a25e6-5b00-494d-ad37-1bff2f489a80",
     "hash": "5d00a8ea8f47286689642f4147dc6217",
