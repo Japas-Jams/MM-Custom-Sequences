@@ -4440,7 +4440,9 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/77f52c94881bfc50ac293ee00abe70e1.png"
   },
   {
-    "game": "beatmania APPEND GOTTAMIX"
+    "game": "beatmania APPEND GOTTAMIX",
+    "series": "beatmania Series",
+    "logo": "https://images.launchbox-app.com/9bd67cf1-e9fb-49db-bd85-0c30f75e2f88.png"
   },
   {
     "game": "Blaster Master",
@@ -4695,10 +4697,9 @@
     "short_name": "Pokémon FRLG"
   },
   {
-    "game": "Pokémon Mystery Dungeon Explorers of Sky"
-  },
-  {
-    "game": "Pokémon Ruby Destiny life of Guardians"
+    "game": "Pokémon Ruby Destiny: Life of Guardians",
+    "series": "Pokémon Series",
+    "short_name": "Pokémon RDLOG"
   },
   {
     "game": "Pokémon Sun & Moon",
@@ -4707,40 +4708,38 @@
     "short_name": "Pokémon SM"
   },
   {
-    "game": "Pokémon Sword and Shield"
+    "game": "pop'n music 11 CS",
+    "logo": "https://remywiki.com/images/2/25/Pop%27n_music_11_logo.png"
   },
   {
-    "game": "pop'n music 11 CS"
+    "game": "Psychonauts 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0f9a0878fcaf0dde29b4e487aa8bbb44.png"
   },
   {
-    "game": "Psychonauts 2"
+    "game": "Pump It Up: The Perfect Collection",
+    "logo": "https://i.namu.wiki/i/elxma7UzkTvqOSM0wjDf6lZqY_RvjJpYtu_vaGaT71d7RlJjHxZT4OJwwHRV67AdV9TdcULLvUTUJ8HO_TxQ4Q.webp"
   },
   {
-    "game": "Pump It Up The Perfect Collection"
+    "game": "Rabbit & Steel",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7487029f8667a0bb55be1d19bfd6dc1a.png"
   },
   {
-    "game": "Rabbit and Steel"
+    "game": "Rhythm Heaven Megamix",
+    "series": "Rhythm Heaven Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ff6dec2c39768126491474050424b2ed.png"
   },
   {
-    "game": "Rayman 2 The Great Escape (N64)"
+    "game": "Rhythm Tengoku",
+    "series": "Rhythm Heaven Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9d0231d43ebb66349e1bd614cba89796.png"
   },
   {
-    "game": "Resident Evil Director's Cut"
+    "game": "Ribbit King",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c3a83e015935188821aa9ee65e6b322f.png"
   },
   {
-    "game": "Rhythm Heaven (DS)"
-  },
-  {
-    "game": "Rhythm Heaven Megamix"
-  },
-  {
-    "game": "Rhythm Tengoku"
-  },
-  {
-    "game": "Ribbit King"
-  },
-  {
-    "game": "Rollercoaster Tycoon 2"
+    "game": "RollerCoaster Tycoon 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/186e1b0ba5b03fba924e4a2486692568.png"
   },
   {
     "game": "Ruby Destiny Life of Guardians"
@@ -4932,34 +4931,10 @@
     "game": "Twilight Princess"
   },
   {
-    "game": "vgmusic.com"
-  },
-  {
-    "game": "vgmusic.com (DGuily)"
-  },
-  {
-    "game": "vgmusic.com (Ilya Gordon)"
-  },
-  {
-    "game": "vgmusic.com (Jayster)"
-  },
-  {
-    "game": "vgmusic.com (Sebastian Toader)"
-  },
-  {
-    "game": "vgmusic.com (Solis Kane Raige)"
-  },
-  {
-    "game": "vgmusic.com (Stacy Anne Christiansen)"
-  },
-  {
     "game": "Vigilante 8 2nd Offense"
   },
   {
     "game": "VVVVVV"
-  },
-  {
-    "game": "Warcraft 2 Tides of Darkness"
   },
   {
     "game": "Wario Ware Smooth Moves"
@@ -5014,9 +4989,6 @@
   },
   {
     "game": "Zelda Twilight Princess"
-  },
-  {
-    "game": "```"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

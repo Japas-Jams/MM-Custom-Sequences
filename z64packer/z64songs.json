@@ -69930,7 +69930,7 @@
   },
   {
     "game": "Psychonauts 2",
-    "song": "Fatherland Follies Ride Theme",
+    "song": "All Hail, Happy Grulovia!",
     "composers": [
       "Peter McConnell"
     ],
@@ -69940,7 +69940,7 @@
     "uuid": "7eb9f22f-ea7b-4301-aecc-9579d323ef6f",
     "hash": "3d942a42fc91a33adb5b687a3df44147",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Psychonauts 2/Fatherland Follies Ride Theme.mmrs",
+    "file": "Psychonauts 2/All Hail, Happy Grulovia!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71133,10 +71133,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Pump It Up The Perfect Collection",
+    "game": "Pump It Up: The Perfect Collection",
     "song": "Beethoven Virus",
     "composers": [
-      "Ludwig van Beethoven, remixed by BanYa"
+      "Ludwig van Beethoven",
+      "BanYa"
     ],
     "converters": [
       "Nika~"
@@ -71181,15 +71182,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Rhythm Heaven (DS)",
+    "game": "Rhythm Heaven",
     "song": "Glee Club",
     "converters": [
       "Ukkiez"
     ],
+    "composers": [
+      "Tsunku♂",
+      "Masami Yone"
+    ],
     "uuid": "1b60ceef-e846-4d30-885c-4e09950e986e",
     "hash": "8877fc3bf64b1c91984b37531d5e6a9b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rhythm Heaven (DS)/Glee Club.mmrs",
+    "file": "Rhythm Heaven/Glee Club.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71268,7 +71273,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "notes": "Help needed! We need to find out from which songs this is based of."
+    "notes": "Help needed! We need to find out from which song this originally is based of."
   },
   {
     "game": "Pokémon Ruby Destiny: Life of Guardians",
@@ -71289,7 +71294,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "notes": "Help needed! We need to find out from which songs this is based of."
+    "notes": "Help needed! We need to find out from which song this originally is based of."
   },
   {
     "game": "Windows OS",
@@ -71867,7 +71872,7 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Pokémon Ruby Destiny Life of Guardians/Team Earth.mmrs",
     "preview": "",
-    "notes": "Help needed! We need to find out from which songs this is based of."
+    "notes": "Help needed! We need to find out from which song this originally is based of."
   },
   {
     "song": "Your Eternity is your Tragedy",
@@ -73477,15 +73482,18 @@
     "usesFormmask": false
   },
   {
-    "game": "```",
-    "song": "`Secret Course`",
+    "game": "Super Mario Sunshine",
+    "song": "Secret Course",
     "converters": [
       "bcguppy"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "8a4014b1-797b-4264-83c4-5f2190d6ea67",
     "hash": "94da97adc4c78264881a7faa49300c22",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "```/`Secret Course`.mmrs",
+    "file": "Super Mario Sunshine/Secret Course.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74684,15 +74692,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Rayman 2 The Great Escape (N64)",
-    "song": "The Hall of Doors/Main Menu",
+    "game": "Rayman 2: The Great Escape",
+    "song": "The Hall of Doors",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Éric Chevalier",
+      "Daniel Masson"
     ],
     "uuid": "3d54fbf8-7077-4345-93ef-90c598ac265d",
     "hash": "a090edf9877adecaa9c6dab5c61b841b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rayman 2 The Great Escape (N64)/The Hall of DoorsMain Menu.mmrs",
+    "file": "Rayman 2 The Great Escape/The Hall of Doors.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74706,15 +74718,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Rayman 2 The Great Escape (N64)",
+    "game": "Rayman 2: The Great Escape",
     "song": "Spider Attack",
     "converters": [
       "ainurmusician64"
     ],
+    "composers": [
+      "Éric Chevalier",
+      "Daniel Masson"
+    ],
     "uuid": "43b8dfcf-8ae5-4293-8bbd-d35299dbf893",
     "hash": "6b22f0edadf5b81f27b597fa2c7d1e8f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rayman 2 The Great Escape (N64)/Spider Attack.mmrs",
+    "file": "Rayman 2 The Great Escape/Spider Attack.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75945,7 +75961,7 @@
     "usesFormmask": false
   },
   {
-    "game": "castlevaniadungeon.net",
+    "game": "Castlevania: Symphony of the Night",
     "song": "Crystal Teardrops",
     "composers": [
       "Michiru Yamane"
@@ -75956,7 +75972,7 @@
     "uuid": "721e18f4-d323-486e-b47c-ebc612940756",
     "hash": "736d7cd209c54495b8224e63275f2805",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "castlevaniadungeon.net/Crystal Teardrops.mmrs",
+    "file": "Castlevania Symphony of the Night/Crystal Teardrops.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76017,8 +76033,8 @@
     "usesFormmask": false
   },
   {
-    "game": "castlevaniadungeon.net (Jorge D. Fuentes)",
-    "song": "Dance of Illusions (Illusionary Dance)",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Dance of Illusions",
     "composers": [
       "Tomoko Sano (Sanoppi)"
     ],
@@ -76028,7 +76044,7 @@
     "uuid": "3c1f3436-040a-4c06-a6d2-93fa9d8a9800",
     "hash": "2594fd33dd653446a8c1cb771d88d6bb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "castlevaniadungeon.net (Jorge D. Fuentes)/Dance of Illusions (Illusionary Dance).mmrs",
+    "file": "Castlevania Symphony of the Night/Dance of Illusions.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76191,25 +76207,74 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com (Ilya Gordon)",
-    "song": "Halo (sung by Giants, Baby Goron, and Lulu)",
+    "game": "Halo: Combat Evolved",
+    "song": "Halo (Giants)",
     "converters": [
       "Wily Willy"
     ],
-    "uuid": "53aefbe4-0a3e-48d7-9ee5-9ea1e22a4658",
-    "hash": "aeae7c7a7a1c177893418fe1030a648b",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com (Ilya Gordon)/Halo (sung by Giants, Baby Goron, and Lulu).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "2",
-      "118"
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
     ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Halo Combat Evolved/Halo (Giants).mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Halo: Combat Evolved",
+    "song": "Halo (Giants) - No Intro",
+    "converters": [
+      "Wily Willy"
+    ],
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Halo Combat Evolved/Halo (Giants) - No Intro.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Halo: Combat Evolved",
+    "song": "Halo (Giants) - Intro 1",
+    "converters": [
+      "Wily Willy"
+    ],
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Halo Combat Evolved/Halo (Giants) - Intro 1.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Halo: Combat Evolved",
+    "song": "Halo (Giants) - Intro 2",
+    "converters": [
+      "Wily Willy"
+    ],
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Halo Combat Evolved/Halo (Giants) - Intro 2.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Halo: Combat Evolved",
+    "song": "Halo (Giants) - Intro 3",
+    "converters": [
+      "Wily Willy"
+    ],
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Halo Combat Evolved/Halo (Giants) - Intro 3.mmrs",
+    "preview": ""
   },
   {
     "game": "The Sims 2",
@@ -76252,15 +76317,18 @@
     "preview": ""
   },
   {
-    "game": "vgmusic.com (Stacy Anne Christiansen)",
+    "game": "Super Mario Sunshine",
     "song": "Secret Course (Giant & Gorons)",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Koji Kondo"
+    ],
     "uuid": "c15147ec-4455-45c2-8bf8-45eed451b81d",
     "hash": "92458eafb592e08a9a77f209ac546d4c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com (Stacy Anne Christiansen)/Secret Course (Giant & Gorons).mmrs",
+    "file": "Super Mario Sunshine/Secret Course (Giant & Gorons).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76337,15 +76405,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com (DGuily)",
+    "game": "Warcraft II: Tides of Darkness",
     "song": "Orc 1",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Glenn Stafford"
+    ],
     "uuid": "55c88e96-19b9-44c7-bb36-5862b0ee5a0d",
     "hash": "d67d8f1555efafd938c23de8065a1348",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com (DGuily)/Orc 1.mmrs",
+    "file": "Warcraft II Tides of Darkness/Orc 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78447,7 +78518,8 @@
     "game": "Rhythm Heaven",
     "song": "Love Lizards",
     "composers": [
-      "Tsunku & Masami Yone"
+      "Tsunku♂",
+      "Masami Yone"
     ],
     "converters": [
       "TheRealReliable"
@@ -78744,7 +78816,7 @@
     "game": "Rhythm Tengoku",
     "song": "The Bon Odori",
     "composers": [
-      "Tsunku & Masami Yone"
+      "Tsunku♂"
     ],
     "converters": [
       "TheRealReliable"
@@ -78765,15 +78837,19 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com (Sebastian Toader)",
+    "game": "Halo 3",
     "song": "One Final Effort",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Martin O'Donnell",
+      "Michael Salvatori"
+    ],
     "uuid": "520844b2-2dbd-4572-a44b-bed922a1d64e",
     "hash": "ccd1a71f3c6d9fa1cfc19d366f8fb869",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com (Sebastian Toader)/One Final Effort.mmrs",
+    "file": "Halo 3/One Final Effort.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78784,15 +78860,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com",
+    "game": "Castlevania: Symphony of the Night",
     "song": "Wandering Ghosts",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Michiru Yamane"
+    ],
     "uuid": "98c1c975-d0ba-4afd-a001-bcf8c033f890",
     "hash": "18bbe484f13b191eb614706fe157b3a9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com/Wandering Ghosts.mmrs",
+    "file": "Castlevania Symphony of the Night/Wandering Ghosts.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79014,15 +79093,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com (Jayster)",
+    "game": "Castlevania: Symphony of the Night",
     "song": "Rainbow Cemetery",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Michiru Yamane"
+    ],
     "uuid": "27536c37-f2b0-4d14-af81-5801781d773a",
     "hash": "74d5cc66b8a6688f4b04c83bb1019d9e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com (Jayster)/Rainbow Cemetery.mmrs",
+    "file": "Castlevania Symphony of the Night/Rainbow Cemetery.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79218,15 +79300,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Rabbit and Steel",
+    "game": "Rabbit & Steel",
     "song": "A Valiant Battle",
     "converters": [
       "Alf"
     ],
+    "composers": [
+      "Hagane (steel_plus)"
+    ],
     "uuid": "958324d9-2d9f-436d-8f19-928ac16bc446",
     "hash": "6c5e7b2de535a6b7237ee0cd145ef61b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rabbit and Steel/A Valiant Battle.mmrs",
+    "file": "Rabbit & Steel/A Valiant Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79780,15 +79865,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com",
-    "song": "Wood Carving Partita (Lost Library)",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Wood Carving Partita",
     "converters": [
       "Wily Willy"
+    ],
+    "composers": [
+      "Michiru Yamane"
     ],
     "uuid": "f69aceba-e140-4d10-adab-19fab1d83cdc",
     "hash": "27ce1b98980c43fedf1994155395e175",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com/Wood Carving Partita (Lost Library).mmrs",
+    "file": "Castlevania Symphony of the Night/Wood Carving Partita.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79815,15 +79903,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com",
+    "game": "Castlevania: Symphony of the Night",
     "song": "Master Librarian",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Michiru Yamane"
+    ],
     "uuid": "b02e3bc7-aacd-4f79-b1f6-c280794d8ccd",
     "hash": "fcf2d83d9b1418e8d64b5ed477355edb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com/Master Librarian.mmrs",
+    "file": "Castlevania Symphony of the Night/Master Librarian.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80582,15 +80673,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com",
-    "song": "Dance of Pales/Dance of Pearls",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Dance of Pales [2]",
     "converters": [
       "Wily Willy"
+    ],
+    "composers": [
+      "Michiru Yamane"
     ],
     "uuid": "e6d5717e-e637-4ab1-82f7-89f33490b648",
     "hash": "3388463aa8d162968cfff7f72a9d3af3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com/Dance of PalesDance of Pearls.mmrs",
+    "file": "Castlevania Symphony of the Night/Dance of Pales [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80661,15 +80755,18 @@
     "usesFormmask": false
   },
   {
-    "game": "vgmusic.com (Solis Kane Raige)",
+    "game": "Castlevania: Symphony of the Night",
     "song": "Nocturne",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Michiru Yamane"
+    ],
     "uuid": "89328f76-9099-438d-a4a9-6c0526dc99bb",
     "hash": "83e54f9194b5b2b51721d86db1e7651a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "vgmusic.com (Solis Kane Raige)/Nocturne.mmrs",
+    "file": "Castlevania Symphony of the Night/Nocturne.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81225,7 +81322,7 @@
   },
   {
     "game": "Rhythm Heaven",
-    "song": "Cafe",
+    "song": "Café",
     "composers": [
       "Masami Yone"
     ],
@@ -81235,7 +81332,7 @@
     "uuid": "45c51c0b-e46d-41bc-9448-41e32b17072b",
     "hash": "2b0204b591b3e293808f61b2b4bd9a9a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rhythm Heaven/Cafe.mmrs",
+    "file": "Rhythm Heaven/Café.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81594,7 +81691,7 @@
   },
   {
     "game": "Portal",
-    "song": "Still Alive Radio Mix",
+    "song": "Still Alive (Radio Mix)",
     "composers": [
       "Jonathan Coulton"
     ],
@@ -81604,7 +81701,7 @@
     "uuid": "07519453-979d-46a1-a39c-c1725f76108b",
     "hash": "27f5b0bef76a05ee7c840448cfffc9df",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Portal/Still Alive Radio Mix.mmrs",
+    "file": "Portal/Still Alive (Radio Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81621,7 +81718,9 @@
     "game": "Puyo Puyo",
     "song": "Sticker of Puyo Puyo",
     "composers": [
-      "Masanobu Tsukamoto, Akiyoshi Nagao, and Toshiaki Sakoda"
+      "Masanobu Tsukamoto",
+      "Akiyoshi Nagao",
+      "Toshiaki Sakoda"
     ],
     "converters": [
       "Oobie"
@@ -81990,15 +82089,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Warcraft 2 Tides of Darkness",
+    "game": "Warcraft II: Tides of Darkness",
     "song": "Orc 2",
     "converters": [
       "Wily Willy"
     ],
+    "composers": [
+      "Glenn Stafford"
+    ],
     "uuid": "c5e1e29a-2481-413c-a68c-b9e16bf081bc",
     "hash": "eb3019fb75652ebba202b279308dd968",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Warcraft 2 Tides of Darkness/Orc 2.mmrs",
+    "file": "Warcraft II Tides of Darkness/Orc 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82170,7 +82272,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Rollercoaster Tycoon 2",
+    "game": "RollerCoaster Tycoon 2",
     "song": "Rock Style 2",
     "composers": [
       "Allister Brimble"
@@ -82181,7 +82283,7 @@
     "uuid": "56d61aef-c8eb-48cf-b48a-461c75f9e248",
     "hash": "7f133a72c48458f90edaa25dbb786b59",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rollercoaster Tycoon 2/Rock Style 2.mmrs",
+    "file": "RollerCoaster Tycoon 2/Rock Style 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82976,7 +83078,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Sky Peak Forest",
     "composers": [
       "Keisuke Ito"
@@ -84889,7 +84991,7 @@
   },
   {
     "game": "Rhythm Tengoku",
-    "song": "Dr. Bacteria [Sick Beats]",
+    "song": "Sick Beats",
     "composers": [
       "Tsunku♂"
     ],
@@ -84899,7 +85001,7 @@
     "uuid": "5b9b57e0-67e4-401c-8e1f-ada1094a6e83",
     "hash": "ffb8af7e35b3c7cfe88d0139c5b936d7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Rhythm Tengoku/Dr. Bacteria [Sick Beats].mmrs",
+    "file": "Rhythm Tengoku/Sick Beats.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85799,7 +85901,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokemon Stadium",
+    "game": "Pokémon Stadium",
     "song": "Petit Cup (Battles 4-6)",
     "converters": [
       "Philos-Kun"
@@ -85810,7 +85912,7 @@
     "uuid": "8e58c5ef-dd3a-4b80-b50a-2e003b41f89e",
     "hash": "32e9e193f62e10447753ed9ff34f75fd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Pokemon Stadium/Petit Cup (Battles 4-6).mmrs",
+    "file": "Pokémon Stadium/Petit Cup (Battles 4-6).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
