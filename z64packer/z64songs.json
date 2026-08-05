@@ -10228,7 +10228,7 @@
     "uuid": "ea4d5a52-bf22-4d93-8a90-8a79ca5e6022",
     "creationDate": "2026-03-16T23:18:32.429Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "My Name's Booster",
+    "song": "And My Name's Booster",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -15178,7 +15178,7 @@
     "uuid": "ed78fee4-8bd2-4bbc-b734-a7351f273328",
     "creationDate": "2026-03-21T15:26:19.424Z",
     "game": "Super Mario Maker 2",
-    "song": "Super Mario World (Desert Theme)",
+    "song": "Desert (Super Mario World) [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -15194,8 +15194,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario Maker 2/Super Mario World (Desert Theme).mmrs",
-    "preview": "Super Mario Maker 2/Super Mario World (Desert Theme).ogg",
+    "file": "Super Mario Maker 2/Desert (Super Mario World) [2].mmrs",
+    "preview": "Super Mario Maker 2/Desert (Super Mario World) [2].ogg",
     "lufs": "-24.56",
     "hash": "377bcb4d72ffbebc5c0854aa9bd9767b"
   },
@@ -15275,7 +15275,7 @@
     "uuid": "60db1070-f7b2-430a-83b9-80d043e3b1a2",
     "creationDate": "2026-03-21T15:29:48.687Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "Beware of Forest Mushrooms (Variant A)",
+    "song": "Beware the Forest's Mushrooms",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -15287,8 +15287,8 @@
       "0",
       "2"
     ],
-    "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.ogg",
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms.ogg",
     "lastUpdateDate": "2026-04-10T13:25:44.381Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -15300,7 +15300,7 @@
     "uuid": "17bfb62f-2457-4bb7-b813-e8be734425e8",
     "creationDate": "2026-03-21T15:30:25.719Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "Shopping at Seaside Town",
+    "song": "Going Shopping in Seaside Town",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -15315,8 +15315,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario RPG Legend of the Seven Stars/Shopping at Seaside Town.mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Shopping at Seaside Town.ogg",
+    "file": "Super Mario RPG Legend of the Seven Stars/Going Shopping in Seaside Town.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Going Shopping in Seaside Town.ogg",
     "lufs": "-21.87",
     "hash": "268f0e269bc4c43c5ee6558be2f10347"
   },
@@ -32932,7 +32932,7 @@
     "uuid": "ddfe62b6-1766-4b4e-a4c4-fc1489c78055",
     "creationDate": "2026-04-10T13:26:53.686Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "Beware of Forest Mushrooms (Variant B)",
+    "song": "Beware the Forest's Mushrooms [2]",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -32944,8 +32944,8 @@
       "0",
       "1"
     ],
-    "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).ogg",
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms [2].mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -56793,7 +56793,7 @@
     "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
     "creationDate": "2026-05-04T19:56:17.777Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "Beware of the Forest Mushrooms (Nimpize Adventure Mix)",
+    "song": "Beware the Forest's Mushrooms (Nimpize Adventure Mix)",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -56809,7 +56809,7 @@
       "3",
       "6"
     ],
-    "file": "Super Mario RPG Legend of the Seven Stars/Beware of the Forest Mushrooms (Nimpize Adventure Mix).mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms (Nimpize Adventure Mix).mmrs",
     "preview": "https://www.youtube.com/watch?v=TxhsXKX_kDY",
     "lastUpdateDate": "2026-05-04T22:44:13.475Z",
     "usesCustomBank": false,
@@ -70334,15 +70334,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Spongebob Squarepants, Zelda64",
-    "song": "Shop Theme (Krusty Krab Mashup)",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shop (Krusty Krab Mix)",
     "converters": [
       "meloonics"
+    ],
+    "composers": [
+      "Koji Kondo",
+      "Robert Alexander White"
     ],
     "uuid": "23a32a47-9e7e-40c5-9985-ad6e00c05ab1",
     "hash": "203b18a169208df315931974ed01148b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Spongebob Squarepants, Zelda64/Shop Theme (Krusty Krab Mashup).mmrs",
+    "file": "The Legend of Zelda Ocarina of Time/Shop (Krusty Krab Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70350,7 +70354,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "The song is \"The Rake Hornpipe\" by Robert Alexander White, used as the Krusty Krab theme in SpongeBob."
   },
   {
     "game": "Wii Shop  Zelda64",
@@ -70580,7 +70585,7 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Versus",
+    "song": "VS. Battle 1",
     "composers": [
       "Hajime Wakai"
     ],
@@ -70590,7 +70595,7 @@
     "uuid": "8f98aa76-9084-45c9-b9a2-36a94d020853",
     "hash": "1b94c35ce841e0b9559980db02e183d7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Versus.mmrs",
+    "file": "Star Fox 64/VS. Battle 1.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74129,7 +74134,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario Galaxy 2 (2010)",
+    "game": "Super Mario Galaxy 2",
     "song": "Yoshi Star Galaxy",
     "composers": [
       "Koji Kondo"
@@ -74140,7 +74145,7 @@
     "uuid": "8f6b5acc-c18b-49e2-a75b-525241e67f80",
     "hash": "20180ea2ff9a7df882742962188bc73d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Galaxy 2 (2010)/Yoshi Star Galaxy.mmrs",
+    "file": "Super Mario Galaxy 2/Yoshi Star Galaxy.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74287,14 +74292,17 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Training Mode",
+    "song": "Training",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Hajime Wakai"
     ],
     "uuid": "f0702419-188f-4222-ae1f-6c23a6fa1bc8",
     "hash": "955d59f5bc4b2601479a8d825056c255",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Training Mode.mmrs",
+    "file": "Star Fox 64/Training.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74308,14 +74316,18 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Exposition Story/Map Select",
+    "song": "Map",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Hajime Wakai",
+      "Koji Kondo"
     ],
     "uuid": "8921bfc2-f5d1-49c0-afa0-72290322e620",
     "hash": "46fc8c03a1ff9d8fad1c538bd86d4055",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Exposition StoryMap Select.mmrs",
+    "file": "Star Fox 64/Map.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74330,14 +74342,14 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Player Down/Lose Life",
+    "song": "Player Down",
     "converters": [
       "ainurmusician64"
     ],
     "uuid": "1f5bf86f-8c8d-4a0d-916e-3aba58c411ae",
     "hash": "b0ea9b94e23570807a9ae4249e985412",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Player DownLose Life.mmrs",
+    "file": "Star Fox 64/Player Down.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -74351,14 +74363,17 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Warp Zone",
+    "song": "Warp",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Hajime Wakai"
     ],
     "uuid": "d9a54740-e886-4897-abf3-416e8624d4b5",
     "hash": "533bb15dfb140e4953ffe184c5d308a0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Warp Zone.mmrs",
+    "file": "Star Fox 64/Warp.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74371,14 +74386,17 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Mission Complete",
+    "song": "Mission Accomplished",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "d5244cb3-3fef-40e7-b0d8-42bbef52c920",
     "hash": "75719d53e164d49149473595fac5596f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Mission Complete.mmrs",
+    "file": "Star Fox 64/Mission Accomplished.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -74392,14 +74410,17 @@
   },
   {
     "game": "Star Fox 64",
-    "song": "Final Mission Accomplished",
+    "song": "All Clear",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "ff24791d-0d1f-4176-b5a0-74b9c4865dd6",
     "hash": "f117c843910ebeca8ea0b9fec6d837d1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Fox 64/Final Mission Accomplished.mmrs",
+    "file": "Star Fox 64/All Clear.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -74410,15 +74431,20 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario Wonder",
-    "song": "Wonder Effect: Going Up!",
+    "game": "Super Mario Bros. Wonder",
+    "song": "Medley-Mix Wonder",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "Shiho Fujii",
+      "Sayako Doi",
+      "Chisaki Shimazu"
     ],
     "uuid": "bd86c797-bbfc-48db-aec8-88c93c847ab7",
     "hash": "881b97b3ff1158db9f57bbac835e7fd3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Wonder/Wonder Effect Going Up!.mmrs",
+    "file": "Super Mario Bros. Wonder/Medley-Mix Wonder.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75038,10 +75064,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario Galaxy 2 (2010)",
+    "game": "Super Mario Galaxy 2",
     "song": "Cosmic Cove Galaxy",
     "composers": [
-      "Mahito Yokota, Ryō Nagamatsu, Koji Kondo"
+      "Mahito Yokota"
     ],
     "converters": [
       "Retroflex"
@@ -75049,7 +75075,7 @@
     "uuid": "8d03d889-2a3b-425b-a050-df6d8164e145",
     "hash": "6f126dfc4020a18bf5750f67963cfc9f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Galaxy 2 (2010)/Cosmic Cove Galaxy.mmrs",
+    "file": "Super Mario Galaxy 2/Cosmic Cove Galaxy.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77438,10 +77464,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario 3D World (2013)",
+    "game": "Super Mario 3D World",
     "song": "World Bowser",
     "composers": [
-      "Koji Kondo, Mahito Yokota, Toru Minegishi, Yasuaki Iwata"
+      "Mahito Yokota"
     ],
     "converters": [
       "Retroflex"
@@ -77449,7 +77475,7 @@
     "uuid": "4352f357-f64b-44ca-9430-e9d2072a4e26",
     "hash": "45401b347534d31490b5e2b3468fe341",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario 3D World (2013)/World Bowser.mmrs",
+    "file": "Super Mario 3D World/World Bowser.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77585,7 +77611,7 @@
     "notes": "what"
   },
   {
-    "game": "Super Mario Galaxy (2007)",
+    "game": "Super Mario Galaxy",
     "song": "Purple Comet",
     "composers": [
       "Mahito Yokota"
@@ -77596,7 +77622,7 @@
     "uuid": "8d91983d-d00a-4378-8cde-e0a2c6ee20e3",
     "hash": "b7a506829f6f3f0d843920562c8c826c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Galaxy (2007)/Purple Comet.mmrs",
+    "file": "Super Mario Galaxy/Purple Comet.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77862,7 +77888,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario Bros. 3 (1988)",
+    "game": "Super Mario Bros. 3",
     "song": "Underwater",
     "composers": [
       "Koji Kondo"
@@ -77873,7 +77899,7 @@
     "uuid": "7ae98ad2-e2b3-4f76-b451-df0683856deb",
     "hash": "3f772b1fb696cd33bb6888fe474fd2eb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Bros. 3 (1988)/Underwater.mmrs",
+    "file": "Super Mario Bros. 3/Underwater.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79075,7 +79101,7 @@
   },
   {
     "game": "Stardew Valley",
-    "song": "Tropicala (Summer Theme)",
+    "song": "Summer (Tropicala)",
     "composers": [
       "Eric Barone"
     ],
@@ -79085,7 +79111,7 @@
     "uuid": "60e7bae1-32a7-4b6c-b035-68d085e96938",
     "hash": "a41e1ccc2f98978f471b1971be6ec58d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Stardew Valley/Tropicala (Summer Theme).mmrs",
+    "file": "Stardew Valley/Summer (Tropicala).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79574,8 +79600,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "Going Shopping in Seaside Town",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Going Shopping in Seaside Town [2]",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -79585,7 +79611,7 @@
     "uuid": "04de0015-30c7-49eb-a7c4-cbb5527c7c44",
     "hash": "f4f5551bc6fa4d1f5c8777d4461e0285",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/Going Shopping in Seaside Town.mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Going Shopping in Seaside Town [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79985,8 +80011,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Starcraft",
-    "song": "Terran Theme 2",
+    "game": "StarCraft",
+    "song": "Terran 2",
     "composers": [
       "Glenn Stafford"
     ],
@@ -79996,7 +80022,7 @@
     "uuid": "52c6cad5-5f61-4759-a4d3-2911fcfbfbe7",
     "hash": "e026c37e5d0016863feb8578aa999e67",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Starcraft/Terran Theme 2.mmrs",
+    "file": "StarCraft/Terran 2.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80010,10 +80036,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Subway Surfer",
+    "game": "Subway Surfers",
     "song": "Main Theme",
     "composers": [
-      "SYBO Games"
+      "Morten Mygind",
+      "Bodie Jahn-Mulliner"
     ],
     "converters": [
       "TheRealReliable"
@@ -80021,7 +80048,7 @@
     "uuid": "ed2d58c2-e2e2-4a67-871b-c50b45815ebc",
     "hash": "2c3d3979762084205dba1125afece88a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Subway Surfer/Main Theme.mmrs",
+    "file": "Subway Surfers/Main Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80132,10 +80159,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario Maker 2 (2019)",
-    "song": "Snow (Super Mario Bros. 1)",
+    "game": "Super Mario Maker 2",
+    "song": "Snow (Super Mario Bros.)",
     "composers": [
-      "Koji Kondo, Atsuko Asahi, Toru Minegishi, Sayako Doi"
+      "Koji Kondo"
     ],
     "converters": [
       "Retroflex"
@@ -80143,7 +80170,7 @@
     "uuid": "b6968e59-6923-4196-a7e6-27563c683005",
     "hash": "1e8d9b4d55a525b248167362a0cb7dcd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Maker 2 (2019)/Snow (Super Mario Bros. 1).mmrs",
+    "file": "Super Mario Maker 2/Snow (Super Mario Bros.).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80842,6 +80869,11 @@
     "converters": [
       "3Pills"
     ],
+    "composers": [
+      "Toru Minegishi",
+      "Ryo Nagamatsu",
+      "Shiho Fujii"
+    ],
     "uuid": "7b3f00b2-5978-4cbc-ba86-f74af5ebc975",
     "hash": "d461ba1aa96fcbe8b05283582428067c",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -80888,15 +80920,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Star Trek The Next Generation",
-    "song": "Theme from *Star Trek* (Opening Fanfare Only)",
+    "game": "Star Trek: The Next Generation",
+    "song": "Where No Man Has Gone Before (Opening)",
     "converters": [
       "asticky"
+    ],
+    "composers": [
+      "Alexander Courage"
     ],
     "uuid": "e357473b-9608-49e4-ab56-8f9aebb62ee8",
     "hash": "34fec1ae5787c074ee792ea8e608d0f6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Trek The Next Generation/Theme from Star Trek (Opening Fanfare Only).mmrs",
+    "file": "Star Trek The Next Generation/Where No Man Has Gone Before (Opening).mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83112,15 +83147,15 @@
     "usesFormmask": false
   },
   {
-    "game": "Sponge Bob Square Pants",
-    "song": "SpongeBob_Nose_Flute",
+    "game": "SpongeBob SquarePants",
+    "song": "Nose Flute",
     "converters": [
       "asticky"
     ],
     "uuid": "23510710-9a44-44a9-a8c0-592001f5d34b",
     "hash": "8516a1f9bfc922e077fd9eec21a9684d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sponge Bob Square Pants/SpongeBob_Nose_Flute.mmrs",
+    "file": "SpongeBob SquarePants/Nose Flute.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -84323,15 +84358,15 @@
     "usesFormmask": false
   },
   {
-    "game": "Spongebob Squarepants",
-    "song": "Fog Horn Sound Effect (Yes i really did this)",
+    "game": "SpongeBob SquarePants",
+    "song": "Gross (MM Version)",
     "converters": [
       "BigBomba88"
     ],
     "uuid": "111a8c5f-6072-4aca-9497-af2f006effe7",
     "hash": "ea7ff76f115997491cf804341eecd7f7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Spongebob Squarepants/Fog Horn Sound Effect (Yes i really did this).mmrs",
+    "file": "SpongeBob SquarePants/Gross (MM Version).mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -84397,8 +84432,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "Let's Go Down the Wine River (Midas River)",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Let's Go Down the Wine River",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -84408,7 +84443,7 @@
     "uuid": "21292265-1c28-4de5-835c-5fa56c5b4e09",
     "hash": "7bc23af2e5d596511a448f67b7bf215b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/Let's Go Down the Wine River (Midas River).mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Let's Go Down the Wine River.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84475,8 +84510,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "Slope (Booster Hill)",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Slope",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -84486,7 +84521,7 @@
     "uuid": "5e24afa8-f672-4719-be16-54662bf18222",
     "hash": "f013a3fdf4e768f516a2def046e0d272",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/Slope (Booster Hill).mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Slope.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84629,8 +84664,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "The Merry Mary Bell Rings (MarryMore)",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "The Merry Mary Bell Rings",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -84640,7 +84675,7 @@
     "uuid": "6096feac-5d1d-4785-bbea-8645b5c48c78",
     "hash": "b8ac57ba7d276e93da15a6036d35ed80",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/The Merry Mary Bell Rings (MarryMore).mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/The Merry Mary Bell Rings.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84702,8 +84737,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "And My Name's Booster (Booster's Tower)",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "And My Name's Booster [2]",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -84713,7 +84748,7 @@
     "uuid": "b761679e-35a0-4327-bb86-87917e93384f",
     "hash": "83ca93f2548cc0c4e80d7a33842dece0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/And My Name's Booster (Booster's Tower).mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/And My Name's Booster [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84727,8 +84762,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "Beware the Forest's Mushrooms (Forest Maze)",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware the Forest's Mushrooms [3]",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -84738,7 +84773,7 @@
     "uuid": "047effa1-4b80-4a76-b1be-9f56d36515f5",
     "hash": "8184a61d710f9073bb059d22f875156a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/Beware the Forest's Mushrooms (Forest Maze).mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84752,8 +84787,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
-    "song": "Forest Maze Jazz Remix",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware the Forest's Mushrooms (Jazz Remix)",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -84763,7 +84798,7 @@
     "uuid": "e4b86315-7b50-4639-8b33-895c3f920532",
     "hash": "cab90846008e369e613adbbc0d60739f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/Forest Maze Jazz Remix.mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware the Forest's Mushrooms (Jazz Remix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85072,7 +85107,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario RPG",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
     "song": "Fight Against an Armed Boss",
     "composers": [
       "Yoko Shimomura"
@@ -85083,7 +85118,7 @@
     "uuid": "8d93afb9-a1e2-4dac-ab0e-acb688d19f76",
     "hash": "5d9cf5baf7369c15209ae1bf44f23b93",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario RPG/Fight Against an Armed Boss.mmrs",
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against an Armed Boss.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85341,7 +85376,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Spengrob",
+    "game": "SpongeBob SquarePants",
     "song": "Gross",
     "converters": [
       "Philos-Kun"
@@ -85349,7 +85384,7 @@
     "uuid": "7f6807e3-80db-4cd4-9e00-27f7e74f61c5",
     "hash": "a67e25e4d25e5fb87efc7b88f3960ccb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Spengrob/Gross.mmrs",
+    "file": "SpongeBob SquarePants/Gross.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86910,14 +86945,17 @@
   },
   {
     "game": "Star Ocean: The Second Story",
-    "song": "Stab the Sword of Justice (Battle theme)",
+    "song": "Stab the Sword of Justice",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Motoi Sakuraba"
     ],
     "uuid": "a85a4993-579b-4b37-b587-3e7bf13a57ac",
     "hash": "005b10253497325a9600fa73183eb094",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Star Ocean The Second Story/Stab the Sword of Justice (Battle theme).mmrs",
+    "file": "Star Ocean The Second Story/Stab the Sword of Justice.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
