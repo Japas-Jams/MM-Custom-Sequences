@@ -2018,6 +2018,7 @@
   },
   {
     "game": "The Binding of Isaac",
+    "series": "The Binding of Isaac Series",
     "logo": "https://i.imgur.com/tgJgzes.png"
   },
   {
@@ -4447,6 +4448,11 @@
     "logo": "https://images.launchbox-app.com/9bd67cf1-e9fb-49db-bd85-0c30f75e2f88.png"
   },
   {
+    "game": "beatmania IIDX 8th style",
+    "series": "beatmania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/78626c851895c44025fee9a402bdaf67.png"
+  },
+  {
     "game": "Blaster Master",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e0b9fd6b0c3ecc593dc48a5f639d6b49.png"
   },
@@ -4784,31 +4790,39 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/7d6548bdc0082aacc950ed35e91fcccb.png"
   },
   {
-    "game": "Super Mario 3D World (2013)"
+    "game": "George Frideric Handel",
+    "series": "Classical Compositions",
+    "logo": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-168966427.jpg",
+    "short_name": "Handel"
   },
   {
-    "game": "Super Mario Bros. 3 (1988)"
+    "game": "Parodius! From Myth to Laughter",
+    "logo": "https://images.launchbox-app.com/3a69be9e-e5a2-445f-ab29-7d4352425c28.png",
+    "short_name": "Parodius"
   },
   {
-    "game": "Super Mario Galaxy (2007)"
+    "game": "Family Guy",
+    "series": "TV and Movies",
+    "logo": "https://1000logos.net/wp-content/uploads/2020/11/Family-Guy-Logo.png"
   },
   {
-    "game": "Super Mario Galaxy 2 (2010)"
+    "game": "The PowerPuff Girls",
+    "series": "TV and Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Powerpuff_Girls_logo.svg/330px-The_Powerpuff_Girls_logo.svg.png"
   },
   {
-    "game": "Super Mario Maker 2 (2019)"
+    "game": "Myuu",
+    "series": "Royalty-Free Music",
+    "logo": "https://www.thedarkpiano.com/images/MyuuLogo.png"
   },
   {
-    "game": "Super Mario RPG"
+    "game": "Jet Lag: The Game",
+    "series": "TV and Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Jet_Lag%2C_The_Game_Logo.svg/500px-Jet_Lag%2C_The_Game_Logo.svg.png"
   },
   {
-    "game": "Super Mario Wonder"
-  },
-  {
-    "game": "Super Smash Bros. (N64)"
-  },
-  {
-    "game": "Super Smash Bros. (N64) x Metroid (NES)"
+    "game": "Wily Willy",
+    "series": "Original Compositions"
   },
   {
     "game": "Tears of the Kingdom"
@@ -4817,7 +4831,9 @@
     "game": "That Square Cheese that lives underwater"
   },
   {
-    "game": "The Binding of Isaac Antibirth"
+    "game": "The Binding of Isaac: Antibirth",
+    "series": "The Binding of Isaac Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/60dcc0d0012f3056175c01d54c2e1722.png"
   },
   {
     "game": "The Elder Scrolls 3 Morrowind"

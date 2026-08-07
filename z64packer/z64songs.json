@@ -26320,10 +26320,7 @@
     "game": "Super Mario Bros. Wonder",
     "song": "Piranha Plants On Parade",
     "composers": [
-      "Koji Kondo",
-      "Shiho Fujii",
-      "Sayako Doi",
-      "Chisaki Shimazu"
+      "Shiho Fujii"
     ],
     "converters": [
       "LoadingError"
@@ -26350,10 +26347,7 @@
     "game": "Super Mario Bros. Wonder",
     "song": "Piranha Plants On Parade (Vocal Mix)",
     "composers": [
-      "Koji Kondo",
-      "Shiho Fujii",
-      "Sayako Doi",
-      "Chisaki Shimazu"
+      "Shiho Fujii"
     ],
     "converters": [
       "LoadingError"
@@ -30579,7 +30573,7 @@
     "uuid": "904fc963-5419-4cf5-bab7-74f92f475799",
     "creationDate": "2026-04-05T03:50:13.467Z",
     "game": "Super Mario 64",
-    "song": "Slider (Variant A)",
+    "song": "Slider",
     "composers": [
       "Koji Kondo"
     ],
@@ -30594,8 +30588,8 @@
       "7"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario 64/Slider (Variant A).mmrs",
-    "preview": "Super Mario 64/Slider (Variant A).ogg",
+    "file": "Super Mario 64/Slider.mmrs",
+    "preview": "Super Mario 64/Slider.ogg",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-18.21",
@@ -30820,7 +30814,7 @@
     "uuid": "ab6a4f90-4559-47d8-a12f-eb0300b7f943",
     "creationDate": "2026-04-05T14:22:33.215Z",
     "game": "Super Mario 64",
-    "song": "Ultimate Koopa",
+    "song": "Ultimate Bowser [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -30834,8 +30828,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "file": "Super Mario 64/Ultimate Koopa.mmrs",
-    "preview": "Super Mario 64/Ultimate Koopa.mp3",
+    "file": "Super Mario 64/Ultimate Bowser [2].mmrs",
+    "preview": "Super Mario 64/Ultimate Bowser [2].mp3",
     "usesFormmask": false,
     "lufs": "-17.83",
     "hash": "78680b48b02bf24f94c0c4f2af15418b"
@@ -33336,8 +33330,8 @@
     "categories": [
       "4"
     ],
-    "file": "Super Mario 64/Wing Cap Theme (Romani).mmrs",
-    "preview": "Super Mario 64/Wing Cap Theme (Romani).ogg",
+    "file": "Super Mario 64/Wing Cap (Romani).mmrs",
+    "preview": "Super Mario 64/Wing Cap (Romani).ogg",
     "lastUpdateDate": "2026-04-10T13:46:18.811Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -33349,7 +33343,7 @@
     "uuid": "de1ff4ea-d202-4ce7-8105-e6eae2a7c63b",
     "creationDate": "2026-04-10T13:46:01.385Z",
     "game": "Super Mario 64",
-    "song": "Wing Cap (Original)",
+    "song": "Wing Cap",
     "composers": [
       "Koji Kondo"
     ],
@@ -33360,8 +33354,8 @@
     "categories": [
       "4"
     ],
-    "file": "Super Mario 64/Wing Cap (Original).mmrs",
-    "preview": "Super Mario 64/Wing Cap (Original).ogg",
+    "file": "Super Mario 64/Wing Cap.mmrs",
+    "preview": "Super Mario 64/Wing Cap.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -50321,7 +50315,7 @@
     "uuid": "d9cff35c-7e23-420c-8a51-e781709caf35",
     "creationDate": "2026-05-03T21:50:42.008Z",
     "game": "Super Mario 64",
-    "song": "Ultimate Bowser (Variant A)",
+    "song": "Ultimate Bowser",
     "composers": [
       "Koji Kondo"
     ],
@@ -50332,8 +50326,8 @@
     "categories": [
       "7"
     ],
-    "file": "Super Mario 64/Ultimate Bowser (Variant A).mmrs",
-    "preview": "Super Mario 64/Ultimate Bowser (Variant A).mp3",
+    "file": "Super Mario 64/Ultimate Bowser.mmrs",
+    "preview": "Super Mario 64/Ultimate Bowser.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -50695,7 +50689,7 @@
     "uuid": "ca09abf7-e8d3-471f-b7f5-705376f1f993",
     "creationDate": "2026-05-04T02:31:11.314Z",
     "game": "Super Mario 64",
-    "song": "Slider (Variant B)",
+    "song": "Slider [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -50708,8 +50702,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario 64/Slider (Variant B).mmrs",
-    "preview": "Super Mario 64/Slider (Variant B).mp3",
+    "file": "Super Mario 64/Slider [2].mmrs",
+    "preview": "Super Mario 64/Slider [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-20.46",
@@ -67693,7 +67687,7 @@
   },
   {
     "game": "Super Mario 64",
-    "song": "Dire Dire Docks (Or Jolly Roger Bay)",
+    "song": "Dire, Dire Docks [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -67703,7 +67697,7 @@
     "uuid": "f6087f06-9e61-4d7f-8869-9c39852ea126",
     "hash": "e8f0b96b508d1fc6c93f42cc8d53364a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario 64/Dire Dire Docks (Or Jolly Roger Bay).mmrs",
+    "file": "Super Mario 64/Dire, Dire Docks [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -67738,15 +67732,18 @@
     "usesFormmask": false
   },
   {
-    "song": "horonvillage",
-    "game": "TODO",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Horon Village",
     "converters": [
-      "amalgorithmic"
+      "Amalgorithmic"
+    ],
+    "composers": [
+      "Minako Adachi"
     ],
     "uuid": "cccf5e50-e8ec-49ea-9641-4fa5d13f74ec",
     "hash": "f062f85eddbb6aa1b177474ad8b8f325",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/horonvillage.mmrs",
+    "file": "The Legend of Zelda Oracle of Seasons/Horon Village.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68039,6 +68036,10 @@
     "song": "Boss Battle",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
     ],
     "uuid": "0f6f36ef-c91a-4787-8ab9-82626a6b68eb",
     "hash": "225b2e34a4986cabb7a261f5036f7afc",
@@ -69346,7 +69347,7 @@
     "game": "Kirby Super Star",
     "song": "Vs. Marx",
     "converters": [
-      "amalgorithmic"
+      "Amalgorithmic"
     ],
     "composers": [
       "Jun Ishikawa"
@@ -69984,18 +69985,18 @@
     "usesFormmask": false
   },
   {
-    "song": "The PowerPuff Girls (End Theme)",
+    "game": "The PowerPuff Girls",
+    "song": "End Theme",
     "composers": [
       "Bis"
     ],
     "converters": [
       "QueenSnopea"
     ],
-    "game": "TODO",
     "uuid": "142e7f7d-80c8-4d81-b861-e589103dcd5c",
     "hash": "a2d5985b9de55e9b45e46d0fa282110e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/The PowerPuff Girls (End Theme).mmrs",
+    "file": "The PowerPuff Girls/End Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70011,15 +70012,18 @@
     "usesFormmask": false
   },
   {
-    "song": "AoiShoudou",
-    "game": "TODO",
+    "song": "Aoi Shoudou",
+    "game": "beatmania IIDX 8th style",
     "converters": [
       "Nika~"
+    ],
+    "composers": [
+      "Naoki Maeda"
     ],
     "uuid": "7daed467-80a0-486e-a15d-a14edc75cd32",
     "hash": "f0a69941ea123408713f362268f12e9c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/AoiShoudou.mmrs",
+    "file": "beatmania IIDX 8th style/Aoi Shoudou.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70243,10 +70247,10 @@
     "usesFormmask": false
   },
   {
-    "game": "The Binding of Isaac Antibirth",
+    "game": "The Binding of Isaac: Antibirth",
     "song": "Innocence Glitched",
     "composers": [
-      "mudeth"
+      "Mudeth"
     ],
     "converters": [
       "meloonics"
@@ -70267,10 +70271,10 @@
     "usesFormmask": false
   },
   {
-    "game": "The Binding of Isaac Antibirth",
+    "game": "The Binding of Isaac: Antibirth",
     "song": "Machine in the Walls",
     "composers": [
-      "mudeth"
+      "Mudeth"
     ],
     "converters": [
       "meloonics"
@@ -70291,15 +70295,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Antibirth_-_Planetarium",
-    "game": "TODO",
+    "song": "The Binding of Isaac: Antibirth",
+    "game": "Journey from a Jar to the Sky",
     "converters": [
       "meloonics"
+    ],
+    "composers": [
+      "Mudeth"
     ],
     "uuid": "81b0c241-b6e2-449e-a6a3-4e5b9fbf4b2d",
     "hash": "f6b9d440994bc86e9000fe7964061e78",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Antibirth_-_Planetarium.mmrs",
+    "file": "The Binding of Isaac Antibirth/Journey from a Jar to the Sky.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70403,15 +70410,18 @@
     "usesFormmask": false
   },
   {
+    "game": "The Legend of Zelda: Majora's Mask",
     "song": "Woodfall Temple (Cish Remix)",
     "converters": [
       "meloonics"
     ],
-    "game": "TODO",
+    "composers": [
+      "Koji Kondo"
+    ],
     "uuid": "28c88af4-f280-452d-8c42-2cea32bb7ba1",
     "hash": "9b1e2bc250982633c0f9d5ebe50aa02f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Woodfall Temple (Cish Remix).mmrs",
+    "file": "The Legend of Zelda Majora's Mask/Woodfall Temple (Cish Remix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70429,7 +70439,7 @@
       "Jun Ishikawa"
     ],
     "converters": [
-      "amalgorithmic"
+      "Amalgorithmic"
     ],
     "uuid": "81ad7873-b328-431c-afd6-a0a3d1faaa98",
     "hash": "2a3965376cefdad71fb057a1079b980a",
@@ -71049,27 +71059,6 @@
     "type": "fanfare",
     "categories": [
       "8",
-      "10"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Super Smash Bros. Brawl",
-    "song": "Fire Emblem Victory",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "72667d1d-63f7-4059-a015-527cd1553f51",
-    "hash": "f6a66367bd6a68906c6b5120d8928da3",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros Brawl/Fire Emblem Victory.mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "8",
-      "9",
       "10"
     ],
     "usesCustomBank": false,
@@ -71737,15 +71726,18 @@
     "usesFormmask": false
   },
   {
-    "song": "The First Note of Ultra Instinct (fixed so it doesn't loop lmao)",
+    "game": "Memes",
+    "song": "The First Note of Ultra Instinct",
     "converters": [
       "Vidya James"
     ],
-    "game": "TODO",
+    "composers": [
+      "Norihito Sumitomo"
+    ],
     "uuid": "441e4b35-075b-4952-9f5b-6ca585a51941",
     "hash": "ad034ab6e35cb3f2a21b84ad3d602708",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/The First Note of Ultra Instinct (fixed so it doesn't loop lmao).mmrs",
+    "file": "Memes/The First Note of Ultra Instinct.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -71855,7 +71847,7 @@
   },
   {
     "game": "Super Mario Odyssey",
-    "song": "Bubblaine (Seaside Kingdom)",
+    "song": "Bubblaine",
     "composers": [
       "Naoto Kubo"
     ],
@@ -71865,7 +71857,7 @@
     "uuid": "e7702ce1-9092-4013-a516-94effcb5581a",
     "hash": "c14cb418a5925b08ffef1f2ed6ffd733",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Odyssey/Bubblaine (Seaside Kingdom).mmrs",
+    "file": "Super Mario Odyssey/Bubblaine.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71959,6 +71951,9 @@
     "song": "Character Unlocked",
     "converters": [
       "Vidya James"
+    ],
+    "composers": [
+      "Kenta Nagata"
     ],
     "uuid": "3bffad5c-6d66-41ce-9d16-d6a39df47e81",
     "hash": "37d34dde1d39c6193970ae451faf01ee",
@@ -73296,15 +73291,20 @@
     "usesFormmask": false
   },
   {
-    "game": "TODO",
+    "game": "Yu-Gi-Oh! Forbidden Memories",
     "song": "Free Duel",
     "converters": [
-      "revven"
+      "Anonymous"
+    ],
+    "composers": [
+      "Naoko Ishii",
+      "Hiroshi Tanabe",
+      "Waichiro Ozaki"
     ],
     "uuid": "dad34b28-c01a-43ac-9725-1864da8fdf2b",
     "hash": "c2e409a46f4ca3668447bb13dfa3b8f9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Free Duel.mmrs",
+    "file": "Yu-Gi-Oh! Forbidden Memories/Free Duel.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73426,15 +73426,18 @@
     "usesFormmask": false
   },
   {
+    "game": "Memes",
     "song": "Poyo",
     "converters": [
       "Philos-Kun"
     ],
-    "game": "TODO",
+    "composers": [
+      "Makiko Omoto"
+    ],
     "uuid": "a16a12cf-baee-4f54-b105-fec7b34f4ba4",
     "hash": "69da631a9f7e989e60f4dd5e3e78b9dd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Poyo.mmrs",
+    "file": "Memes/Poyo.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -73442,18 +73445,22 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Used as Kirby's voice in the anime: Kirby's Right Back at Ya!"
   },
   {
     "game": "Super Mario Sunshine",
     "converters": [
       "Fish_waffle64"
     ],
-    "song": "sms-toobad",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "song": "Too Bad!",
     "uuid": "56d12bce-8773-4abe-9a2b-c4c7db14e609",
     "hash": "5376a19c7ed40520d44e9b99dae1e5be",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Sunshine/sms-toobad.mmrs",
+    "file": "Super Mario Sunshine/Too Bad!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -73465,15 +73472,18 @@
     "usesFormmask": false
   },
   {
+    "game": "Memes",
     "song": "Oof",
     "converters": [
       "Philos-Kun"
     ],
-    "game": "TODO",
+    "composers": [
+      "Tommy Tallarico"
+    ],
     "uuid": "1380b40b-36cb-40b9-ad6d-2e3e1fb50590",
     "hash": "1879129d4786e6edfcd25b8f5e074431",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Oof.mmrs",
+    "file": "Memes/Oof.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -73482,7 +73492,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Originally from Messiah, and then taken by Roblox. Or was it the other way?"
   },
   {
     "game": "Super Mario Sunshine",
@@ -74163,14 +74174,17 @@
   },
   {
     "game": "Super Mario 64",
-    "song": "Ultimate Koopa / Final Bowser",
+    "song": "Ultimate Bowser [3]",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "5c09ee70-b566-4019-95bf-bd387fa77cbd",
     "hash": "dfdcfcd7755767860999ea4627fa0ef7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario 64/Ultimate Koopa  Final Bowser.mmrs",
+    "file": "Super Mario 64/Ultimate Bowser [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75532,11 +75546,14 @@
     "converters": [
       "Fish_waffle64"
     ],
-    "song": "smw-f-loselife",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "song": "Lose Life",
     "uuid": "778827f2-a04c-4ecc-8d30-646bb5004ccb",
     "hash": "910b3ab25a0a1bbec2e50000c959035e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World/smw-f-loselife.mmrs",
+    "file": "Super Mario World/Lose Life.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -75829,6 +75846,9 @@
     "converters": [
       "LoadingError"
     ],
+    "composers": [
+      "Shiho Fujii"
+    ],
     "uuid": "7d1138a0-99df-4196-a4ed-02ce57ed6123",
     "hash": "c18e4146f6268da8c06dd402cfec97b5",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -76010,6 +76030,7 @@
     "usesFormmask": false
   },
   {
+    "game": "Wily Willy",
     "song": "Geomancer: Ingot",
     "composers": [
       "Wily Willy"
@@ -76017,11 +76038,10 @@
     "converters": [
       "Wily Willy"
     ],
-    "game": "TODO",
     "uuid": "096e17bf-68a0-485e-b912-f98ba8311720",
     "hash": "5f2b7b3caa776b1f7fa073bff30f8325",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Geomancer Ingot.mmrs",
+    "file": "Wily Willy/Geomancer Ingot.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76035,18 +76055,18 @@
     "usesFormmask": false
   },
   {
-    "song": "\"The Hallelujah Chorus\" 👼 (HWV 56, Part II: Messiah)",
+    "game": "George Frideric Handel",
+    "song": "Hallelujah Chorus",
     "composers": [
-      "George Frideric Handel (1685-1759)"
+      "George Frideric Handel"
     ],
-    "game": "TODO",
     "converters": [
       "ainurmusician64"
     ],
     "uuid": "00cb1470-2f58-4baa-b92d-509dce729485",
     "hash": "80296846a5baa31c61378bc53ba19af5",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/The Hallelujah Chorus 👼 (HWV 56, Part II Messiah).mmrs",
+    "file": "George Frideric Handel/Hallelujah Chorus.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76054,7 +76074,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "The final movement of the Messiah Part II."
   },
   {
     "game": "Castlevania: Symphony of the Night",
@@ -77119,18 +77140,19 @@
     "usesFormmask": false
   },
   {
+    "game": "SpongeBob SquarePants",
     "song": "Grass Skirt Chase",
     "composers": [
-      "Sage Guyton, Jeremy Wakefield"
+      "Sage Guyton",
+      "Jeremy Wakefield"
     ],
     "converters": [
       "MLPFun"
     ],
-    "game": "TODO",
     "uuid": "4b361e7f-5adf-4590-aa75-01ab1b9a5f51",
     "hash": "200fc2d68d1c5903b1233612ea5d4171",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Grass Skirt Chase.mmrs",
+    "file": "SpongeBob SquarePants/Grass Skirt Chase.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78619,7 +78641,8 @@
     "game": "Super Mario Sunshine",
     "song": "Hotel Delfino",
     "composers": [
-      "Kōji Kondō und Shinobu Tanaka"
+      "Koji Kondo",
+      "Shinobu Tanaka"
     ],
     "converters": [
       "TheRealReliable"
@@ -79511,7 +79534,7 @@
   },
   {
     "game": "Super Mario 64",
-    "song": "Cool Cool Mountain",
+    "song": "Cool, Cool Mountain [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -79521,7 +79544,7 @@
     "uuid": "b072fcfd-7b62-4f97-9a69-95af1cda3e5a",
     "hash": "8bc1b3fac43654a4f575240889582527",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario 64/Cool Cool Mountain.mmrs",
+    "file": "Super Mario 64/Cool, Cool Mountain [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79726,6 +79749,7 @@
     "usesFormmask": false
   },
   {
+    "game": "Memes",
     "song": "The Penis (Eek)",
     "composers": [
       "Surasshu"
@@ -79733,11 +79757,10 @@
     "converters": [
       "Zeraphyr"
     ],
-    "game": "TODO",
     "uuid": "e56ff00a-98fe-4f3e-96f5-51a9e9d734f8",
     "hash": "f05f14f750156ae87ad807035c0c30b2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/The Penis (Eek).mmrs",
+    "file": "Memes/The Penis (Eek).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80186,18 +80209,18 @@
     "usesFormmask": false
   },
   {
+    "game": "Myuu",
     "song": "Living in the Dark",
     "composers": [
       "Myuu"
     ],
-    "game": "TODO",
     "converters": [
       "TheRealReliable"
     ],
     "uuid": "52ff7bb4-fd19-4407-b4be-7d3637e6b999",
     "hash": "b2f3940c2ddb15e3c3d0494a22d7ed0e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Living in the Dark.mmrs",
+    "file": "Myuu/Living in the Dark.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80260,7 +80283,7 @@
   },
   {
     "game": "Super Mario 64",
-    "song": "Main Theme / Bob-omb Battlefield",
+    "song": "Bob-Omb Battlefield [3]",
     "composers": [
       "Koji Kondo"
     ],
@@ -80270,7 +80293,7 @@
     "uuid": "f79b884d-3954-4c37-a1df-8cf2cfb58a50",
     "hash": "4f1c2165793ef1bca81a1c8bf18660ce",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario 64/Main Theme  Bob-omb Battlefield.mmrs",
+    "file": "Super Mario 64/Bob-Omb Battlefield [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80678,17 +80701,17 @@
   },
   {
     "game": "ULTRAKILL",
-    "song": "ORDER (Minos Prime battle music)",
+    "song": "ORDER",
     "composers": [
-      "[Heaven Pierce Her / Arsi \"Hakita\" Patala](https://heavenpierceher.bandcamp.com/album/ultrakill-chaos-order)"
+      "Heaven Pierce Her"
     ],
     "converters": [
-      "Me, Asticky :)"
+      "Asticky"
     ],
     "uuid": "03d54719-fa31-4d3a-bdd2-f6a0221e589d",
     "hash": "de7f4108ff621fc0e3012345a9b34a8d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "ULTRAKILL/ORDER (Minos Prime battle music).mmrs",
+    "file": "ULTRAKILL/ORDER.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80729,15 +80752,18 @@
     "usesFormmask": false
   },
   {
-    "song": "ULTRAKILL_-_ORDER_No_Intro",
-    "game": "TODO",
+    "game": "ULTRAKILL",
+    "song": "ORDER (No Intro)",
     "converters": [
-      "asticky"
+      "Asticky"
+    ],
+    "composers": [
+      "Heaven Pierce Her"
     ],
     "uuid": "cdadeb81-8ec6-443e-9f9b-7d4f7fc5b3dc",
     "hash": "5c3fe96c38a8c1605c9672f492a429a0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/ULTRAKILL_-_ORDER_No_Intro.mmrs",
+    "file": "ULTRAKILL/ORDER (No Intro).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80923,7 +80949,7 @@
     "game": "Star Trek: The Next Generation",
     "song": "Where No Man Has Gone Before (Opening)",
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "composers": [
       "Alexander Courage"
@@ -80944,15 +80970,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Smash Bros. (N64) x Metroid (NES)",
-    "song": "Planet Zebes Stage",
+    "game": "Super Smash Bros.",
+    "song": "Planet Zebes",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Horikazu Tanaka",
+      "Horikazu Ando"
     ],
     "uuid": "19edbe1b-c236-4400-bafb-f1211f6ea2ea",
     "hash": "4450329aed0821d63729de6f9b105e29",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros. (N64) x Metroid (NES)/Planet Zebes Stage.mmrs",
+    "file": "Super Smash Bros/Planet Zebes.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80993,35 +81023,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Smash Bros. (N64)",
-    "song": "https://discord.com/channels/547921289554296832/855532030984716328/1462944136121422033",
-    "composers": [
-      "Horikazu Ando"
-    ],
-    "converters": [
-      "ainurmusician64"
-    ],
-    "uuid": "c1ac5ec7-8b7b-43e7-9de4-775dddcb4a9d",
-    "hash": "4d1403759062ef1eaad73bb669e8070d",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros. (N64)/httpsdiscord.comchannels5479212895542968328555320309847163281462944136121422033.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
-    "game": "Super Smash Bros. (N64)",
-    "song": "Vs. Fighting Polygon Team / Duel Zone (aka Battlefield)",
+    "game": "Super Smash Bros.",
+    "song": "Duel Zone",
     "composers": [
       "Horikazu Ando"
     ],
@@ -81031,36 +81034,12 @@
     "uuid": "8d428ec3-17b4-497f-a810-c972be359351",
     "hash": "4b1ca0e4eedff1127703e3a7a9d4f2e8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros. (N64)/Vs. Fighting Polygon Team  Duel Zone (aka Battlefield).mmrs",
+    "file": "Super Smash Bros/Duel Zone.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
       "0",
       "1",
-      "4",
-      "5",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
-    "game": "Super Smash Bros. (N64)",
-    "song": "https://discord.com/channels/547921289554296832/855532030984716328/1465800601173622963",
-    "composers": [
-      "Horikazu Ando"
-    ],
-    "converters": [
-      "ainurmusician64"
-    ],
-    "uuid": "b4cbb46e-af19-4c42-910c-34bf22bb58a2",
-    "hash": "11014839d00c54dca76b10cae1979cbf",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros. (N64)/httpsdiscord.comchannels5479212895542968328555320309847163281465800601173622963.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
       "4",
       "5",
       "7"
@@ -81071,17 +81050,17 @@
   },
   {
     "game": "ULTRAKILL",
-    "song": "The Fire Is Gone (Main menu/title theme)",
+    "song": "The Fire Is Gone",
     "composers": [
-      "[Heaven Pierce Her / Arsi \"Hakita\" Patala](https://heavenpierceher.bandcamp.com/album/ultrakill-infinite-hyperdeath)"
+      "Heaven Pierce Her"
     ],
     "converters": [
-      "Me, Asticky :)"
+      "Asticky"
     ],
     "uuid": "379cb71b-0e1e-40e9-80d9-11236fc54708",
     "hash": "6e094760d153d843c000172b9aeefe28",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "ULTRAKILL/The Fire Is Gone (Main menutitle theme).mmrs",
+    "file": "ULTRAKILL/The Fire Is Gone.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81242,17 +81221,17 @@
   },
   {
     "game": "Super Mario Odyssey",
-    "song": "Steam Gardens (Calm, Sherm)",
+    "song": "Steam Gardens",
     "composers": [
-      "Koji Kondo, Shiho Fujii, Naoto Kubo"
+      "Koji Kondo"
     ],
     "converters": [
-      "Me, Asticky <:me:1276698417762144398>"
+      "Asticky"
     ],
     "uuid": "d2b88e0a-8c82-4ff5-9d19-be76ecc7747a",
     "hash": "b05b7debebb70d5f16fec40e14a3c305",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Odyssey/Steam Gardens (Calm, Sherm).mmrs",
+    "file": "Super Mario Odyssey/Steam Gardens.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81263,7 +81242,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
-    "usesFormmask": true
+    "usesFormmask": true,
+    "notes": "Changes between the calm and sherm versions depending on combat."
   },
   {
     "game": "Final Fantasy VIII",
@@ -81365,15 +81345,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Giant_Enemy_Spider",
-    "game": "TODO",
+    "song": "Giant Enemy Spider",
+    "game": "Memes",
     "converters": [
-      "asticky"
+      "Asticky"
+    ],
+    "composers": [
+      "Jerma985"
     ],
     "uuid": "bc843973-0840-4b3d-b926-0e3ee7eec551",
     "hash": "356093192225ecf72fe7391368236ed7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Giant_Enemy_Spider.mmrs",
+    "file": "Memes/Giant Enemy Spider.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -81390,6 +81373,9 @@
     "song": "Altars of Apostasy",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "Heaven Pierce Her"
     ],
     "uuid": "abadce22-9e21-4e0e-aa30-9a09ec2c1874",
     "hash": "7ae8b9a6d1c526bba92b65b4f476570e",
@@ -81584,7 +81570,7 @@
     "song": "Super_Mario_Odyssey_-_Steam_Gardens",
     "game": "TODO",
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "6ee050cc-1438-41cc-a155-6f7da01d7c83",
     "hash": "b05b7debebb70d5f16fec40e14a3c305",
@@ -81882,15 +81868,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Shadow_the_Hedgehog_-_Sad_Ending",
-    "game": "TODO",
+    "game": "Shadow the Hedgehog",
+    "song": "Sad Ending",
     "converters": [
       "Oobie"
+    ],
+    "composers": [
+      "Jun Senoue"
     ],
     "uuid": "0bc18c7f-1693-4f2a-b938-5fdd4f04765c",
     "hash": "ef7f286dced307be201e1c939c789f80",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Shadow_the_Hedgehog_-_Sad_Ending.mmrs",
+    "file": "Shadow the Hedgehog/Sad Ending.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82266,7 +82255,7 @@
       "Dess Holiday"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "41d5fec4-06c4-4b1b-b1de-0557f8dbc3b5",
     "hash": "a2c5edab1705378e6fc341ec2cc77f8c",
@@ -82535,7 +82524,7 @@
     "game": "Super Mario Sunshine",
     "song": "Gelato Beach [2]",
     "composers": [
-      "Koji Kondo and Shinobu Tanaka"
+      "Koji Kondo"
     ],
     "converters": [
       "TheRealReliable"
@@ -82726,22 +82715,43 @@
     "game": "Deltarune",
     "song": "snd_ominous",
     "converters": [
-      "asticky"
+      "Asticky"
     ],
-    "uuid": "9a9a2438-1849-4c4b-a82b-5eced546ef01",
-    "hash": "713d43e8674a86ddd4c785b234e3fb01",
+    "composers": [
+      "Toby Fox"
+    ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Deltarune/snd_ominous.mmrs",
     "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "8",
-      "9",
-      "10"
+    "type": "fanfare"
+  },
+  {
+    "game": "Deltarune",
+    "song": "snd_ominous_cancel",
+    "converters": [
+      "Asticky"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "composers": [
+      "Toby Fox"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Deltarune/snd_ominous_cancel.mmrs",
+    "preview": "",
+    "type": "fanfare"
+  },
+  {
+    "game": "Deltarune",
+    "song": "snd_ominous_worse",
+    "converters": [
+      "Asticky"
+    ],
+    "composers": [
+      "Toby Fox"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Deltarune/snd_ominous_worse.mmrs",
+    "preview": "",
+    "type": "fanfare"
   },
   {
     "game": "Paper Mario: Color Splash",
@@ -82792,17 +82802,17 @@
   },
   {
     "game": "ULTRAKILL",
-    "song": "SANDS OF TIDE (`GREED /// SECOND - GOD DAMN THE SUN`)",
+    "song": "Sands of Tide",
     "composers": [
-      "[Heaven Pierce Her / Arsi \"Hakita\" Patala](https://heavenpierceher.bandcamp.com/album/ultrakill-imperfect-hatred)"
+      "Heaven Pierce Her"
     ],
     "converters": [
-      "Me, Asticky :)"
+      "Asticky"
     ],
     "uuid": "26018ef4-48bb-47d5-89fe-6373e758d8ba",
     "hash": "73b0566e08af0d1cc5a3f7c40591e7b2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "ULTRAKILL/SANDS OF TIDE (`GREED  SECOND - GOD DAMN THE SUN`).mmrs",
+    "file": "ULTRAKILL/Sands of Tide.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83150,7 +83160,7 @@
     "game": "SpongeBob SquarePants",
     "song": "Nose Flute",
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "23510710-9a44-44a9-a8c0-592001f5d34b",
     "hash": "8516a1f9bfc922e077fd9eec21a9684d",
@@ -83442,7 +83452,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "5edbaa4c-2b75-49c2-8fc2-4c33cec59164",
     "hash": "c584177bcb59e62eb23f3db6ef8f6610",
@@ -83509,7 +83519,7 @@
       "Toby Fox"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "41e81c0b-6aff-4c9f-b050-3215a7444452",
     "hash": "47b80050b929ab2e64f580bb83491726",
@@ -83694,30 +83704,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Deltarune",
-    "song": "`snd_ominous(_cancel|_worse)`",
-    "composers": [
-      "Toby \"Radiation\" Fox"
-    ],
-    "converters": [
-      "asticky"
-    ],
-    "uuid": "6d34baed-b4ae-4784-93fb-74fe7ce9f066",
-    "hash": "e9275591254e6a50bc9ed75601553068",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Deltarune/`snd_ominous(_cancel_worse)`.mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "8",
-      "9",
-      "10"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Pokémon 2000",
     "song": "Beast of the Sea",
     "composers": [
@@ -83748,7 +83734,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "66e5fec3-65ea-47c7-9e71-9cb02f6c8b42",
     "hash": "18fa2eb40a6e19e15ee06b083489a61d",
@@ -83815,17 +83801,17 @@
   },
   {
     "game": "Super Mario Galaxy",
-    "song": "File Select (w/ drums: Combat, Goron spike rolling)",
+    "song": "File Select",
     "composers": [
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "8f79863d-f93d-4fd6-8756-efd4660abcbf",
     "hash": "39fad1a38b0a95b36e6d964bce49a511",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Galaxy/File Select (w drums Combat, Goron spike rolling).mmrs",
+    "file": "Super Mario Galaxy/File Select.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83835,7 +83821,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
-    "usesFormmask": true
+    "usesFormmask": true,
+    "notes": "With drums while combat or goron spike rolling."
   },
   {
     "game": "Persona 4",
@@ -84012,7 +83999,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "3f35593a-151c-4882-8b79-7ea606753dc2",
     "hash": "e85f8f8dbaade4c1910e8aa077e9ccc8",
@@ -84116,7 +84103,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "1a63c562-ad1e-43fd-8acc-b1c80049af57",
     "hash": "f1081237fe0b63f1abac29ddeff3b9e2",
@@ -84484,14 +84471,17 @@
   },
   {
     "song": "Old Spice Whistle",
-    "game": "TODO",
+    "game": "Memes",
     "converters": [
       "TheRealReliable"
+    ],
+    "composers": [
+      "Ginger Johnson"
     ],
     "uuid": "9bfc88f5-b223-4d2f-9ee6-504b04541b07",
     "hash": "bc2b4c5b4705a24db7b1588eef1659c2",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Old Spice Whistle.mmrs",
+    "file": "Memes/Old Spice Whistle.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -84537,14 +84527,17 @@
   },
   {
     "game": "Super Mario 64",
-    "song": "Yahoo",
+    "song": "Yahoo!",
     "converters": [
       "TheRealReliable"
+    ],
+    "composers": [
+      "Charles Martinet"
     ],
     "uuid": "b31a055e-1eb9-4f08-b62d-ff0245e4fb82",
     "hash": "0493bf5bc1134fcbdd52119effe745e8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario 64/Yahoo.mmrs",
+    "file": "Super Mario 64/Yahoo!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -84592,7 +84585,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "200a992c-6ef9-47f3-b722-8b486607a971",
     "hash": "c98df7563afc6d702ccdcf7aa179d671",
@@ -85010,7 +85003,7 @@
   },
   {
     "game": "Super Mario World",
-    "song": "Castle",
+    "song": "Fortress",
     "composers": [
       "Koji Kondo"
     ],
@@ -85020,7 +85013,7 @@
     "uuid": "e00330ed-30f8-4aff-8685-2c51b899c5c4",
     "hash": "082b0e995fc59a802cac216f1b76f368",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World/Castle.mmrs",
+    "file": "Super Mario World/Fortress.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85270,14 +85263,17 @@
   },
   {
     "game": "Super Mario Galaxy",
-    "song": "Attack of the Airships (Prologue A & Fanfare C) / Airship Theme (B)",
+    "song": "Attack of the Airships",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Mahito Yokota"
     ],
     "uuid": "7d7ba4b4-4f93-4d08-a184-5f3bc1c6a497",
     "hash": "e1212c9147556dde641cf521cbb2da03",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Galaxy/Attack of the Airships (Prologue A & Fanfare C)  Airship Theme (B).mmrs",
+    "file": "Super Mario Galaxy/Attack of the Airships.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85419,15 +85415,18 @@
     "usesFormmask": false
   },
   {
+    "game": "SpongeBob SquarePants",
     "song": "Tomfoolery",
     "converters": [
       "Philos-Kun"
     ],
-    "game": "TODO",
+    "composers": [
+      "David Snell"
+    ],
     "uuid": "dcaac894-92ba-4b1e-8693-be302931c64b",
     "hash": "5a2a9485e133e20bb7d1b402b408b798",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Tomfoolery.mmrs",
+    "file": "SpongeBob SquarePants/Tomfoolery.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86024,14 +86023,17 @@
   },
   {
     "game": "Super Smash Bros.",
-    "song": "Bonus Stage (Target Practice)",
+    "song": "Bonus Stage",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Hirokazu Ando"
     ],
     "uuid": "6ed3cc13-3916-4988-a254-5ac40ed43c2b",
     "hash": "a34e95231aae807e97349f2ceb9799bb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros/Bonus Stage (Target Practice).mmrs",
+    "file": "Super Smash Bros/Bonus Stage.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86127,17 +86129,17 @@
   },
   {
     "game": "Super Mario Galaxy",
-    "song": "To The Gateway/Gateway Galaxy",
+    "song": "Gateway Galaxy",
     "composers": [
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "9ec88645-bfca-4945-b213-92fdd65e7a23",
     "hash": "6751a1e6af0da95824b80b4332603b53",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario Galaxy/To The GatewayGateway Galaxy.mmrs",
+    "file": "Super Mario Galaxy/Gateway Galaxy.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86157,7 +86159,7 @@
       "Naoko Mitome, Masanobu Matsunaga, Yasuhisa Baba"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "eca00398-61c5-48be-95ce-7be28163037f",
     "hash": "7b4e356c6327e8c5b07c3bdf0fbe41b6",
@@ -86227,14 +86229,17 @@
   },
   {
     "game": "Super Smash Bros.",
-    "song": "Master Hand (Final Destination)",
+    "song": "Final Destination",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Hirokazu Ando"
     ],
     "uuid": "21629e55-16d4-4187-aa05-7b836fc448db",
     "hash": "7b3d162ffa407cc1c82fe05bcd109195",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Smash Bros/Master Hand (Final Destination).mmrs",
+    "file": "Super Smash Bros/Final Destination.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86253,7 +86258,7 @@
     "game": "Super Mario Odyssey",
     "song": "YOU GOT A MOON!",
     "composers": [
-      "Naoto Kubo, Shiho Fujii, Koji Kondo"
+      "Naoto Kubo"
     ],
     "converters": [
       "samracc"
@@ -86483,18 +86488,18 @@
     "usesFormmask": false
   },
   {
-    "composers": [
-      "Taileons"
-    ],
+    "game": "Memes",
     "song": "FAH",
-    "game": "TODO",
     "converters": [
       "TheRealReliable"
+    ],
+    "composers": [
+      "Taileons"
     ],
     "uuid": "8380d26d-09af-4b43-9b66-dc12973b7e8c",
     "hash": "c18c4abbdf33f0ffb71de3c6d85dd4da",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/FAH.mmrs",
+    "file": "Memes/FAH.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86512,15 +86517,15 @@
     "usesFormmask": false
   },
   {
+    "game": "Parodius! From Myth to Laughter",
     "song": "WOW",
-    "game": "TODO",
     "converters": [
       "TheRealReliable"
     ],
     "uuid": "264d1c89-13a6-4979-bedc-d690f166be3b",
     "hash": "1a19afc8f4d688fbf050515ae48ae695",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/WOW.mmrs",
+    "file": "Parodius! From Myth to Laughter/WOW.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86974,7 +86979,7 @@
       "Mahito Yokota"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "e3dd1d91-0c2f-4525-9325-76bd8e9d9ca3",
     "hash": "84202e250f0129b16a849061a09f4028",
@@ -87024,7 +87029,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "29901edd-cf3a-4370-a554-06495d16783b",
     "hash": "5fbae9e1941386da036c294150ee2e5b",
@@ -87042,7 +87047,7 @@
   },
   {
     "game": "Super Mario World",
-    "song": "Athletic Theme",
+    "song": "Athletic",
     "composers": [
       "Koji Kondo"
     ],
@@ -87052,7 +87057,7 @@
     "uuid": "ee8dc315-4c42-403a-822e-976a182663e4",
     "hash": "60f15c16090ffd90266523ed68d17676",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World/Athletic Theme.mmrs",
+    "file": "Super Mario World/Athletic.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87120,18 +87125,18 @@
     "usesFormmask": false
   },
   {
+    "game": "Family Guy",
     "song": "I'm Not Taking My Sneakers Off",
     "composers": [
       "Seth MacFarlane?"
     ],
-    "game": "TODO",
     "converters": [
       "BigBomba88"
     ],
     "uuid": "078c09c4-7417-4b23-a7ea-ac0d34fc6547",
     "hash": "a52c61d11e62dbe057e866992f8cc56b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/I'm Not Taking My Sneakers Off.mmrs",
+    "file": "Family Guy/I'm Not Taking My Sneakers Off.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -87150,7 +87155,7 @@
       "Unknown"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "bc75f7ce-0bdd-48ff-abb3-e4e9da83a034",
     "hash": "8769d672c6965b18d3b030dddeca1bbf",
@@ -87168,18 +87173,18 @@
     "usesFormmask": false
   },
   {
-    "song": "The Snack Zone",
+    "game": "Jet Lag: The Game",
+    "song": "Thanks 4 Kickin' It in... The Snack Zone",
     "composers": [
-      "Donovan Bullen (probably?)"
+      "Donovan Bullen"
     ],
-    "game": "TODO",
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "5bfac28d-2fb7-495e-bb0c-72f584bd3ae1",
     "hash": "9fc44d8146847f62dbd51b2ef552a2e3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/The Snack Zone.mmrs",
+    "file": "Jet Lag The Game/Thanks 4 Kickin' It in... The Snack Zone.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -87190,6 +87195,19 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "game": "Jet Lag: The Game",
+    "song": "It's Time 2 Enter... The Snack Zone",
+    "composers": [
+      "Donovan Bullen"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Jet Lag The Game/It's Time 2 Enter... The Snack Zone.mmrs",
+    "preview": ""
   },
   {
     "game": "Kirby's Epic Yarn",
@@ -87638,10 +87656,10 @@
     "game": "Deltarune",
     "song": "Various Flowery Voice Clips",
     "composers": [
-      "Toby \"Radiation\" Fox"
+      "Toby Fox"
     ],
     "converters": [
-      "asticky"
+      "Asticky"
     ],
     "uuid": "1dd90f65-d428-47c7-9369-db8404ed72aa",
     "hash": "91aa567644db72039b77aad4797cb084",
@@ -87689,15 +87707,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Deltarune-northernlight",
-    "game": "TODO",
+    "song": "NORTHERNLIGHT",
+    "game": "Deltarune",
     "converters": [
       "flieen"
+    ],
+    "composers": [
+      "Toby Fox"
     ],
     "uuid": "5d6c7e24-cd98-49d0-bb22-2e2103daa33f",
     "hash": "1f7b27edcca50e1aca225bec7e45f675",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Deltarune-northernlight.mmrs",
+    "file": "Deltarune/NORTHERNLIGHT.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
