@@ -2863,12 +2863,7 @@
     "game": "The Legend of Zelda: Skyward Sword",
     "song": "Koloktos",
     "composers": [
-      "Hajime Wakai",
-      "Takeshi Hama",
-      "Shiho Fujii",
-      "Mahito Yokota",
-      "Masato Mizuta",
-      "Koji Kondo"
+      "Mahito Yokota"
     ],
     "converters": [
       "Zeraphyr"
@@ -11813,7 +11808,7 @@
     "uuid": "78c339cf-9404-4c57-998b-ca63c4db083e",
     "creationDate": "2026-03-18T02:37:05.381Z",
     "game": "Mario Paint",
-    "song": "Creative Exercise (Variant A)",
+    "song": "Creative Exercise",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -23530,11 +23525,9 @@
     "uuid": "91ae43e6-73f0-4bc0-a186-bfaf9a50424a",
     "creationDate": "2026-03-25T23:14:43.153Z",
     "game": "Mario Paint",
-    "song": "Creative Exercise (Variant B)",
+    "song": "Creative Exercise [2]",
     "composers": [
-      "Kazumi Totaka",
-      "Hirokazu Tanaka",
-      "Ryoji Yoshitomi"
+      "Kazumi Totaka"
     ],
     "converters": [
       "Forest Siren"
@@ -23549,8 +23542,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Mario Paint/Creative Exercise (Variant B).mmrs",
-    "preview": "Mario Paint/BGM 1.ogg",
+    "file": "Mario Paint/Creative Exercise [2].mmrs",
+    "preview": "Mario Paint/Creative Exercise [2].ogg",
     "lastUpdateDate": "2026-03-26T00:27:49.879Z",
     "lufs": "-20.31",
     "hash": "80d8b4dc528955b9f3bd9da472f49a20"
@@ -67666,26 +67659,6 @@
     "usesFormmask": false
   },
   {
-    "song": "koloktos",
-    "game": "TODO",
-    "converters": [
-      "zeraphyr"
-    ],
-    "uuid": "4f3bdde5-ccd5-43c2-ab49-594984f78bf8",
-    "hash": "e7e0a797d0c750afd8a9c91244733054",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/koloktos.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "5",
-      "7"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Super Mario 64",
     "song": "Dire, Dire Docks [2]",
     "composers": [
@@ -71468,7 +71441,7 @@
       "Yasuaki Iwata"
     ],
     "converters": [
-      "armaggedun_"
+      "Armaggedun_"
     ],
     "uuid": "e1a0fa50-09f4-42a0-8a2e-3fdec5ec5bc5",
     "hash": "b3bcf1509eef72f23826a650ea99969c",
@@ -71632,15 +71605,18 @@
     "usesFormmask": false
   },
   {
-    "song": "minishcap-dark_hyrule_castle",
-    "game": "TODO",
+    "song": "Dark Hyrule Castle [2]",
+    "game": "The Legend of Zelda: The Minish Cap",
     "converters": [
-      "armaggedun_"
+      "Armaggedun_"
+    ],
+    "composers": [
+      "Mitsuhiko Takano"
     ],
     "uuid": "d5c5b657-8f31-4839-be7a-c70d67255055",
     "hash": "e48ded162c08d1659e495e09c83a6c34",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/minishcap-dark_hyrule_castle.mmrs",
+    "file": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71777,7 +71753,7 @@
       "Manaka Kataoka"
     ],
     "converters": [
-      "armaggedun_"
+      "Armaggedun_"
     ],
     "uuid": "fcadfc6a-f59a-4044-8f68-69bac7a3a67d",
     "hash": "c2582176554cff0197226a4904f4d0d2",
@@ -71882,26 +71858,6 @@
     "notes": "Help needed! We need to find out from which song this originally is based of."
   },
   {
-    "song": "Your Eternity is your Tragedy",
-    "converters": [
-      "Asra"
-    ],
-    "game": "TODO",
-    "uuid": "53c74d06-ee3b-4116-b790-afea7257dad0",
-    "hash": "1be85bd80284cf195d1f50bdd45cd6b3",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Your Eternity is your Tragedy.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "3",
-      "6"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Ori and the Blind Forest",
     "song": "Main Theme",
     "composers": [
@@ -71931,7 +71887,7 @@
       "Koji Kondo, Kazumi Totaka"
     ],
     "converters": [
-      "armaggedun_"
+      "Armaggedun_"
     ],
     "uuid": "04db8c29-8aee-446d-980b-b651836c217a",
     "hash": "4165be138f2463ef69280fea06f4d412",
@@ -72514,7 +72470,7 @@
       "Yoko Shimomura"
     ],
     "converters": [
-      "armaggedun_"
+      "Armaggedun_"
     ],
     "uuid": "fed3045e-e8d3-492f-8d3e-02f4b3aeebc6",
     "hash": "a865c50852125f4fc580d58fe29786f5",
@@ -74223,18 +74179,19 @@
     "usesFormmask": false
   },
   {
-    "song": "Robotnik’s theme",
+    "game": "Adventures of Sonic the Hedgehog",
+    "song": "Robotnik's Theme",
     "composers": [
-      "Reed Robbins, Mark Simon"
+      "Reed Robbins",
+      "Mark Simon"
     ],
     "converters": [
       "Retroflex"
     ],
-    "game": "TODO",
     "uuid": "31abddc2-db4e-4ab5-b566-d1c84ff3c0a0",
     "hash": "447562bfad0343e9c344ee1ac7d4b3eb",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Robotnik’s theme.mmrs",
+    "file": "Adventures of Sonic the Hedgehog/Robotnik's Theme.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75632,15 +75589,18 @@
     "usesFormmask": false
   },
   {
-    "song": "touhou-F-death",
-    "game": "TODO",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
+    "song": "Death",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "9289c702-e1d8-495f-865b-247451688e57",
     "hash": "6d1acdb32addb6db73e70192c9242c21",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/touhou-F-death.mmrs",
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Death.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -75679,15 +75639,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Empire Today Commercial Jingle (Fanfare)",
-    "game": "TODO",
+    "song": "588-2300 Empire Today!",
+    "game": "Memes",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Lynn Hauldren"
     ],
     "uuid": "a885824b-6e4e-449c-a6fe-28e66e64a3ee",
     "hash": "71a2988543f8c71d1cc14c0337495fe3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Empire Today Commercial Jingle (Fanfare).mmrs",
+    "file": "Memes/588-2300 Empire Today!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -75702,15 +75665,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Empire Today Commercial Jingle, Double Speed (Game Over)",
-    "game": "TODO",
+    "song": "588-2300 Empire Today! (Fast)",
+    "game": "Memes",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Lynn Hauldren"
     ],
     "uuid": "17db8e17-5e99-4bc6-a7ba-2a1aba95fc1b",
     "hash": "8145f7804c48ed4900013502940a826f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Empire Today Commercial Jingle, Double Speed (Game Over).mmrs",
+    "file": "Memes/588-2300 Empire Today! (Fast).mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -75764,31 +75730,6 @@
       "0",
       "1",
       "2",
-      "6"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "song": "Skyloft Ruins",
-    "composers": [
-      "LoadingError"
-    ],
-    "converters": [
-      "LoadingError"
-    ],
-    "game": "TODO",
-    "uuid": "aaaeab4f-0a57-43e9-877f-5b190e066604",
-    "hash": "c1bc718503907dfac82b35214be156e9",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Skyloft Ruins.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "1",
-      "2",
-      "3",
       "6"
     ],
     "usesCustomBank": true,
@@ -76702,44 +76643,75 @@
     "usesFormmask": false
   },
   {
-    "song": "Holst_MARS-Part2",
-    "game": "TODO",
+    "game": "Gustav Holst",
+    "song": "Mars, The Bringer of War - Part 1",
     "converters": [
       "ainurmusician64"
     ],
-    "uuid": "deb3d07f-a82e-40bc-a2dc-77a2899e6eef",
-    "hash": "478b8edb8ec1b3b48391054eee64f218",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Holst_MARS-Part2.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "157"
+    "composers": [
+      "Gustav Holst"
     ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Gustav Holst/Mars, The Bringer of War - Part 1.mmrs",
+    "preview": "",
+    "type": "bgm"
   },
   {
-    "song": "Holst_MARS-Part2-DUDUDU_DUN_DUN_DUDU_DUN",
-    "game": "TODO",
+    "game": "Gustav Holst",
+    "song": "Mars, The Bringer of War - Part 1 (Looped)",
     "converters": [
       "ainurmusician64"
     ],
-    "uuid": "994f6e96-a2d2-4943-9176-e5066c5e1e1e",
-    "hash": "e58c953cd96b1e5b5ae0b6f0a921a3e2",
+    "composers": [
+      "Gustav Holst"
+    ],
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Holst_MARS-Part2-DUDUDU_DUN_DUN_DUDU_DUN.mmrs",
+    "file": "Gustav Holst/Mars, The Bringer of War - Part 1 (Looped).mmrs",
+    "preview": "",
+    "type": "bgm"
+  },
+  {
+    "game": "Gustav Holst",
+    "song": "Mars, The Bringer of War - Part 2",
+    "converters": [
+      "ainurmusician64"
+    ],
+    "composers": [
+      "Gustav Holst"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Gustav Holst/Mars, The Bringer of War - Part 2.mmrs",
+    "preview": "",
+    "type": "bgm"
+  },
+  {
+    "game": "Gustav Holst",
+    "song": "Mars, The Bringer of War - Part 2 (Looped)",
+    "converters": [
+      "ainurmusician64"
+    ],
+    "composers": [
+      "Gustav Holst"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Gustav Holst/Mars, The Bringer of War - Part 2 (Looped).mmrs",
+    "preview": "",
+    "type": "bgm"
+  },
+  {
+    "game": "Gustav Holst",
+    "song": "Mars, The Bringer of War - Part 2 (Climax)",
+    "converters": [
+      "ainurmusician64"
+    ],
+    "composers": [
+      "Gustav Holst"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Gustav Holst/Mars, The Bringer of War - Part 2 (Climax).mmrs",
     "preview": "",
     "type": "bgm",
-    "categories": [
-      "7",
-      "157"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
+    "notes": "DUDUDU DUN DUN DUDU DUN DUDUDUN"
   },
   {
     "game": "Pokémon Diamond, Pearl & Platinum",
@@ -76816,15 +76788,18 @@
     "usesFormmask": false
   },
   {
-    "song": "ff9-The_Dark_Messenger",
-    "game": "TODO",
+    "song": "The Dark Messenger",
+    "game": "Final Fantasy IX",
     "converters": [
       "Alf"
+    ],
+    "composers": [
+      "Nobuo Uematsu"
     ],
     "uuid": "90f1794f-7fdf-49e9-bd56-09d40fa336ac",
     "hash": "93a29444dcb5d4a52856d4e87df843f1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/ff9-The_Dark_Messenger.mmrs",
+    "file": "Final Fantasy IX/The Dark Messenger.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76886,7 +76861,7 @@
       "ACE+ (Tomori Kudo, Hiroyo \"CHiCO\" Yamanaka, Kenji Hiramatsu)"
     ],
     "converters": [
-      "armaggedun_"
+      "Armaggedun_"
     ],
     "uuid": "e94a4784-2434-4f18-9507-ee4230705d01",
     "hash": "f4f3f1ffc5b40f97c0d88eeb5ee87dd8",
@@ -76973,15 +76948,18 @@
     "usesFormmask": false
   },
   {
-    "song": "tp-king_bulblin",
-    "game": "TODO",
+    "song": "King Bulblin Battle [2]",
+    "game": "The Legend of Zelda: Twilight Princess",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "ef63125e-18a1-42d5-ab7a-89a8a7701953",
     "hash": "1e1c0c62453d785b7f00fb4c734787f6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/tp-king_bulblin.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/King Bulblin Battle [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77114,30 +77092,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "notes": "Song is \"Toreador March\" from opera \"Carmen\"."
-  },
-  {
-    "song": "dkc2_boss_theme",
-    "game": "TODO",
-    "converters": [
-      "pixelshake92"
-    ],
-    "uuid": "33f6dce0-41b6-4f27-a45c-110b37500752",
-    "hash": "7f06fa58faf4df4b04d0c18e2ba8355c",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/dkc2_boss_theme.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "11B",
-      "16A",
-      "16B",
-      "102",
-      "169"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
   },
   {
     "game": "SpongeBob SquarePants",
@@ -77562,15 +77516,18 @@
     "usesFormmask": false
   },
   {
-    "song": "touhou11-heartfeltfancy_nomeow",
-    "game": "TODO",
+    "game": "Touhou 11: Subterranean Animism",
+    "song": "Heartfelt Fancy (No Meow)",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "159d280b-43b0-4857-b431-cf2f3f6fedbd",
     "hash": "ec540cd82214bf9972fd66485a1b5875",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/touhou11-heartfeltfancy_nomeow.mmrs",
+    "file": "Touhou 11 Subterranean Animism/Heartfelt Fancy (No Meow).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81229,7 +81186,6 @@
       "Asticky"
     ],
     "uuid": "d2b88e0a-8c82-4ff5-9d19-be76ecc7747a",
-    "hash": "b05b7debebb70d5f16fec40e14a3c305",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Super Mario Odyssey/Steam Gardens.mmrs",
     "preview": "",
@@ -81565,28 +81521,6 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false
-  },
-  {
-    "song": "Super_Mario_Odyssey_-_Steam_Gardens",
-    "game": "TODO",
-    "converters": [
-      "Asticky"
-    ],
-    "uuid": "6ee050cc-1438-41cc-a155-6f7da01d7c83",
-    "hash": "b05b7debebb70d5f16fec40e14a3c305",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Super_Mario_Odyssey_-_Steam_Gardens.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": true
   },
   {
     "game": "Super Mario Sunshine",
@@ -82169,15 +82103,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Mozart_RequiemIntroitus",
-    "game": "TODO",
+    "game": "Wolfgang Amadeus Mozart",
+    "song": "Requiem K. 626, I. Introitus",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Wolfgang Amadeus Mozart"
     ],
     "uuid": "c6b0b115-85b1-4e45-a1cd-9cf05a55506c",
     "hash": "21abe76a14e3823b58b058cc7038b444",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Mozart_RequiemIntroitus.mmrs",
+    "file": "Wolfgang Amadeus Mozart/Requiem K. 626, I. Introitus.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82193,15 +82130,18 @@
     "usesFormmask": false
   },
   {
-    "song": "Mozart_RequiemIntroitusOldMMR",
-    "game": "TODO",
+    "song": "Requiem K. 626, I. Introitus (Old MMR Format)",
+    "game": "Wolfgang Amadeus Mozart",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Wolfgang Amadeus Mozart"
     ],
     "uuid": "5631322a-0179-4467-a61e-d13b953e445e",
     "hash": "21abe76a14e3823b58b058cc7038b444",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Mozart_RequiemIntroitusOldMMR.mmrs",
+    "file": "Wolfgang Amadeus Mozart/Requiem K. 626, I. Introitus (Old MMR Format).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82214,7 +82154,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This version is compatible with MMR v1.16.0.12"
   },
   {
     "game": "Warcraft II: Tides of Darkness",
@@ -82619,7 +82560,7 @@
   },
   {
     "game": "Sonic & Knuckles",
-    "song": "Flying Battery Zone (Act 1)",
+    "song": "Flying Battery Zone (Act 1) [2]",
     "converters": [
       "ruugosus"
     ],
@@ -82629,7 +82570,7 @@
     "uuid": "aa20a0ce-dd35-4444-8b28-bf889d562fef",
     "hash": "902b051e369ffd52e6ba51ce19de32f8",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Sonic & Knuckles/Flying Battery Zone (Act 1).mmrs",
+    "file": "Sonic & Knuckles/Flying Battery Zone (Act 1) [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82690,15 +82631,18 @@
     "usesFormmask": false
   },
   {
-    "song": "S3K-Flying_Battery_Zone_Act_1_v2",
-    "game": "TODO",
+    "song": "Flying Battery Zone (Act 1) [3]",
+    "game": "Sonic & Knuckles",
     "converters": [
       "ruugosus"
+    ],
+    "composers": [
+      "Howard Drossin"
     ],
     "uuid": "0d57d29c-a4e3-4ec2-9e68-1ea0ba876fd7",
     "hash": "b8bb26be02a966b2eb57b76deb46af67",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/S3K-Flying_Battery_Zone_Act_1_v2.mmrs",
+    "file": "Sonic & Knuckles/Flying Battery Zone (Act 1) [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -82971,15 +82915,18 @@
     "usesFormmask": false
   },
   {
-    "song": "augh",
-    "game": "TODO",
+    "song": "Augh Snore (Short)",
+    "game": "Memes",
     "converters": [
       "TheRealReliable"
+    ],
+    "composers": [
+      "3rs.asmar's Husband"
     ],
     "uuid": "fb2fc5da-e608-4237-941a-ff9ce0d7fe07",
     "hash": "2630f227870638b99db22aa1e510822e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/augh.mmrs",
+    "file": "Memes/Augh Snore (Short).mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83095,15 +83042,19 @@
     "usesFormmask": false
   },
   {
-    "song": "Mozart_RequiemLacrymosa",
-    "game": "TODO",
+    "song": "Requiem K. 626, IIIf. Lacrymosa",
+    "game": "Wolfgang Amadeus Mozart",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Wolfgang Amadeus Mozart",
+      "Franz Xaver Süssmayr"
     ],
     "uuid": "7cb70709-8806-4fc3-a6e1-0f6683c39475",
     "hash": "93aa47ab832bcb230b42efe032f2bd76",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Mozart_RequiemLacrymosa.mmrs",
+    "file": "Wolfgang Amadeus Mozart/Requiem K. 626, IIIf. Lacrymosa.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -84297,15 +84248,18 @@
     "usesFormmask": false
   },
   {
-    "song": "CreativeExercisefix",
-    "game": "TODO",
+    "song": "Creative Exercise [3]",
+    "game": "Mario Paint",
     "converters": [
       "BigBomba88"
+    ],
+    "composers": [
+      "Kazumi Totaka"
     ],
     "uuid": "24f2194f-bd07-4a6e-8b8e-71800f78136e",
     "hash": "824b5a69bcf228b1304275fec59f2fdf",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/CreativeExercisefix.mmrs",
+    "file": "Mario Paint/Creative Exercise [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85054,14 +85008,17 @@
   },
   {
     "song": "Carol of the Bahs (Bells)",
-    "game": "TODO",
+    "game": "Mykola Leontovych",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "Mykola Leontovych"
     ],
     "uuid": "5e41cf2f-92c5-4b3c-8fc4-ee4ae5119acb",
     "hash": "e94c878485c582891b149361be820aa3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/Carol of the Bahs (Bells).mmrs",
+    "file": "Mykola Leontovych/Carol of the Bahs (Bells).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85181,15 +85138,18 @@
     "usesFormmask": false
   },
   {
-    "song": "The Legend of Fartda.",
+    "game": "The Legend of Zelda",
+    "song": "Overworld (Fart Version)",
     "converters": [
       "Philos-Kun"
     ],
-    "game": "TODO",
+    "composers": [
+      "Koji Kondo"
+    ],
     "uuid": "52d28a9c-1d7b-44c3-8b0f-1163717a67ba",
     "hash": "241617de99d49d54dc0a7f328fe304cc",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/The Legend of Fartda..mmrs",
+    "file": "The Legend of Zelda/Overworld (Fart Version).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [

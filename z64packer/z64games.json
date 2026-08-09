@@ -4825,6 +4825,28 @@
     "series": "Original Compositions"
   },
   {
+    "game": "Mykola Leontovych",
+    "series": "Classical Compositions",
+    "logo": "https://lh3.googleusercontent.com/ci/AL18g_TNNrH-WdqzL30CkrnL5e3cHES7XJjU01zv3RRL0HU8riGqsKgxcqoLM2MQqS2SsmKAcB4ynamG"
+  },
+  {
+    "game": "Gustav Holst",
+    "series": "Classical Compositions",
+    "logo": "https://www.classicsforkids.com/wp-content/uploads/2021/11/holst.jpg",
+    "short_name": "Holst"
+  },
+  {
+    "game": "Wolfgang Amadeus Mozart",
+    "series": "Classical Compositions",
+    "logo": "https://vamosalamusica.org/app/uploads/2021/05/mozart-compositor.jpg",
+    "short_name": "Mozart"
+  },
+  {
+    "game": "Adventures of Sonic the Hedgehog",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/AOSTHLogo.png/revision/latest/scale-to-width-down/300?cb=20200416230626"
+  },
+  {
     "game": "Tears of the Kingdom"
   },
   {
@@ -4885,9 +4907,6 @@
   },
   {
     "game": "This is Sparta! 300"
-  },
-  {
-    "game": "TODO"
   },
   {
     "game": "Tomodachi Life Living the Dream"
