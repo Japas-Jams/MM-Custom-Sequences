@@ -11180,7 +11180,7 @@
     "uuid": "1114dc2f-5966-432c-85dc-3713f82b2be7",
     "creationDate": "2026-03-17T16:30:53.390Z",
     "game": "The Legend of Zelda: Spirit Tracks",
-    "song": "Realm Overworld (Variant A)",
+    "song": "Full Steam Ahead",
     "composers": [
       "Toru Minegishi"
     ],
@@ -11191,7 +11191,7 @@
     "categories": [
       "0"
     ],
-    "file": "The Legend of Zelda Spirit Tracks/Realm Overworld.mmrs",
+    "file": "The Legend of Zelda Spirit Tracks/Full Steam Ahead.mmrs",
     "preview": "https://www.youtube.com/watch?v=E1BR3ApyO4E",
     "lastUpdateDate": "2026-04-10T13:52:35.999Z",
     "usesCustomBank": false,
@@ -33438,11 +33438,9 @@
     "uuid": "206c8b27-690b-454e-9627-57fbf2e62076",
     "creationDate": "2026-04-10T13:52:17.939Z",
     "game": "The Legend of Zelda: Spirit Tracks",
-    "song": "Realm Overworld (Variant B)",
+    "song": "Full Steam Ahead [2]",
     "composers": [
-      "Manaka Tominaga",
-      "Asuka Ohta",
-      "Koji Kondo"
+      "Toru Minegishi"
     ],
     "converters": [
       "Isghj"
@@ -33453,8 +33451,8 @@
       "6",
       "1"
     ],
-    "file": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).ogg",
+    "file": "The Legend of Zelda Spirit Tracks/Full Steam Ahead [2].mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Full Steam Ahead [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -68138,6 +68136,9 @@
     "converters": [
       "BigBomba88"
     ],
+    "composers": [
+      "Scott Lloyd Shelly"
+    ],
     "uuid": "7f3c7354-1498-4638-bf83-d4a879bd8cbb",
     "hash": "60d1490d3d8a5ad369116763aa030a71",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -68716,8 +68717,8 @@
     "usesFormmask": false
   },
   {
-    "game": "The Elder Scrolls 3 Morrowind",
-    "song": "Title Screen",
+    "game": "The Elder Scrolls III: Morrowind",
+    "song": "Nerevar Rising",
     "composers": [
       "Jeremy Soule"
     ],
@@ -68727,7 +68728,7 @@
     "uuid": "ddff3d09-1d65-4025-b50c-2aa9c3b9feef",
     "hash": "65036cbe9e3d764355abfc295a36d322",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Elder Scrolls 3 Morrowind/Title Screen.mmrs",
+    "file": "The Elder Scrolls III Morrowind/Nerevar Rising.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70016,7 +70017,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "ryestaines333"
+      "Ryestaines333"
     ],
     "uuid": "7ca1050e-6670-48b9-be9b-b2ca4fcea5cc",
     "hash": "39ec6e1b1ccbdd52eacc6b3c8278fa0f",
@@ -70038,7 +70039,7 @@
       "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
     ],
     "converters": [
-      "ryestaines333"
+      "Ryestaines333"
     ],
     "uuid": "c04a05c4-378f-497d-ab06-1fb00d404a75",
     "hash": "9c4a31921e2b0894c6203845e6fc14d6",
@@ -70060,7 +70061,7 @@
       "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
     ],
     "converters": [
-      "ryestaines333"
+      "Ryestaines333"
     ],
     "uuid": "7303e208-1a8b-4792-a370-8f64980a4ed9",
     "hash": "a000afd529d1229f62ee8c0bcc3f675b",
@@ -70133,7 +70134,7 @@
       "Mahito Yokota, Hajime Wakai, Takeshi Hama"
     ],
     "converters": [
-      "ryestaines333"
+      "Ryestaines333"
     ],
     "uuid": "aece86e8-3c6d-4e07-9698-59e448ecfbde",
     "hash": "ad8091e99968cb74ffbef6fbd7ed2494",
@@ -70436,7 +70437,7 @@
       "Kenji Yamamoto, Kouichi Kyuma"
     ],
     "converters": [
-      "ryestaines333"
+      "Ryestaines333"
     ],
     "uuid": "1080e091-8b79-400a-b56f-e1854e268c23",
     "hash": "3322c4184f52259a84112f10928abf92",
@@ -70592,15 +70593,18 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Link's Awakening (Switch)",
-    "song": "Level 6: Face Shrine",
+    "game": "The Legend of Zelda: Link's Awakening (2019)",
+    "song": "Level 6 - Face Shrine",
     "converters": [
       "Armaggedun_"
+    ],
+    "composers": [
+      "Ryo Nagamatsu"
     ],
     "uuid": "79028adc-c0be-40cb-8c3d-3e4e4c85bdf8",
     "hash": "64be12da4c3d146e0b31cea6da1e005f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Link's Awakening (Switch)/Level 6 Face Shrine.mmrs",
+    "file": "The Legend of Zelda Link's Awakening (2019)/Level 6 - Face Shrine.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71039,15 +71043,18 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Link’s Awakening",
-    "song": "Ballad of the Wind Fish (arrangement)",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Ballad of the Wind Fish (Arrangement)",
     "converters": [
       "Ukkiez"
+    ],
+    "composers": [
+      "Kazumi Totaka"
     ],
     "uuid": "ff4863cb-7dfd-47e0-968c-24b2fbe8d844",
     "hash": "407ac4a31f2715e0b1f9cf42889efd22",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Link’s Awakening/Ballad of the Wind Fish (arrangement).mmrs",
+    "file": "The Legend of Zelda Link's Awakening/Ballad of the Wind Fish (Arrangement).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71057,7 +71064,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This is a custom arrangement, it's not a 1-to-1 recreation of either the original nor the remastered version, though it takes a lot of elements from them."
   },
   {
     "game": "Wave Race 64",
@@ -71363,10 +71371,10 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Wind Waker",
-    "song": "The Great Sea is Cursed",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Cursed Great Sea",
     "composers": [
-      "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
+      "Kenta Nagata"
     ],
     "converters": [
       "Felix_Helix_TM"
@@ -71374,7 +71382,7 @@
     "uuid": "16daba4e-cb5c-4258-80f1-a9beaaf6125a",
     "hash": "39853d5bb92bcd4c97c6e79cab92fd4c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Wind Waker/The Great Sea is Cursed.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/The Cursed Great Sea.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71390,10 +71398,10 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Wind Waker",
-    "song": "The Great Sea",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Great Sea [2]",
     "composers": [
-      "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
+      "Kenta Nagata"
     ],
     "converters": [
       "Felix_Helix_TM"
@@ -71401,7 +71409,7 @@
     "uuid": "663f856e-f8b0-41b8-aa35-d58682de2118",
     "hash": "abcbfd983926669e92ff1510fb751625",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Wind Waker/The Great Sea.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/The Great Sea [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72028,7 +72036,7 @@
     "game": "The Legend of Zelda: Phantom Hourglass",
     "song": "The Great Sea",
     "composers": [
-      "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
+      "Kenta Nagata"
     ],
     "converters": [
       "Feli_Heli (Felix_Helix_TM)"
@@ -72998,15 +73006,18 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda  The Windwaker",
-    "song": "Great Sea",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Great Sea [3]",
     "converters": [
       "Owl Is Not A Cat"
+    ],
+    "composers": [
+      "Kenta Nagata"
     ],
     "uuid": "11769f0b-c6f2-47f4-8d0f-cfe66cedb755",
     "hash": "ac65f40ff1d3037af06a9ed0ce543d11",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda  The Windwaker/Great Sea.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/The Great Sea [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74910,10 +74921,12 @@
     "usesFormmask": false
   },
   {
-    "game": "Tears of the Kingdom",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
     "song": "Lookout Landing",
     "composers": [
-      "Koji Kondo"
+      "Manaka Kataoka",
+      "Maasa Miyoshi",
+      "Masato Ohashi"
     ],
     "converters": [
       "Ghunzor"
@@ -74921,7 +74934,7 @@
     "uuid": "9758ced9-0615-4711-a26d-c0b555790f05",
     "hash": "a1072ad8b44a357e8a5c1cbc2d4911e7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Tears of the Kingdom/Lookout Landing.mmrs",
+    "file": "The Legend of Zelda Tears of the Kingdom/Lookout Landing.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74933,7 +74946,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Tears of the Kingdom",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
     "song": "Ganondorf Miasma Battle",
     "composers": [
       "Koji Kondo"
@@ -74944,7 +74957,7 @@
     "uuid": "62c70ab3-94ce-4fb0-95b3-9cbcac48ea4c",
     "hash": "67228ed3d984b611b795c0defe54ab5e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Tears of the Kingdom/Ganondorf Miasma Battle.mmrs",
+    "file": "The Legend of Zelda Tears of the Kingdom/Ganondorf Miasma Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75062,15 +75075,18 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda - Tears of the Kingdom",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
     "song": "Gleeok Battle",
     "converters": [
-      "Ryestaines333                                                                                                                       NOTE: Fixed up the intro to sound cleaner/less muddy"
+      "Ryestaines333"
+    ],
+    "composers": [
+      "Tsukasa Usui"
     ],
     "uuid": "f3578947-7eeb-41eb-8d10-e598446cca6d",
     "hash": "1f1c307210aa89b03b0ad674857f85e1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda - Tears of the Kingdom/Gleeok Battle.mmrs",
+    "file": "The Legend of Zelda Tears of the Kingdom/Gleeok Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75152,15 +75168,18 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda - Wind Waker",
+    "game": "The Legend of Zelda: The Wind Waker",
     "song": "Phantom Ganon",
     "converters": [
-      "Ryestaines333                                                                                                                                                                                                                                                                                                                                      NOTE: Edited it so the snare drum more matches the original"
+      "Ryestaines333"
+    ],
+    "composers": [
+      "Hajime Wakai"
     ],
     "uuid": "92a6842e-3ca6-4d05-b0f0-c6035b429b9f",
     "hash": "b3b0576f124b4cb3567017d61adc5921",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda - Wind Waker/Phantom Ganon.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Phantom Ganon.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75340,10 +75359,11 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Breath of the Wild (2017)",
+    "game": "The Legend of Zelda: Breath of the Wild",
     "song": "Talus Battle",
     "composers": [
-      "Manaka Kataoka, Yasuaki Iwata"
+      "Manaka Kataoka",
+      "Yasuaki Iwata"
     ],
     "converters": [
       "Retroflex"
@@ -75351,7 +75371,7 @@
     "uuid": "cd61c1c4-1b4c-4825-b280-094fe52fd3b3",
     "hash": "9fb048ee2b537457ffb9ea03182cecd7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Breath of the Wild (2017)/Talus Battle.mmrs",
+    "file": "The Legend of Zelda Breath of the Wild/Talus Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75363,10 +75383,10 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda - Spirit Tracks",
-    "song": "Full Steam Ahead",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Full Steam Ahead [3]",
     "composers": [
-      "Koji Kondo?"
+      "Toru Minegishi"
     ],
     "converters": [
       "owl is not a cat"
@@ -75374,7 +75394,7 @@
     "uuid": "04251d92-deb7-43ff-974a-afd36ed2c280",
     "hash": "e7f85a1e7fcc69775a7760d8433209e5",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda - Spirit Tracks/Full Steam Ahead.mmrs",
+    "file": "The Legend of Zelda Spirit Tracks/Full Steam Ahead [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75804,29 +75824,6 @@
       "6"
     ],
     "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "song": "WW-ForsakenFortress-V2",
-    "game": "TODO",
-    "converters": [
-      "loadingerror"
-    ],
-    "uuid": "76bce92a-8b08-4d17-84d7-bcf3b1518cf9",
-    "hash": "b5648ce318b53c39bd4f81229dceab7c",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/WW-ForsakenFortress-V2.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "6"
-    ],
-    "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -76288,10 +76285,11 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda: Breath of the Wild (2017)",
-    "song": "Talus Battle",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Talus Battle [2]",
     "composers": [
-      "Manaka Kataoka, Yasuaki Iwata"
+      "Manaka Kataoka",
+      "Yasuaki Iwata"
     ],
     "converters": [
       "PixelShake92"
@@ -76299,7 +76297,7 @@
     "uuid": "f9dc2c0c-33c2-443e-9f29-7b842104ff76",
     "hash": "9fb048ee2b537457ffb9ea03182cecd7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Breath of the Wild (2017)/Talus Battle.mmrs",
+    "file": "The Legend of Zelda Breath of the Wild/Talus Battle [2].mmrs",
     "preview": ""
   },
   {
@@ -79603,7 +79601,7 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legends of Zelda Tears of the Kingdom",
+    "game": "The Legend of Zelda: Tears of the Kingdom",
     "song": "Tarrey Town",
     "composers": [
       "Manaka Kataoka"
@@ -79614,7 +79612,7 @@
     "uuid": "bde86014-6809-4374-82d0-1178ad0f4c3e",
     "hash": "56d888115bacda466a00b922a0bf0aea",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legends of Zelda Tears of the Kingdom/Tarrey Town.mmrs",
+    "file": "The Legend of Zelda Tears of the Kingdom/Tarrey Town.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -80215,10 +80213,13 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Heroes Trails in the Sky",
+    "game": "The Legend of Heroes: Trails in the Sky",
     "song": "Victory",
     "converters": [
       "Joshua8600"
+    ],
+    "composers": [
+      "Falcom Sound Team jdk"
     ],
     "uuid": "3fbe5d5c-f16d-4af5-a555-f85869cc8e4e",
     "hash": "85549a70f345a9aa4ba10f82e69b24c1",
@@ -81479,10 +81480,10 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Wind Waker",
+    "game": "The Legend of Zelda: The Wind Waker",
     "song": "The Tower of Forsaken Fortress",
     "composers": [
-      "Koji Kondo"
+      "Hajime Wakai"
     ],
     "converters": [
       "TheRealReliable"
@@ -81490,7 +81491,7 @@
     "uuid": "b4424ead-7597-4ddb-befb-aecacd9fa3a2",
     "hash": "761732a115577c6cf172bb4a5aa9c3d7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Wind Waker/The Tower of Forsaken Fortress.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/The Tower of Forsaken Fortress.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -85313,7 +85314,7 @@
     "usesFormmask": false
   },
   {
-    "game": "That Square Cheese that lives underwater",
+    "game": "SpongeBob SquarePants",
     "song": "Dissapointed",
     "converters": [
       "Philos-Kun"
@@ -85321,7 +85322,7 @@
     "uuid": "26e1eba9-2856-4986-a425-af55f38f10b9",
     "hash": "c2bdfa6401137d5a4990d5630a76e71a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "That Square Cheese that lives underwater/Dissapointed.mmrs",
+    "file": "SpongeBob SquarePants/Dissapointed.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86555,15 +86556,18 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Majora's Mask (Preview Demo)",
-    "song": "Horse Race",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Horse Race (Preview Demo)",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "dd0dcb1d-abb8-4a6d-9e13-ffcec78a471d",
     "hash": "9250e2d5633d9b21c867f6fd38a1a95e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Majora's Mask (Preview Demo)/Horse Race.mmrs",
+    "file": "The Legend of Zelda Majora's Mask/Horse Race (Preview Demo).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86576,7 +86580,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "Joke is 'Witch Doctor' by Ross Bagdasarian and 'We Wish You a Merry Christmas'."
   },
   {
     "game": "Final Fantasy XIV",
@@ -87035,15 +87040,18 @@
     "usesFormmask": false
   },
   {
-    "song": "ULTRAKILL-EventHorizon",
-    "game": "TODO",
+    "song": "Event Horizon (Reach for the Sun and Burn! Burn! Burn!)",
+    "game": "ULTRAKILL",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "Heaven Pierce Her"
     ],
     "uuid": "5a1373fc-9dfe-4b69-a88b-e0a967b6638f",
     "hash": "68244aa1c6193dd89a8aae06fe8e1a43",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "TODO/ULTRAKILL-EventHorizon.mmrs",
+    "file": "ULTRAKILL/Event Horizon (Reach for the Sun and Burn! Burn! Burn!).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87988,27 +87996,6 @@
     "file": "Pokémon Black & White/Join Avenue.mmrs",
     "preview": "",
     "hash": "8e3222a1382e17ddb3654ef92dde9e40"
-  },
-  {
-    "uuid": "03baee9e-84f9-4602-9d28-a79127958d90",
-    "creationDate": "2026-07-28T04:03:38.120Z",
-    "game": "The Legend of Zelda Breath of the Wild (2017)",
-    "song": "Talus Battle [2]",
-    "type": "bgm",
-    "categories": [
-      "3",
-      "4",
-      "6",
-      "7",
-      "16",
-      "157"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "The Legend of Zelda Breath of the Wild (2017)/Talus Battle [2].mmrs",
-    "preview": "",
-    "hash": "8a0ee4fc6ea7ec52bbfac16c7aca2914"
   },
   {
     "uuid": "c75bd3b2-8ec5-4060-8d37-dc84aa67d32e",
