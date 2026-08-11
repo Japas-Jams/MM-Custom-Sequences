@@ -29240,7 +29240,7 @@
     "uuid": "62d639b6-a17f-4e5f-ad19-d3b0eb35f283",
     "creationDate": "2026-04-02T02:43:45.053Z",
     "game": "Monkey Island 2: LeChuck's Revenge",
-    "song": "Main Theme (Variant C)",
+    "song": "Main Theme [3]",
     "composers": [
       "Michael Land"
     ],
@@ -29256,8 +29256,8 @@
       "157",
       "176"
     ],
-    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mmrs",
-    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant C).mp3",
+    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme [3].mmrs",
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme [3].mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -33015,7 +33015,7 @@
     "uuid": "fafdf84b-02b2-495d-8338-e7ac967ad3fc",
     "creationDate": "2026-04-10T13:30:40.522Z",
     "game": "Banjo-Kazooie",
-    "song": "Freezeezy Peak (Variant C)",
+    "song": "Freezeezy Peak [3]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -33028,8 +33028,8 @@
       "2",
       "4"
     ],
-    "file": "Banjo-Kazooie/Freezeezy Peak (Variant C).mmrs",
-    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant C).ogg",
+    "file": "Banjo-Kazooie/Freezeezy Peak [3].mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak [3].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -44668,7 +44668,7 @@
     "uuid": "d064db75-5172-4eea-97b9-2f593f856931",
     "creationDate": "2026-04-24T04:39:42.999Z",
     "game": "Yoshi's Island",
-    "song": "Athletic (Variant C)",
+    "song": "Athletic [3]",
     "composers": [
       "Koji Kondo"
     ],
@@ -44686,8 +44686,8 @@
       "7"
     ],
     "usesCustomBank": true,
-    "file": "Yoshi's Island/Athletic (Variant C).mmrs",
-    "preview": "Yoshi's Island/Athletic (Variant C).mp3",
+    "file": "Yoshi's Island/Athletic [3].mmrs",
+    "preview": "Yoshi's Island/Athletic [3].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-20.09",
@@ -62075,7 +62075,7 @@
     "uuid": "69fc3081-1606-48b5-be72-e1e4f8cf8cf8",
     "creationDate": "2026-05-15T02:44:56.713Z",
     "game": "Tales of Phantasia",
-    "song": "Fighting of the Spirit (Variant C)",
+    "song": "Fighting of the Spirit [3]",
     "composers": [
       "Motoi Sakuraba",
       "Shinji Tamura"
@@ -62088,8 +62088,8 @@
     "categories": [
       "7"
     ],
-    "file": "Tales of Phantasia/Fighting of the Spirit (Variant C).mmrs",
-    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant C).ogg",
+    "file": "Tales of Phantasia/Fighting of the Spirit [3].mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit [3].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
