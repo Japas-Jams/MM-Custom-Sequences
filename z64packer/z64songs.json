@@ -24825,15 +24825,13 @@
     "type": "bgm",
     "categories": [
       "0",
-      "1",
-      "3",
-      "4",
       "6"
     ],
     "file": "Pikmin/The Impact Site.mmrs",
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "hash": "8453d5f3ef01e7b3162eec8f01070bdd"
   },
   {
     "uuid": "784a030f-0dce-4146-bb62-c94a32223358",
@@ -31657,7 +31655,19 @@
       "Nika~"
     ],
     "type": "bgm",
-    "file": "Persona 4/Junes Theme.mmrs"
+    "file": "Persona 4/Junes Theme.mmrs",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "144"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "266ad3030f5779b74c2aead4831452d5",
+    "uuid": "b1ca8c44-ea24-49e6-bed8-5a203b74100a",
+    "creationDate": "2026-08-11T19:09:42.531Z"
   },
   {
     "uuid": "a667d31a-8a1e-48c3-8921-b3996d2d17b0",
@@ -68879,7 +68889,17 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Mario Party DS/Wiggler's Garden.mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "b2e41ff6ebdb53bb260731eafe3b2ce8"
   },
   {
     "game": "Mario Party DS",
@@ -70255,7 +70275,7 @@
   },
   {
     "song": "The Binding of Isaac: Antibirth",
-    "game": "Journey from a Jar to the Sky",
+    "game": "The Binding of Isaac: Antibirth",
     "converters": [
       "meloonics"
     ],
@@ -71851,7 +71871,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Pokémon Ruby Destiny Life of Guardians/Team Earth.mmrs",
     "preview": "",
-    "notes": "Help needed! We need to find out from which song this originally is based of."
+    "notes": "Help needed! We need to find out from which song this originally is based of.",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "game": "Ori and the Blind Forest",
@@ -72112,7 +72141,15 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Wario Land 4/Hurry Up!.mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "6",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "9544706caaaf095b81751aea28f0123b"
   },
   {
     "game": "Ape Escape",
@@ -73028,7 +73065,15 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda The Wind Waker/Helmaroc King Appears (Short).mmrs",
     "preview": "",
-    "type": "fanfare"
+    "type": "fanfare",
+    "categories": [
+      "177"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "160123c46088bc5c512b49cfbac049ea",
+    "uuid": "b3521d27-1825-491d-bce8-eda04f65fa73"
   },
   {
     "game": "The Legend of Zelda: The Wind Waker",
@@ -73042,7 +73087,15 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda The Wind Waker/Helmaroc King Appears (Long).mmrs",
     "preview": "",
-    "type": "fanfare"
+    "type": "fanfare",
+    "categories": [
+      "177"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "6a8b61de0350388d0cf3a74d5948c102",
+    "uuid": "e776b984-0fb0-4026-baa3-0670c074d2ec"
   },
   {
     "game": "The Legend of Zelda: The Wind Waker",
@@ -74243,7 +74296,8 @@
     ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "hash": "ecb3405f11641800fac57ee36d584bd1"
   },
   {
     "game": "Star Fox 64",
@@ -74644,7 +74698,6 @@
     "converters": [
       "Retroflex"
     ],
-    
     "uuid": "85153c1f-8cb3-4bdb-9fe0-8c71a4853385",
     "hash": "bac18ee4d5203b8af8c65ebac8f9cdcd",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -75371,16 +75424,20 @@
       "Retroflex"
     ],
     "uuid": "cd61c1c4-1b4c-4825-b280-094fe52fd3b3",
-    "hash": "9fb048ee2b537457ffb9ea03182cecd7",
+    "hash": "8a0ee4fc6ea7ec52bbfac16c7aca2914",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda Breath of the Wild/Talus Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
+      "3",
       "4",
-      "7"
+      "6",
+      "7",
+      "16",
+      "157"
     ],
-    "usesCustomBank": true,
+    "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -76218,7 +76275,18 @@
     ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Halo Combat Evolved/Halo (Giants).mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "aeae7c7a7a1c177893418fe1030a648b",
+    "uuid": "725965b0-aae1-4a1f-a1cb-9423484ffe81"
   },
   {
     "game": "Halo: Combat Evolved",
@@ -76232,7 +76300,19 @@
     ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Halo Combat Evolved/Halo (Giants) - No Intro.mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7",
+      "118"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "aa2af9dabe10693d752c9b67ab297050",
+    "uuid": "5036f2b2-bb0b-4f3b-90cc-52cd1683a8e4"
   },
   {
     "game": "Halo: Combat Evolved",
@@ -76246,7 +76326,22 @@
     ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Halo Combat Evolved/Halo (Giants) - Intro 1.mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "fanfare",
+    "categories": [
+      "10",
+      "122",
+      "124",
+      "137",
+      "139",
+      "152",
+      "177"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "288958bf1565d70434d33fa292903a8c",
+    "uuid": "094ab2dd-01e4-40d0-8978-6d4593f1dcb4"
   },
   {
     "game": "Halo: Combat Evolved",
@@ -76260,7 +76355,22 @@
     ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Halo Combat Evolved/Halo (Giants) - Intro 2.mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "fanfare",
+    "categories": [
+      "10",
+      "122",
+      "124",
+      "137",
+      "139",
+      "152",
+      "177"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "cd5e70e6a3a43b485d1225bec4f10155",
+    "uuid": "86680c0d-52f5-47e9-a43b-4248a1f7db44"
   },
   {
     "game": "Halo: Combat Evolved",
@@ -76274,7 +76384,22 @@
     ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Halo Combat Evolved/Halo (Giants) - Intro 3.mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "fanfare",
+    "categories": [
+      "10",
+      "122",
+      "124",
+      "137",
+      "139",
+      "152",
+      "177"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "3d90ae302e6fbbf7e0a2815dd938b5f4",
+    "uuid": "beec6b6f-cd2d-4a7e-a346-8ce593d47726"
   },
   {
     "game": "The Sims 2",
@@ -76315,7 +76440,15 @@
     "hash": "9fb048ee2b537457ffb9ea03182cecd7",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda Breath of the Wild/Talus Battle [2].mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "game": "Super Mario Sunshine",
@@ -76551,7 +76684,16 @@
     "uuid": "fbee047f-8809-4c74-bd02-ae585ea9de60",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "LISA The Painful/Blood Simmer [2].mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "11A"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "a9ab4029d21a646e6818ef18ab226d44"
   },
   {
     "game": "Touhou 5: Mystic Square",
@@ -76666,7 +76808,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Gustav Holst/Mars, The Bringer of War - Part 1.mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "ce0f2bbe828bc07a433044089775ba6a",
+    "uuid": "37df657a-4bd7-456e-b0c0-eabb25ea01e6"
   },
   {
     "game": "Gustav Holst",
@@ -76680,7 +76831,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Gustav Holst/Mars, The Bringer of War - Part 1 (Looped).mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "671fa226363578e7225fc9e50c6b83dd",
+    "uuid": "9e8edc6d-5894-4378-8780-3adc0d91d17a"
   },
   {
     "game": "Gustav Holst",
@@ -76694,7 +76854,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Gustav Holst/Mars, The Bringer of War - Part 2.mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "478b8edb8ec1b3b48391054eee64f218",
+    "uuid": "d5de0e68-ac78-46c1-afdd-5302879e85e3"
   },
   {
     "game": "Gustav Holst",
@@ -76708,7 +76877,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Gustav Holst/Mars, The Bringer of War - Part 2 (Looped).mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "c3af0b8dbc6d5cd3cc0d43d72a1e9081",
+    "uuid": "63b09ea1-70ed-43fe-bd4e-eee0adf06f0a"
   },
   {
     "game": "Gustav Holst",
@@ -76723,7 +76901,16 @@
     "file": "Gustav Holst/Mars, The Bringer of War - Part 2 (Climax).mmrs",
     "preview": "",
     "type": "bgm",
-    "notes": "DUDUDU DUN DUN DUDU DUN DUDUDUN"
+    "notes": "DUDUDU DUN DUN DUDU DUN DUDUDUN",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "e58c953cd96b1e5b5ae0b6f0a921a3e2",
+    "uuid": "9b9fe341-5ef7-4190-853c-93ffce1536a2"
   },
   {
     "game": "Pokémon Diamond, Pearl & Platinum",
@@ -77961,7 +78148,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Metroid Zero Mission",
+    "game": "Metroid: Zero Mission",
     "song": "Chozo Guide",
     "composers": [
       "Kenji Yamamoto",
@@ -79164,7 +79351,15 @@
     "hash": "e671eff462f918f8d7ba4b2304bfe5c7",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda A Link to the Past/Death Mountain [2].mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "106",
+      "114"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "game": "Fire Emblem: Three Houses",
@@ -80465,7 +80660,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "a554363d-b1ae-49ac-a0e1-4bc237a1b5ae"
   },
   {
     "game": "Five Nights at Freddy's",
@@ -80482,7 +80683,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "94a912d8-a69c-4b64-883d-98e27bb8e449"
   },
   {
     "game": "Five Nights at Freddy's 2",
@@ -80499,7 +80706,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "4c8d0e94-30d9-404b-af5c-9b73efaed3cd"
   },
   {
     "game": "Five Nights at Freddy's 2",
@@ -80516,7 +80729,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "a3497d59-7113-473d-8d32-87bbfd53e068"
   },
   {
     "game": "Five Nights at Freddy's 3",
@@ -80533,7 +80752,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "a58f85a3-5326-4ce3-b430-924458fbfde2"
   },
   {
     "game": "Five Nights at Freddy's 3",
@@ -80550,7 +80775,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "b4ab88c5-dfca-429b-92e2-73bb04c96cc4"
   },
   {
     "game": "Five Nights at Freddy's 4",
@@ -80567,7 +80798,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "f1d90fe4-ddd3-4170-8096-da7815675592"
   },
   {
     "game": "Five Nights at Freddy's 4",
@@ -80584,7 +80821,13 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "8",
+      "9"
+    ],
+    "hash": "6587b1b7d985d67ce5751280d44873da",
+    "uuid": "dd84c8c7-2f83-434b-ac13-1a9e46cd760d"
   },
   {
     "game": "Sonic Robo Blast 2",
@@ -81207,7 +81450,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": true,
-    "notes": "Changes between the calm and sherm versions depending on combat."
+    "notes": "Changes between the calm and sherm versions depending on combat.",
+    "hash": "b05b7debebb70d5f16fec40e14a3c305"
   },
   {
     "game": "Final Fantasy VIII",
@@ -82037,7 +82281,14 @@
     "hash": "4b00c5903e2baeb293b7ed1b12cf76fc",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Sonic the Hedgehog/Casino Night Zone (2 Player).mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "game": "Dr. Mario",
@@ -82681,7 +82932,17 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Deltarune/snd_ominous.mmrs",
     "preview": "",
-    "type": "fanfare"
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "3202301f7db31f2ad1c68c572d08b26e",
+    "uuid": "3cbdad99-c9d3-4f60-a954-e9ad22f4ad4c"
   },
   {
     "game": "Deltarune",
@@ -82695,7 +82956,17 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Deltarune/snd_ominous_cancel.mmrs",
     "preview": "",
-    "type": "fanfare"
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "1ebea2e2a2498f3bd004503ae104d2aa",
+    "uuid": "5340e246-50f4-49c0-a640-c25c7fc5b35e"
   },
   {
     "game": "Deltarune",
@@ -82709,7 +82980,17 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Deltarune/snd_ominous_worse.mmrs",
     "preview": "",
-    "type": "fanfare"
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "e9275591254e6a50bc9ed75601553068",
+    "uuid": "7f1f8055-27da-4173-b433-da814529e186"
   },
   {
     "game": "Paper Mario: Color Splash",
@@ -83496,7 +83777,19 @@
     "file": "Undertale/It's Raining Somewhere Else.mmrs",
     "preview": "",
     "type": "bgm",
-    "notes": "96 BPM. Includes \"It's Raining Somewhere Else\" (Goron, Zora, Fierce Deity) and \"The Place Where It Rained\" (Human, Deku)."
+    "notes": "96 BPM. Includes \"It's Raining Somewhere Else\" (Goron, Zora, Fierce Deity) and \"The Place Where It Rained\" (Human, Deku).",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "hash": "47b80050b929ab2e64f580bb83491726",
+    "uuid": "aa697c5f-2f35-4de5-8be9-ea8df0a69851"
   },
   {
     "game": "Undertale",
@@ -83511,7 +83804,19 @@
     "file": "Undertale/The Place Where It Rained.mmrs",
     "preview": "",
     "type": "bgm",
-    "notes": "80 BPM. Includes \"It's Raining Somewhere Else\" (Goron, Zora, Fierce Deity) and \"The Place Where It Rained\" (Human, Deku)."
+    "notes": "80 BPM. Includes \"It's Raining Somewhere Else\" (Goron, Zora, Fierce Deity) and \"The Place Where It Rained\" (Human, Deku).",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": true,
+    "hash": "47b80050b929ab2e64f580bb83491726",
+    "uuid": "56ef147d-d914-4796-8cb2-a1b4d7542b0f"
   },
   {
     "game": "Final Fantasy VII",
@@ -86282,7 +86587,17 @@
     "hash": "51693cc7a4d1b12f2b197506ba5d3d08",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Wario Land 4/Hurry Up! [2].mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false
   },
   {
     "game": "Mario & Luigi: Partners in Time",
@@ -86901,7 +87216,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda Twilight Princess/Death Sword Battle (With Intro).mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "f810bea42dfbd3e13323bd1394f889d7",
+    "uuid": "1c282344-4fb6-4c5d-8637-8f0af42b37aa"
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
@@ -86915,7 +87239,16 @@
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "The Legend of Zelda Twilight Princess/Death Sword Battle.mmrs",
     "preview": "",
-    "type": "bgm"
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "hash": "667963155007a58f13b1336917f0c155",
+    "uuid": "27cba283-eab8-407f-a891-07f4751f5edd"
   },
   {
     "game": "Xenoblade Chronicles 2",
@@ -87202,7 +87535,18 @@
     ],
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Jet Lag The Game/It's Time 2 Enter... The Snack Zone.mmrs",
-    "preview": ""
+    "preview": "",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "4dcaf9cb2c6cd339bf46bfa9fbdaf4bc",
+    "uuid": "020cbfb4-f53c-42cd-8d7e-dd9d3d8cbbed"
   },
   {
     "game": "Kirby's Epic Yarn",
@@ -87591,7 +87935,20 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "120",
+      "121",
+      "122",
+      "124",
+      "137",
+      "139",
+      "141",
+      "152",
+      "155"
+    ],
+    "hash": "d870b85563533461b6cb5ee71ea99ae7",
+    "uuid": "366ee8eb-a80e-4778-8d17-3aa06f70542c"
   },
   {
     "game": "Jet Set Radio",
@@ -87608,7 +87965,20 @@
     "type": "fanfare",
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "categories": [
+      "120",
+      "121",
+      "122",
+      "124",
+      "137",
+      "139",
+      "141",
+      "152",
+      "155"
+    ],
+    "hash": "4b6e4fe84f8a405f76301f502310ccdf",
+    "uuid": "cb85b28c-d6b5-4338-b57f-e49e7ab5c0bd"
   },
   {
     "game": "Touhou 4: Lotus Land Story",
@@ -87977,6 +88347,42 @@
     "file": "Pokémon Black & White/Join Avenue.mmrs",
     "preview": "",
     "hash": "8e3222a1382e17ddb3654ef92dde9e40"
+  },
+  {
+    "uuid": "2a020595-6041-4668-8ecf-1a877b8e265c",
+    "creationDate": "2026-08-11T19:09:53.775Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Fishing Hole [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Fishing Hole [2].mmrs",
+    "preview": "",
+    "hash": "c4414b0a3de1a00afc8541d35a4bff7f"
+  },
+  {
+    "uuid": "6dc1e62d-e1a9-4c07-902e-57a69e2de7a3",
+    "creationDate": "2026-08-11T19:09:54.636Z",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
+    "song": "Locked Girl ~ The Girl's Sealed Room [2]",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Locked Girl ~ The Girl's Sealed Room [2].mmrs",
+    "preview": "",
+    "hash": "5826b86f6a3e6e00b2112c661a2112e3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
