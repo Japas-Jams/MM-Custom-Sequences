@@ -1941,10 +1941,9 @@
     "logo": "https://i.imgur.com/OAW2jBv.png"
   },
   {
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "series": "Yoshi Series",
-    "logo": "https://i.imgur.com/mzFBubW.png",
-    "short_name": "Yoshi's Island"
+    "logo": "https://i.imgur.com/mzFBubW.png"
   },
   {
     "game": "Super Metroid",
@@ -4903,46 +4902,33 @@
     "short_name": "Touhou 20"
   },
   {
-    "game": "Twilight Princess"
+    "game": "Vigilante 8: 2nd Offense",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/79e670a39dee6895d723518816d67495.png"
   },
   {
-    "game": "Vigilante 8 2nd Offense"
+    "game": "VVVVVV",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9426c311e76888b3b2368150cd05f362.png"
   },
   {
-    "game": "VVVVVV"
+    "game": "WarioWare: Smooth Moves",
+    "series": "WarioWare Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/afd5d10deb1128fc755a063bf02ec3f5.png"
   },
   {
-    "game": "Wario Ware Smooth Moves"
+    "game": "Wario World",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6b51838577534d37c39643ef07fe735c.png"
   },
   {
-    "game": "Wario World"
+    "game": "Wheel of Fortune (NES)",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/05351c19fa1799429772751a4ea5b337.png"
   },
   {
-    "game": "WarioWare Smooth Mooves"
+    "game": "Wild Arms",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0a2a4b1bde942601db07993bbedc9e75.png"
   },
   {
-    "game": "Wheel of Fortune (NES)"
-  },
-  {
-    "game": "Wii Shop  Zelda64"
-  },
-  {
-    "game": "Wild Arms 1"
-  },
-  {
-    "game": "Wind Waker"
-  },
-  {
-    "game": "Windows OS"
-  },
-  {
-    "game": "X Japan  Sands of Time by DebuglogWoon"
-  },
-  {
-    "game": "Yohane the Parhelion Blaze in the Deepblue (2023)"
-  },
-  {
-    "game": "Yoshi's Island (Super Mario World 2)"
+    "game": "Yohane the Parhelion -BLAZE in the DEEPBLUE-",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1f9fcb7e31ca34529eef9aecb136724c.png"
   },
   {
     "game": "Yoshi’s Story (1997)"

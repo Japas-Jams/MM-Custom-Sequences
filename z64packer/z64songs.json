@@ -3,7 +3,7 @@
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
     "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Dark World (Variant A)",
+    "song": "Dark World",
     "composers": [
       "Koji Kondo"
     ],
@@ -19,7 +19,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda A Link to the Past/Dark World (Variant A).mmrs",
+    "file": "The Legend of Zelda A Link to the Past/Dark World.mmrs",
     "preview": "https://www.youtube.com/watch?v=INvOnWNKhfU",
     "lastUpdateDate": "2026-03-13T03:28:10.852Z",
     "lufs": "-14.43",
@@ -29,7 +29,7 @@
     "uuid": "cc70b4b2-0c9a-44eb-949f-eef9f1f16bc5",
     "creationDate": "2026-03-04T23:58:05.061Z",
     "game": "Phoenix Wright: Ace Attorney",
-    "song": "Pursuit ~ Cornered (Variant A)",
+    "song": "Pursuit ~ Cornered",
     "composers": [
       "Masakazu Sugimori"
     ],
@@ -44,7 +44,7 @@
       "7",
       "11A"
     ],
-    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant A).mmrs",
+    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered.mmrs",
     "preview": "https://www.youtube.com/watch?v=t8O0I-3t6Y8",
     "lastUpdateDate": "2026-04-01T22:56:08.862Z",
     "usesCustomBank": false,
@@ -248,7 +248,7 @@
     "uuid": "467cb86b-312e-41a0-a720-fe799acf9c94",
     "creationDate": "2026-03-06T03:36:16.134Z",
     "game": "Banjo-Tooie",
-    "song": "Ordnance Storage (Variant A)",
+    "song": "Ordnance Storage",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -259,7 +259,7 @@
     "categories": [
       "4"
     ],
-    "file": "Banjo-Tooie/Ordnance Storage (Variant A).mmrs",
+    "file": "Banjo-Tooie/Ordnance Storage.mmrs",
     "preview": "https://www.youtube.com/watch?v=3WnHr2D7aqU",
     "lastUpdateDate": "2026-04-05T02:54:36.556Z",
     "usesCustomBank": false,
@@ -515,7 +515,7 @@
     "uuid": "53a730b9-009e-439c-9ae2-c5cd40222b61",
     "creationDate": "2026-03-06T16:37:13.543Z",
     "game": "Banjo-Kazooie",
-    "song": "Clanker's Cavern (Variant A)",
+    "song": "Clanker's Cavern",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -530,7 +530,7 @@
     ],
     "usesCustomBank": true,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Clanker's Cavern (Variant A).mmrs",
+    "file": "Banjo-Kazooie/Clanker's Cavern.mmrs",
     "preview": "https://www.youtube.com/watch?v=Q0jwAEfufuM",
     "lastUpdateDate": "2026-04-05T04:04:48.980Z",
     "notes": "This version changes based on being underwater and deep underwater.",
@@ -542,7 +542,7 @@
     "uuid": "6931b2b1-a391-42f9-8794-f6a920d97ceb",
     "creationDate": "2026-03-06T17:33:32.467Z",
     "game": "Banjo-Kazooie",
-    "song": "Freezeezy Peak (Variant A)",
+    "song": "Freezeezy Peak",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -558,7 +558,7 @@
     ],
     "usesCustomBank": true,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Freezeezy Peak (Variant A).mmrs",
+    "file": "Banjo-Kazooie/Freezeezy Peak.mmrs",
     "preview": "https://www.youtube.com/watch?v=uqEoykI2Zd0",
     "lastUpdateDate": "2026-04-05T04:10:46.468Z",
     "notes": "This version of the song changes based on being in combat or while swimming.",
@@ -624,7 +624,7 @@
     "uuid": "c70f0234-364e-4bb3-9bc4-39828195af1e",
     "creationDate": "2026-03-06T17:36:05.474Z",
     "game": "Banjo-Kazooie",
-    "song": "Rusty Bucket Bay (Variant A)",
+    "song": "Rusty Bucket Bay",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -639,7 +639,7 @@
     ],
     "usesCustomBank": true,
     "usesFormmask": true,
-    "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant A).mmrs",
+    "file": "Banjo-Kazooie/Rusty Bucket Bay.mmrs",
     "preview": "https://www.youtube.com/watch?v=TaXoPdoooIw",
     "lastUpdateDate": "2026-04-05T04:09:47.932Z",
     "notes": "This version of the song changes if the player is swimming.",
@@ -1790,7 +1790,7 @@
     "uuid": "f9ada52c-d71e-4fa9-8ccd-38180c291b0e",
     "creationDate": "2026-03-07T17:05:56.159Z",
     "game": "Sonic Adventure 2",
-    "song": "Pumpkin Hill (Variant A)",
+    "song": "Pumpkin Hill",
     "composers": [
       "Tomoya Ohtani"
     ],
@@ -3276,7 +3276,7 @@
     "uuid": "738925ce-c172-44da-ba0f-69b537b2cc99",
     "creationDate": "2026-03-10T02:16:47.678Z",
     "game": "Bomberman Hero",
-    "song": "Redial (Variant A)",
+    "song": "Redial",
     "composers": [
       "Jun Chikuma"
     ],
@@ -3292,7 +3292,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Bomberman Hero/Redial (Variant A).mmrs",
+    "file": "Bomberman Hero/Redial.mmrs",
     "preview": "https://www.youtube.com/watch?v=QaSk132f--4",
     "lastUpdateDate": "2026-03-20T22:23:39.243Z",
     "lufs": "-16.90",
@@ -3302,7 +3302,7 @@
     "uuid": "c95543e5-199a-464a-a35a-a54a8e7b64bb",
     "creationDate": "2026-03-10T02:18:11.112Z",
     "game": "Dark Souls",
-    "song": "Gwyn, Lord of Cinder (Variant A)",
+    "song": "Gwyn, Lord of Cinder",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -3317,7 +3317,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dark Souls/Gwyn, Lord of Cinder (Variant A).mmrs",
+    "file": "Dark Souls/Gwyn, Lord of Cinder.mmrs",
     "preview": "https://www.youtube.com/watch?v=yCWCSGlSVjw",
     "lufs": "-22.38",
     "hash": "23a8b4bf364c675653aaf4978a7f02f0"
@@ -3541,7 +3541,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant A).mmrs",
+    "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly.mmrs",
     "preview": "https://www.youtube.com/watch?v=ejOU2tWMMgM",
     "lastUpdateDate": "2026-03-18T23:26:58.809Z",
     "lufs": "-16.86",
@@ -4858,7 +4858,7 @@
     "uuid": "ab38cdfb-e9fe-4705-9104-eaf75c844d44",
     "creationDate": "2026-03-13T03:14:20.827Z",
     "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Dark World (Variant B)",
+    "song": "Dark World [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -4874,7 +4874,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda A Link to the Past/Dark World (Variant B).mmrs",
+    "file": "The Legend of Zelda A Link to the Past/Dark World [2].mmrs",
     "preview": "https://www.youtube.com/watch?v=hRdi9gdxM2I",
     "lastUpdateDate": "2026-03-13T03:24:08.540Z",
     "lufs": "-15.87",
@@ -5446,11 +5446,9 @@
     "uuid": "4b9062ad-08b3-435b-b8ed-27f3918b68d5",
     "creationDate": "2026-03-13T04:13:34.360Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Midna's Lament (Variant A)",
+    "song": "Midna's Lament",
     "composers": [
-      "Toru Minegishi",
-      "Asuka Ohta",
-      "Koji Kondo"
+      "Toru Minegishi"
     ],
     "converters": [
       "Fish"
@@ -5465,7 +5463,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant A).mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Midna's Lament.mmrs",
     "preview": "https://www.youtube.com/watch?v=NrdQkoAHZwQ",
     "lufs": "-19.48",
     "hash": "aeabde133f175b93af5d1c2f9b24ced5"
@@ -5543,7 +5541,7 @@
     "uuid": "e97dea8b-28e2-4715-a04b-2e3b61fd9d69",
     "creationDate": "2026-03-13T04:21:32.936Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Molgera (Variant A)",
+    "song": "Molgera",
     "composers": [
       "Kenta Nagata",
       "Hajime Wakai",
@@ -5560,7 +5558,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Molgera (Variant A).mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Molgera.mmrs",
     "preview": "https://www.youtube.com/watch?v=4MAKcGuXyno",
     "lufs": "-13.63",
     "hash": "626e3a26f936eeb2009e08fd5bed84ab"
@@ -6361,7 +6359,7 @@
     "uuid": "cf08ffc3-b45a-4dc1-8650-7131c98b3bbf",
     "creationDate": "2026-03-14T01:29:00.124Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Wind Temple (Variant A)",
+    "song": "Wind Temple",
     "composers": [
       "Kenta Nagata",
       "Hajime Wakai",
@@ -6380,7 +6378,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant A).mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Wind Temple.mmrs",
     "preview": "https://www.youtube.com/watch?v=DjZIxad5L3o",
     "lufs": "-14.20",
     "hash": "c982f04daa0b0d9ebd5cecbd358db114"
@@ -6711,7 +6709,7 @@
     "uuid": "38c3cc30-0899-4f79-a41d-128c51736edb",
     "creationDate": "2026-03-14T02:13:22.805Z",
     "game": "Persona 3",
-    "song": "The Battle for Everyone's Souls (Variant A)",
+    "song": "The Battle for Everyone's Souls",
     "composers": [
       "Shoji Meguro"
     ],
@@ -7337,7 +7335,7 @@
     "uuid": "b778ee25-f147-4fec-ad9d-6d9103980bfa",
     "creationDate": "2026-03-14T15:07:16.476Z",
     "game": "Shin Megami Tensei III: Nocturne",
-    "song": "Puzzle Boy (Variant A)",
+    "song": "Puzzle Boy",
     "composers": [
       "Kenichi Tsuchiya"
     ],
@@ -7351,7 +7349,7 @@
       "4"
     ],
     "usesCustomBank": true,
-    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant A).mmrs",
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy.mmrs",
     "preview": "https://www.youtube.com/watch?v=znhsVzhtqFM",
     "lastUpdateDate": "2026-04-01T22:58:25.495Z",
     "usesCustomSamples": false,
@@ -7841,7 +7839,7 @@
     "uuid": "25d4bcf5-be60-4067-ad2b-f3adab1810ae",
     "creationDate": "2026-03-14T15:46:16.430Z",
     "game": "Super Smash Bros. Melee",
-    "song": "Final Destination (Variant A)",
+    "song": "Final Destination",
     "composers": [
       "Hirokazu Ando"
     ],
@@ -7855,7 +7853,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Smash Bros. Melee/Final Destination (Variant A).mmrs",
+    "file": "Super Smash Bros. Melee/Final Destination.mmrs",
     "preview": "https://www.youtube.com/watch?v=fr7HrjoE-KE",
     "lufs": "-17.62",
     "hash": "d1f3f3ab63cad19239d32e082f071dc7"
@@ -7984,7 +7982,7 @@
     "uuid": "0523822f-1d14-47ed-b3bc-6d4cfbb4f3ec",
     "creationDate": "2026-03-14T15:55:20.296Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Morpheel Battle (Second Half) (Variant A)",
+    "song": "Morpheel Battle (Second Half)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -7999,7 +7997,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Variant A).mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half).mmrs",
     "preview": "https://www.youtube.com/watch?v=IlSpP7kNwZ0",
     "lufs": "-16.01",
     "hash": "7369cc6e2ba0fd16a5d512f2514ef446"
@@ -8336,7 +8334,7 @@
     "uuid": "cf2e6382-ecad-4fbb-8cc0-0935faf9c5dc",
     "creationDate": "2026-03-14T17:55:43.683Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "National Park (Variant A)",
+    "song": "National Park",
     "composers": [
       "Go Ichinose"
     ],
@@ -8351,7 +8349,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/National Park (Variant A).mmrs",
+    "file": "Pokémon Gold, Silver & Crystal/National Park.mmrs",
     "preview": "https://www.youtube.com/watch?v=4v1zcmc2irg",
     "lufs": "-19.74",
     "hash": "3c8ffe2ec4c86ebd911604fa0d0a98a7"
@@ -9207,8 +9205,8 @@
   {
     "uuid": "6d6dd2be-6809-45f2-98a1-e1b643d08c06",
     "creationDate": "2026-03-16T00:05:02.282Z",
-    "game": "Super Mario World 2: Yoshi's Island",
-    "song": "Athletic (Variant A)",
+    "game": "Yoshi's Island",
+    "song": "Athletic",
     "composers": [
       "Koji Kondo"
     ],
@@ -9221,7 +9219,7 @@
       "4"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant A).mmrs",
+    "file": "Yoshi's Island/Athletic.mmrs",
     "preview": "https://www.youtube.com/watch?v=8WaX18TzPfQ",
     "lastUpdateDate": "2026-04-08T23:01:01.821Z",
     "usesCustomSamples": false,
@@ -9232,7 +9230,7 @@
   {
     "uuid": "4a899fbd-4411-44ab-b4f5-7dfb245c910c",
     "creationDate": "2026-03-16T00:05:35.563Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Flower Garden",
     "composers": [
       "Koji Kondo"
@@ -9248,7 +9246,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Flower Garden.mmrs",
+    "file": "Yoshi's Island/Flower Garden.mmrs",
     "preview": "https://www.youtube.com/watch?v=lom6mrKj63M",
     "lufs": "-23.44",
     "hash": "c5b85415042bf7b9ac32d263438a9b3d"
@@ -9279,7 +9277,7 @@
   {
     "uuid": "5e282bc5-48ed-4cbe-8df3-e21b75af5003",
     "creationDate": "2026-03-16T00:07:57.096Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Above Ground",
     "composers": [
       "Koji Kondo"
@@ -9294,7 +9292,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Above Ground.mmrs",
+    "file": "Yoshi's Island/Above Ground.mmrs",
     "preview": "https://www.youtube.com/watch?v=Qn8I62q9CrY",
     "lufs": "-20.93",
     "hash": "f23dc83471d4912c3fb4735e962b5178"
@@ -9302,7 +9300,7 @@
   {
     "uuid": "d1c6949e-1caf-48db-afd9-0bd69edc4fba",
     "creationDate": "2026-03-16T00:10:50.505Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Player Down",
     "composers": [
       "Koji Kondo"
@@ -9317,7 +9315,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Player Down.mmrs",
+    "file": "Yoshi's Island/Player Down.mmrs",
     "preview": "https://www.youtube.com/watch?v=qzt7eRHuQpo",
     "lufs": "-20.20",
     "hash": "5227201c8b61ab0406aef4c5e99cc86a"
@@ -9325,7 +9323,7 @@
   {
     "uuid": "ec94e23d-aa2d-4334-8237-bb56dcead41e",
     "creationDate": "2026-03-16T00:13:25.616Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Mini Boss Theme",
     "composers": [
       "Koji Kondo"
@@ -9342,7 +9340,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Mini Boss Theme.mmrs",
+    "file": "Yoshi's Island/Mini Boss Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=7KYIWwfeMYc",
     "lufs": "-19.19",
     "hash": "8ebe4f58d87165c3ca3dd6b3e00d8797"
@@ -9373,7 +9371,7 @@
   {
     "uuid": "e752f229-ade0-4e40-8a93-0dafa7ee9d74",
     "creationDate": "2026-03-16T00:15:32.343Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Castle Theme",
     "composers": [
       "Koji Kondo"
@@ -9388,7 +9386,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Castle Theme.mmrs",
+    "file": "Yoshi's Island/Castle Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=MGFyaYFKX3U",
     "lufs": "-21.92",
     "hash": "0af62128321cee29f05785b4d091b2f1"
@@ -10149,7 +10147,7 @@
     "uuid": "d4fbe75e-db25-4d59-bd85-e89469357d2d",
     "creationDate": "2026-03-16T23:13:16.736Z",
     "game": "Zelda II: The Adventure of Link",
-    "song": "Temple (Variant A)",
+    "song": "Temple",
     "composers": [
       "Koji Kondo"
     ],
@@ -10163,7 +10161,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Zelda II The Adventure of Link/Temple (Variant A).mmrs",
+    "file": "Zelda II The Adventure of Link/Temple.mmrs",
     "preview": "https://www.youtube.com/watch?v=Futd2jZcMdc",
     "lufs": "-21.01",
     "hash": "fa5ed428cfd969dcae27db96de5f68ee"
@@ -10546,7 +10544,7 @@
     "uuid": "68e1a425-b737-43ab-b3de-71e8a181188a",
     "creationDate": "2026-03-17T00:13:33.500Z",
     "game": "Dark Souls",
-    "song": "Gwyn, Lord of Cinder (Variant B)",
+    "song": "Gwyn, Lord of Cinder [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -10560,7 +10558,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Dark Souls/Gwyn, Lord of Cinder (Variant B).mmrs",
+    "file": "Dark Souls/Gwyn, Lord of Cinder [2].mmrs",
     "preview": "https://www.youtube.com/watch?v=fwMDuGD-s9c",
     "lufs": "-18.73",
     "hash": "0841b69259ad08486e1d0e7e782ffc14"
@@ -10877,7 +10875,7 @@
   {
     "uuid": "896d6ec3-d19b-418b-b8cd-fab38f3f9844",
     "creationDate": "2026-03-17T00:41:18.434Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Underground Theme",
     "composers": [
       "Koji Kondo"
@@ -10897,7 +10895,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Underground Theme.mmrs",
+    "file": "Yoshi's Island/Underground Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=jd_YCtl4sKI",
     "lufs": "-10.09",
     "hash": "2bc665c086476369f5355b04dec638bf"
@@ -10983,7 +10981,7 @@
     "uuid": "26142a5d-9ed2-49b8-9efc-ab3d7d80de0d",
     "creationDate": "2026-03-17T16:15:29.664Z",
     "game": "Banjo-Kazooie",
-    "song": "Click Clock Wood (Spring) (Variant A)",
+    "song": "Click Clock Wood (Spring)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -11000,7 +10998,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant A).mmrs",
+    "file": "Banjo-Kazooie/Click Clock Wood (Spring).mmrs",
     "preview": "https://www.youtube.com/watch?v=6SeTKn29bUs",
     "lufs": "-16.00",
     "hash": "8aa91799a3a5f629fd2fa7239b002642"
@@ -11204,7 +11202,7 @@
     "uuid": "2c1fe19d-c0cb-47db-ae48-faa3b1a2bdf7",
     "creationDate": "2026-03-17T16:31:41.190Z",
     "game": "Paper Mario",
-    "song": "Toad Town (Variant A)",
+    "song": "Toad Town",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -11218,7 +11216,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Paper Mario/Toad Town (Variant A).mmrs",
+    "file": "Paper Mario/Toad Town.mmrs",
     "preview": "https://www.youtube.com/watch?v=3F0cjgdvpuQ",
     "lastUpdateDate": "2026-03-20T22:24:04.784Z",
     "lufs": "-18.35",
@@ -12039,7 +12037,7 @@
     "uuid": "758793ea-0c5d-4e50-82d7-d479b9635486",
     "creationDate": "2026-03-18T02:51:23.138Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "Ecruteak City (Variant B)",
+    "song": "Ecruteak City [2]",
     "composers": [
       "Go Ichinose"
     ],
@@ -12053,8 +12051,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/Ecruteak City (Variant B).mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/Ecruteak City (Variant B).ogg",
+    "file": "Pokémon Gold, Silver & Crystal/Ecruteak City [2].mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Ecruteak City [2].ogg",
     "lufs": "-19.25",
     "hash": "3dbcabc618a3fe27f4bcfd0085bcbdab"
   },
@@ -12062,7 +12060,7 @@
     "uuid": "217d79d3-844d-4e2c-ba14-0731205ee79a",
     "creationDate": "2026-03-18T02:52:37.250Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "National Park (Variant B)",
+    "song": "National Park [2]",
     "composers": [
       "Go Ichinose"
     ],
@@ -12076,8 +12074,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Gold, Silver & Crystal/National Park (Variant B).mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/National Park (Variant B).ogg",
+    "file": "Pokémon Gold, Silver & Crystal/National Park [2].mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/National Park [2].ogg",
     "lufs": "-14.21",
     "hash": "b3fd29aa460cfefec548aa1888ec4a3e"
   },
@@ -12085,7 +12083,7 @@
     "uuid": "93be2938-8be4-4cf9-be0f-cddee069f7f4",
     "creationDate": "2026-03-18T02:53:21.958Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Celadon City (Variant A)",
+    "song": "Celadon City",
     "composers": [
       "Junichi Masuda"
     ],
@@ -12099,8 +12097,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Celadon City (Variant A).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Celadon City (Variant A).ogg",
+    "file": "Pokémon Red, Blue & Yellow/Celadon City.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City.ogg",
     "lufs": "-14.20",
     "hash": "ed1e0181a6f417a142185b08e2413375"
   },
@@ -12108,7 +12106,7 @@
     "uuid": "74796081-0922-48c1-821f-a632c78dd7b8",
     "creationDate": "2026-03-18T02:54:02.263Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Mt. Moon (Variant A)",
+    "song": "Mt. Moon",
     "composers": [
       "Junichi Masuda"
     ],
@@ -12122,8 +12120,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant A).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant A).ogg",
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon.ogg",
     "lufs": "-18.07",
     "hash": "c266561f29187aa44de1c5d176c6b651"
   },
@@ -12131,7 +12129,7 @@
     "uuid": "27d52756-0ffd-491c-b421-45e976fe62d5",
     "creationDate": "2026-03-18T02:54:58.874Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Pokémon Center (Variant A)",
+    "song": "Pokémon Center",
     "composers": [
       "Junichi Masuda"
     ],
@@ -12145,8 +12143,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant A).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant A).ogg",
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center.mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center.ogg",
     "lufs": "-22.03",
     "hash": "f01a9231c703a0dabd8f9a20f511a6aa"
   },
@@ -12328,7 +12326,7 @@
     "uuid": "6039b530-76e4-4374-9301-cddf072cb83b",
     "creationDate": "2026-03-18T22:38:38.040Z",
     "game": "Action 52",
-    "song": "Cheetahmen (Variant A)",
+    "song": "Cheetahmen",
     "composers": [
       "Mario González"
     ],
@@ -12345,8 +12343,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Action 52/Cheetahmen (Variant A).mmrs",
-    "preview": "Action 52/Cheetahmen (Variant A).ogg",
+    "file": "Action 52/Cheetahmen.mmrs",
+    "preview": "Action 52/Cheetahmen.ogg",
     "lufs": "-21.88",
     "hash": "dfa690db96c6df32484edce2dea66a58"
   },
@@ -12493,7 +12491,7 @@
     "usesCustomSamples": true,
     "usesFormmask": false,
     "file": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Wanting to Find the Truth.mmrs",
-    "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly (Variant B).ogg",
+    "preview": "Ace Attorney Investigations Miles Edgeworth/Pursuit ~ Lying Coldly [2].ogg",
     "lastUpdateDate": "2026-03-18T23:25:05.877Z",
     "lufs": "-17.07",
     "hash": "a1f63097e3c4b865988801740a33d29a"
@@ -13014,7 +13012,7 @@
     "uuid": "41098e97-25ed-407b-a7ab-089234a8c76c",
     "creationDate": "2026-03-20T01:04:05.194Z",
     "game": "Pokémon Omega Ruby & Alpha Sapphire",
-    "song": "Battle! Lorekeeper Zinnia (Variant A)",
+    "song": "Battle! Lorekeeper Zinnia",
     "composers": [
       "Shota Kageyama"
     ],
@@ -13030,8 +13028,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant A).mmrs",
-    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant A).ogg",
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia.ogg",
     "lufs": "-13.15",
     "hash": "d42dc8e9f396083b7674541067138c22"
   },
@@ -14370,7 +14368,7 @@
     "uuid": "3705a49f-5803-47e6-8ddc-0e44a6736d14",
     "creationDate": "2026-03-20T22:13:15.052Z",
     "game": "Bomberman Hero",
-    "song": "Redial (Variant B)",
+    "song": "Redial [2]",
     "composers": [
       "Jun Chikuma"
     ],
@@ -14388,8 +14386,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Bomberman Hero/Redial (Variant B).mmrs",
-    "preview": "Bomberman Hero/Redial (Variant B).ogg",
+    "file": "Bomberman Hero/Redial [2].mmrs",
+    "preview": "Bomberman Hero/Redial [2].ogg",
     "lufs": "-22.56",
     "hash": "c2f8c035145b44e434dc9c4108cacde8"
   },
@@ -14515,7 +14513,7 @@
     "uuid": "27f14c5c-9907-4b6c-804b-c251bd7c10f0",
     "creationDate": "2026-03-20T22:21:00.870Z",
     "game": "Paper Mario",
-    "song": "Toad Town (Variant B)",
+    "song": "Toad Town [2]",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -14530,8 +14528,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Paper Mario/Toad Town (Variant B).mmrs",
-    "preview": "Paper Mario/Toad Town (Variant B).ogg",
+    "file": "Paper Mario/Toad Town [2].mmrs",
+    "preview": "Paper Mario/Toad Town [2].ogg",
     "lufs": "-24.32",
     "hash": "6bf5e27badad284dc82f5236ac9f0f5a"
   },
@@ -16340,7 +16338,7 @@
     "uuid": "328af15f-ba24-4e84-95f6-74d3282b4992",
     "creationDate": "2026-03-22T00:37:13.988Z",
     "game": "Super Smash Bros. Melee",
-    "song": "Final Destination (Variant B)",
+    "song": "Final Destination [2]",
     "composers": [
       "Hirokazu Ando"
     ],
@@ -16355,8 +16353,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Smash Bros. Melee/Final Destination (Variant B).mmrs",
-    "preview": "Super Smash Bros. Melee/Final Destination (Variant B).ogg",
+    "file": "Super Smash Bros. Melee/Final Destination [2].mmrs",
+    "preview": "Super Smash Bros. Melee/Final Destination [2].ogg",
     "lufs": "-9.38",
     "hash": "c35500e29a0f4252d10f9257e9379ff1"
   },
@@ -16461,7 +16459,7 @@
     "uuid": "0a4a75ab-3884-4336-9e71-cc1a0c69ce5a",
     "creationDate": "2026-03-22T00:46:52.602Z",
     "game": "The Legend of Zelda: Skyward Sword",
-    "song": "Koloktos (Variant B)",
+    "song": "Koloktos [2]",
     "composers": [
       "Mahito Yokota"
     ],
@@ -16475,8 +16473,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Skyward Sword/Koloktos (Variant B).mmrs",
-    "preview": "The Legend of Zelda Skyward Sword/Koloktos (Variant B).ogg",
+    "file": "The Legend of Zelda Skyward Sword/Koloktos [2].mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Koloktos [2].ogg",
     "lufs": "-10.58",
     "hash": "0219cad8d52b6fe67c985e75543088b6"
   },
@@ -16580,7 +16578,7 @@
     "uuid": "e6f4a7dd-02eb-4f86-8c1f-043dbe43caea",
     "creationDate": "2026-03-22T01:07:22.929Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Morpheel Battle (Second Half) (Variant B)",
+    "song": "Morpheel Battle (Second Half) [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -16594,8 +16592,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) (Variant B).ogg",
+    "file": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Morpheel Battle (Second Half) [2].ogg",
     "lufs": "-11.48",
     "hash": "9a7b4c40d312c3effb98140d19111b5b"
   },
@@ -17469,7 +17467,7 @@
     "uuid": "cb8ed21f-a62b-434f-a70b-6930c2b5375f",
     "creationDate": "2026-03-22T23:59:47.704Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Faron Woods (Variant A)",
+    "song": "Faron Woods",
     "composers": [
       "Toru Minegishi",
       "Asuka Ohta"
@@ -17545,7 +17543,7 @@
     "uuid": "f80356a3-c87c-44a4-8427-339ba4be0189",
     "creationDate": "2026-03-23T00:02:43.803Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Sacred Grove (Variant A)",
+    "song": "Sacred Grove",
     "composers": [
       "Toru Minegishi"
     ],
@@ -17556,7 +17554,7 @@
     "categories": [
       "0"
     ],
-    "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant A).mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Sacred Grove.ogg",
     "lastUpdateDate": "2026-04-04T16:55:59.573Z",
     "usesCustomBank": false,
@@ -17691,7 +17689,7 @@
     "uuid": "ded5150d-fbd5-48e5-95b9-5048aa806098",
     "creationDate": "2026-03-23T00:15:01.449Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Wind Temple (Variant B)",
+    "song": "Wind Temple [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -17705,8 +17703,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Wind Temple (Variant B).ogg",
+    "file": "The Legend of Zelda The Wind Waker/Wind Temple [2].mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind Temple [2].ogg",
     "lufs": "-15.37",
     "hash": "4c6f4f9bfa67c35e7d3ceb585c9acad0"
   },
@@ -17798,7 +17796,7 @@
     "uuid": "e19e8293-0d75-49fd-ac62-e3b22c4afe27",
     "creationDate": "2026-03-23T02:47:51.195Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Midna's Lament (Variant B)",
+    "song": "Midna's Lament [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -17815,8 +17813,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Midna's Lament (Variant B).mp3",
+    "file": "The Legend of Zelda Twilight Princess/Midna's Lament [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Midna's Lament [2].mp3",
     "lufs": "-11.63",
     "hash": "196109f06607eb6e5b3754152cab1b97"
   },
@@ -18456,7 +18454,7 @@
     "uuid": "c78df564-ddc3-4241-9767-c020e5265c51",
     "creationDate": "2026-03-23T16:20:43.232Z",
     "game": "Castlevania: Lament of Innocence",
-    "song": "Lament of Innocence ~Leon's Theme~ (Variant A)",
+    "song": "Lament of Innocence ~Leon's Theme~",
     "composers": [
       "Michiru Yamane"
     ],
@@ -18471,8 +18469,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant A).mmrs",
-    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant A).mp3",
+    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~.mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~.mp3",
     "lufs": "-14.96",
     "hash": "cfdd28d69c35915cc843f010e23f6227"
   },
@@ -20003,7 +20001,7 @@
     "uuid": "be90d8f8-9028-45cc-8b83-d32ec498eba0",
     "creationDate": "2026-03-24T01:01:38.867Z",
     "game": "Action 52",
-    "song": "Cheetahmen (Variant B)",
+    "song": "Cheetahmen [2]",
     "composers": [
       "Mario Gonzalez"
     ],
@@ -20023,8 +20021,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Action 52/Cheetahmen (Variant B).mmrs",
-    "preview": "Action 52/Cheetahmen (Variant B).mp3",
+    "file": "Action 52/Cheetahmen [2].mmrs",
+    "preview": "Action 52/Cheetahmen [2].mp3",
     "lufs": "-21.37",
     "hash": "0f6ae5214abb21bebca7ed7c9902f052"
   },
@@ -20153,7 +20151,7 @@
     "uuid": "5caca4cc-fab3-44ee-959b-1c9c472bd9b3",
     "creationDate": "2026-03-24T01:13:17.352Z",
     "game": "Chrono Trigger",
-    "song": "Corridors of Time (Variant A)",
+    "song": "Corridors of Time",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -20828,7 +20826,7 @@
     "uuid": "c467af4c-9991-408e-9a50-5a268b86d364",
     "creationDate": "2026-03-24T01:37:40.894Z",
     "game": "Final Fantasy VII",
-    "song": "J-E-N-O-V-A (Variant A)",
+    "song": "J-E-N-O-V-A",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -22414,7 +22412,7 @@
     "uuid": "2a4dcea2-ebc5-42fe-9328-e8bb8e1aa258",
     "creationDate": "2026-03-25T03:40:39.446Z",
     "game": "Pokémon Omega Ruby & Alpha Sapphire",
-    "song": "Battle! Lorekeeper Zinnia (Variant B)",
+    "song": "Battle! Lorekeeper Zinnia [2]",
     "composers": [
       "Shota Kageyama"
     ],
@@ -22430,8 +22428,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant B).mmrs",
-    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia (Variant B).mp3",
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia [2].mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Lorekeeper Zinnia [2].mp3",
     "lufs": "-12.57",
     "hash": "d884cf24e699097f003595095eb70142"
   },
@@ -22486,7 +22484,7 @@
     "uuid": "ea9d19a0-1370-465e-86fe-6f315ccda585",
     "creationDate": "2026-03-25T03:51:55.512Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Celadon City (Variant B)",
+    "song": "Celadon City [2]",
     "composers": [
       "Junichi Masuda"
     ],
@@ -22502,8 +22500,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Celadon City (Variant B).mp3",
+    "file": "Pokémon Red, Blue & Yellow/Celadon City [2].mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Celadon City [2].mp3",
     "lufs": "-18.34",
     "hash": "86913d5eb7e06aa5513a0a5da7f09ee0"
   },
@@ -22583,7 +22581,7 @@
     "uuid": "626bdc3c-1130-479a-8d30-14e48eeb7524",
     "creationDate": "2026-03-25T04:06:16.628Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Mt. Moon (Variant B)",
+    "song": "Mt. Moon [2]",
     "composers": [
       "Junichi Masuda"
     ],
@@ -22597,8 +22595,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon (Variant B).mp3",
+    "file": "Pokémon Red, Blue & Yellow/Mt. Moon [2].mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Mt. Moon [2].mp3",
     "lufs": "-19.51",
     "hash": "ea9c4d1ac8d41da59ec9ca18c338a5da"
   },
@@ -22680,7 +22678,7 @@
     "uuid": "4c83b685-1122-4579-8ec5-814ea238e416",
     "creationDate": "2026-03-25T04:17:57.043Z",
     "game": "Pokémon Red, Blue & Yellow",
-    "song": "Pokémon Center (Variant B)",
+    "song": "Pokémon Center [2]",
     "composers": [
       "Junichi Masuda"
     ],
@@ -22695,8 +22693,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mmrs",
-    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center (Variant B).mp3",
+    "file": "Pokémon Red, Blue & Yellow/Pokémon Center [2].mmrs",
+    "preview": "Pokémon Red, Blue & Yellow/Pokémon Center [2].mp3",
     "lufs": "-17.57",
     "hash": "1e4ea561cb7e849a948c91124a10ebf6"
   },
@@ -23681,7 +23679,7 @@
     "uuid": "0bca46e4-5595-400b-ab4c-ba4de34f56fe",
     "creationDate": "2026-03-25T23:24:29.667Z",
     "game": "Final Fantasy VII",
-    "song": "J-E-N-O-V-A (Variant B)",
+    "song": "J-E-N-O-V-A [2]",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -23696,7 +23694,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Final Fantasy VII/J-E-N-O-V-A (Variant B).mmrs",
+    "file": "Final Fantasy VII/J-E-N-O-V-A [2].mmrs",
     "preview": "Final Fantasy VII/JENOVA.ogg",
     "lastUpdateDate": "2026-03-25T23:51:06.975Z",
     "lufs": "-15.86",
@@ -23730,7 +23728,7 @@
     "uuid": "b4818f04-4a4b-4a2a-95bc-eff729a87db6",
     "creationDate": "2026-03-25T23:25:43.368Z",
     "game": "Golden Sun",
-    "song": "Venus Lighthouse (Variant A)",
+    "song": "Venus Lighthouse",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -23745,8 +23743,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Golden Sun/Venus Lighthouse (Variant A).mmrs",
-    "preview": "Golden Sun/Venus Lighthouse (Variant A).ogg",
+    "file": "Golden Sun/Venus Lighthouse.mmrs",
+    "preview": "Golden Sun/Venus Lighthouse.ogg",
     "lufs": "-12.27",
     "hash": "ae61f68cbc988d6ebb8718e62578ab88"
   },
@@ -23871,7 +23869,7 @@
   {
     "uuid": "a48be2f8-755e-45b3-b5bd-4187d1814765",
     "creationDate": "2026-03-25T23:29:51.078Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Goal",
     "composers": [
       "Koji Kondo"
@@ -23887,8 +23885,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Goal.mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Goal.ogg",
+    "file": "Yoshi's Island/Goal.mmrs",
+    "preview": "Yoshi's Island/Goal.ogg",
     "lufs": "-15.85",
     "hash": "2f44ccffb2531b5d239c265f83d24f58"
   },
@@ -23944,7 +23942,7 @@
   {
     "uuid": "7a37269b-1c1d-470f-a41d-3eabb97f5ce0",
     "creationDate": "2026-03-26T00:03:37.005Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Castle & Fortress Theme",
     "composers": [
       "Koji Kondo"
@@ -23962,8 +23960,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Castle & Fortress Theme.mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Castle & Fortress Theme.ogg",
+    "file": "Yoshi's Island/Castle & Fortress Theme.mmrs",
+    "preview": "Yoshi's Island/Castle & Fortress Theme.ogg",
     "lufs": "-17.56",
     "hash": "b61027a0bc63dbe1a274b226cb7c4ca4"
   },
@@ -25095,7 +25093,7 @@
     "uuid": "007ad274-5872-41fc-8bf0-1083865ff037",
     "creationDate": "2026-03-28T17:20:38.764Z",
     "game": "Pokémon Gold, Silver & Crystal",
-    "song": "Dark Cave (Variant A)",
+    "song": "Dark Cave",
     "composers": [
       "Go Ichinose",
       "Junichi Masuda",
@@ -25110,8 +25108,8 @@
       "1",
       "2"
     ],
-    "file": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mmrs",
-    "preview": "Pokémon Gold, Silver & Crystal/Dark Cave (Variant A).mp3",
+    "file": "Pokémon Gold, Silver & Crystal/Dark Cave.mmrs",
+    "preview": "Pokémon Gold, Silver & Crystal/Dark Cave.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -26732,7 +26730,7 @@
     "uuid": "6ceec392-a0ba-47a8-9c96-09141a598a64",
     "creationDate": "2026-03-31T01:10:25.632Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Mini-Boss (Variant B)",
+    "song": "Mini-Boss [2]",
     "composers": [
       "Hajime Wakai"
     ],
@@ -26746,8 +26744,8 @@
       "7"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant B).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant B).mp3",
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss [2].mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-17.46",
@@ -26940,7 +26938,7 @@
     "uuid": "fd27f2cb-f484-4509-875e-0561204aa205",
     "creationDate": "2026-03-22T01:12:15.513Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Mini-Boss (Variant A)",
+    "song": "Mini-Boss",
     "composers": [
       "Hajime Wakai"
     ],
@@ -26955,8 +26953,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss (Variant A).ogg",
+    "file": "The Legend of Zelda The Wind Waker/Mini-Boss.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Mini-Boss.ogg",
     "lufs": "-12.75",
     "hash": "6e67cca59037c97b1e8b00a395517f3a"
   },
@@ -27042,7 +27040,7 @@
     "uuid": "091aabf8-a7b1-4ee7-a4c8-b876af014199",
     "creationDate": "2026-03-31T02:50:09.895Z",
     "game": "Banjo-Kazooie",
-    "song": "Click Clock Wood (Spring) (Variant B)",
+    "song": "Click Clock Wood (Spring) [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -27055,8 +27053,8 @@
       "1",
       "2"
     ],
-    "file": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) (Variant B).ogg",
+    "file": "Banjo-Kazooie/Click Clock Wood (Spring) [2].mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Spring) [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -27067,7 +27065,7 @@
     "uuid": "1babf596-628d-4b05-b019-609b04315d61",
     "creationDate": "2026-03-31T02:51:40.474Z",
     "game": "Banjo-Kazooie",
-    "song": "Freezeezy Peak (Variant B)",
+    "song": "Freezeezy Peak [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -27081,8 +27079,8 @@
       "2",
       "157"
     ],
-    "file": "Banjo-Kazooie/Freezeezy Peak (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant B).ogg",
+    "file": "Banjo-Kazooie/Freezeezy Peak [2].mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -27093,7 +27091,7 @@
     "uuid": "2d17983d-42f0-46f0-b5f6-8710be268d0c",
     "creationDate": "2026-03-31T02:52:43.933Z",
     "game": "Banjo-Kazooie",
-    "song": "Rusty Bucket Bay (Variant B)",
+    "song": "Rusty Bucket Bay [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -27106,8 +27104,8 @@
       "1",
       "2"
     ],
-    "file": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Rusty Bucket Bay (Variant B).ogg",
+    "file": "Banjo-Kazooie/Rusty Bucket Bay [2].mmrs",
+    "preview": "Banjo-Kazooie/Rusty Bucket Bay [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -27118,7 +27116,7 @@
     "uuid": "8134dc83-ec29-4937-8110-e0a30d424e3a",
     "creationDate": "2026-03-31T02:55:16.441Z",
     "game": "Bomberman 64",
-    "song": "Green Garden (Variant A)",
+    "song": "Green Garden",
     "composers": [
       "Akifumi Tada"
     ],
@@ -27132,8 +27130,8 @@
       "2",
       "157"
     ],
-    "file": "Bomberman 64/Green Garden (Variant A).mmrs",
-    "preview": "Bomberman 64/Green Garden (Variant A).mp3",
+    "file": "Bomberman 64/Green Garden.mmrs",
+    "preview": "Bomberman 64/Green Garden.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -27144,7 +27142,7 @@
     "uuid": "12074139-f6b5-4ee8-8069-80b7c4dd80f6",
     "creationDate": "2026-03-31T02:57:00.594Z",
     "game": "Bomberman 64",
-    "song": "Green Garden (Variant B)",
+    "song": "Green Garden [2]",
     "composers": [
       "Akifumi Tada"
     ],
@@ -27157,8 +27155,8 @@
       "1",
       "2"
     ],
-    "file": "Bomberman 64/Green Garden (Variant B).mmrs",
-    "preview": "Bomberman 64/Green Garden (Variant B).ogg",
+    "file": "Bomberman 64/Green Garden [2].mmrs",
+    "preview": "Bomberman 64/Green Garden [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -27222,7 +27220,7 @@
     "uuid": "972a5cb9-79d3-4a2c-9da3-fde765ba2f3b",
     "creationDate": "2026-03-31T03:04:37.274Z",
     "game": "Banjo-Tooie",
-    "song": "Witchyworld (Variant A)",
+    "song": "Witchyworld",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -27306,7 +27304,7 @@
     "uuid": "f3457406-3b4e-4529-832d-c4ccdac5408d",
     "creationDate": "2026-03-31T03:22:08.885Z",
     "game": "Castlevania: Lament of Innocence",
-    "song": "Lament of Innocence ~Leon's Theme~ (Variant B)",
+    "song": "Lament of Innocence ~Leon's Theme~ [2]",
     "composers": [
       "Michiru Yamane"
     ],
@@ -27322,8 +27320,8 @@
       "7",
       "157"
     ],
-    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).mmrs",
-    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ (Variant B).ogg",
+    "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ [2].mmrs",
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~ [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -27359,7 +27357,7 @@
     "uuid": "981716a9-61c8-4f6f-9ec2-44eb9779f7a6",
     "creationDate": "2026-04-01T15:00:16.359Z",
     "game": "Crusader of Centy",
-    "song": "Rafflesia Training Grounds (Variant A)",
+    "song": "Rafflesia Training Grounds",
     "composers": [
       "Motokazu Shinoda"
     ],
@@ -27412,7 +27410,7 @@
     "uuid": "13b9df22-3441-44d8-b756-1571ad33d208",
     "creationDate": "2026-04-01T15:10:20.303Z",
     "game": "Chrono Trigger",
-    "song": "Battle 2 (Variant A)",
+    "song": "Battle 2",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -27914,7 +27912,7 @@
     "uuid": "f95ad8d8-89e4-49a0-abb9-474760e4f272",
     "creationDate": "2026-04-01T22:11:53.779Z",
     "game": "Shin Megami Tensei III: Nocturne",
-    "song": "Puzzle Boy (Variant B)",
+    "song": "Puzzle Boy [2]",
     "composers": [
       "Shoji Meguro",
       "Kenichi Tsuchiya",
@@ -27933,8 +27931,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mmrs",
-    "preview": "Shin Megami Tensei III Nocturne/Puzzle Boy (Variant B).mp3",
+    "file": "Shin Megami Tensei III Nocturne/Puzzle Boy [2].mmrs",
+    "preview": "Shin Megami Tensei III Nocturne/Puzzle Boy [2].mp3",
     "lastUpdateDate": "2026-04-01T22:24:23.202Z",
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -28048,7 +28046,7 @@
     "uuid": "771ff7b3-f7df-4dba-a6a3-081e272cef0b",
     "creationDate": "2026-04-01T22:22:17.328Z",
     "game": "Sonic Adventure 2",
-    "song": "Pumpkin Hill (Variant B)",
+    "song": "Pumpkin Hill [2]",
     "composers": [
       "Tomoya Ohtani"
     ],
@@ -28062,8 +28060,8 @@
       "2"
     ],
     "usesCustomBank": true,
-    "file": "Sonic Adventure 2/Pumpkin Hill (Variant B).mmrs",
-    "preview": "Sonic Adventure 2/Pumpkin Hill (Variant B).mp3",
+    "file": "Sonic Adventure 2/Pumpkin Hill [2].mmrs",
+    "preview": "Sonic Adventure 2/Pumpkin Hill [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-12.15",
@@ -28200,7 +28198,7 @@
     "uuid": "bb085f32-4488-494e-944d-ca7e91f77c7a",
     "creationDate": "2026-04-01T22:29:28.153Z",
     "game": "Final Fantasy VI",
-    "song": "Terra's Theme (Variant B)",
+    "song": "Terra's Theme [2]",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -28214,8 +28212,8 @@
       "6",
       "16"
     ],
-    "file": "Final Fantasy VI/Terra's Theme (Variant B).mmrs",
-    "preview": "Final Fantasy VI/Terra's Theme (Variant B).mp3",
+    "file": "Final Fantasy VI/Terra's Theme [2].mmrs",
+    "preview": "Final Fantasy VI/Terra's Theme [2].mp3",
     "lastUpdateDate": "2026-04-01T22:30:10.013Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -28529,7 +28527,7 @@
     "uuid": "8f8b2d81-6066-450e-9671-bb763aede94f",
     "creationDate": "2026-04-01T22:49:35.065Z",
     "game": "Silent Hill 2",
-    "song": "True (Variant A)",
+    "song": "True",
     "composers": [
       "Akira Yamaoka"
     ],
@@ -28633,7 +28631,7 @@
     "uuid": "2fc1cc0b-3169-49b9-9d69-157817fd4d32",
     "creationDate": "2026-04-01T22:54:27.316Z",
     "game": "Kirby's Adventure",
-    "song": "I'm Hit (Variant B)",
+    "song": "I'm Hit [2]",
     "composers": [
       "Hirokazu Ando"
     ],
@@ -28645,8 +28643,8 @@
       "8",
       "9"
     ],
-    "file": "Kirby's Adventure/I'm Hit (Variant B).mmrs",
-    "preview": "Kirby's Adventure/I'm Hit (Variant B).mp3",
+    "file": "Kirby's Adventure/I'm Hit [2].mmrs",
+    "preview": "Kirby's Adventure/I'm Hit [2].mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -28657,7 +28655,7 @@
     "uuid": "b737e6de-e4c2-4882-a1b7-4561237d7902",
     "creationDate": "2026-04-01T22:55:13.819Z",
     "game": "Phoenix Wright: Ace Attorney",
-    "song": "Pursuit ~ Cornered (Variant B)",
+    "song": "Pursuit ~ Cornered [2]",
     "composers": [
       "Masakazu Sugimori"
     ],
@@ -28670,8 +28668,8 @@
       "5",
       "7"
     ],
-    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant B).mmrs",
-    "preview": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered (Variant B).mp3",
+    "file": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered [2].mmrs",
+    "preview": "Phoenix Wright Ace Attorney/Pursuit ~ Cornered [2].mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -28758,7 +28756,7 @@
     "uuid": "06133e05-5e1a-459e-98a1-d86dbdadf3bc",
     "creationDate": "2026-04-02T01:33:20.438Z",
     "game": "Golden Sun",
-    "song": "Battle (Variant A)",
+    "song": "Battle",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -28894,7 +28892,7 @@
     "uuid": "77bf0b12-e69c-4fb2-b16f-e9b14a837005",
     "creationDate": "2026-04-02T01:51:20.790Z",
     "game": "Golden Sun",
-    "song": "Venus Lighthouse (Variant B)",
+    "song": "Venus Lighthouse [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -28911,8 +28909,8 @@
       "157",
       "176"
     ],
-    "file": "Golden Sun/Venus Lighthouse (Variant B).mmrs",
-    "preview": "Golden Sun/Venus Lighthouse (Variant B).ogg",
+    "file": "Golden Sun/Venus Lighthouse [2].mmrs",
+    "preview": "Golden Sun/Venus Lighthouse [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -29191,7 +29189,7 @@
     "uuid": "4f89c5e9-5b59-4fbc-b12c-b54592608bbe",
     "creationDate": "2026-04-02T02:41:59.609Z",
     "game": "Monkey Island 2: LeChuck's Revenge",
-    "song": "Main Theme (Variant A)",
+    "song": "Main Theme",
     "composers": [
       "Michael Land"
     ],
@@ -29204,8 +29202,8 @@
       "1",
       "2"
     ],
-    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mmrs",
-    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant A).mp3",
+    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme.mmrs",
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme.mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -29216,7 +29214,7 @@
     "uuid": "abd4a647-7285-427f-9cea-2fa3aa3b74da",
     "creationDate": "2026-04-02T02:43:01.953Z",
     "game": "Monkey Island 2: LeChuck's Revenge",
-    "song": "Main Theme (Variant B)",
+    "song": "Main Theme [2]",
     "composers": [
       "Michael Land"
     ],
@@ -29230,8 +29228,8 @@
       "2",
       "157"
     ],
-    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).mmrs",
-    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme (Variant B).ogg",
+    "file": "Monkey Island 2 LeChuck's Revenge/Main Theme [2].mmrs",
+    "preview": "Monkey Island 2 LeChuck's Revenge/Main Theme [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -29436,7 +29434,7 @@
     "uuid": "bf6528fc-6498-4f2c-8e86-b03d50bf5417",
     "creationDate": "2026-04-04T16:53:49.257Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Sacred Grove (Variant B)",
+    "song": "Sacred Grove [2]",
     "composers": [
       "Toru Minegishi",
       "Asuka Ohta"
@@ -29454,8 +29452,8 @@
       "10C"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove (Variant B).ogg",
+    "file": "The Legend of Zelda Twilight Princess/Sacred Grove [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Sacred Grove [2].ogg",
     "lastUpdateDate": "2026-04-04T16:56:32.263Z",
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -29876,7 +29874,7 @@
     "uuid": "baa26c1e-03b2-4cab-a421-3459edb3ec48",
     "creationDate": "2026-04-05T02:52:50.960Z",
     "game": "Banjo-Tooie",
-    "song": "Ordnance Storage (Variant B)",
+    "song": "Ordnance Storage [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -29894,8 +29892,8 @@
       "11A",
       "13B"
     ],
-    "file": "Banjo-Tooie/Ordnance Storage (Variant B).mmrs",
-    "preview": "Banjo-Tooie/Ordnance Storage (Variant B).ogg",
+    "file": "Banjo-Tooie/Ordnance Storage [2].mmrs",
+    "preview": "Banjo-Tooie/Ordnance Storage [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -29953,7 +29951,7 @@
     "uuid": "d831baa1-708b-4285-be10-a3bd8ed63481",
     "creationDate": "2026-04-05T03:17:06.838Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Castle Town (Variant A)",
+    "song": "Castle Town",
     "composers": [
       "Toru Minegishi",
       "Asuka Ohta"
@@ -29968,8 +29966,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Castle Town (Variant A).ogg",
+    "file": "The Legend of Zelda Twilight Princess/Castle Town.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Castle Town.ogg",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-24.90",
@@ -30161,7 +30159,7 @@
     "uuid": "f6591ba9-4559-492c-9b70-a3d2d9b051c6",
     "creationDate": "2026-04-05T03:28:40.591Z",
     "game": "Chrono Trigger",
-    "song": "Schala's Theme (Variant A)",
+    "song": "Schala's Theme",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -30176,8 +30174,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "Chrono Trigger/Schala's Theme (Variant A).mmrs",
-    "preview": "Chrono Trigger/Schala's Theme (Variant A).ogg",
+    "file": "Chrono Trigger/Schala's Theme.mmrs",
+    "preview": "Chrono Trigger/Schala's Theme.ogg",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-15.78",
@@ -30187,7 +30185,7 @@
     "uuid": "d3f16fc7-21c8-4d04-af39-8927a3896144",
     "creationDate": "2026-04-05T03:29:24.776Z",
     "game": "Chrono Trigger",
-    "song": "Schala's Theme (Variant B)",
+    "song": "Schala's Theme [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -30203,8 +30201,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "file": "Chrono Trigger/Schala's Theme (Variant B).mmrs",
-    "preview": "Chrono Trigger/Schala's Theme (Variant B).ogg",
+    "file": "Chrono Trigger/Schala's Theme [2].mmrs",
+    "preview": "Chrono Trigger/Schala's Theme [2].ogg",
     "usesFormmask": false,
     "lufs": "-16.43",
     "hash": "525a6567fe43f17097aabdfd4795fbb5"
@@ -30394,7 +30392,7 @@
     "uuid": "438a6170-4064-4bff-b0a4-9819cb5c5297",
     "creationDate": "2026-04-05T03:40:20.339Z",
     "game": "Banjo-Kazooie",
-    "song": "Clanker's Cavern (Variant B)",
+    "song": "Clanker's Cavern [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -30408,8 +30406,8 @@
       "1"
     ],
     "usesCustomBank": true,
-    "file": "Banjo-Kazooie/Clanker's Cavern (Variant B).mmrs",
-    "preview": "Banjo-Kazooie/Clanker's Cavern (Variant B).ogg",
+    "file": "Banjo-Kazooie/Clanker's Cavern [2].mmrs",
+    "preview": "Banjo-Kazooie/Clanker's Cavern [2].ogg",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-22.58",
@@ -30911,7 +30909,7 @@
     "uuid": "a530e41c-331c-4054-9b62-c5251b03e57f",
     "creationDate": "2026-04-08T22:49:19.148Z",
     "game": "Chrono Cross",
-    "song": "Another Voyage (Variant A)",
+    "song": "Another Voyage",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -31113,8 +31111,8 @@
   {
     "uuid": "e18bdbf0-8e48-4608-8edb-4c4de3326327",
     "creationDate": "2026-04-08T22:59:24.939Z",
-    "game": "Super Mario World 2: Yoshi's Island",
-    "song": "Athletic (Variant B)",
+    "game": "Yoshi's Island",
+    "song": "Athletic [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -31132,8 +31130,8 @@
       "6",
       "7"
     ],
-    "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).ogg",
+    "file": "Yoshi's Island/Athletic [2].mmrs",
+    "preview": "Yoshi's Island/Athletic [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -31367,7 +31365,7 @@
     "uuid": "e468345e-429c-4324-a85e-d2495728730f",
     "creationDate": "2026-04-08T23:20:10.917Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Faron Woods (Variant B)",
+    "song": "Faron Woods [2]",
     "composers": [
       "Toru Minegishi",
       "Asuka Ohta"
@@ -31381,8 +31379,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).ogg",
+    "file": "The Legend of Zelda Twilight Princess/Faron Woods [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods [2].ogg",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-22.16",
@@ -31442,12 +31440,9 @@
     "uuid": "7316c901-b744-4b55-a7f5-fbc1ad94c192",
     "creationDate": "2026-04-08T23:24:40.215Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Windfall",
+    "song": "Windfall Island",
     "composers": [
-      "Kenta Nagata",
-      "Hajime Wakai",
-      "Toru Minegishi",
-      "Koji Kondo"
+      "Kenta Nagata"
     ],
     "converters": [
       "Isghj"
@@ -31459,8 +31454,8 @@
       "4",
       "6"
     ],
-    "file": "The Legend of Zelda The Wind Waker/Windfall.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Windfall.ogg",
+    "file": "The Legend of Zelda The Wind Waker/Windfall Island.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Windfall Island.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -31630,7 +31625,7 @@
     "uuid": "dd64e41b-5909-4fb3-afe9-a1f03814b7aa",
     "creationDate": "2026-04-09T00:46:23.069Z",
     "game": "Persona 3",
-    "song": "The Battle for Everyone's Souls (Variant B)",
+    "song": "The Battle for Everyone's Souls [2]",
     "composers": [
       "Shoji Meguro"
     ],
@@ -31644,8 +31639,8 @@
       "2",
       "157"
     ],
-    "file": "Persona 3/The Battle for Everyone's Souls (Variant B).mmrs",
-    "preview": "Persona 3/The Battle for Everyone's Souls (Variant B).ogg",
+    "file": "Persona 3/The Battle for Everyone's Souls [2].mmrs",
+    "preview": "Persona 3/The Battle for Everyone's Souls [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -31904,7 +31899,7 @@
     "uuid": "82050a03-2475-43d9-9b3e-9673b0b7cc16",
     "creationDate": "2026-04-09T00:31:58.668Z",
     "game": "Silent Hill 2",
-    "song": "True (Variant B)",
+    "song": "True [2]",
     "composers": [
       "Akira Yamaoka"
     ],
@@ -31917,7 +31912,7 @@
       "157"
     ],
     "usesCustomBank": true,
-    "file": "Silent Hill 2/True (Variant B).mmrs",
+    "file": "Silent Hill 2/True [2].mmrs",
     "preview": "https://www.youtube.com/watch?v=erRJDcE91dA",
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32056,7 +32051,7 @@
     "uuid": "7182a460-7c0b-4fb4-9511-8ae5a7d220e9",
     "creationDate": "2026-04-09T01:38:51.768Z",
     "game": "Banjo-Tooie",
-    "song": "Witchyworld (Variant B)",
+    "song": "Witchyworld [2]",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -32073,7 +32068,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": true,
-    "file": "Banjo-Tooie/Witchyworld (Variant B).mmrs",
+    "file": "Banjo-Tooie/Witchyworld [2].mmrs",
     "preview": "https://www.youtube.com/watch?v=8GKEYZDl6Ak",
     "lufs": "-16.51",
     "hash": "6a7273e7aed321acfcd6e085b5d9eedf"
@@ -32212,7 +32207,7 @@
     "uuid": "1b67f125-f43e-468e-a443-65870e7dc5b0",
     "creationDate": "2026-04-09T02:01:05.712Z",
     "game": "Sonic Heroes",
-    "song": "Follow Me (Variant A)",
+    "song": "Follow Me",
     "composers": [
       "Jun Senoue"
     ],
@@ -32225,8 +32220,8 @@
       "1",
       "2"
     ],
-    "file": "Sonic Heroes/Follow Me (Variant A).mmrs",
-    "preview": "Sonic Heroes/Follow Me (Variant A).ogg",
+    "file": "Sonic Heroes/Follow Me.mmrs",
+    "preview": "Sonic Heroes/Follow Me.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32237,7 +32232,7 @@
     "uuid": "24af14fe-9d20-42a5-ae25-0a0ce75d1d6c",
     "creationDate": "2026-04-09T02:01:59.573Z",
     "game": "Sonic Heroes",
-    "song": "Follow Me (Variant B)",
+    "song": "Follow Me [2]",
     "composers": [
       "Jun Senoue"
     ],
@@ -32252,8 +32247,8 @@
       "157",
       "176"
     ],
-    "file": "Sonic Heroes/Follow Me (Variant B).mmrs",
-    "preview": "Sonic Heroes/Follow Me (Variant B).mp3",
+    "file": "Sonic Heroes/Follow Me [2].mmrs",
+    "preview": "Sonic Heroes/Follow Me [2].mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32641,7 +32636,7 @@
     "uuid": "47155cff-15ea-432e-887d-0be078bddca6",
     "creationDate": "2026-04-09T02:46:28.388Z",
     "game": "Sonic Unleashed",
-    "song": "Savannah Citadel (Day) (Variant A)",
+    "song": "Savannah Citadel (Day)",
     "composers": [
       "Tomoya Ohtani"
     ],
@@ -32656,8 +32651,8 @@
       "157",
       "176"
     ],
-    "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).mmrs",
-    "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).ogg",
+    "file": "Sonic Unleashed/Savannah Citadel (Day).mmrs",
+    "preview": "Sonic Unleashed/Savannah Citadel (Day).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32668,7 +32663,7 @@
     "uuid": "31374ecd-c79e-4c65-8921-2f142323cfa3",
     "creationDate": "2026-04-09T02:48:02.138Z",
     "game": "Sonic Unleashed",
-    "song": "Savannah Citadel (Day) (Variant B)",
+    "song": "Savannah Citadel (Day) [2]",
     "composers": [
       "Tomoya Ohtani"
     ],
@@ -32683,8 +32678,8 @@
       "157",
       "176"
     ],
-    "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).mmrs",
-    "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).ogg",
+    "file": "Sonic Unleashed/Savannah Citadel (Day) [2].mmrs",
+    "preview": "Sonic Unleashed/Savannah Citadel (Day) [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32720,7 +32715,7 @@
     "uuid": "a9c8b681-b36a-4158-9554-e4853ee9ba04",
     "creationDate": "2026-04-09T03:04:36.287Z",
     "game": "Touhou 7: Perfect Cherry Blossom",
-    "song": "Necrofantasia (Variant B)",
+    "song": "Necrofantasia [2]",
     "composers": [
       "ZUN"
     ],
@@ -32735,8 +32730,8 @@
       "7",
       "157"
     ],
-    "file": "Touhou 7 Perfect Cherry Blossom/Necrofantasia (Variant B).mmrs",
-    "preview": "Touhou 7 Perfect Cherry Blossom/Necrofantasia (Variant B).ogg",
+    "file": "Touhou 7 Perfect Cherry Blossom/Necrofantasia [2].mmrs",
+    "preview": "Touhou 7 Perfect Cherry Blossom/Necrofantasia [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32747,7 +32742,7 @@
     "uuid": "6f94e341-646c-433f-ac81-798b1b14ff49",
     "creationDate": "2026-04-09T13:46:51.085Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Fishing Pond",
+    "song": "Fishing Hole",
     "composers": [
       "Toru Minegishi",
       "Asuka Ohta"
@@ -32762,8 +32757,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mp3",
+    "file": "The Legend of Zelda Twilight Princess/Fishing Hole.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Fishing Hole.mp3",
     "lastUpdateDate": "2026-04-09T13:47:31.007Z",
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -32894,7 +32889,7 @@
     "uuid": "5a42ebe4-f8e6-4b3e-be4e-43a97b2a9195",
     "creationDate": "2026-04-09T13:53:51.169Z",
     "game": "Chrono Trigger",
-    "song": "Corridors of Time (Variant B)",
+    "song": "Corridors of Time [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -32908,8 +32903,8 @@
       "107"
     ],
     "usesCustomBank": true,
-    "file": "Chrono Trigger/Corridors of Time (Variant B).mmrs",
-    "preview": "Chrono Trigger/Corridors of Time (Variant B).mp3",
+    "file": "Chrono Trigger/Corridors of Time [2].mmrs",
+    "preview": "Chrono Trigger/Corridors of Time [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-15.15",
@@ -35374,7 +35369,7 @@
     "uuid": "360b43af-4c1e-4c67-a9d3-1ffdadf020b9",
     "creationDate": "2026-04-11T19:01:33.321Z",
     "game": "Chrono Cross",
-    "song": "Another Voyage (Variant B)",
+    "song": "Another Voyage [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -35386,8 +35381,8 @@
       "0",
       "1"
     ],
-    "file": "Chrono Cross/Another Voyage (Variant B).mmrs",
-    "preview": "Chrono Cross/Another Voyage (Variant B).ogg",
+    "file": "Chrono Cross/Another Voyage [2].mmrs",
+    "preview": "Chrono Cross/Another Voyage [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -35603,7 +35598,7 @@
     "uuid": "fd47d0b8-4576-4388-bf3b-2de1cc0f60f2",
     "creationDate": "2026-04-11T19:15:27.392Z",
     "game": "Crusader of Centy",
-    "song": "Rafflesia Training Grounds (Variant B)",
+    "song": "Rafflesia Training Grounds [2]",
     "composers": [
       "Motokazu Shinoda"
     ],
@@ -35616,8 +35611,8 @@
       "1",
       "2"
     ],
-    "file": "Crusader of Centy/Rafflesia Training Grounds (Variant B).mmrs",
-    "preview": "Crusader of Centy/Rafflesia Training Grounds (Variant B).ogg",
+    "file": "Crusader of Centy/Rafflesia Training Grounds [2].mmrs",
+    "preview": "Crusader of Centy/Rafflesia Training Grounds [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -35802,7 +35797,7 @@
     "uuid": "dfa6accb-6839-4846-ac7c-b1e22ea01504",
     "creationDate": "2026-04-11T19:24:06.378Z",
     "game": "Chrono Trigger",
-    "song": "Battle 2 (Variant B)",
+    "song": "Battle 2 [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -35814,8 +35809,8 @@
       "4",
       "5"
     ],
-    "file": "Chrono Trigger/Battle 2 (Variant B).mmrs",
-    "preview": "Chrono Trigger/Battle 2 (Variant B).ogg",
+    "file": "Chrono Trigger/Battle 2 [2].mmrs",
+    "preview": "Chrono Trigger/Battle 2 [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -35947,7 +35942,7 @@
     "uuid": "ce38efd5-b5d1-4221-97a7-757d1de2a308",
     "creationDate": "2026-04-11T19:29:24.140Z",
     "game": "Chrono Trigger",
-    "song": "Manoria Cathedral (Variant A)",
+    "song": "Manoria Cathedral",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -35972,7 +35967,7 @@
     "uuid": "8e67efe3-eb91-48db-b44b-8f4e11de1ef4",
     "creationDate": "2026-04-11T19:30:36.881Z",
     "game": "Chrono Trigger",
-    "song": "Manoria Cathedral (Variant B)",
+    "song": "Manoria Cathedral [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -35984,8 +35979,8 @@
       "2",
       "3"
     ],
-    "file": "Chrono Trigger/Manoria Cathedral (Variant B).mmrs",
-    "preview": "Chrono Trigger/Manoria Cathedral (Variant B).ogg",
+    "file": "Chrono Trigger/Manoria Cathedral [2].mmrs",
+    "preview": "Chrono Trigger/Manoria Cathedral [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -36841,7 +36836,7 @@
     "uuid": "4db2e64d-76c4-43d5-95e2-e33a83a78ebe",
     "creationDate": "2026-03-16T23:13:16.736Z",
     "game": "Zelda II: The Adventure of Link",
-    "song": "Temple (Variant A) (8bit Version)",
+    "song": "Temple (8bit Version)",
     "composers": [
       "Koji Kondo"
     ],
@@ -36855,8 +36850,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Zelda II The Adventure of Link/Temple (Variant A) (8bit Version).mmrs",
-    "preview": "Zelda II The Adventure of Link/Temple (Variant A) (8bit Version).mp3",
+    "file": "Zelda II The Adventure of Link/Temple (8bit Version).mmrs",
+    "preview": "Zelda II The Adventure of Link/Temple (8bit Version).mp3",
     "lufs": "-20.89",
     "hash": "6d2247d55991e89b4fb7d287b3ec5303"
   },
@@ -39573,7 +39568,7 @@
     "uuid": "f2b82522-cdbf-4581-a60b-30ac834f9c18",
     "creationDate": "2026-04-18T17:42:20.566Z",
     "game": "Golden Sun",
-    "song": "Battle (Variant B)",
+    "song": "Battle [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -39585,8 +39580,8 @@
       "4",
       "5"
     ],
-    "file": "Golden Sun/Battle (Variant B).mmrs",
-    "preview": "Golden Sun/Battle (Variant B).ogg",
+    "file": "Golden Sun/Battle [2].mmrs",
+    "preview": "Golden Sun/Battle [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -42960,7 +42955,7 @@
     "uuid": "13aa83b3-049c-47d0-86ef-c5fbe69abde9",
     "creationDate": "2026-04-19T04:02:35.342Z",
     "game": "Minecraft",
-    "song": "Stal (Variant B)",
+    "song": "Stal [2]",
     "composers": [
       "C418"
     ],
@@ -42973,8 +42968,8 @@
       "1",
       "3"
     ],
-    "file": "Minecraft/Stal (Variant B).mmrs",
-    "preview": "Minecraft/Stal (Variant B).ogg",
+    "file": "Minecraft/Stal [2].mmrs",
+    "preview": "Minecraft/Stal [2].ogg",
     "lastUpdateDate": "2026-04-19T04:02:56.661Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -44619,7 +44614,7 @@
     "uuid": "e279f6d3-ca25-47e9-9996-70f3b68edf62",
     "creationDate": "2026-04-24T04:34:22.103Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "Fight Against Monsters (Variant B)",
+    "song": "Fight Against Monsters [2]",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -44634,8 +44629,8 @@
       "4"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mp3",
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters [2].mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-15.71",
@@ -44672,7 +44667,7 @@
   {
     "uuid": "d064db75-5172-4eea-97b9-2f593f856931",
     "creationDate": "2026-04-24T04:39:42.999Z",
-    "game": "Super Mario World 2: Yoshi's Island",
+    "game": "Yoshi's Island",
     "song": "Athletic (Variant C)",
     "composers": [
       "Koji Kondo"
@@ -44691,8 +44686,8 @@
       "7"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant C).mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant C).mp3",
+    "file": "Yoshi's Island/Athletic (Variant C).mmrs",
+    "preview": "Yoshi's Island/Athletic (Variant C).mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-20.09",
@@ -44701,8 +44696,8 @@
   {
     "uuid": "c838a742-048b-4729-a2b6-ddc57addee03",
     "creationDate": "2026-04-24T04:40:47.654Z",
-    "game": "Super Mario World 2: Yoshi's Island",
-    "song": "Flower Garden (Variant B)",
+    "game": "Yoshi's Island",
+    "song": "Flower Garden [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -44717,8 +44712,8 @@
       "16"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario World 2 Yoshi's Island/Flower Garden (Variant B).mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Flower Garden (Variant B).mp3",
+    "file": "Yoshi's Island/Flower Garden [2].mmrs",
+    "preview": "Yoshi's Island/Flower Garden [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-20.95",
@@ -44783,7 +44778,7 @@
     "uuid": "c0ba65e9-3bda-4676-8d05-13ff777c5e84",
     "creationDate": "2026-04-24T04:51:24.312Z",
     "game": "Nintendo Wii",
-    "song": "Mii Channel (Variant B)",
+    "song": "Mii Channel [2]",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -44803,8 +44798,8 @@
       "16"
     ],
     "usesCustomBank": true,
-    "file": "Nintendo Wii/Mii Channel (Variant B).mmrs",
-    "preview": "Nintendo Wii/Mii Channel (Variant B).mp3",
+    "file": "Nintendo Wii/Mii Channel [2].mmrs",
+    "preview": "Nintendo Wii/Mii Channel [2].mp3",
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-18.93",
@@ -45385,7 +45380,7 @@
     "uuid": "bb7a1a59-2054-483c-9ca5-acc312df20ea",
     "creationDate": "2026-04-27T22:39:47.554Z",
     "game": "Final Fantasy VII",
-    "song": "One-Winged Angel (Variant B)",
+    "song": "One-Winged Angel [2]",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -45399,8 +45394,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "file": "Final Fantasy VII/One-Winged Angel (Variant B).mmrs",
-    "preview": "Final Fantasy VII/One-Winged Angel (Variant B).ogg",
+    "file": "Final Fantasy VII/One-Winged Angel [2].mmrs",
+    "preview": "Final Fantasy VII/One-Winged Angel [2].ogg",
     "usesFormmask": false,
     "lufs": "-13.68",
     "hash": "13d6c9dfa3d1ad455ea0f9dc77106679"
@@ -49663,7 +49658,7 @@
     "uuid": "df43320a-803b-4b09-96fb-d1e09756a45b",
     "creationDate": "2026-05-03T18:51:09.031Z",
     "game": "Star Fox 64",
-    "song": "Aquas (Variant B)",
+    "song": "Aquas [2]",
     "composers": [
       "Hajime Wakai"
     ],
@@ -49674,8 +49669,8 @@
     "categories": [
       "2"
     ],
-    "file": "Star Fox 64/Aquas (Variant B).mmrs",
-    "preview": "Star Fox 64/Aquas (Variant B).mp3",
+    "file": "Star Fox 64/Aquas [2].mmrs",
+    "preview": "Star Fox 64/Aquas [2].mp3",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -57493,7 +57488,7 @@
     "uuid": "6e62e92f-8fec-4892-aea1-42e1de5b8285",
     "creationDate": "2026-05-07T00:46:05.181Z",
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Black Tower (Variant B)",
+    "song": "Black Tower [2]",
     "composers": [
       "Minako Adachi",
       "Kiyohiro Sada"
@@ -57506,8 +57501,8 @@
       "2",
       "3"
     ],
-    "file": "The Legend of Zelda Oracle of Ages/Black Tower (Variant B).mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Black Tower (Variant B).ogg",
+    "file": "The Legend of Zelda Oracle of Ages/Black Tower [2].mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Black Tower [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -57774,7 +57769,7 @@
     "uuid": "48beccae-8cc3-4252-9273-e32ab03c7638",
     "creationDate": "2026-05-08T02:49:00.923Z",
     "game": "The Legend of Zelda: Oracle of Seasons",
-    "song": "Get Element (Variant B)",
+    "song": "Get Element [2]",
     "composers": [
       "Minako Adachi",
       "Kiyohiro Sada"
@@ -57786,8 +57781,8 @@
     "categories": [
       "10"
     ],
-    "file": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).ogg",
+    "file": "The Legend of Zelda Oracle of Seasons/Get Element [2].mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Get Element [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -58532,7 +58527,7 @@
     "uuid": "16d18f9c-14c3-40ac-a566-c2b09293319d",
     "creationDate": "2026-05-08T03:28:13.875Z",
     "game": "Persona 3 Portable",
-    "song": "Danger Zone (Variant B)",
+    "song": "Danger Zone [2]",
     "composers": [
       "Shoji Meguro"
     ],
@@ -58545,8 +58540,8 @@
       "7",
       "157"
     ],
-    "file": "Persona 3 Portable/Danger Zone (Variant B).mmrs",
-    "preview": "Persona 3 Portable/Danger Zone (Variant B).ogg",
+    "file": "Persona 3 Portable/Danger Zone [2].mmrs",
+    "preview": "Persona 3 Portable/Danger Zone [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -60341,7 +60336,7 @@
     "uuid": "ddd5f6ec-67a9-454b-9a3d-fccd03847dbe",
     "creationDate": "2026-05-12T22:44:36.456Z",
     "game": "Tales of Destiny",
-    "song": "Unfinished World (Variant B)",
+    "song": "Unfinished World [2]",
     "composers": [
       "Motoi Sakuraba",
       "Shinji Tamura"
@@ -60354,8 +60349,8 @@
       "0",
       "1"
     ],
-    "file": "Tales of Destiny/Unfinished World (Variant B).mmrs",
-    "preview": "Tales of Destiny/Unfinished World (Variant B).ogg",
+    "file": "Tales of Destiny/Unfinished World [2].mmrs",
+    "preview": "Tales of Destiny/Unfinished World [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -61811,7 +61806,7 @@
     "uuid": "9277d7b5-1685-4e0a-a6bd-76fd17d4f59d",
     "creationDate": "2026-05-15T02:12:31.190Z",
     "game": "Tales of Destiny",
-    "song": "Bared Fangs (Variant B)",
+    "song": "Bared Fangs [2]",
     "composers": [
       "Motoi Sakuraba",
       "Shinji Tamura"
@@ -61824,8 +61819,8 @@
       "4",
       "5"
     ],
-    "file": "Tales of Destiny/Bared Fangs (Variant B).mmrs",
-    "preview": "Tales of Destiny/Bared Fangs (Variant B).ogg",
+    "file": "Tales of Destiny/Bared Fangs [2].mmrs",
+    "preview": "Tales of Destiny/Bared Fangs [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -61836,7 +61831,7 @@
     "uuid": "def4fc4a-4a37-4e60-a7e0-21a909bc6a58",
     "creationDate": "2026-05-15T02:14:53.269Z",
     "game": "Tales of Eternia",
-    "song": "Inferia Battle (Variant B)",
+    "song": "Inferia Battle [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -61848,8 +61843,8 @@
       "4",
       "5"
     ],
-    "file": "Tales of Eternia/Inferia Battle (Variant B).mmrs",
-    "preview": "Tales of Eternia/Inferia Battle (Variant B).ogg",
+    "file": "Tales of Eternia/Inferia Battle [2].mmrs",
+    "preview": "Tales of Eternia/Inferia Battle [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -61907,7 +61902,7 @@
     "uuid": "d5c2f1bb-9df3-49ec-be7e-b1a6da459f50",
     "creationDate": "2026-05-15T02:27:34.633Z",
     "game": "Tales of Innocence",
-    "song": "Break Through with the Sword (Variant B)",
+    "song": "Break Through with the Sword [2]",
     "composers": [
       "Kazuhiro Nakamura"
     ],
@@ -61919,8 +61914,8 @@
       "4",
       "5"
     ],
-    "file": "Tales of Innocence/Break Through with the Sword (Variant B).mmrs",
-    "preview": "Tales of Innocence/Break Through with the Sword (Variant B).ogg",
+    "file": "Tales of Innocence/Break Through with the Sword [2].mmrs",
+    "preview": "Tales of Innocence/Break Through with the Sword [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -62056,7 +62051,7 @@
     "uuid": "c7c4cc4c-6fa0-4c80-8583-b98b099d67c7",
     "creationDate": "2026-05-15T02:43:33.382Z",
     "game": "Tales of Phantasia",
-    "song": "Fighting of the Spirit (Variant B)",
+    "song": "Fighting of the Spirit [2]",
     "composers": [
       "Motoi Sakuraba",
       "Shinji Tamura"
@@ -62068,8 +62063,8 @@
     "categories": [
       "7"
     ],
-    "file": "Tales of Phantasia/Fighting of the Spirit (Variant B).mmrs",
-    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant B).ogg",
+    "file": "Tales of Phantasia/Fighting of the Spirit [2].mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -62157,7 +62152,7 @@
     "uuid": "d6bfdb3d-af9a-494b-9ce7-f918ab883aaf",
     "creationDate": "2026-05-15T23:51:15.945Z",
     "game": "Tales of Phantasia",
-    "song": "Take up the Cross (Variant B)",
+    "song": "Take up the Cross [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -62169,8 +62164,8 @@
       "4",
       "5"
     ],
-    "file": "Tales of Phantasia/Take up the Cross (Variant B).mmrs",
-    "preview": "Tales of Phantasia/Take up the Cross (Variant B).ogg",
+    "file": "Tales of Phantasia/Take up the Cross [2].mmrs",
+    "preview": "Tales of Phantasia/Take up the Cross [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -62952,7 +62947,7 @@
     "uuid": "29e72921-c69a-4895-bb92-81d6ffa751e6",
     "creationDate": "2026-05-16T21:28:13.653Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Game Over (Variant B)",
+    "song": "Game Over [2]",
     "composers": [
       "Asuka Ota"
     ],
@@ -62964,8 +62959,8 @@
       "9",
       "10"
     ],
-    "file": "The Legend of Zelda Twilight Princess/Game Over (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Game Over (Variant B).ogg",
+    "file": "The Legend of Zelda Twilight Princess/Game Over [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Game Over [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -63244,7 +63239,7 @@
     "uuid": "6c77ad23-0493-4b28-8a6d-99e3afd643a7",
     "creationDate": "2026-05-17T02:41:13.910Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Queen Rutela's Theme (Variant B)",
+    "song": "Queen Rutela's Theme [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -63256,8 +63251,8 @@
       "6",
       "16"
     ],
-    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).ogg",
+    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -63340,7 +63335,7 @@
     "uuid": "564aeec1-0cac-4127-bb1d-e543ba06e749",
     "creationDate": "2026-05-17T03:35:01.774Z",
     "game": "Undertale",
-    "song": "Your Best Friend (Variant A)",
+    "song": "Your Best Friend",
     "composers": [
       "Toby Fox"
     ],
@@ -63352,8 +63347,8 @@
       "6",
       "16"
     ],
-    "file": "Undertale/Your Best Friend (Variant A).mmrs",
-    "preview": "Undertale/Your Best Friend (Variant A).ogg",
+    "file": "Undertale/Your Best Friend.mmrs",
+    "preview": "Undertale/Your Best Friend.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -63364,7 +63359,7 @@
     "uuid": "10448de6-d50a-4d1c-ada0-d5ad324c58e6",
     "creationDate": "2026-05-17T03:35:35.094Z",
     "game": "Undertale",
-    "song": "Your Best Friend (Variant B)",
+    "song": "Your Best Friend [2]",
     "composers": [
       "Toby Fox"
     ],
@@ -63376,8 +63371,8 @@
       "6",
       "16"
     ],
-    "file": "Undertale/Your Best Friend (Variant B).mmrs",
-    "preview": "Undertale/Your Best Friend (Variant B).ogg",
+    "file": "Undertale/Your Best Friend [2].mmrs",
+    "preview": "Undertale/Your Best Friend [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -63388,7 +63383,7 @@
     "uuid": "e025d76a-f414-415c-b5fc-d496ff9509d3",
     "creationDate": "2026-05-17T03:41:30.488Z",
     "game": "Undertale",
-    "song": "Gaster's Theme (Variant A)",
+    "song": "Gaster's Theme",
     "composers": [
       "Toby Fox"
     ],
@@ -63400,8 +63395,8 @@
       "6",
       "16"
     ],
-    "file": "Undertale/Gaster's Theme (Variant A).mmrs",
-    "preview": "Undertale/Gaster's Theme (Variant A).ogg",
+    "file": "Undertale/Gaster's Theme.mmrs",
+    "preview": "Undertale/Gaster's Theme.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -63412,7 +63407,7 @@
     "uuid": "bf713afd-a0e6-467a-b613-2a26532f450a",
     "creationDate": "2026-05-17T03:42:06.936Z",
     "game": "Undertale",
-    "song": "Gaster's Theme (Variant B)",
+    "song": "Gaster's Theme [2]",
     "composers": [
       "Toby Fox"
     ],
@@ -63426,8 +63421,8 @@
       "6",
       "16"
     ],
-    "file": "Undertale/Gaster's Theme (Variant B).mmrs",
-    "preview": "Undertale/Gaster's Theme (Variant B).ogg",
+    "file": "Undertale/Gaster's Theme [2].mmrs",
+    "preview": "Undertale/Gaster's Theme [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -64149,7 +64144,7 @@
     "uuid": "d8a5d8f4-41f1-49b7-9970-ef40a3718abc",
     "creationDate": "2026-05-18T02:24:06.098Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Tower of the Gods (Variant B)",
+    "song": "Tower of the Gods [2]",
     "composers": [
       "Hajime Wakai"
     ],
@@ -64162,8 +64157,8 @@
       "2",
       "3"
     ],
-    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).ogg",
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods [2].mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -65860,7 +65855,7 @@
     "uuid": "53695df2-666a-4090-8404-2040e8bf3acf",
     "creationDate": "2026-05-20T19:52:28.615Z",
     "game": "Windows XP",
-    "song": "Town (Variant B)",
+    "song": "Town [2]",
     "composers": [
       "Nathan Grigg"
     ],
@@ -65872,8 +65867,8 @@
       "1",
       "3"
     ],
-    "file": "Windows XP/Town (Variant B).mmrs",
-    "preview": "Windows XP/Town (Variant B).ogg",
+    "file": "Windows XP/Town [2].mmrs",
+    "preview": "Windows XP/Town [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -65884,7 +65879,7 @@
     "uuid": "112ba8ae-c5ac-43d3-8ca1-0be252dc2214",
     "creationDate": "2026-05-20T19:54:33.937Z",
     "game": "Chrono Cross",
-    "song": "The Dead Sea -Tower of Geddon- (Variant B)",
+    "song": "The Dead Sea -Tower of Geddon- [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -65896,8 +65891,8 @@
       "2",
       "3"
     ],
-    "file": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).mmrs",
-    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).ogg",
+    "file": "Chrono Cross/The Dead Sea -Tower of Geddon- [2].mmrs",
+    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -67001,7 +66996,7 @@
   },
   {
     "game": "Mario Party",
-    "song": "Mario's Rainbow Castle (Variant B)",
+    "song": "Mario's Rainbow Castle [2]",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -67019,15 +67014,15 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "3747471c-d748-4c9a-ba13-9a6990fd234c",
-    "file": "Mario Party/Mario's Rainbow Castle (Variant B).mmrs",
-    "preview": "Mario Party/Mario's Rainbow Castle (Variant B).mp3",
+    "file": "Mario Party/Mario's Rainbow Castle [2].mmrs",
+    "preview": "Mario Party/Mario's Rainbow Castle [2].mp3",
     "lufs": "-13.83",
     "hash": "330c5a6eb4508647dbc59d65dc05cf6d",
     "creationDate": "2026-07-28T03:37:46.752Z"
   },
   {
     "game": "Mario Tennis",
-    "song": "Game Point (Variant B)",
+    "song": "Game Point [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -67044,15 +67039,15 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "068d703b-4932-4815-8335-6c2c7b323906",
-    "file": "Mario Tennis/Game Point (Variant B).mmrs",
-    "preview": "Mario Tennis/Game Point (Variant B).mp3",
+    "file": "Mario Tennis/Game Point [2].mmrs",
+    "preview": "Mario Tennis/Game Point [2].mp3",
     "lufs": "-13.06",
     "hash": "143218077289569d3165c3e0309001ec",
     "creationDate": "2026-07-28T03:37:46.872Z"
   },
   {
     "game": "Metroid",
-    "song": "Kraid's Lair (Variant B)",
+    "song": "Kraid's Lair [2]",
     "composers": [
       "Kenji Yamamoto"
     ],
@@ -67067,8 +67062,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "6824f0ed-e46e-4dbc-8c8e-03067424f47a",
-    "file": "Metroid/Kraid's Lair (Variant B).mmrs",
-    "preview": "Metroid/Kraid's Lair (Variant B).mp3",
+    "file": "Metroid/Kraid's Lair [2].mmrs",
+    "preview": "Metroid/Kraid's Lair [2].mp3",
     "lufs": "-14.65",
     "hash": "1df2896a6f1ad7ccfec541b98fb1c606",
     "creationDate": "2026-07-28T03:37:47.292Z"
@@ -67152,7 +67147,7 @@
   },
   {
     "game": "The Legend of Zelda: Skyward Sword",
-    "song": "Ghirahim's Theme (Variant B)",
+    "song": "Ghirahim's Theme [2]",
     "composers": [
       "Takeshi Hama"
     ],
@@ -67167,8 +67162,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d93e6304-0319-4862-b180-f013cd5464b8",
-    "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme (Variant B).mmrs",
-    "preview": "The Legend of Zelda Skyward Sword/Ghirahim's Theme (Variant B).mp3",
+    "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme [2].mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Ghirahim's Theme [2].mp3",
     "lufs": "-24.66",
     "hash": "f539623e5d0e056fd68571dfed04b28f",
     "creationDate": "2026-07-28T03:37:58.667Z"
@@ -67199,7 +67194,7 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "STAR Game (Variant A)",
+    "song": "STAR Game",
     "composers": [
       "Toru Minegishi"
     ],
@@ -67215,15 +67210,15 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a74f0778-f3df-44ea-bf79-2ead44f93de9",
-    "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant A).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/STAR Game (Variant A).mp3",
+    "file": "The Legend of Zelda Twilight Princess/STAR Game.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/STAR Game.mp3",
     "lufs": "-20.85",
     "hash": "e5c70f25cdb994a41d2f02c9e454f7c6",
     "creationDate": "2026-07-28T03:37:59.706Z"
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "STAR Game (Variant B)",
+    "song": "STAR Game [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -67239,8 +67234,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ace6e99a-0de5-4f52-b9c8-b33ee490aeb0",
-    "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/STAR Game (Variant B).mp3",
+    "file": "The Legend of Zelda Twilight Princess/STAR Game [2].mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/STAR Game [2].mp3",
     "lufs": "-20.85",
     "hash": "8b7eeb62e7139fdee172bb2fea1833d2",
     "creationDate": "2026-07-28T03:37:59.713Z"
@@ -68181,26 +68176,6 @@
     "usesFormmask": false
   },
   {
-    "game": "YIIK: A Postmodern RPG",
-    "song": "Victory [2]",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "b64ea225-66de-4c5e-bc76-ee35c5248b91",
-    "hash": "ce4d428b4bc88cb7e2cd8de0f83c5d62",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "YIIK A Postmodern RPG/Victory [2].mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "9",
-      "10"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Old School RuneScape",
     "song": "Invader",
     "converters": [
@@ -68271,15 +68246,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Wind Waker",
-    "song": "Earth God Lyric (Playback Medli)",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Earth God's Lyric (Medli's Playback)",
     "converters": [
       "Asra"
+    ],
+    "composers": [
+      "Kenta Nagata"
     ],
     "uuid": "1767c81f-39b3-4f29-ab83-8ece0f7ddca0",
     "hash": "d6193ee15eb06fb6fd14fb215877850d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wind Waker/Earth God Lyric (Playback Medli).mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Earth God's Lyric (Medli's Playback).mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -69774,6 +69752,10 @@
     "converters": [
       "Surprise Pie"
     ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
     "uuid": "8d46a63c-36c3-4c7e-a433-e2afd96f024d",
     "hash": "49dad8ed248b59c496e5277d62167136",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -70013,8 +69995,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda - A Link to the Past",
-    "song": "Ganon Battle",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Ganon [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -70024,7 +70006,7 @@
     "uuid": "7ca1050e-6670-48b9-be9b-b2ca4fcea5cc",
     "hash": "39ec6e1b1ccbdd52eacc6b3c8278fa0f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda - A Link to the Past/Ganon Battle.mmrs",
+    "file": "The Legend of Zelda A Link to the Past/Ganon [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70035,10 +70017,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda - Wind Waker",
-    "song": "Windfall Island",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Windfall Island [2]",
     "composers": [
-      "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
+      "Kenta Nagata"
     ],
     "converters": [
       "Ryestaines333"
@@ -70046,7 +70028,7 @@
     "uuid": "c04a05c4-378f-497d-ab06-1fb00d404a75",
     "hash": "9c4a31921e2b0894c6203845e6fc14d6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda - Wind Waker/Windfall Island.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Windfall Island [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70057,10 +70039,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda - Wind Waker",
+    "game": "The Legend of Zelda: The Wind Waker",
     "song": "Inside Forest Haven",
     "composers": [
-      "Koji Kondo, Kenta Nagata, Toru Minegishi, Hajime Wakai"
+      "Koji Kondo",
+      "Kenta Nagata"
     ],
     "converters": [
       "Ryestaines333"
@@ -70068,7 +70051,7 @@
     "uuid": "7303e208-1a8b-4792-a370-8f64980a4ed9",
     "hash": "a000afd529d1229f62ee8c0bcc3f675b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda - Wind Waker/Inside Forest Haven.mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Inside Forest Haven.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70130,10 +70113,10 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda - Skyward Sword",
+    "game": "The Legend of Zelda: Skyward Sword",
     "song": "Earth Temple",
     "composers": [
-      "Mahito Yokota, Hajime Wakai, Takeshi Hama"
+      "Hajime Wakai"
     ],
     "converters": [
       "Ryestaines333"
@@ -70141,7 +70124,7 @@
     "uuid": "aece86e8-3c6d-4e07-9698-59e448ecfbde",
     "hash": "ad8091e99968cb74ffbef6fbd7ed2494",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda - Skyward Sword/Earth Temple.mmrs",
+    "file": "The Legend of Zelda Skyward Sword/Earth Temple.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70341,15 +70324,20 @@
     "notes": "The song is \"The Rake Hornpipe\" by Robert Alexander White, used as the Krusty Krab theme in SpongeBob."
   },
   {
-    "game": "Wii Shop  Zelda64",
-    "song": "Shop Theme (Wii Shop Mashup)",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shop (Wii Shop Mix)",
     "converters": [
-      "meloonics"
+      "meloonics",
+      "isghj"
+    ],
+    "composers": [
+      "Koji Kondo",
+      "Kazumi Totaka"
     ],
     "uuid": "58c962a7-141f-463f-b6e2-045896325d34",
     "hash": "4f85d50d8a331fc804b8a2fe778c1c92",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wii Shop  Zelda64/Shop Theme (Wii Shop Mashup).mmrs",
+    "file": "The Legend of Zelda Ocarina of Time/Shop Shop (Wii Shop Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70558,6 +70546,10 @@
     "converters": [
       "Felix_Helix_TM"
     ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
     "uuid": "c36ffd25-9a35-47b4-a508-a0e0bd660e6b",
     "hash": "c4414b0a3de1a00afc8541d35a4bff7f",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -70648,14 +70640,17 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Queen Rutela",
+    "song": "Queen Rutela's Theme [3]",
     "converters": [
       "Felix_Helix_TM"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "5fd0c6cd-9628-4bec-9c84-41b091387bd3",
     "hash": "35906518c888959307e9fa8c694b19dd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Queen Rutela.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71295,14 +71290,17 @@
   },
   {
     "game": "Windows OS",
-    "song": "Town (Joshua8600's Version)",
+    "song": "Town [3]",
     "converters": [
       "Joshua8600"
+    ],
+    "composers": [
+      "Nathan Grigg"
     ],
     "uuid": "088e232a-b7c1-4115-9579-323653c3869e",
     "hash": "6251667e328d3e1d8e4ef7995324a49e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Windows OS/Town (Joshua8600's Version).mmrs",
+    "file": "Windows OS/Town [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71879,10 +71877,11 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda 64  Wii Shop Channel",
-    "song": "Wii Shop Theme",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shop (Wii Shop Mix) [2]",
     "composers": [
-      "Koji Kondo, Kazumi Totaka"
+      "Koji Kondo",
+      "Kazumi Totaka"
     ],
     "converters": [
       "Armaggedun_"
@@ -71890,7 +71889,7 @@
     "uuid": "04db8c29-8aee-446d-980b-b651836c217a",
     "hash": "4165be138f2463ef69280fea06f4d412",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda 64  Wii Shop Channel/Wii Shop Theme.mmrs",
+    "file": "The Legend of Zelda Ocarina of Time/Shop (Wii Shop Mix) [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72106,21 +72105,14 @@
     "converters": [
       "dnvic"
     ],
+    "composers": [
+      "Ryoji Yoshitomi"
+    ],
     "uuid": "a8621c9f-a86a-49ee-b967-9e88f612af97",
-    "hash": "51693cc7a4d1b12f2b197506ba5d3d08",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "file": "Wario Land 4/Hurry Up!.mmrs",
     "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "157"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
+    "type": "bgm"
   },
   {
     "game": "Ape Escape",
@@ -72173,10 +72165,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Vigilante 8 2nd Offense",
+    "game": "Vigilante 8: 2nd Offense",
     "song": "Convoy Country",
     "converters": [
       "dnvic"
+    ],
+    "composers": [
+      "Howard Drossin"
     ],
     "uuid": "3a046dee-74d6-48fd-8a6f-c1f2aa24ccb1",
     "hash": "cbd7b27adf26287a272559fdc91ae423",
@@ -72368,15 +72363,16 @@
     "usesFormmask": false
   },
   {
-    "game": "Twilight Princess",
+    "game": "The Legend of Zelda: Twilight Princess",
     "song": "Goron Mines",
     "converters": [
-      "owl is not a cat and asra"
+      "owl is not a cat",
+      "Asra"
     ],
     "uuid": "885ef24d-9824-491d-9f0a-a2d333a4073a",
     "hash": "5e3fb966033db6ec48d1631ec6c16203",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Twilight Princess/Goron Mines.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Goron Mines.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73574,14 +73570,17 @@
   },
   {
     "game": "Wheel of Fortune (NES)",
+    "song": "Wrong Letter",
     "converters": [
       "Fish_waffle64"
     ],
-    "song": "wof-wrongletter",
+    "composers": [
+      "David Wise"
+    ],
     "uuid": "fb2d7ac9-b936-4b9c-b7fa-4f79c08dd8a0",
     "hash": "8f5c3a97e612e3ed5d1961f27f940c8d",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wheel of Fortune (NES)/wof-wrongletter.mmrs",
+    "file": "Wheel of Fortune (NES)/Wrong Letter.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -73759,7 +73758,7 @@
   },
   {
     "game": "Undertale",
-    "song": "Asgore (abridged as it's all phases just less repetition)",
+    "song": "Asgore (Abridged)",
     "composers": [
       "Toby Fox"
     ],
@@ -73769,7 +73768,7 @@
     "uuid": "0c50bc58-c01c-49bf-976d-fa02ed6227f0",
     "hash": "b6ab09b66c2538150b5e6e3d3cecc381",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Undertale/Asgore (abridged as it's all phases just less repetition).mmrs",
+    "file": "Undertale/Asgore (Abridged).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73780,7 +73779,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": false,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "All phases, just less repetition."
   },
   {
     "game": "Super Mario Sunshine",
@@ -74636,18 +74636,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Yohane the Parhelion Blaze in the Deepblue (2023)",
+    "game": "Yohane the Parhelion -BLAZE in the DEEPBLUE-",
+    "song": "I Did It! I Found You!",
     "composers": [
       "Ryō Kawakami"
     ],
     "converters": [
       "Retroflex"
     ],
-    "song": "gnybitdb_i_did_it_i_found_you_FANFARE",
+    
     "uuid": "85153c1f-8cb3-4bdb-9fe0-8c71a4853385",
     "hash": "bac18ee4d5203b8af8c65ebac8f9cdcd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Yohane the Parhelion Blaze in the Deepblue (2023)/gnybitdb_i_did_it_i_found_you_FANFARE.mmrs",
+    "file": "Yohane the Parhelion -BLAZE in the DEEPBLUE-/I Did It! I Found You!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -74741,6 +74742,10 @@
     "converters": [
       "ZoeyZolotova"
     ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
     "uuid": "5b6f8b25-8821-4f8e-ac34-bbfb81648e3e",
     "hash": "749890a86cc707a6b0680b86ef2e0b69",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -74757,7 +74762,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Wild Arms 1",
+    "game": "Wild Arms",
     "song": "Into the Wilderness",
     "composers": [
       "Michiko Naruke"
@@ -74768,7 +74773,7 @@
     "uuid": "0d0f0c96-2585-4b62-80c2-2f6207ebd82c",
     "hash": "0cde4f918fe0e873828715250fda08f4",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wild Arms 1/Into the Wilderness.mmrs",
+    "file": "Wild Arms/Into the Wilderness.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74833,7 +74838,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Wild Arms 1",
+    "game": "Wild Arms",
     "song": "Boomerang Flash",
     "composers": [
       "Michiko Naruke"
@@ -74844,7 +74849,7 @@
     "uuid": "93c85c98-64a1-4bbd-95a6-5695dd3b5e6d",
     "hash": "ef2503e152f742c66fa1646fa03e8233",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wild Arms 1/Boomerang Flash.mmrs",
+    "file": "Wild Arms/Boomerang Flash.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75206,15 +75211,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Super Mario World 2: Yoshi's Island",
-    "song": "Miniboss",
+    "game": "Yoshi's Island",
+    "song": "Mini Boss Theme [2]",
     "converters": [
       "SuzyCC"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "bff7ab92-39ad-4e00-b073-4391cd419405",
     "hash": "47ca27ddfe95cce3e12c905484a7b1fa",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World 2 Yoshi's Island/Miniboss.mmrs",
+    "file": "Yoshi's Island/Mini Boss Theme [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76119,8 +76127,8 @@
     "usesFormmask": false
   },
   {
-    "game": "Yoshi’s Story (1997)",
-    "song": "Title Screen Theme",
+    "game": "Yoshi's Story",
+    "song": "Yoshi's Story!",
     "composers": [
       "Kazumi Totaka"
     ],
@@ -76130,7 +76138,7 @@
     "uuid": "aa0e2d04-da86-4806-98be-bff8b3b24fff",
     "hash": "2e6f1ab3b35b40bf2c83b6c0d7b22c0c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Yoshi’s Story (1997)/Title Screen Theme.mmrs",
+    "file": "Yoshi's Story/Yoshi's Story!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76360,14 +76368,17 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Hyrule Castle Town",
+    "song": "Castle Town [2]",
     "converters": [
       "weeems"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "a411091b-5168-43c7-bd74-f2a23c21118d",
     "hash": "5912d30029a8c001a3340c9a09b1a047",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Hyrule Castle Town.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Castle Town [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76569,7 +76580,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 1 Highly Responsive to Prayers",
+    "game": "Touhou 1: Highly Responsive to Prayers",
     "song": "Let's All Die Together",
     "converters": [
       "Fish_waffle64"
@@ -76859,7 +76870,7 @@
     "game": "Xenoblade Chronicles",
     "song": "You Will Know Our Names",
     "composers": [
-      "ACE+ (Tomori Kudo, Hiroyo \"CHiCO\" Yamanaka, Kenji Hiramatsu)"
+      "ACE+"
     ],
     "converters": [
       "Armaggedun_"
@@ -76902,15 +76913,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda Twilight Princess",
-    "song": "Faron Woods",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Faron Woods [3]",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
     ],
     "uuid": "5ec34e38-486d-4734-99b9-161e4521d63e",
     "hash": "a6a375c7e9bcbb9c45edf88573bc6847",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda Twilight Princess/Faron Woods.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Faron Woods [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76928,6 +76943,10 @@
     "song": "Protocol",
     "converters": [
       "duraax"
+    ],
+    "composers": [
+      "MasterSwordRemix",
+      "MyNewSoundtrack"
     ],
     "uuid": "3396b062-822e-4548-a222-a0653aeabe34",
     "hash": "99081df385e373ea8b3caf7a6835e3b8",
@@ -76972,15 +76991,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda Twilight Princess",
+    "game": "The Legend of Zelda: Twilight Princess",
     "song": "Deku Toad",
     "converters": [
       "syntheticsaturn"
     ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
     "uuid": "bb7bc136-c4c3-4c01-9e50-1ce1945bd70d",
     "hash": "2abf112248b7e4633d7998a24e431304",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda Twilight Princess/Deku Toad.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Deku Toad.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77045,15 +77068,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda Twilight Princess",
-    "song": "Kakariko Village",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Kakariko Village [2]",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
     ],
     "uuid": "c78c30ff-3469-4bc1-91d9-1f2d865643f3",
     "hash": "4e70207d56dee4f9047e15d165ed8f54",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda Twilight Princess/Kakariko Village.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Kakariko Village [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -77987,14 +78014,18 @@
   },
   {
     "game": "Zelda Phantom Hourglass",
-    "song": "Bellum",
+    "song": "Bellum Battle [2]",
     "converters": [
       "syntheticsaturn"
+    ],
+    "composers": [
+      "Kenta Nagata",
+      "Toru Minegishi"
     ],
     "uuid": "a3a81d9b-27cc-485c-8688-cd2332581fd3",
     "hash": "9bb92b96da487b9827243fa932decdb0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda Phantom Hourglass/Bellum.mmrs",
+    "file": "Zelda Phantom Hourglass/Bellum Battle [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -79629,7 +79660,8 @@
     "game": "Wario World",
     "song": "Beanstalk Way 1",
     "composers": [
-      "Norio Hanzawa and/or Minako Hamano"
+      "Norio Hanzawa",
+      "Minako Hamano"
     ],
     "converters": [
       "Pontius Stone"
@@ -81024,18 +81056,19 @@
     "usesFormmask": false
   },
   {
-    "game": "Yoshi's Island (Super Mario World 2)",
-    "song": "Flower Garden (Level 1-1: Make Eggs, Commit Tax Fraud 🚔 (Cheese It!))",
+    "game": "Yoshi's Island",
+    "song": "Flower Garden (YCTF)",
     "composers": [
       "Koji Kondo"
     ],
     "converters": [
-      "ainurmusician64 & Crimsonae"
+      "ainurmusician64",
+      "Crimsonae"
     ],
     "uuid": "859f0aac-a6fc-4239-a745-55c63e786a55",
     "hash": "d9a0d31ed0c1e6c3824e28b5cf2ff487",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Yoshi's Island (Super Mario World 2)/Flower Garden (Level 1-1 Make Eggs, Commit Tax Fraud 🚔 (Cheese It!)).mmrs",
+    "file": "Yoshi's Island/Flower Garden (YCTF).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81044,7 +81077,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "This is the song that plays on Level 1-1: Make Eggs, Commit Tax Fraud 🚔 (Cheese It!)."
   },
   {
     "game": "Sonic the Hedgehog 3",
@@ -81325,7 +81359,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Wario Ware Smooth Moves",
+    "game": "WarioWare: Smooth Moves",
     "song": "Tomorrow Hill",
     "composers": [
       "Masanobu Matsunaga"
@@ -81336,7 +81370,7 @@
     "uuid": "f4cba4d2-62bd-4249-a026-ff7b6e30b550",
     "hash": "023ec623d150f6ac5084294fae736d8c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wario Ware Smooth Moves/Tomorrow Hill.mmrs",
+    "file": "WarioWare Smooth Moves/Tomorrow Hill.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -81482,6 +81516,9 @@
     "song": "Arbiter's Grounds",
     "converters": [
       "Ryestaines333"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "80715454-b46c-4908-a2e6-b8abc8d7f99b",
     "hash": "0f43e600f1f8784e9da5d0eeaa95efe3",
@@ -83448,29 +83485,33 @@
   },
   {
     "game": "Undertale",
-    "song": "*It's Raining Somewhere Else* (Goron, Zora, Fierce Deity) / *The Place Where It Rained* (Human, Deku)",
+    "song": "It's Raining Somewhere Else",
     "composers": [
       "Toby Fox"
     ],
     "converters": [
       "Asticky"
     ],
-    "uuid": "41e81c0b-6aff-4c9f-b050-3215a7444452",
-    "hash": "47b80050b929ab2e64f580bb83491726",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Undertale/It's Raining Somewhere Else (Goron, Zora, Fierce Deity)  The Place Where It Rained (Human, Deku).mmrs",
+    "file": "Undertale/It's Raining Somewhere Else.mmrs",
     "preview": "",
     "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "16"
+    "notes": "96 BPM. Includes \"It's Raining Somewhere Else\" (Goron, Zora, Fierce Deity) and \"The Place Where It Rained\" (Human, Deku)."
+  },
+  {
+    "game": "Undertale",
+    "song": "The Place Where It Rained",
+    "composers": [
+      "Toby Fox"
     ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": true
+    "converters": [
+      "Asticky"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "Undertale/The Place Where It Rained.mmrs",
+    "preview": "",
+    "type": "bgm",
+    "notes": "80 BPM. Includes \"It's Raining Somewhere Else\" (Goron, Zora, Fierce Deity) and \"The Place Where It Rained\" (Human, Deku)."
   },
   {
     "game": "Final Fantasy VII",
@@ -83527,7 +83568,7 @@
       "Koji Kondo"
     ],
     "converters": [
-      "Me!"
+      "DetectiveSky612"
     ],
     "uuid": "88d54aba-485f-4501-9ee4-b112d3235485",
     "hash": "b1752362fd46a9b2dec430146d768fe3",
@@ -84899,6 +84940,9 @@
     "converters": [
       "Ryestaines333"
     ],
+    "composers": [
+      "Toru Minegishi"
+    ],
     "uuid": "4d2f3d7a-0061-45ba-ba31-136bff5431f3",
     "hash": "afeade88318352d8d24629830517e774",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -86099,10 +86143,11 @@
     "usesFormmask": true
   },
   {
-    "game": "WarioWare Smooth Mooves",
+    "game": "WarioWare: Smooth Moves",
     "song": "Fishing",
     "composers": [
-      "Naoko Mitome, Masanobu Matsunaga, Yasuhisa Baba"
+      "Masanobu Matsunaga",
+      "Yasuhisa Baba"
     ],
     "converters": [
       "Asticky"
@@ -86110,7 +86155,7 @@
     "uuid": "eca00398-61c5-48be-95ce-7be28163037f",
     "hash": "7b4e356c6327e8c5b07c3bdf0fbe41b6",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "WarioWare Smooth Mooves/Fishing.mmrs",
+    "file": "WarioWare Smooth Moves/Fishing.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86229,14 +86274,14 @@
   },
   {
     "game": "Wario Land 4",
-    "song": "Hurry Up!",
+    "song": "Hurry Up! [2]",
     "converters": [
       "Philos-Kun"
     ],
     "uuid": "ca2b1c31-e856-4a39-9dcb-c84139b315e2",
     "hash": "51693cc7a4d1b12f2b197506ba5d3d08",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Wario Land 4/Hurry Up!.mmrs",
+    "file": "Wario Land 4/Hurry Up! [2].mmrs",
     "preview": ""
   },
   {
@@ -86267,14 +86312,17 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Get Small Item (Get Rupee)",
+    "song": "Rupee Get [2]",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "5b63a303-a154-4c79-9da4-d98b11cfb5df",
     "hash": "0676252139f5513ef437ec821c1ee83c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Get Small Item (Get Rupee).mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Rupee Get [2].mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -86290,14 +86338,17 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Midna's Lament",
+    "song": "Midna's Lament [3]",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "fb32ae07-f1c8-4a83-a2c1-7c3218f45cc8",
     "hash": "f883ab5660148f79893c956761b3152c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Midna's Lament.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Midna's Lament [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86343,6 +86394,9 @@
     "song": "City in the Sky",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Toru Minegishi"
     ],
     "uuid": "c4a2fa1b-c7f7-4dce-8549-d7596496ff0c",
     "hash": "6691253edfed4a4cce8b4b54913ef5c5",
@@ -86491,14 +86545,18 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Malo's Mart (Malo Mart)",
+    "song": "Malo Mart",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
     ],
     "uuid": "1fb29f36-92ef-4af9-ad88-1504805e95a6",
     "hash": "0febcc421edd661b0e94d391024f6c9c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Malo's Mart (Malo Mart).mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Malo Mart.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -86833,23 +86891,31 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Death Sword Battle (with and without intro)",
+    "song": "Death Sword Battle (With Intro)",
     "converters": [
       "Philos-Kun"
     ],
-    "uuid": "f4448932-40b6-4c42-9a5e-296bf82f075c",
-    "hash": "667963155007a58f13b1336917f0c155",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Death Sword Battle (with and without intro).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "7"
+    "composers": [
+      "Toru Minegishi"
     ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "The Legend of Zelda Twilight Princess/Death Sword Battle (With Intro).mmrs",
+    "preview": "",
+    "type": "bgm"
+  },
+  {
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Death Sword Battle",
+    "converters": [
+      "Philos-Kun"
+    ],
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "The Legend of Zelda Twilight Princess/Death Sword Battle.mmrs",
+    "preview": "",
+    "type": "bgm"
   },
   {
     "game": "Xenoblade Chronicles 2",
@@ -86945,30 +87011,6 @@
       "157"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "X Japan  Sands of Time by DebuglogWoon",
-    "song": "Scars (Sands of Time Midboss)",
-    "composers": [
-      "Yoshiki (X Japan) - DMCA warning as its copyrighted"
-    ],
-    "converters": [
-      "sentientai404"
-    ],
-    "uuid": "54a02ad8-0d05-430f-9e04-4eac4183354c",
-    "hash": "9bce3180c5aedaf7a0642295cfba94b7",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "X Japan  Sands of Time by DebuglogWoon/Scars (Sands of Time Midboss).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "4",
-      "7"
-    ],
-    "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -87989,23 +88031,6 @@
     "file": "Pokémon Black & White/Join Avenue.mmrs",
     "preview": "",
     "hash": "8e3222a1382e17ddb3654ef92dde9e40"
-  },
-  {
-    "uuid": "c75bd3b2-8ec5-4060-8d37-dc84aa67d32e",
-    "creationDate": "2026-07-28T04:03:43.613Z",
-    "game": "Wario Land 4",
-    "song": "Hurry Up! [2]",
-    "type": "bgm",
-    "categories": [
-      "6",
-      "157"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Wario Land 4/Hurry Up! [2].mmrs",
-    "preview": "",
-    "hash": "9544706caaaf095b81751aea28f0123b"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
