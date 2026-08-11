@@ -68035,7 +68035,7 @@
     "uuid": "3871dbc0-c0b5-4f41-93f6-04da57698e4b",
     "hash": "e393a1cef34b7fcacb3ea781e614a864",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Castlevania II: Simon's Quest/Bloody Tears.mmrs",
+    "file": "Castlevania II Simon's Quest/Bloody Tears.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -68326,7 +68326,7 @@
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
-    "song": "Locked Girl ~ Girl's Secret Room",
+    "song": "Locked Girl ~ The Girl's Sealed Room",
     "composers": [
       "ZUN"
     ],
@@ -68336,7 +68336,7 @@
     "uuid": "aea70291-16cb-4200-a177-7e30b8bf3319",
     "hash": "bd8138712b0b21209134155ff210dcb3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 6 The Embodiment of Scarlet Devil/Locked Girl ~ Girl's Secret Room.mmrs",
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Locked Girl ~ The Girl's Sealed Room.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70337,7 +70337,7 @@
     "uuid": "58c962a7-141f-463f-b6e2-045896325d34",
     "hash": "4f85d50d8a331fc804b8a2fe778c1c92",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Ocarina of Time/Shop Shop (Wii Shop Mix).mmrs",
+    "file": "The Legend of Zelda Ocarina of Time/Shop (Wii Shop Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70830,7 +70830,7 @@
     "usesFormmask": false
   },
   {
-    "game": "RuneScape  Old School RuneScape",
+    "game": "Old School RuneScape",
     "song": "Malady",
     "composers": [
       "Ian Taylor"
@@ -70841,7 +70841,7 @@
     "uuid": "cfd02bf7-38dd-4266-8721-3ea52c815cf8",
     "hash": "afc802400f14f2798c001d70ea6b7840",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "RuneScape  Old School RuneScape/Malady.mmrs",
+    "file": "Old School RuneScape/Malady.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71289,7 +71289,7 @@
     "notes": "Help needed! We need to find out from which song this originally is based of."
   },
   {
-    "game": "Windows OS",
+    "game": "Windows XP",
     "song": "Town [3]",
     "converters": [
       "Joshua8600"
@@ -71300,7 +71300,7 @@
     "uuid": "088e232a-b7c1-4115-9579-323653c3869e",
     "hash": "6251667e328d3e1d8e4ef7995324a49e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Windows OS/Town [3].mmrs",
+    "file": "Windows XP/Town [3].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71981,7 +71981,7 @@
     "uuid": "1467a02c-5ee9-4ab4-941e-f2d2d6145f8b",
     "hash": "624a1b5440774d9cfd5b153d27eb4e9b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "DOOM: Ancient Aliens/Flee.mmrs",
+    "file": "DOOM Ancient Aliens/Flee.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76580,7 +76580,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 1: Highly Responsive to Prayers",
+    "game": "Touhou 1: The Highly Responsive to Prayers",
     "song": "Let's All Die Together",
     "converters": [
       "Fish_waffle64"
@@ -76591,7 +76591,7 @@
     "uuid": "8693c443-5213-4e24-b299-f959fb03be39",
     "hash": "7a46affa8ab9620146b1791193adf27f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 1 Highly Responsive to Prayers/Let's All Die Together.mmrs",
+    "file": "Touhou 1 The Highly Responsive to Prayers/Let's All Die Together.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78013,7 +78013,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Zelda Phantom Hourglass",
+    "game": "The Legend of Zelda: Phantom Hourglass",
     "song": "Bellum Battle [2]",
     "converters": [
       "syntheticsaturn"
@@ -78025,7 +78025,7 @@
     "uuid": "a3a81d9b-27cc-485c-8688-cd2332581fd3",
     "hash": "9bb92b96da487b9827243fa932decdb0",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Zelda Phantom Hourglass/Bellum Battle [2].mmrs",
+    "file": "The Legend of Zelda Phantom Hourglass/Bellum Battle [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87831,60 +87831,6 @@
       "157"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Final Fantasy XIV",
-    "song": "White Snow, Black Steel (Bank 57)",
-    "composers": [
-      "Masayoshi Soken"
-    ],
-    "converters": [
-      "MaxPlaysGamesBadly"
-    ],
-    "uuid": "28889880-21ad-469d-814b-df73ab30366d",
-    "hash": "9692bc1e95c6d0673db882730012c57f",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy XIV/White Snow, Black Steel (Bank 57).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "6",
-      "176",
-      "157"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Final Fantasy XIV",
-    "song": "White Snow, Black Steel (Bank 7f)",
-    "composers": [
-      "Masayoshi Soken"
-    ],
-    "converters": [
-      "MaxPlaysGamesBadly"
-    ],
-    "uuid": "28889880-21ad-469d-814b-df73ab30366d",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Final Fantasy XIV/White Snow, Black Steel (Bank 7f).mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "6",
-      "176",
-      "157"
-    ],
-    "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
   },
