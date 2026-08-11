@@ -2112,6 +2112,7 @@
   },
   {
     "game": "The Sims",
+    "series": "The Sims Series",
     "logo": "https://i.imgur.com/eF7plQZ.png"
   },
   {
@@ -2171,6 +2172,12 @@
     "series": "Touhou Project",
     "logo": "https://i.imgur.com/QRTgB7g.png",
     "short_name": "Touhou 4"
+  },
+  {
+    "game": "Touhou 5: Mystic Square",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/98986c005e5def2da341b4e0627d4712.png",
+    "short_name": "Touhou 5"
   },
   {
     "game": "Touhou 10.5: Scarlet Weather Rhapsody",
@@ -4857,67 +4864,43 @@
     "short_name": "Trails in the Sky"
   },
   {
-    "game": "The Legend of Zelda Link’s Awakening"
+    "game": "The Sims 2",
+    "series": "The Sims Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/83cbc5e9ad9b537435036c2cdc4b0074.png"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask (Preview Demo)"
+    "game": "Tomodachi Life: Living the Dream",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2ae5891468287526b7f0e977d9d0e3ec.png"
   },
   {
-    "game": "The Legend of Zelda Oracle of SeasonsAges"
+    "game": "Touhou 13.5: Hopeless Masquerade",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a5bb29b6db3cc79d1399321f527a4d3e.png",
+    "short_name": "Touhou 13.5"
   },
   {
-    "game": "The Legend of Zelda Twilight PrincessMajora's Mask"
+    "game": "Touhou 17.5: Sunken Fossil World",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6b8e48324f35ae9ec61850f4e2caaf90.png",
+    "short_name": "Touhou 17.5"
   },
   {
-    "game": "The Legend of Zelda Wind Waker"
+    "game": "Touhou 19: Unfinished Dream of All Living Ghost",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fb11b80338984f7c54b2cabcc65d4e99.png",
+    "short_name": "Touhou 19"
   },
   {
-    "game": "The Legends of Zelda  Phantom Hourglass"
+    "game": "Touhou 2: The Story of Eastern Wonderland",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/42a61b38226d9f4a3bdeef465b616eb7.png",
+    "short_name": "Touhou 2"
   },
   {
-    "game": "The Legends of Zelda Tears of the Kingdom"
-  },
-  {
-    "game": "The Sims 2"
-  },
-  {
-    "game": "This is Sparta! 300"
-  },
-  {
-    "game": "Tomodachi Life Living the Dream"
-  },
-  {
-    "game": "Touhou 1 Highly Responsive to Prayers"
-  },
-  {
-    "game": "Touhou 10 - Mountain of Faith"
-  },
-  {
-    "game": "Touhou 10-12"
-  },
-  {
-    "game": "Touhou 13.5 Hopeless Masquerade"
-  },
-  {
-    "game": "Touhou 17.5 Sunken Fossil World (Submerged Hell of Sunken Hollow)"
-  },
-  {
-    "game": "Touhou 19 Unfinished Dream of All Living Ghost"
-  },
-  {
-    "game": "Touhou 2 Story of Eastern Wonderland"
-  },
-  {
-    "game": "Touhou 20 Fossilized Wonders"
-  },
-  {
-    "game": "Touhou 3 Phantasmagoria of Dim.Dream"
-  },
-  {
-    "game": "Touhou 6 Embodiment of Scarlet Devil"
-  },
-  {
-    "game": "Touhou Double Dealing Character"
+    "game": "Touhou 20: Fossilized Wonders",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/234ea9e1e12f904d30e6a5652f2ec4fc.png",
+    "short_name": "Touhou 20"
   },
   {
     "game": "Twilight Princess"

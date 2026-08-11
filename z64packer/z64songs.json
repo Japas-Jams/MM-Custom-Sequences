@@ -2080,7 +2080,7 @@
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
     "song": "Pure Furies ~ Whereabouts of the Heart",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2104,9 +2104,9 @@
     "uuid": "9e12647e-b42b-40f6-84db-a051b3f546b7",
     "creationDate": "2026-03-08T04:10:32.821Z",
     "game": "Touhou 14: Double Dealing Character",
-    "song": "Little Princess",
+    "song": "Kobito of the Shining Needle ~ Little Princess",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2120,7 +2120,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Touhou 14 Double Dealing Character/Little Princess.mmrs",
+    "file": "Touhou 14 Double Dealing Character/Kobito of the Shining Needle ~ Little Princess.mmrs",
     "preview": "https://www.youtube.com/watch?v=b_YeLlaAIow",
     "lufs": "-13.27",
     "hash": "763d0bc518aa1377ec6449094df0a471"
@@ -2131,7 +2131,7 @@
     "game": "Touhou 11: Subterranean Animism",
     "song": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2156,7 +2156,7 @@
     "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "Necrofantasia",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2183,7 +2183,7 @@
     "game": "Touhou 8: Imperishable Night",
     "song": "Flight of the Bamboo Cutter ~ Lunatic Princess",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2208,7 +2208,7 @@
     "game": "Touhou 8: Imperishable Night",
     "song": "Cinderella Cage ~ Kagome-Kagome",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2234,7 +2234,7 @@
     "game": "Touhou 8: Imperishable Night",
     "song": "Gensokyo Millenium ~ History of the Moon",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2260,7 +2260,7 @@
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
     "song": "The Reversed Wheel of Fortune",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2286,7 +2286,7 @@
     "game": "Touhou 10: Mountain of Faith",
     "song": "Nitori's Theme ~ Candid Friend",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2312,7 +2312,7 @@
     "game": "Touhou 14: Double Dealing Character",
     "song": "Primordial Beat ~ Pristine Beat",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2337,7 +2337,7 @@
     "game": "Touhou 11: Subterranean Animism",
     "song": "Last Remote ~ Koishi Komeiji's Theme",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2363,7 +2363,7 @@
     "game": "Touhou 11: Subterranean Animism",
     "song": "Hartmann's Youkai Girl",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2386,9 +2386,9 @@
     "uuid": "785dd695-0541-4b1e-a2db-9dde774bc60b",
     "creationDate": "2026-03-08T04:33:42.572Z",
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
-    "song": "Faraway Voyage Of 380000 Kilometers",
+    "song": "Faraway Voyage Of 380,000 Kilometers",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2403,7 +2403,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou 15 Legacy of Lunatic Kingdom/Faraway Voyage Of 380000 Kilometers.mmrs",
+    "file": "Touhou 15 Legacy of Lunatic Kingdom/Faraway Voyage Of 380,000 Kilometers.mmrs",
     "preview": "https://www.youtube.com/watch?v=67yHCG3kaf8",
     "lufs": "-15.80",
     "hash": "3fb7f34b8f2371ddd309a9241551aaeb"
@@ -2414,7 +2414,7 @@
     "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "The Doll Maker of Bucuresti",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2440,7 +2440,7 @@
     "game": "Touhou 8: Imperishable Night",
     "song": "Retribution for the Eternal Night ~ Imperishable Night",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2466,7 +2466,7 @@
     "game": "Touhou 8: Imperishable Night",
     "song": "Reach for the Moon, Immortal Smoke",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -2491,7 +2491,7 @@
     "game": "Touhou 8: Imperishable Night",
     "song": "Lunatic Eyes ~ Invisible Full Moon",
     "composers": [
-      "ZUN (Jun'ya Ōta)"
+      "ZUN"
     ],
     "converters": [
       "Fish"
@@ -62704,7 +62704,7 @@
     "game": "Touhou 4: Lotus Land Story",
     "song": "Bad Apple!!",
     "composers": [
-      "ZUN (Jun'ya Ota)"
+      "ZUN"
     ],
     "converters": [
       "Asra"
@@ -68376,7 +68376,7 @@
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
-    "song": "U.N. Owen was Her?",
+    "song": "U.N. Owen Was Her?",
     "composers": [
       "ZUN"
     ],
@@ -68386,7 +68386,7 @@
     "uuid": "6a2e7a7d-5256-469b-90ad-5947c1af2ced",
     "hash": "b5626974cb364dbc6dc75acae51d9af3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 6 The Embodiment of Scarlet Devil/U.N. Owen was Her.mmrs",
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/U.N. Owen Was Her.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71820,31 +71820,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou Double Dealing Character",
-    "song": "Kobito of the Shining Needle ~ Little Princess",
-    "composers": [
-      "ZUN"
-    ],
-    "converters": [
-      "Fish_waffle64"
-    ],
-    "uuid": "0526e413-3087-43cb-8f16-5fff30e3d14b",
-    "hash": "8dce78215b33e9381ea93a14d05f6d5d",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou Double Dealing Character/Kobito of the Shining Needle ~ Little Princess.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
-      "7",
-      "157"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": true,
-    "usesFormmask": false
-  },
-  {
     "game": "Super Mario Odyssey",
     "song": "Bubblaine",
     "composers": [
@@ -73046,26 +73021,6 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 10 - Mountain of Faith",
-    "song": "Because Princess Inaba is scolding me",
-    "converters": [
-      "Philos-Kun"
-    ],
-    "uuid": "c88f0d6c-8975-4db2-a645-e1340b96de59",
-    "hash": "8da71ba291cc81d0a87bb941ced98022",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 10 - Mountain of Faith/Because Princess Inaba is scolding me.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "The Legend of Zelda: The Wind Waker",
     "song": "Helmaroc King Appears (Short)",
     "converters": [
@@ -73252,6 +73207,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "d17156ae-f7d1-483b-91ca-5cd99dfe5094",
     "hash": "6d6469f97001c2e554c57a5c34786c0a",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -73273,6 +73231,9 @@
     "song": "Crimson in the Black Sea ~ Legendary Fish",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "7e9784b1-23d9-404d-9521-e7c1db46f26f",
     "hash": "43d231cce9e6946c916d9b99f8167771",
@@ -73319,32 +73280,12 @@
   },
   {
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
-    "song": "Faraway Voyage of 380,000 Kilometers",
-    "converters": [
-      "Fish_waffle64"
-    ],
-    "uuid": "3775592c-206b-4d30-895f-e142874f0e69",
-    "hash": "67734c2e4b4e669939be037a3f91a352",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 15 Legacy of Lunatic Kingdom/Faraway Voyage of 380,000 Kilometers.mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "4",
-      "5",
-      "7",
-      "16"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Touhou 15: Legacy of Lunatic Kingdom",
     "song": "The Space Shrine Maiden Appears",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "ed4c911c-32c3-421b-ad1b-e37d375db1e6",
     "hash": "f2ba2dc2ffe0c20e72b9951ba99c9b6f",
@@ -73367,6 +73308,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "aaec8383-82a6-464e-aaf6-ddecb648000c",
     "hash": "b7728b47c387caee772bf7c712351fd3",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -73383,37 +73327,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 15: Legacy of Lunatic Kingdom",
-    "song": "Pure Furies ~ Whereabouts of the Heart [2]",
-    "converters": [
-      "Fish_waffle64"
-    ],
-    "uuid": "a4db8911-27c2-49f4-b6b1-079fc8f392c2",
-    "hash": "ae9b2161c3a682c0a1257be2749fe8d3",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies ~ Whereabouts of the Heart [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
-      "7",
-      "157"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Touhou 6 Embodiment of Scarlet Devil",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
     "song": "Lunar Clock ~ Luna Dial",
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "b22fb581-c629-40f4-9a89-4193cc1eebd1",
     "hash": "5183ce97896f042fb0bf28e642e167fd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 6 Embodiment of Scarlet Devil/Lunar Clock ~ Luna Dial.mmrs",
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Lunar Clock ~ Luna Dial.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73525,6 +73450,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "5f244c0b-e23d-4e42-9a99-b6fececa1251",
     "hash": "2c856c816aa394120cec2a322cf14894",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -73571,6 +73499,9 @@
     "song": "A World of Nightmares Never Seen Before",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "3a8505e7-3889-4139-a477-724d6dbd6a84",
     "hash": "d727f3d4b195de3856868ca1ecbb5b95",
@@ -73731,15 +73662,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 6 Embodiment of Scarlet Devil",
-    "song": "U.N. Owen Was Her?",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
+    "song": "U.N. Owen Was Her? [2]",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "5fa78a16-2428-49d9-879d-6c2f0eacc2af",
     "hash": "92dd07d5b2fee4034d27fbbdec9c3e7a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 6 Embodiment of Scarlet Devil/U.N. Owen Was Her.mmrs",
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/U.N. Owen Was Her [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73798,10 +73732,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 19 Unfinished Dream of All Living Ghost",
+    "game": "Touhou 19: Unfinished Dream of All Living Ghost",
     "song": "Tiny Shangri-La",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "f603b18e-75c4-4ae5-a1d5-9131156bff96",
     "hash": "74ecc99eff455c57ea632d316f064092",
@@ -74523,6 +74460,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "48a56b60-40ea-425b-a365-b23c8f8b27e0",
     "hash": "a56e5fcd134cfbec07e803b4c0c65b7b",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -74543,6 +74483,9 @@
     "song": "Pandemonic Planet",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "226dc6d5-ef2a-4def-9252-13af8565aafb",
     "hash": "fe4e4884701c4ba5ca992bd109280198",
@@ -74613,15 +74556,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 3 Phantasmagoria of Dim.Dream",
+    "game": "Touhou 3: The Phantasmagoria of Dim.Dream",
     "song": "Strawberry Crisis!!",
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "71e88b48-a462-4c63-b93d-c2878d1092d9",
     "hash": "041815f78cf4512c83c71c8c4fced049",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 3 Phantasmagoria of Dim.Dream/Strawberry Crisis!!.mmrs",
+    "file": "Touhou 3 The Phantasmagoria of Dim.Dream/Strawberry Crisis!!.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74635,14 +74581,17 @@
   },
   {
     "game": "Touhou 4: Lotus Land Story",
-    "song": "Alice Maestra (ZUN Arrange)",
+    "song": "Alice Maestra",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "01013bd3-86e7-4da2-810d-6df1c5a443ef",
     "hash": "1064b63458aa0bcdcf9e0707c33dae21",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 4 Lotus Land Story/Alice Maestra (ZUN Arrange).mmrs",
+    "file": "Touhou 4 Lotus Land Story/Alice Maestra.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -74861,14 +74810,17 @@
   },
   {
     "game": "Touhou 7: Perfect Cherry Blossom",
-    "song": "Border of Life (Yuyuko's Last Spell)",
+    "song": "Border of Life [2]",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "71d9f3fe-1e13-479c-b28e-1258c1a94ad3",
     "hash": "31d2bcbcc2b3cb4138016f73119e2a17",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 7 Perfect Cherry Blossom/Border of Life (Yuyuko's Last Spell).mmrs",
+    "file": "Touhou 7 Perfect Cherry Blossom/Border of Life [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75139,6 +75091,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "ca59f5dc-6738-45d5-84f3-c3f54ab403b6",
     "hash": "7419005b2472af2c49f873db2d2a8810",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -75303,6 +75258,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "14f883c3-1b86-4000-817a-4d3cd16a460a",
     "hash": "a1fd327627cfaed72c362ea6bca7fba3",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -75325,11 +75283,11 @@
     "converters": [
       "Fish_waffle64"
     ],
-    "song": "touhou11-f-orinmeow",
+    "song": "Orin's Meow",
     "uuid": "a65ff0d7-6255-4f38-a827-3391f5068ed3",
     "hash": "96ab001195b8577c155d6e5221f48e4b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 11 Subterranean Animism/touhou11-f-orinmeow.mmrs",
+    "file": "Touhou 11 Subterranean Animism/Orin's Meow.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -75466,15 +75424,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 17.5 Sunken Fossil World (Submerged Hell of Sunken Hollow)",
-    "song": "Depths of the Earth, Ocean of Avarice (Sea of Petroleum)",
+    "game": "Touhou 17.5: Sunken Fossil World",
+    "song": "Depths of the Earth, Ocean of Avarice",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ziki_7"
     ],
     "uuid": "1313f558-e93c-495b-8224-a2a5edb338c2",
     "hash": "6edf67e676c0205e0fc608bff4028200",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 17.5 Sunken Fossil World (Submerged Hell of Sunken Hollow)/Depths of the Earth, Ocean of Avarice (Sea of Petroleum).mmrs",
+    "file": "Touhou 17.5 Sunken Fossil World/Depths of the Earth, Ocean of Avarice.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -75606,15 +75567,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 10-12",
+    "game": "Touhou 10: Mountain of Faith",
+    "song": "Rip 1CC",
     "converters": [
       "Fish_waffle64"
     ],
-    "song": "touhou-rip1cc",
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "da48d61c-fddb-4159-8216-d14049d003ea",
     "hash": "358df8ade50c951848777a9112d2061b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 10-12/touhou-rip1cc.mmrs",
+    "file": "Touhou 10 Mountain of Faith/Rip 1CC.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -75626,14 +75590,17 @@
   },
   {
     "game": "Touhou 10: Mountain of Faith",
-    "song": "Player Score",
+    "song": "Player's Score",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "d007fc40-1d82-4a49-aad4-1e2a2d35402a",
     "hash": "455ab093746df235b1a0d6a68a46c330",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 10 Mountain of Faith/Player Score.mmrs",
+    "file": "Touhou 10 Mountain of Faith/Player's Score.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76186,6 +76153,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "c639f3ab-b7bc-49e4-8489-4fb35b14552b",
     "hash": "cdc5b227382a14b9ff7036816cdf59f0",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -76300,7 +76270,7 @@
   },
   {
     "game": "The Sims 2",
-    "song": "Busy Sims",
+    "song": "Busy Sim",
     "composers": [
       "Mark Mothersbaugh"
     ],
@@ -76310,7 +76280,7 @@
     "uuid": "fc61bfd2-12f2-4e94-a46f-4dd823cf7ad7",
     "hash": "be0ca4a0abf51b219bab8589288c448e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Sims 2/Busy Sims.mmrs",
+    "file": "The Sims 2/Busy Sim.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76365,15 +76335,18 @@
     "usesFormmask": false
   },
   {
-    "game": "This is Sparta! 300",
-    "song": "Sparta Remix (base)",
+    "game": "Memes",
+    "song": "Sparta Remix (Instrumental)",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "Keaton Monger"
     ],
     "uuid": "12b01f34-9fcc-4089-886a-51e9d0a5925f",
     "hash": "cd89418224f69d79fc32b02ed2798153",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "This is Sparta! 300/Sparta Remix (base).mmrs",
+    "file": "Memes/Sparta Remix (Instrumental).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76407,15 +76380,18 @@
     "usesFormmask": true
   },
   {
-    "game": "Touhou 6 Embodiment of Scarlet Devil",
-    "song": "Locked Girl ~ The Girl's Secret Room",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
+    "song": "Locked Girl ~ The Girl's Sealed Room [2]",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "9674d750-52f2-49b3-a68e-71ccf73d44bd",
     "hash": "5826b86f6a3e6e00b2112c661a2112e3",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 6 Embodiment of Scarlet Devil/Locked Girl ~ The Girl's Secret Room.mmrs",
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Locked Girl ~ The Girl's Sealed Room.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76445,27 +76421,6 @@
     "categories": [
       "0",
       "2",
-      "7"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Touhou 14: Double Dealing Character",
-    "song": "Primordial Beat ~ Pristine Beat [2]",
-    "converters": [
-      "Fish_waffle64"
-    ],
-    "uuid": "694574fd-0e52-4a83-a6aa-b130319cac32",
-    "hash": "f93cf6132e28d56c2c9c00febbf2540a",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 14 Double Dealing Character/Primordial Beat ~ Pristine Beat [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "4",
-      "5",
       "7"
     ],
     "usesCustomBank": true,
@@ -76531,6 +76486,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "94466a58-36d7-4be5-85bf-60de1a33eb5c",
     "hash": "37ae8c42ba1ab6021b44b7d84665064a",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -76585,15 +76543,18 @@
     "preview": ""
   },
   {
-    "game": "Touhou 1 Highly Responsive to Prayers",
-    "song": "Civilization of Magic (Mystic Square Arrangement)",
+    "game": "Touhou 5: Mystic Square",
+    "song": "Civilization of Magic",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "ef066652-573a-4fa0-83c4-3c41fc6210d5",
     "hash": "f8b83fbc95bb82794a5a1eba8d4538a7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 1 Highly Responsive to Prayers/Civilization of Magic (Mystic Square Arrangement).mmrs",
+    "file": "Touhou 5 Mystic Square/Civilization of Magic.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -76612,6 +76573,9 @@
     "song": "Let's All Die Together",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "8693c443-5213-4e24-b299-f959fb03be39",
     "hash": "7a46affa8ab9620146b1791193adf27f",
@@ -77410,6 +77374,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "e8eda586-32ba-4429-b9fc-80c0f3b267e2",
     "hash": "c5981cac887bcb2026f8f9c93051b386",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -77509,6 +77476,9 @@
     "converters": [
       "Fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "7f9b38bb-5272-42ae-b12d-96ae62a6e2d4",
     "hash": "7da615ad200db7c94d17667f54965bd1",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -77557,6 +77527,9 @@
     "song": "Satori Maiden ~ Third Eye",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "d19043ff-402d-4d4b-bf1b-f7a3163f9262",
     "hash": "0d06dffbc90e11679ad25520f6c1b8ad",
@@ -77934,10 +77907,13 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 13.5 Hopeless Masquerade",
+    "game": "Touhou 13.5: Hopeless Masquerade",
     "song": "The Lost Emotion",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "1d04f5fa-aac5-4f1b-a5cb-8fed524b1c46",
     "hash": "94d6df63287b50a6ca9b4b2eb620ebe2",
@@ -79145,7 +79121,7 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda: A Link To The Past",
+    "game": "The Legend of Zelda: A Link to the Past",
     "song": "Death Mountain [2]",
     "composers": [
       "Koji Kondo"
@@ -79156,7 +79132,7 @@
     "uuid": "a8fb392a-b353-4315-8dd7-c2205f5c1ceb",
     "hash": "e671eff462f918f8d7ba4b2304bfe5c7",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda A Link To The Past/Death Mountain [2].mmrs",
+    "file": "The Legend of Zelda A Link to the Past/Death Mountain [2].mmrs",
     "preview": ""
   },
   {
@@ -80061,6 +80037,9 @@
     "song": "Extend Ash ~ Hourai Victim",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "f705ecf9-5bc6-4dbd-b559-e3d3406cc075",
     "hash": "7870168d1e12484516a8c9d157fd56ef",
@@ -82486,6 +82465,9 @@
     "converters": [
       "fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "4e32b717-0e70-487e-9ea5-89d334778d8a",
     "hash": "d11033d640da12d4800dc702213124f6",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -83416,15 +83398,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 20 Fossilized Wonders",
-    "song": "Watatsuki's Spell Card~ Divine Sea Battle",
+    "game": "Touhou 20: Fossilized Wonders",
+    "song": "Watatsuki's Spell Card ~ Divine Sea Battle",
     "converters": [
       "fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "d010c74d-efcc-48f4-a030-e7ecf5952734",
     "hash": "56f1ac4055b9116db43f86a75210dd5e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 20 Fossilized Wonders/Watatsuki's Spell Card~ Divine Sea Battle.mmrs",
+    "file": "Touhou 20 Fossilized Wonders/Watatsuki's Spell Card ~ Divine Sea Battle.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -83437,15 +83422,18 @@
     "usesFormmask": false
   },
   {
-    "game": "Touhou 2 Story of Eastern Wonderland",
+    "game": "Touhou 2: The Story of Eastern Wonderland",
     "song": "End of Daylight",
     "converters": [
       "fish_waffle64"
     ],
+    "composers": [
+      "ZUN"
+    ],
     "uuid": "d12ac7ed-cb18-4375-82a6-70490c1db2a2",
     "hash": "03bde720a07044c90846a8c7178b925f",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Touhou 2 Story of Eastern Wonderland/End of Daylight.mmrs",
+    "file": "Touhou 2 The Story of Eastern Wonderland/End of Daylight.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -87301,10 +87289,15 @@
     "usesFormmask": false
   },
   {
-    "game": "Tomodachi Life Living the Dream",
+    "game": "Tomodachi Life: Living the Dream",
     "song": "Mii Maker",
     "converters": [
       "samracc"
+    ],
+    "composers": [
+      "Shinobu Nagata",
+      "Reika Nakai",
+      "Kairi Hamada"
     ],
     "uuid": "4f6dfb1a-4202-45b8-bc2a-c0623f5da131",
     "hash": "ef957a77be826d6e3f6c103e071ba21d",
@@ -87580,6 +87573,9 @@
     "song": "Faint Dream ~ Inanimate Dream",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "ZUN"
     ],
     "uuid": "61739be7-bf80-46c0-b281-aef121fd9b39",
     "hash": "cbb74f1d738dcd35b2d89b3b555cd2da",
