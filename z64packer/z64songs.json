@@ -2676,7 +2676,7 @@
     "uuid": "9029ad89-5812-455c-8a58-53a7112d1e94",
     "creationDate": "2026-03-10T00:43:43.398Z",
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Nayru's Song",
+    "song": "Nayru's Song [3]",
     "composers": [
       "Minako Adachi",
       "Kiyohiro Sada"
@@ -2695,7 +2695,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song.mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song [3].mmrs",
     "preview": "https://www.youtube.com/watch?v=4OGDIQYWUgo",
     "lufs": "-21.25",
     "hash": "94ed82b36a1d463357967b3e179f34df"
@@ -17330,8 +17330,8 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "The Legend of Zelda Twilight Princess/Fish Caught.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Fish Caught.ogg",
+    "file": "The Legend of Zelda Twilight Princess/Mini-Game Goal.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Mini-Game Goal.ogg",
     "lastUpdateDate": "2026-03-22T23:41:52.328Z",
     "lufs": "-14.35",
     "hash": "64baad121c20967a1dc53b9acc25f181"
@@ -29565,7 +29565,7 @@
     "uuid": "5d963d31-e85a-40bf-94e5-5ccba4ab9cf4",
     "creationDate": "2026-04-04T17:10:16.179Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Dragon Roost Island (Variant A)",
+    "song": "Dragon Roost Island",
     "composers": [
       "Kenta Nagata",
       "Hajime Wakai",
@@ -29584,8 +29584,8 @@
       "5",
       "6"
     ],
-    "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island (Variant A).ogg",
+    "file": "The Legend of Zelda The Wind Waker/Dragon Roost Island.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Dragon Roost Island.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -49477,7 +49477,7 @@
   },
   {
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Gerudo Valley",
+    "song": "Gerudo Valley (MM Version)",
     "composers": [
       "Koji Kondo"
     ],
@@ -49493,8 +49493,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "15ab6da2-083f-4f9c-8227-d90a1d12a00d",
-    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley.mmrs",
-    "preview": "https://www.youtube.com/watch?v=gmwdOH6fJ1s",
+    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley (MM Version).mmrs",
     "lufs": "-20.85",
     "hash": "e2cf0f0d2a0ddd92fd4dc884c1ab1973",
     "creationDate": "2026-07-28T03:37:57.761Z"
@@ -49639,7 +49638,7 @@
   },
   {
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Kokiri Forest",
+    "song": "Kokiri Forest (MM Version)",
     "composers": [
       "Koji Kondo"
     ],
@@ -49655,8 +49654,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "79053fda-e469-48d2-8f6f-b7752a082871",
-    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs",
-    "preview": "https://www.youtube.com/watch?v=rdaJ5pJmNfo",
+    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest (MM Version).mmrs",
     "lufs": "-22.03",
     "hash": "0c9a9c77a8fef67f89f105cf23350647",
     "creationDate": "2026-07-28T03:37:57.882Z"
@@ -57346,7 +57344,7 @@
     "uuid": "4d89e4fd-c5bb-4ec0-9fb0-063fbdccf3d4",
     "creationDate": "2026-05-07T00:35:47.436Z",
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Nayru's Song (Variant B)",
+    "song": "Nayru's Song [2]",
     "composers": [
       "Minako Adachi",
       "Kiyohiro Sada"
@@ -57359,8 +57357,8 @@
       "3",
       "6"
     ],
-    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song (Variant B).mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Nayru's Song (Variant B).ogg",
+    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song [2].mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Nayru's Song [2].ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
@@ -67709,7 +67707,8 @@
       "Amalgorithmic"
     ],
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "uuid": "cccf5e50-e8ec-49ea-9641-4fa5d13f74ec",
     "hash": "f062f85eddbb6aa1b177474ad8b8f325",
@@ -69393,9 +69392,10 @@
   },
   {
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Jabu-jabu's Belly",
+    "song": "Jabu Jabu's Belly",
     "composers": [
-      "Minako Adachi (M-Adachi)"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -69403,7 +69403,7 @@
     "uuid": "d7bae18c-e5d0-4d5b-ab0b-4b434c678a86",
     "hash": "ebaffbf77e249e165ce49e6fd83d2951",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of Ages/Jabu-jabu's Belly.mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Jabu Jabu's Belly.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69416,7 +69416,7 @@
   },
   {
     "game": "The Legend of Zelda: A Link to the Past",
-    "song": "Dungeon of Shadows",
+    "song": "Dark Palace [2]",
     "composers": [
       "Koji Kondo"
     ],
@@ -69426,7 +69426,7 @@
     "uuid": "18672bbe-033f-4eb7-a7c9-d0bd65232327",
     "hash": "a84dc54ae2e7284f7e7135cd7055dff1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda A Link to the Past/Dungeon of Shadows.mmrs",
+    "file": "The Legend of Zelda A Link to the Past/Dark Palace [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -69440,7 +69440,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Conquest",
     "composers": [
-      "Minako Adachi (M-Adachi)"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -69464,7 +69465,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Skull Dungeon",
     "composers": [
-      "Minako Adachi (M-Adachi)"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -70529,14 +70531,18 @@
   },
   {
     "game": "The Legend of Zelda: Oracle of Seasons",
-    "song": "Level 4 - Dancing Dragon",
+    "song": "Dancing Dragon [2]",
     "converters": [
       "Felix_Helix_TM"
+    ],
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "uuid": "ec1c0a03-0011-4d96-a93c-18e2a0480b01",
     "hash": "aba051ed1b88c40bcb4fbecc348c10dd",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of Seasons/Level 4 - Dancing Dragon.mmrs",
+    "file": "The Legend of Zelda Oracle of Seasons/Dancing Dragon [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70952,9 +70958,10 @@
   },
   {
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Nayru's Song [2]",
+    "song": "Nayru's Song",
     "composers": [
-      "Minako Adachi / Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -70962,7 +70969,7 @@
     "uuid": "ee3f633a-a449-4e42-8679-d09619a5999c",
     "hash": "ed4da18080e98e0e4f54a68b48cf6d21",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song [2].mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -70977,7 +70984,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Nayru's Song (Transposed)",
     "composers": [
-      "Minako Adachi / Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -70998,9 +71006,10 @@
   },
   {
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Tune of Ages (Fanfare)",
+    "song": "Tune of Ages [2]",
     "composers": [
-      "Minako Adachi / Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -71008,7 +71017,7 @@
     "uuid": "a78f3fe5-7069-4246-9110-e5284ed111c7",
     "hash": "bb22b1825cfd4f148371bf2e6d920e74",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of Ages/Tune of Ages (Fanfare).mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Tune of Ages [2].mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -71021,9 +71030,10 @@
   },
   {
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Tune of Echoes (Fanfare)",
+    "song": "Tune of Echoes [2]",
     "composers": [
-      "Minako Adachi / Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Amalgorithmic"
@@ -71031,7 +71041,7 @@
     "uuid": "e1811d66-5f23-4fef-bb32-71da62dabe01",
     "hash": "2268da037b36374251c7543dc804d0e4",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of Ages/Tune of Echoes (Fanfare).mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Tune of Echoes [2].mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -71216,15 +71226,20 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Twilight PrincessMajora's Mask",
-    "song": "Malo Shop (Malo Mart x Shop Theme Mashup)",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shop (Malo Mart Mix)",
     "converters": [
       "Feli_Heli"
+    ],
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ota",
+      "Koji Kondo"
     ],
     "uuid": "8adba385-9e9d-4f0a-a969-1abd18226b0d",
     "hash": "090b0ee4ef34f9bf060f7b444ce9546a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight PrincessMajora's Mask/Malo Shop (Malo Mart x Shop Theme Mashup).mmrs",
+    "file": "The Legend of Zelda Ocarina of Time/Shop (Malo Mart Mix).mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -71444,7 +71459,7 @@
   },
   {
     "game": "The Legend of Zelda: Breath of the Wild",
-    "song": "Parasail Minigame",
+    "song": "Minigame - Parasail [2]",
     "composers": [
       "Yasuaki Iwata"
     ],
@@ -71454,7 +71469,7 @@
     "uuid": "e1a0fa50-09f4-42a0-8a2e-3fdec5ec5bc5",
     "hash": "b3bcf1509eef72f23826a650ea99969c",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Breath of the Wild/Parasail Minigame.mmrs",
+    "file": "The Legend of Zelda Breath of the Wild/Minigame - Parasail [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -72359,6 +72374,9 @@
     "converters": [
       "owl is not a cat"
     ],
+    "composers": [
+      "Toru Minegishi"
+    ],
     "uuid": "5191ad1f-5575-4be2-8f89-d32b54369926",
     "hash": "ae113ea8617883744b5e3dd4c343c4ab",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -73049,33 +73067,45 @@
   },
   {
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "The Jail Floods! The Helmaroc King Swoops In!",
+    "song": "Helmaroc King Appears (Short)",
     "converters": [
       "ainurmusician64"
     ],
-    "uuid": "5f5c34bb-7e17-4568-aa26-94f041bf4727",
-    "hash": "160123c46088bc5c512b49cfbac049ea",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda The Wind Waker/The Jail Floods! The Helmaroc King Swoops In!.mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "177"
+    "composers": [
+      "Hajime Wakai"
     ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "The Legend of Zelda The Wind Waker/Helmaroc King Appears (Short).mmrs",
+    "preview": "",
+    "type": "fanfare"
   },
   {
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Escape the Helmaroc King! (Forsaken Fortress Tower Chase)",
+    "song": "Helmaroc King Appears (Long)",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "creationDate": "2026-07-28T03:33:56.104Z",
+    "file": "The Legend of Zelda The Wind Waker/Helmaroc King Appears (Long).mmrs",
+    "preview": "",
+    "type": "fanfare"
+  },
+  {
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Tower of Forsaken Fortress [2]",
+    "converters": [
+      "ainurmusician64"
+    ],
+    "composers": [
+      "Hajime Wakai"
     ],
     "uuid": "100597c9-6dfd-40b6-8484-d9a6de069af7",
     "hash": "13471e884df1aeeeb40b0653803fd42b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda The Wind Waker/Escape the Helmaroc King! (Forsaken Fortress Tower Chase).mmrs",
+    "file": "The Legend of Zelda The Wind Waker/The Tower of Forsaken Fortress [2].mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73091,14 +73121,17 @@
   },
   {
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Helmaroc King (Boss)",
+    "song": "Helmaroc King",
     "converters": [
       "ainurmusician64"
+    ],
+    "composers": [
+      "Hajime Wakai"
     ],
     "uuid": "255e2d39-1de9-4482-998c-3abb10137b96",
     "hash": "1c9a267c994c4225673b1791b48a5fff",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda The Wind Waker/Helmaroc King (Boss).mmrs",
+    "file": "The Legend of Zelda The Wind Waker/Helmaroc King.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -73509,15 +73542,18 @@
   },
   {
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Gerudo Valley [2]",
+    "song": "Gerudo Valley",
     "converters": [
       "Fish_waffle64"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "e897ceeb-3046-433f-ae9d-eb6daaeeac10",
     "hash": "20335cc2b330f2b1355c3c4ffc0fdaab",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley [2].mmrs",
-    "preview": "",
+    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gmwdOH6fJ1s",
     "type": "bgm",
     "categories": [
       "0",
@@ -75762,6 +75798,9 @@
     "converters": [
       "LoadingError"
     ],
+    "composers": [
+      "Kenta Nagata"
+    ],
     "uuid": "b9755fc3-cb9c-4e84-993a-faaf87fe04c5",
     "hash": "b5648ce318b53c39bd4f81229dceab7c",
     "creationDate": "2026-07-28T03:33:56.104Z",
@@ -77249,32 +77288,6 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Pirates [2]",
-    "composers": [
-      "Koji Kondo"
-    ],
-    "converters": [
-      "LoadingError"
-    ],
-    "uuid": "54b14291-b3e2-4d25-a96f-50f5670a27b9",
-    "hash": "a65f91d038c8236b4c4917dc16e9c92d",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda The Wind Waker/Pirates [2].mmrs",
-    "preview": "",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "3",
-      "4",
-      "6"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Mr. Nutz",
     "song": "Adventure Park",
     "converters": [
@@ -78498,10 +78511,11 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legends of Zelda  Phantom Hourglass",
-    "song": "Chasing the Ghost Ship",
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Navigating the Fog",
     "composers": [
-      "Kenta Nagata & Toru Minegishi"
+      "Toru Minegishi",
+      "Kenta Nagata"
     ],
     "converters": [
       "TheRealReliable"
@@ -78509,7 +78523,7 @@
     "uuid": "ac505db0-2ec1-4117-aab0-946373de66be",
     "hash": "d3288bf68a708a94a19f3d1018ddec4a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legends of Zelda  Phantom Hourglass/Chasing the Ghost Ship.mmrs",
+    "file": "The Legend of Zelda Phantom Hourglass/Navigating the Fog.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
@@ -78548,30 +78562,7 @@
   },
   {
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Minigame Win!",
-    "composers": [
-      "Toru Minegishi"
-    ],
-    "converters": [
-      "LoadingError"
-    ],
-    "uuid": "0cef08a7-79fb-49d3-8a66-b9b6a55ca37e",
-    "hash": "ab1d24ce944ea424a24bb435f18118b6",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Minigame Win!.mmrs",
-    "preview": "",
-    "type": "fanfare",
-    "categories": [
-      "8",
-      "9"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Fish Caught!",
+    "song": "Mini-Game Goal [2]",
     "composers": [
       "Toru Minegishi"
     ],
@@ -78581,7 +78572,7 @@
     "uuid": "ba8883f6-8ac6-4c65-aaf2-4f61bea73950",
     "hash": "6d7fcb18eb097d6eff16bf8b5c7ae48a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Twilight Princess/Fish Caught!.mmrs",
+    "file": "The Legend of Zelda Twilight Princess/Mini-Game Goal [2].mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -78730,10 +78721,11 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Oracle of SeasonsAges",
-    "song": "Rickys Flute",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Ricky's Flute",
     "composers": [
-      "Minako Adachi & Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "TheRealReliable"
@@ -78741,7 +78733,7 @@
     "uuid": "17943efb-c3a6-428c-baf8-05afd46a0c68",
     "hash": "09eb913d2963cba46caedfc70ffd1063",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of SeasonsAges/Rickys Flute.mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Ricky's Flute.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -78752,10 +78744,11 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Oracle of SeasonsAges",
-    "song": "Mooshs Flute",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Moosh's Flute",
     "composers": [
-      "Minako Adachi & Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "TheRealReliable"
@@ -78763,7 +78756,7 @@
     "uuid": "fd14ee87-d52a-4187-ae82-3318059ae02b",
     "hash": "0f0ba58a27d328cbdc329c95f470a8a9",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of SeasonsAges/Mooshs Flute.mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Moosh's Flute.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -78774,10 +78767,11 @@
     "usesFormmask": false
   },
   {
-    "game": "The Legend of Zelda Oracle of SeasonsAges",
-    "song": "Dimitris Flute",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Dimitri's Flute",
     "composers": [
-      "Minako Adachi & Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "TheRealReliable"
@@ -78785,7 +78779,7 @@
     "uuid": "0f830393-460a-4002-997d-886685824d5f",
     "hash": "24bd1786e93fe0879d9eeb21a86e3053",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Oracle of SeasonsAges/Dimitris Flute.mmrs",
+    "file": "The Legend of Zelda Oracle of Ages/Dimitri's Flute.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -83090,14 +83084,14 @@
   },
   {
     "game": "The Legend of Zelda: Skyward Sword",
-    "song": "ss-f-gondo_OKAY",
+    "song": "Gondo - Okay!",
     "converters": [
       "fish_waffle64"
     ],
     "uuid": "1841fda0-960e-422b-a5b2-c01809da0bb6",
     "hash": "2630f227870638b99db22aa1e510822e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Skyward Sword/ss-f-gondo_OKAY.mmrs",
+    "file": "The Legend of Zelda Skyward Sword/Gondo - Okay!.mmrs",
     "preview": "",
     "type": "fanfare",
     "categories": [
@@ -85270,15 +85264,18 @@
   },
   {
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Kokiri Forest (fixed)",
+    "song": "Kokiri Forest",
     "converters": [
       "Philos-Kun"
+    ],
+    "composers": [
+      "Koji Kondo"
     ],
     "uuid": "de145f5f-d5a4-4953-9008-6ad916277c85",
     "hash": "cc53399e243b560f1e8a5299cbc0a346",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest (fixed).mmrs",
-    "preview": "",
+    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rdaJ5pJmNfo",
     "type": "bgm",
     "categories": [
       "0",
