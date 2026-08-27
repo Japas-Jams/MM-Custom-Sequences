@@ -5543,10 +5543,7 @@
     "game": "The Legend of Zelda: The Wind Waker",
     "song": "Molgera",
     "composers": [
-      "Kenta Nagata",
-      "Hajime Wakai",
-      "Toru Minegishi",
-      "Koji Kondo"
+      "Hajime Wakai"
     ],
     "converters": [
       "Fish"
@@ -67661,28 +67658,6 @@
     "lufs": "-16.93"
   },
   {
-    "game": "Legend of Zelda Master of Time",
-    "song": "Lozan Jail",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "6ada459e-ea51-4f80-94ab-3feb991d8e9c",
-    "hash": "37e1a1ec4b8c346b9f2ec7bc2fbfaeb7",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Zelda Master of Time/Lozan Jail.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Legend of Zelda Master of Time/Lozan Jail.mp3",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "3",
-      "6"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-17.00"
-  },
-  {
     "game": "Super Mario 64",
     "song": "Dire, Dire Docks [2]",
     "composers": [
@@ -67708,27 +67683,6 @@
     "usesCustomSamples": true,
     "usesFormmask": false,
     "lufs": "-19.81"
-  },
-  {
-    "game": "Legend of Zelda Master of Time",
-    "song": "Sewers",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "cf1eecd5-ff46-45e5-af3b-39d00d0acb8e",
-    "hash": "40b35fa9cc53be7d524af229976c5127",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Zelda Master of Time/Sewers.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Legend of Zelda Master of Time/Sewers.mp3",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-18.65"
   },
   {
     "game": "The Legend of Zelda: Oracle of Seasons",
@@ -67887,27 +67841,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-18.86"
-  },
-  {
-    "game": "Legend of Zelda Master of Time",
-    "song": "Overworld / Abello Lake",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "f73a6e68-e9cf-4420-8c54-b496a20e7114",
-    "hash": "791d42233ec13df7b5c8b6162ddabce7",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Zelda Master of Time/Overworld  Abello Lake.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Legend of Zelda Master of Time/Overworld  Abello Lake.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "16",
-      "1"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
   },
   {
     "game": "Dragon Quest V: Hand of the Heavenly Bride",
@@ -69677,27 +69610,6 @@
     "lufs": "-15.02"
   },
   {
-    "game": "Master of Time (Demo)",
-    "song": "Unknown, but sounds like a Dungeon Theme",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "bfc7f45b-30f3-4ba0-9125-d211d54942f1",
-    "hash": "bb237ed3d363cf46df0d48cf7ea86d9b",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time (Demo)/Unknown, but sounds like a Dungeon Theme.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time (Demo)/Unknown, but sounds like a Dungeon Theme.mp3",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-18.93"
-  },
-  {
     "game": "Ruby Destiny Life of Guardians",
     "song": "VS Rival (Version 2)",
     "converters": [
@@ -69718,136 +69630,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-17.26"
-  },
-  {
-    "game": "Master of Time (Demo)",
-    "song": "Unknown, might've been for the Ice Cavern",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "5dc77303-8827-4142-80e0-2ba83ffa2f7d",
-    "hash": "ff1a80e648dc0492029dd082880ddc3c",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time (Demo)/Unknown, might've been for the Ice Cavern.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time (Demo)/Unknown, might've been for the Ice Cavern.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-14.55"
-  },
-  {
-    "game": "Master of Time",
-    "song": "Unknown, another Ice Cavern candidate, might've been a modified version of 1.",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "b5dcb6cb-d7d3-4e8d-ac20-07c069c2b679",
-    "hash": "23e6d7d5918f8a97ae23b335296705f6",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time/Unknown, another Ice Cavern candidate, might've been a modified version of 1..mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time/Unknown, another Ice Cavern candidate, might've been a modified version of 1..mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-14.55"
-  },
-  {
-    "game": "Master of Time",
-    "song": "Unknown, might've been for Caverns or even Indoors?",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "b91c3b08-2ef6-4a3c-9f23-198d48671962",
-    "hash": "7d4ce74a6ec4db49f469647b1a4e6d29",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time/Unknown, might've been for Caverns or even Indoors.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time/Unknown, might've been for Caverns or even Indoors.mp3",
-    "type": "bgm",
-    "categories": [
-      "2",
-      "3"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
-    "game": "Master of Time (Demo)",
-    "song": "Unused Track",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "0973ed7b-fb3c-4be7-ab6f-a092a06969ac",
-    "hash": "0f41d2a04a8bd69cbb658dd9378b0689",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time (Demo)/Unused Track.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time (Demo)/Unused Track.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-20.33"
-  },
-  {
-    "game": "Master of Time (Demo)",
-    "song": "Unused Ice Cavern 2",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "b9aa2dc6-cf9b-4f97-8862-6bcdf9ae2199",
-    "hash": "a4d7ce67fb27fe77086853d1501a2379",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time (Demo)/Unused Ice Cavern 2.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time (Demo)/Unused Ice Cavern 2.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-24.51"
-  },
-  {
-    "game": "Master of Time (Demo)",
-    "song": "Unused Track 2",
-    "converters": [
-      "Asra"
-    ],
-    "uuid": "e18fa704-b3eb-43b9-8d5a-d607f1f1494a",
-    "hash": "ee038ee893e4bdc825bbe37299c73141",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Master of Time (Demo)/Unused Track 2.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Master of Time (Demo)/Unused Track 2.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-26.84"
   },
   {
     "game": "Deltarune",
@@ -71632,16 +71414,18 @@
     "lufs": "-14.80"
   },
   {
-    "game": "Legend of Zelda Wind Waker",
-    "song": "Molgera Fight",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Molgera [2]",
     "converters": [
       "Cmellz"
+    ],
+    "composers": [
+      "Hajime Wakai"
     ],
     "uuid": "7c806e7f-48dc-4803-b306-284237087fb6",
     "hash": "9be6b780c39a818bb5c57ab495f8d38a",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend of Zelda Wind Waker/Molgera Fight.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Legend of Zelda Wind Waker/Molgera Fight.mp3",
+    "file": "The Legend of Zelda The Wind Waker/Molgera [2].mmrs",
     "type": "bgm",
     "categories": [
       "7"
@@ -76198,28 +75982,6 @@
     "lufs": "-20.88"
   },
   {
-    "game": "The Legend of Zelda: Master of Time",
-    "song": "San Juanito / Path of Gods",
-    "converters": [
-      "doncamilo"
-    ],
-    "uuid": "4195ed0a-f5f1-4a25-8d0d-114f2157c6e7",
-    "hash": "7803bd02b8dd78bdb8f92125cc405c8a",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Master of Time/San Juanito  Path of Gods.mmrs",
-    "preview": "https://archive.org/download/japas-jams/The Legend of Zelda Master of Time/San Juanito  Path of Gods.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "4",
-      "5"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "game": "Super Mario Bros. Wonder",
     "song": "Piranha Plants On Parade [2]",
     "converters": [
@@ -76245,32 +76007,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-21.46"
-  },
-  {
-    "game": "The Legend of Zelda: Master of Time",
-    "song": "Katyusha / Minigame, Bombchu Bowling",
-    "composers": [
-      "Matvey Blanter(?)"
-    ],
-    "converters": [
-      "doncamilo"
-    ],
-    "uuid": "e13b4fb3-febd-4652-b20d-d834557aac0f",
-    "hash": "5bf23a267fe2bc735f31b53048954577",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Master of Time/Katyusha  Minigame, Bombchu Bowling.mmrs",
-    "preview": "https://archive.org/download/japas-jams/The Legend of Zelda Master of Time/Katyusha  Minigame, Bombchu Bowling.mp3",
-    "type": "bgm",
-    "categories": [
-      "1",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
   },
   {
     "game": "Super Paper Mario",
@@ -78235,32 +77971,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "lufs": "-14.00"
-  },
-  {
-    "game": "The Legend of Zelda: Master of Time",
-    "song": "Arbetlose Marsch / Abello Castle",
-    "composers": [
-      "Mordechai Gebirtig"
-    ],
-    "converters": [
-      "doncamilo"
-    ],
-    "uuid": "ad7dc4f9-525c-454a-b2ed-7f9b708329d5",
-    "hash": "e4c0cd018bbee639cf789230fc082e57",
-    "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "The Legend of Zelda Master of Time/Arbetlose Marsch  Abello Castle.mmrs",
-    "preview": "https://archive.org/download/japas-jams/The Legend of Zelda Master of Time/Arbetlose Marsch  Abello Castle.mp3",
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "6"
-    ],
-    "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false
   },
   {
     "game": "Pokémon Black 2 & White 2",
@@ -83725,10 +83435,11 @@
     "lufs": "-16.10"
   },
   {
-    "game": "Legend Of Zelda  Twilight Princess",
-    "song": "Malo Mart",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Malo Mart [2]",
     "composers": [
-      "Toru Minegishi and Asuka Ohta"
+      "Toru Minegishi",
+      "Asuka Ohta"
     ],
     "converters": [
       "TheRealReliable"
@@ -83736,8 +83447,7 @@
     "uuid": "2955dede-4c2c-4e19-9732-27fac8ba254e",
     "hash": "e96003568e63ae69f6eb6cb56d2900f1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Legend Of Zelda  Twilight Princess/Malo Mart.mmrs",
-    "preview": "https://archive.org/download/japas-jams/Legend Of Zelda  Twilight Princess/Malo Mart.mp3",
+    "file": "The Legend of Zelda Twilight Princess/Malo Mart [2].mmrs",
     "type": "bgm",
     "categories": [
       "115",
