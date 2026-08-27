@@ -28725,7 +28725,7 @@
     "uuid": "68f90bef-527e-48c0-b8f1-f6118fb47f56",
     "creationDate": "2026-04-02T01:31:18.573Z",
     "game": "Golden Sun: The Lost Age",
-    "song": "Battle (Jenna) Variant A",
+    "song": "Battle (Jenna)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -28965,7 +28965,7 @@
     "uuid": "0db7bec3-33ce-47fd-b349-b86104bda1a0",
     "creationDate": "2026-04-02T01:58:06.507Z",
     "game": "The Legend of Zelda: Majora's Mask",
-    "song": "Deku Dance (Deku Palace Techno Remix, Variant A)",
+    "song": "Deku Dance (Deku Palace Techno Remix)",
     "composers": [
       "Hylian Hero"
     ],
@@ -39654,7 +39654,7 @@
     "uuid": "a5291a38-231e-4e49-ae8a-7f19a1271b8b",
     "creationDate": "2026-04-18T17:44:45.167Z",
     "game": "Golden Sun: The Lost Age",
-    "song": "Battle (Jenna) Variant B",
+    "song": "Battle (Jenna) [2]",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -39666,7 +39666,7 @@
       "4",
       "5"
     ],
-    "file": "Golden Sun The Lost Age/Jenna Battle.mmrs",
+    "file": "Golden Sun The Lost Age/Battle (Jenna) [2].mmrs",
     "preview": "https://archive.org/download/japas-jams/Golden Sun The Lost Age/Jenna Battle.ogg",
     "lastUpdateDate": "2026-04-18T18:35:22.256Z",
     "usesCustomBank": false,
@@ -43364,7 +43364,7 @@
     "uuid": "2ab7f2bf-ab6d-41d2-8323-e9e019175595",
     "creationDate": "2026-04-19T04:19:15.738Z",
     "game": "The Legend of Zelda: Majora's Mask",
-    "song": "Deku Dance (Deku Palace Techno Remix, Variant B)",
+    "song": "Deku Dance (Deku Palace Techno Remix) [2]",
     "composers": [
       "Hylian Hero"
     ],
@@ -43378,7 +43378,7 @@
       "3",
       "4"
     ],
-    "file": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).mmrs",
+    "file": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix) [2].mmrs",
     "preview": "https://archive.org/download/japas-jams/The Legend of Zelda Majora's Mask/Deku Dance (Remix).ogg",
     "lastUpdateDate": "2026-04-19T04:39:18.595Z",
     "usesCustomBank": false,
@@ -62097,7 +62097,7 @@
     "converters": [
       "Asra"
     ],
-    "notes": "Same as Variant B, but with pitch bends.",
+    "notes": "Same as v2, but with pitch bends.",
     "type": "bgm",
     "categories": [
       "7"
