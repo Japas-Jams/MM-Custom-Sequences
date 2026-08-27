@@ -2386,7 +2386,7 @@
     "uuid": "785dd695-0541-4b1e-a2db-9dde774bc60b",
     "creationDate": "2026-03-08T04:33:42.572Z",
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
-    "song": "Faraway Voyage Of 380,000 Kilometers",
+    "song": "Faraway Voyage of 380,000 Kilometers",
     "composers": [
       "ZUN"
     ],
@@ -2403,7 +2403,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou 15 Legacy of Lunatic Kingdom/Faraway Voyage Of 380,000 Kilometers.mmrs",
+    "file": "Touhou 15 Legacy of Lunatic Kingdom/Faraway Voyage of 380,000 Kilometers.mmrs",
     "preview": "https://www.youtube.com/watch?v=67yHCG3kaf8",
     "lufs": "-15.80",
     "hash": "3fb7f34b8f2371ddd309a9241551aaeb"
@@ -84575,7 +84575,7 @@
     "uuid": "2ae1a2b6-6801-437b-a946-a08ac286c412",
     "hash": "303624f29451a3c2e1da6bbd03b150f1",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Kirby & the Amazing Mirror/Ending.mmrs",
+    "file": "Kirby & The Amazing Mirror/Ending.mmrs",
     "preview": "",
     "type": "bgm",
     "categories": [
