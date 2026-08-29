@@ -89022,5 +89022,26 @@
     "file": "Yakuza 0/Pledge of Demon.mmrs",
     "preview": "Yakuza 0/Pledge of Demon.mp3"
   },
+  {
+    "uuid": "b96c9e46-a497-4fb4-98e7-cd5fa1c69e2c",
+    "creationDate": "2026-08-29T20:50:31.907Z",
+    "game": "Yakuza",
+    "song": "For Whose Sake",
+    "composers": [
+      "Sachio Ogawa"
+    ],
+    "converters": [
+      "RetroNika"
+    ],
+    "lufs": "-14.85",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Yakuza/For Whose Sake.mmrs",
+    "preview": "Yakuza/For Whose Sake.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
