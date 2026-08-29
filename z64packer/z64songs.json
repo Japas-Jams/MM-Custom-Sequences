@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -88949,5 +88949,33 @@
     "preview": "https://archive.org/download/japas-jams/Touhou 6 The Embodiment of Scarlet Devil/Locked Girl ~ The Girl's Sealed Room [2].mp3",
     "hash": "5826b86f6a3e6e00b2112c661a2112e3",
     "lufs": "-10.66"
-  }
+  },
+  {
+    "uuid": "08ff6794-0ab9-43ca-b969-4f4d3bfcd90b",
+    "creationDate": "2026-08-29T20:43:58.299Z",
+    "game": "Yakuza 0",
+    "song": "Baka Mitai (Jazz)",
+    "composers": [
+      "Mitsuharu Fukuyama",
+      "Ryosuke Horii"
+    ],
+    "converters": [
+      "RetroNika"
+    ],
+    "lufs": "-20.19",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "16",
+      "12A"
+    ],
+    "file": "Yakuza 0/Baka Mitai (Jazz).mmrs",
+    "preview": "Yakuza 0/Baka Mitai (Jazz).mp3"
+  },
+  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
