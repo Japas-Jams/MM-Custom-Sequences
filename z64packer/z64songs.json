@@ -89066,5 +89066,28 @@
     "file": "Yakuza 4/Pure Love in Kamurocho.mmrs",
     "preview": "Yakuza 4/Pure Love in Kamurocho.mp3"
   },
+  {
+    "uuid": "f9ad93e1-8f6b-4fd1-886c-a9ad1a15a1ff",
+    "creationDate": "2026-08-29T20:59:08.702Z",
+    "game": "Yakuza 5",
+    "song": "Baka Mitai",
+    "composers": [
+      "Mitsuharu Fukuyama",
+      "Ryosuke Horii"
+    ],
+    "converters": [
+      "RetroNika"
+    ],
+    "lufs": "-20.65",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16",
+      "12A"
+    ],
+    "file": "Yakuza 5/Baka Mitai.mmrs",
+    "preview": "Yakuza 5/Baka Mitai.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
