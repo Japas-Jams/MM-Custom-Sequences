@@ -89003,5 +89003,24 @@
     "file": "Yakuza 0/Friday Night.mmrs",
     "preview": "Yakuza 0/Friday Night.mp3"
   },
+  {
+    "uuid": "11adda0e-f204-46a9-8e39-01ac63299286",
+    "creationDate": "2026-08-29T20:49:01.445Z",
+    "game": "Yakuza 0",
+    "song": "Pledge of Demon",
+    "composers": [
+      "Hidenori Shoji"
+    ],
+    "converters": [
+      "RetroNika"
+    ],
+    "lufs": "-15.51",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Yakuza 0/Pledge of Demon.mmrs",
+    "preview": "Yakuza 0/Pledge of Demon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
