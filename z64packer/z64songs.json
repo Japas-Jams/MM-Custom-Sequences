@@ -88977,5 +88977,31 @@
     "file": "Yakuza 0/Baka Mitai (Jazz).mmrs",
     "preview": "Yakuza 0/Baka Mitai (Jazz).mp3"
   },
+  {
+    "uuid": "a3c63563-09d3-4ed1-9012-90e64cf77634",
+    "creationDate": "2026-08-29T20:47:07.270Z",
+    "game": "Yakuza 0",
+    "song": "Friday Night",
+    "composers": [
+      "Kensuke Inage",
+      "Yoshihiro Arai"
+    ],
+    "converters": [
+      "RetroNika"
+    ],
+    "lufs": "-18.13",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6",
+      "16",
+      "12A"
+    ],
+    "file": "Yakuza 0/Friday Night.mmrs",
+    "preview": "Yakuza 0/Friday Night.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
