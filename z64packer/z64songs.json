@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -87956,7 +87956,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "lufs": "-27.84",
-    "lastUpdateDate": "2026-09-03T18:21:09.377Z"
+    "lastUpdateDate": "2026-09-03T18:21:09.377Z",
+    "usesFormmask": false
   },
   {
     "game": "New York Times Crossword",
@@ -88838,9 +88839,11 @@
     "usesCustomBank": true,
     "file": "Mario & Luigi Partners in Time/Crisis of the Red and Green!.mmrs",
     "preview": "Mario & Luigi Partners in Time/Crisis of the Red and Green!.mp3",
-    "hash": "f1b0a52597d4120c192adbbb7f33894a",
+    "hash": "9c83666439687642983aaca2fb7704d4",
     "lufs": "-15.57",
-    "lastUpdateDate": "2026-09-03T18:17:13.810Z"
+    "lastUpdateDate": "2026-09-03T18:17:13.810Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de835418-0884-4f02-95bb-3cd39b262f64",
