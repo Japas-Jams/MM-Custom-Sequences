@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -87934,7 +87934,7 @@
     "lufs": "-17.02"
   },
   {
-    "game": "Family Guy",
+    "game": "Memes",
     "song": "I'm Not Taking My Sneakers Off",
     "composers": [
       "Seth MacFarlane?"
@@ -87945,7 +87945,7 @@
     "uuid": "078c09c4-7417-4b23-a7ea-ac0d34fc6547",
     "hash": "a52c61d11e62dbe057e866992f8cc56b",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Family Guy/I'm Not Taking My Sneakers Off.mmrs",
+    "file": "Memes/I'm Not Taking My Sneakers Off.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Family Guy/I'm Not Taking My Sneakers Off.mp3",
     "type": "fanfare",
     "categories": [
@@ -87955,8 +87955,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
-    "lufs": "-27.84"
+    "lufs": "-27.84",
+    "lastUpdateDate": "2026-09-03T18:21:09.377Z"
   },
   {
     "game": "New York Times Crossword",
@@ -88833,15 +88833,14 @@
       "4",
       "5",
       "7",
-      "11A"
+      "157"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
+    "usesCustomBank": true,
     "file": "Mario & Luigi Partners in Time/Crisis of the Red and Green!.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario & Luigi Partners in Time/Crisis of the Red and Green!.mp3",
+    "preview": "Mario & Luigi Partners in Time/Crisis of the Red and Green!.mp3",
     "hash": "f1b0a52597d4120c192adbbb7f33894a",
-    "lufs": "-16.06"
+    "lufs": "-15.57",
+    "lastUpdateDate": "2026-09-03T18:17:13.810Z"
   },
   {
     "uuid": "de835418-0884-4f02-95bb-3cd39b262f64",
