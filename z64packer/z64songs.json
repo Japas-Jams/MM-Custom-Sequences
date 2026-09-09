@@ -17893,7 +17893,7 @@
     "uuid": "1c09fd19-bcba-44d1-9fce-c2ea7a7419ef",
     "creationDate": "2026-03-23T02:56:13.122Z",
     "game": "Phoenix Wright: Ace Attorney - Justice for All",
-    "song": "Psyche-Lock",
+    "song": "Psyche-Locks",
     "composers": [
       "Akemi Kimura"
     ],
@@ -17902,23 +17902,22 @@
     ],
     "type": "bgm",
     "categories": [
-      "2",
       "3",
+      "4",
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Phoenix Wright Ace Attorney/Justice for All - Psyche-Lock.mp3",
-    "lufs": "-20.41",
-    "hash": "4efa12bab34f2b619e0f87debb81ed81"
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Locks.mmrs",
+    "preview": "https://archive.org/download/ace-attorney-j-4-all-psyche-locks/Ace%20Attorney%20J%204%20All%20-%20Psyche-Locks.mp3",
+    "lufs": "-17.83",
+    "hash": "4efa12bab34f2b619e0f87debb81ed81",
+    "lastUpdateDate": "2026-09-02T00:17:36.108Z"
   },
   {
     "uuid": "2fc671d4-7450-42e4-a33f-e15299d79532",
     "creationDate": "2026-03-23T02:57:20.475Z",
     "game": "Phoenix Wright: Ace Attorney - Justice for All",
-    "song": "Questioning ~ Allegro 2002",
+    "song": "Cross-Examination ~ Allegro 2002",
     "composers": [
       "Akemi Kimura"
     ],
@@ -17931,12 +17930,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Phoenix Wright Ace Attorney - Justice for All/Questioning ~ Allegro 2002.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Phoenix Wright Ace Attorney/Justice for All - Questioning ~ Allegro 2002.mp3",
-    "lufs": "-16.50",
-    "hash": "a1544bbccd541615d46e701b509af6c8"
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Cross-Examination ~ Allegro 2002.mmrs",
+    "preview": "https://archive.org/download/ace-attorney-j-4-all-cross-examination-allegro-2002/Ace%20Attorney%20J%204%20All%20-%20Cross-Examination%20~%20Allegro%202002.mp3",
+    "lufs": "-16.42",
+    "hash": "a1544bbccd541615d46e701b509af6c8",
+    "lastUpdateDate": "2026-09-01T23:22:10.807Z"
   },
   {
     "uuid": "e30f0105-248a-4d26-9cb1-e573686a89a7",
@@ -18245,13 +18243,12 @@
       "1",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
+    "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mp3",
-    "lufs": "-17.12",
-    "hash": "3a5b0362c6b61958aaaffa4ff0985104"
+    "lufs": "-13.70",
+    "hash": "3a5b0362c6b61958aaaffa4ff0985104",
+    "lastUpdateDate": "2026-09-01T22:52:02.702Z"
   },
   {
     "uuid": "cc2de4b8-79d7-4f9e-a401-091ce0f684a2",
@@ -89321,6 +89318,286 @@
     "file": "Super Mario World/Athleeeeeeeeetic.mmrs",
     "preview": "Super Mario World/Athleeeeeeeeetic.mp3",
     "hash": "587742de597dc386263a1af91b47d3fd"
+  },
+  {
+    "uuid": "6075d9cd-a61f-4479-be50-013d74893667",
+    "creationDate": "2026-09-02T00:25:35.106Z",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "song": "Athena Cykes ~ Courtroom Révolutionnaire",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.43",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mp3"
+  },
+  {
+    "uuid": "48267c54-5ac8-4bcc-846d-3cca07796411",
+    "creationDate": "2026-09-02T00:29:21.011Z",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
+    "song": "Pursuit - Completely Corner the Culprit",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.46",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mp3"
+  },
+  {
+    "uuid": "aabaaf21-e99a-4361-a175-f23c0f517693",
+    "creationDate": "2026-09-02T00:32:22.203Z",
+    "game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "song": "Confrontation - Presto 2011",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-13.97",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mmrs",
+    "preview": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mp3"
+  },
+  {
+    "uuid": "8f1fd2c0-9200-44fb-954d-df07bca08766",
+    "creationDate": "2026-09-02T00:35:39.634Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Can't Sleep on a Night Like This",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.69",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mp3"
+  },
+  {
+    "uuid": "e35aab7c-37a5-4865-a599-764e74c4a030",
+    "creationDate": "2026-09-02T00:39:37.229Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Further Investigation 2002",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.36",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "6"
+    ],
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Further Investigation 2002.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Further Investigation 2002.mp3"
+  },
+  {
+    "uuid": "a4045f4c-f1cc-4f8c-932c-542dd005c132",
+    "creationDate": "2026-09-02T00:42:42.263Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Maya Fey - Turnabout Sisters 2002",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.76",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mp3"
+  },
+  {
+    "uuid": "d5ce705c-b24d-4f59-af3d-472007373de1",
+    "creationDate": "2026-09-02T00:46:23.654Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Elise Deauxnim ~ A Gentle Melody",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.12",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mp3"
+  },
+  {
+    "uuid": "1b212498-edd3-4ff3-846a-3367d731ae33",
+    "creationDate": "2026-09-02T00:49:44.169Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Hazakura Temple",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.46",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mp3"
+  },
+  {
+    "uuid": "46ad07b2-977a-4cd0-8670-e92c4a2783b1",
+    "creationDate": "2026-09-02T00:52:49.264Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Initial Investigation 2004",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.31",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "6"
+    ],
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Initial Investigation 2004.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Initial Investigation 2004.mp3"
+  },
+  {
+    "uuid": "2b5ddfe2-5631-4c98-a0d7-719cc52ee3c8",
+    "creationDate": "2026-09-02T00:55:46.050Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Larry Butz ~ When Something Smells, It's Usually Me",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-12.88",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Larry Butz ~ When Something Smells, It's Usually Me.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Larry Butz ~ When Something Smells, It's Usually Me.mp3"
+  },
+  {
+    "uuid": "cd754524-5cc0-4fb0-9f73-19222f361749",
+    "creationDate": "2026-09-02T00:58:01.462Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Mask☆DeMasque ~ Please Listen to Meeeee!",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-13.77",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mp3"
+  },
+  {
+    "uuid": "d2751280-652b-4ba0-bbc3-e7c0142ce30f",
+    "creationDate": "2026-09-02T01:01:16.899Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Pursuit ~ Catch the Culprit",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.64",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mp3"
+  },
+  {
+    "uuid": "c9ca817f-b449-4fab-90e7-b7a65bc71189",
+    "creationDate": "2026-09-02T01:02:51.551Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Victory! ~ An Eternal Win",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.60",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
