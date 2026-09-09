@@ -17910,8 +17910,10 @@
     "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Locks.mmrs",
     "preview": "https://archive.org/download/ace-attorney-j-4-all-psyche-locks/Ace%20Attorney%20J%204%20All%20-%20Psyche-Locks.mp3",
     "lufs": "-17.83",
-    "hash": "4efa12bab34f2b619e0f87debb81ed81",
-    "lastUpdateDate": "2026-09-02T00:17:36.108Z"
+    "hash": "c5a87325043ed35983bbe529aca05976",
+    "lastUpdateDate": "2026-09-02T00:17:36.108Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2fc671d4-7450-42e4-a33f-e15299d79532",
@@ -17933,8 +17935,10 @@
     "file": "Phoenix Wright Ace Attorney - Justice for All/Cross-Examination ~ Allegro 2002.mmrs",
     "preview": "https://archive.org/download/ace-attorney-j-4-all-cross-examination-allegro-2002/Ace%20Attorney%20J%204%20All%20-%20Cross-Examination%20~%20Allegro%202002.mp3",
     "lufs": "-16.42",
-    "hash": "a1544bbccd541615d46e701b509af6c8",
-    "lastUpdateDate": "2026-09-01T23:22:10.807Z"
+    "hash": "370667fb52bf42c7acf7b5fdd2bd4c9e",
+    "lastUpdateDate": "2026-09-01T23:22:10.807Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e30f0105-248a-4d26-9cb1-e573686a89a7",
@@ -18247,8 +18251,10 @@
     "file": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mp3",
     "lufs": "-13.70",
-    "hash": "3a5b0362c6b61958aaaffa4ff0985104",
-    "lastUpdateDate": "2026-09-01T22:52:02.702Z"
+    "hash": "b6addbfe7aa8e014bcbacfd65d620969",
+    "lastUpdateDate": "2026-09-01T22:52:02.702Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cc2de4b8-79d7-4f9e-a401-091ce0f684a2",
@@ -89339,7 +89345,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "88dc645a05438176e0f95ec1cc28e421"
   },
   {
     "uuid": "48267c54-5ac8-4bcc-846d-3cca07796411",
@@ -89361,7 +89370,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "87bb5f1697493bae1a00529a69d5211d"
   },
   {
     "uuid": "aabaaf21-e99a-4361-a175-f23c0f517693",
@@ -89383,7 +89395,10 @@
     ],
     "usesCustomBank": true,
     "file": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mmrs",
-    "preview": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mp3"
+    "preview": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "b606608cb2a7e675efc78e9e9dbe03b3"
   },
   {
     "uuid": "8f1fd2c0-9200-44fb-954d-df07bca08766",
@@ -89403,7 +89418,11 @@
       "10"
     ],
     "file": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "f6055ba549bd0c6448f00ad66724cdb3"
   },
   {
     "uuid": "e35aab7c-37a5-4865-a599-764e74c4a030",
@@ -89424,7 +89443,11 @@
       "6"
     ],
     "file": "Phoenix Wright Ace Attorney - Justice for All/Further Investigation 2002.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Justice for All/Further Investigation 2002.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Further Investigation 2002.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "4da8089c4977058404dd3c900a9ae600"
   },
   {
     "uuid": "a4045f4c-f1cc-4f8c-932c-542dd005c132",
@@ -89446,7 +89469,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "231ac005261420ff7de5f4d76674e375"
   },
   {
     "uuid": "d5ce705c-b24d-4f59-af3d-472007373de1",
@@ -89468,7 +89494,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "b35cd1e98cd56b0854938201da1a88a7"
   },
   {
     "uuid": "1b212498-edd3-4ff3-846a-3367d731ae33",
@@ -89488,7 +89517,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "31fa1dcea0f67b4965d453b7afb34347"
   },
   {
     "uuid": "46ad07b2-977a-4cd0-8670-e92c4a2783b1",
@@ -89509,7 +89541,11 @@
       "6"
     ],
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Initial Investigation 2004.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Initial Investigation 2004.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Initial Investigation 2004.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "d1da058de88741751b431f9f430f8b02"
   },
   {
     "uuid": "2b5ddfe2-5631-4c98-a0d7-719cc52ee3c8",
@@ -89531,7 +89567,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Larry Butz ~ When Something Smells, It's Usually Me.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Larry Butz ~ When Something Smells, It's Usually Me.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Larry Butz ~ When Something Smells, It's Usually Me.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "0365903187a4ca05b86ed6d500dde348"
   },
   {
     "uuid": "cd754524-5cc0-4fb0-9f73-19222f361749",
@@ -89552,7 +89591,11 @@
       "6"
     ],
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "5bf1d4b3701c9bc0bef35d3dfd4db482"
   },
   {
     "uuid": "d2751280-652b-4ba0-bbc3-e7c0142ce30f",
@@ -89575,7 +89618,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "52707925b6541226f1c400a198be023c"
   },
   {
     "uuid": "c9ca817f-b449-4fab-90e7-b7a65bc71189",
@@ -89597,7 +89643,10 @@
     ],
     "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mmrs",
-    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mp3"
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "hash": "131dc5dbb9ec7260793387758ee26560"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
