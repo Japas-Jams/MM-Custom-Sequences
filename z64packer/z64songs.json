@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -89317,7 +89317,7 @@
   {
     "uuid": "6075d9cd-a61f-4479-be50-013d74893667",
     "creationDate": "2026-09-02T00:25:35.106Z",
-    "game": "Ace Attorney: Dual Destinies",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
     "song": "Athena Cykes ~ Courtroom Révolutionnaire",
     "composers": [
       "Noriyuki Iwadare"
@@ -89333,13 +89333,13 @@
       "16"
     ],
     "usesCustomBank": true,
-    "file": "Ace Attorney Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mmrs",
-    "preview": "Ace Attorney Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mp3"
+    "file": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mp3"
   },
   {
     "uuid": "48267c54-5ac8-4bcc-846d-3cca07796411",
     "creationDate": "2026-09-02T00:29:21.011Z",
-    "game": "Ace Attorney: Dual Destinies",
+    "game": "Phoenix Wright: Ace Attorney - Dual Destinies",
     "song": "Pursuit - Completely Corner the Culprit",
     "composers": [
       "Noriyuki Iwadare"
@@ -89355,8 +89355,8 @@
       "7"
     ],
     "usesCustomBank": true,
-    "file": "Ace Attorney Dual Destinies/Pursuit - Completely Corner the Culprit.mmrs",
-    "preview": "Ace Attorney Dual Destinies/Pursuit - Completely Corner the Culprit.mp3"
+    "file": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Dual Destinies/Pursuit - Completely Corner the Culprit.mp3"
   },
   {
     "uuid": "aabaaf21-e99a-4361-a175-f23c0f517693",
