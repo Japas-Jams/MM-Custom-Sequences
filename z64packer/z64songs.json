@@ -19180,7 +19180,7 @@
     "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/Korok Forest.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/Korok Forest.mp3",
-    "hash": "e98bfaf8a350fb2e81e9c13698af5834"
+    "hash": "d53ef245ba5f7983bd417f8ce6ebb664"
   },
   {
     "uuid": "57fe12ce-e6d9-49b9-8f7b-b39831c18ed6",
@@ -84723,7 +84723,7 @@
       "BigBomba88"
     ],
     "uuid": "1fe635ac-4869-4fd4-ae56-87fce374632c",
-    "hash": "0b05b5920c68dc9968f4ea42bcf36b56",
+    "hash": "6f5c4d7119f9c03fc39004a0d2503fb8",
     "creationDate": "2026-07-28T03:33:56.104Z",
     "lastUpdateDate": "2026-09-09T02:18:39.917Z",
     "file": "Deltarune/Dig! Dig! To The Center of the Earth!.mmrs",
@@ -89647,6 +89647,5232 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "hash": "131dc5dbb9ec7260793387758ee26560"
+  },
+  {
+    "uuid": "06a0f714-92d6-4cbe-8291-c6138ccaec31",
+    "creationDate": "2026-09-11T03:34:55.609Z",
+    "game": "3D Pinball: Space Cadet",
+    "song": "Main Theme",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "3D Pinball Space Cadet/Main Theme.mmrs",
+    "preview": "",
+    "hash": "b279c9cd61ef1899631984523c9f7a1c"
+  },
+  {
+    "uuid": "e158bcca-ea71-4961-8896-f141d46730cb",
+    "creationDate": "2026-09-11T03:34:56.642Z",
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "song": "Reminiscent Hill",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Atelier Ayesha The Alchemist of Dusk/Reminiscent Hill.mmrs",
+    "preview": "",
+    "hash": "b707c21f80db8d431f79d8e60eb4400f"
+  },
+  {
+    "uuid": "a9023e1a-3664-414b-8746-22f0f42a2b00",
+    "creationDate": "2026-09-11T03:34:56.658Z",
+    "game": "Balatro",
+    "song": "Main Theme [2]",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Balatro/Main Theme [2].mmrs",
+    "preview": "",
+    "hash": "72ac2b1e486558404555acc78a9e30e2"
+  },
+  {
+    "uuid": "82ec954d-f8b3-461d-a825-eafa9c170596",
+    "creationDate": "2026-09-11T03:34:57.011Z",
+    "game": "Banjo-Kazooie",
+    "song": "Mad Monster Mansion (Boss Remix)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Kazooie/Mad Monster Mansion (Boss Remix).mmrs",
+    "preview": "",
+    "hash": "5ac6a110db74e9dc84984c833250674e"
+  },
+  {
+    "uuid": "cf380bd5-52bf-4a7c-b730-3f76fe26432f",
+    "creationDate": "2026-09-11T03:34:57.203Z",
+    "game": "Banjo-Tooie",
+    "song": "Glitter Gulch Mine (Factory Remix)",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Glitter Gulch Mine (Factory Remix).mmrs",
+    "preview": "",
+    "hash": "bea734a006bdff717ff55b1e54ac5ed9"
+  },
+  {
+    "uuid": "1f57dddc-bed4-4558-a104-1cae9adfe79d",
+    "creationDate": "2026-09-11T03:34:57.259Z",
+    "game": "Banjo-Tooie",
+    "song": "Here Comes Trouble [2]",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Here Comes Trouble [2].mmrs",
+    "preview": "",
+    "hash": "e1129ed3824ab27e7f4ec3276b4f7c32"
+  },
+  {
+    "uuid": "8dca2319-34a2-4c56-86a2-a339d68e592e",
+    "creationDate": "2026-09-11T03:34:57.398Z",
+    "game": "Banjo-Tooie",
+    "song": "Tower of Tragedy",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Banjo-Tooie/Tower of Tragedy.mmrs",
+    "preview": "",
+    "hash": "44165339af97c1c64aa74af538e46955"
+  },
+  {
+    "uuid": "f7d07d59-1972-47d6-b284-f46c1ba049ea",
+    "creationDate": "2026-09-11T03:34:59.281Z",
+    "game": "Castlevania: Circle of the Moon",
+    "song": "Fate to Despair",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Circle of the Moon/Fate to Despair.mmrs",
+    "preview": "",
+    "hash": "f1bf719a0b968fe54bf65fbec10906e5"
+  },
+  {
+    "uuid": "3b197124-f608-4041-a533-d3a72ece3a67",
+    "creationDate": "2026-09-11T03:34:59.387Z",
+    "game": "Castlevania II: Belmont's Revenge",
+    "song": "Praying Hands",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania II Belmont's Revenge/Praying Hands.mmrs",
+    "preview": "",
+    "hash": "a88f3d9ddc84952092c4a226e528d73e"
+  },
+  {
+    "uuid": "9bce55a3-5363-428a-ad16-20838b1c3a88",
+    "creationDate": "2026-09-11T03:34:59.853Z",
+    "game": "Castlevania: Rondo of Blood",
+    "song": "Divine Bloodlines",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Castlevania Rondo of Blood/Divine Bloodlines.mmrs",
+    "preview": "",
+    "hash": "11aecb214727f17625190dc19d05b978"
+  },
+  {
+    "uuid": "1df26f9e-cbe2-4f82-adb3-e1a2a2a2061d",
+    "creationDate": "2026-09-11T03:35:01.166Z",
+    "game": "Chrono Trigger",
+    "song": "Fanfare 1",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Fanfare 1.mmrs",
+    "preview": "",
+    "hash": "5a75866b28901c468c5d6b890d99bd10"
+  },
+  {
+    "uuid": "8dce2955-fd52-4729-86d4-d4fdad256153",
+    "creationDate": "2026-09-11T03:35:01.302Z",
+    "game": "Chrono Trigger",
+    "song": "Main Theme",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Main Theme.mmrs",
+    "preview": "",
+    "hash": "c58d589cbcc8051578e4a23f3ff5d88a"
+  },
+  {
+    "uuid": "a400249c-672f-4a55-98dd-cccff738326f",
+    "creationDate": "2026-09-11T03:35:01.377Z",
+    "game": "Chrono Trigger",
+    "song": "Ocean Palace [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Ocean Palace [2].mmrs",
+    "preview": "",
+    "hash": "83df9fd01a26383cc5477946e5d8eb5f"
+  },
+  {
+    "uuid": "ea3e24b9-0c75-4159-9854-e68a078d0c80",
+    "creationDate": "2026-09-11T03:35:01.523Z",
+    "game": "Chrono Trigger",
+    "song": "Secret of the Forest [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Chrono Trigger/Secret of the Forest [2].mmrs",
+    "preview": "",
+    "hash": "c73eb9003cb53d9dfad715bd5274d2b2"
+  },
+  {
+    "uuid": "2215e231-4bbb-44e5-8f4b-b93ff4887e3d",
+    "creationDate": "2026-09-11T03:35:01.947Z",
+    "game": "Crusader of Centy",
+    "song": "Rafflesia Training Grounds [3]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Crusader of Centy/Rafflesia Training Grounds [3].mmrs",
+    "preview": "",
+    "hash": "bdbe8ff4960375dcef67533fd3ea4cba"
+  },
+  {
+    "uuid": "ee63daec-46f3-4f24-a95c-f854c349e992",
+    "creationDate": "2026-09-11T03:35:02.276Z",
+    "game": "Dark Cloud 2",
+    "song": "Battle of the Future",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Dark Cloud 2/Battle of the Future.mmrs",
+    "preview": "",
+    "hash": "25a8d40121a25a3039260280685134a6"
+  },
+  {
+    "uuid": "cfe75aa6-2d48-4aee-b14a-ce3939023740",
+    "creationDate": "2026-09-11T03:35:04.036Z",
+    "game": "Doki Doki Literature Club!",
+    "song": "Okay, Everyone! (Monika) [2]",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Doki Doki Literature Club!/Okay, Everyone! (Monika) [2].mmrs",
+    "preview": "",
+    "hash": "0deec2e389f8187cf162eb2350f92c99"
+  },
+  {
+    "uuid": "578ea736-bf4f-479d-9a33-acfa33cb242f",
+    "creationDate": "2026-09-11T03:35:04.105Z",
+    "game": "Doki Doki Literature Club!",
+    "song": "Play With Me",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Doki Doki Literature Club!/Play With Me.mmrs",
+    "preview": "",
+    "hash": "e0987663fa7dff0febe1892a83fc1b56"
+  },
+  {
+    "uuid": "f65dee7d-5685-4419-9926-dfc45baaaa08",
+    "creationDate": "2026-09-11T03:35:05.208Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Boss Bossanova [2]",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Boss Bossanova [2].mmrs",
+    "preview": "",
+    "hash": "5a3a5f6ec7a5119b33deb42ea8c221a5"
+  },
+  {
+    "uuid": "eecfe679-77a4-4b18-92aa-da7231c7dd5a",
+    "creationDate": "2026-09-11T03:35:05.452Z",
+    "game": "Donkey Kong Country Returns",
+    "song": "Gear Getaway",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Donkey Kong Country Returns/Gear Getaway.mmrs",
+    "preview": "",
+    "hash": "66b97fd61371abe653ecbc95e3a52612"
+  },
+  {
+    "uuid": "27ca1031-49be-45b9-b34a-69bd83958bd0",
+    "creationDate": "2026-09-11T03:35:07.741Z",
+    "game": "F-Zero GX",
+    "song": "For the Glory (Mute City)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "F-Zero GX/For the Glory (Mute City).mmrs",
+    "preview": "",
+    "hash": "7005a7e766ea7ecd0cc1e89e5cf67827"
+  },
+  {
+    "uuid": "5088987e-191f-4d78-9853-41d8b4b4a55b",
+    "creationDate": "2026-09-11T03:35:07.769Z",
+    "game": "F-Zero GX",
+    "song": "Osc-Sync Carnival (Lightning)",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "F-Zero GX/Osc-Sync Carnival (Lightning).mmrs",
+    "preview": "",
+    "hash": "693b61905e60bc03b290d52f6ef34368"
+  },
+  {
+    "uuid": "18828b05-53ce-48a9-b2de-040c0da0df8a",
+    "creationDate": "2026-09-11T03:35:07.895Z",
+    "game": "Fatal Fury",
+    "song": "The Sea Knows",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fatal Fury/The Sea Knows.mmrs",
+    "preview": "",
+    "hash": "9741358fdc4d610b1049bee8f8742a76"
+  },
+  {
+    "uuid": "ecce0ba8-7fde-4b49-9ca5-44f448395e5c",
+    "creationDate": "2026-09-11T03:35:07.920Z",
+    "game": "Fatal Fury 2",
+    "song": "Pasta",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fatal Fury 2/Pasta.mmrs",
+    "preview": "",
+    "hash": "b1a70e018f7ff1e0fc83d99f49a84afd"
+  },
+  {
+    "uuid": "bf91355b-c647-497d-918e-e88dec60cac7",
+    "creationDate": "2026-09-11T03:35:07.947Z",
+    "game": "Fatal Fury 2",
+    "song": "Tarkun and Kitapy",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fatal Fury 2/Tarkun and Kitapy.mmrs",
+    "preview": "",
+    "hash": "1463b5fc0211ae92b6875051dd935827"
+  },
+  {
+    "uuid": "46c9273b-bb0a-44d7-9709-900aa1fd2bf9",
+    "creationDate": "2026-09-11T03:35:07.972Z",
+    "game": "Final Fantasy",
+    "song": "Battle",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy/Battle.mmrs",
+    "preview": "",
+    "hash": "9913243b74d5bc1aca1e15b1dbe094eb"
+  },
+  {
+    "uuid": "20015b12-8c07-4bfe-a69a-17fc43a0edc2",
+    "creationDate": "2026-09-11T03:35:09.288Z",
+    "game": "Final Fantasy IX",
+    "song": "Gulug Volcano",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IX/Gulug Volcano.mmrs",
+    "preview": "",
+    "hash": "b642cb40369a41339a8b68de94c97eba"
+  },
+  {
+    "uuid": "2e990a61-bd39-4301-8864-ca8c6442b647",
+    "creationDate": "2026-09-11T03:35:09.365Z",
+    "game": "Final Fantasy IX",
+    "song": "Memoria",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IX/Memoria.mmrs",
+    "preview": "",
+    "hash": "ae4709b47ab4a5912a11f06e95eae177"
+  },
+  {
+    "uuid": "bad404c4-a510-4579-b72b-72e2be0eb208",
+    "creationDate": "2026-09-11T03:35:09.385Z",
+    "game": "Final Fantasy IX",
+    "song": "Protecting my Devotion",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy IX/Protecting my Devotion.mmrs",
+    "preview": "",
+    "hash": "34d5041b0a13f557b51948b9bd4ef595"
+  },
+  {
+    "uuid": "6721045e-09e2-4801-aeb1-75baa4072833",
+    "creationDate": "2026-09-11T03:35:12.273Z",
+    "game": "Final Fantasy XII",
+    "song": "Desperate Fight",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy XII/Desperate Fight.mmrs",
+    "preview": "",
+    "hash": "bd493e44411ad1a9db64ac9320867101"
+  },
+  {
+    "uuid": "792497cd-1d12-4540-b201-d2979635224b",
+    "creationDate": "2026-09-11T03:35:12.376Z",
+    "game": "Final Fantasy XIII",
+    "song": "Desperate Struggle",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy XIII/Desperate Struggle.mmrs",
+    "preview": "",
+    "hash": "ec400f62fc9472aabee547b8dd655b42"
+  },
+  {
+    "uuid": "fdd7665d-4ecd-40de-beef-965ac51a110c",
+    "creationDate": "2026-09-11T03:35:12.404Z",
+    "game": "Final Fantasy XIII",
+    "song": "Eden Under Siege",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Final Fantasy XIII/Eden Under Siege.mmrs",
+    "preview": "",
+    "hash": "a0849769f87e75c757dd9bd4c5014f84"
+  },
+  {
+    "uuid": "415a66a5-a9eb-4bc2-8759-c459612c0937",
+    "creationDate": "2026-09-11T03:35:12.513Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "Don't Speak Her Name!",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Awakening/Don't Speak Her Name!.mmrs",
+    "preview": "",
+    "hash": "ce2d55a0007bc5d3ec79e173858eb421"
+  },
+  {
+    "uuid": "cb21834e-153c-43bb-a9a9-a6192e9055b4",
+    "creationDate": "2026-09-11T03:35:12.686Z",
+    "game": "Fire Emblem Engage",
+    "song": "Bright Sandstorm",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Engage/Bright Sandstorm.mmrs",
+    "preview": "",
+    "hash": "39c96ce9507f126fbf6d9b471e9623a7"
+  },
+  {
+    "uuid": "c91b47fd-2965-4c93-be45-ef0b8543021b",
+    "creationDate": "2026-09-11T03:35:12.717Z",
+    "game": "Fire Emblem Engage",
+    "song": "Falling Petals",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Engage/Falling Petals.mmrs",
+    "preview": "",
+    "hash": "45a4ea39def0a3a03d35b1f02cceaa0c"
+  },
+  {
+    "uuid": "470dc082-be29-4844-87a2-96940cd8c292",
+    "creationDate": "2026-09-11T03:35:12.754Z",
+    "game": "Fire Emblem Engage",
+    "song": "Full Bloom in the Breeze",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Engage/Full Bloom in the Breeze.mmrs",
+    "preview": "",
+    "hash": "ac0db900a17d4c7d9af4bc131fb3084f"
+  },
+  {
+    "uuid": "a29d7420-5fea-469f-b6a8-829c8c886120",
+    "creationDate": "2026-09-11T03:35:12.846Z",
+    "game": "Fire Emblem: Fates",
+    "song": "You of the Dark",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Fates/You of the Dark.mmrs",
+    "preview": "",
+    "hash": "0ff85e69f67daa5363ff2ebd9d9806d0"
+  },
+  {
+    "uuid": "c93ea0da-b013-4b25-b928-06213cfb1541",
+    "creationDate": "2026-09-11T03:35:12.964Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Flow of Time",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/Flow of Time.mmrs",
+    "preview": "",
+    "hash": "d4cf3f2dcd2a2bfaf38a91f6987abe34"
+  },
+  {
+    "uuid": "8ad2b572-c2e9-4da9-ad99-1c480c050984",
+    "creationDate": "2026-09-11T03:35:13.075Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "The Final Holy War",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Genealogy of the Holy War/The Final Holy War.mmrs",
+    "preview": "",
+    "hash": "2264d8c0df587e0404661283168b0b97"
+  },
+  {
+    "uuid": "c24a2087-478b-4689-b5bf-b196bb93aec8",
+    "creationDate": "2026-09-11T03:35:13.104Z",
+    "game": "Fire Emblem Heroes",
+    "song": "Aether Raids",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Heroes/Aether Raids.mmrs",
+    "preview": "",
+    "hash": "09c3af388e42dba9d24809ed2beb075e"
+  },
+  {
+    "uuid": "613af840-c413-4e04-95a7-f7edfed11512",
+    "creationDate": "2026-09-11T03:35:13.235Z",
+    "game": "Fire Emblem: Path of Radiance",
+    "song": "Against the Black Knight",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Path of Radiance/Against the Black Knight.mmrs",
+    "preview": "",
+    "hash": "025e648aae9dcf16b75ffa5f66200b9e"
+  },
+  {
+    "uuid": "75dca795-b00f-43a3-b423-3c9d3e12407a",
+    "creationDate": "2026-09-11T03:35:13.282Z",
+    "game": "Fire Emblem: Path of Radiance",
+    "song": "Clash",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Path of Radiance/Clash.mmrs",
+    "preview": "",
+    "hash": "91747f54e5d9984da5c410dff45c6630"
+  },
+  {
+    "uuid": "8bc41c2d-809c-4e77-8e00-73648a98d9d2",
+    "creationDate": "2026-09-11T03:35:13.483Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "For The Commanders",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/For The Commanders.mmrs",
+    "preview": "",
+    "hash": "686a77eaa92586180903bd9289723dff"
+  },
+  {
+    "uuid": "67aba47b-8d38-4d1c-b1d0-b66c128d8fdf",
+    "creationDate": "2026-09-11T03:35:13.515Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "Frontier",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/Frontier.mmrs",
+    "preview": "",
+    "hash": "93bf85e7b32552fd4656f0abd5b8a89d"
+  },
+  {
+    "uuid": "29c3013d-3441-4f9c-9808-33953efe2d6a",
+    "creationDate": "2026-09-11T03:35:13.547Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "In the Name of Bern",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/In the Name of Bern.mmrs",
+    "preview": "",
+    "hash": "4e7bb0c48c04b2eb52ca4f7ab80f5eaa"
+  },
+  {
+    "uuid": "fc4e2042-8954-402b-bb08-93508cb18851",
+    "creationDate": "2026-09-11T03:35:13.582Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "Path of the Divine Generals",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/Path of the Divine Generals.mmrs",
+    "preview": "",
+    "hash": "f8a4704129274c1ef5e4bd356471bc43"
+  },
+  {
+    "uuid": "59b05c07-8353-4d20-950a-d7b4794a823a",
+    "creationDate": "2026-09-11T03:35:13.612Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "Shadow Approaches",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/Shadow Approaches.mmrs",
+    "preview": "",
+    "hash": "4cc144c983512acbb480036313ac27dd"
+  },
+  {
+    "uuid": "a31c54b9-150f-4aac-8ad5-ae7654de20a3",
+    "creationDate": "2026-09-11T03:35:13.692Z",
+    "game": "Fire Emblem: The Binding Blade",
+    "song": "Within the Magnificent Nature",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Binding Blade/Within the Magnificent Nature.mmrs",
+    "preview": "",
+    "hash": "7b74fe379f24a89482c004cc530dfe26"
+  },
+  {
+    "uuid": "e644b47b-ae68-41d1-b1cd-2811fceff3d1",
+    "creationDate": "2026-09-11T03:35:13.711Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Arena Victory",
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Arena Victory.mmrs",
+    "preview": "",
+    "hash": "1054b19f70263d0de14babdae863cda0"
+  },
+  {
+    "uuid": "e4090edc-6940-47f0-a4a5-ac644a17d8e5",
+    "creationDate": "2026-09-11T03:35:13.743Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Binding Ties",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Binding Ties.mmrs",
+    "preview": "",
+    "hash": "e74077b9f568c15bbbeced78cad10bf6"
+  },
+  {
+    "uuid": "7ec59a7d-5ac3-40db-bbdb-c198332ac925",
+    "creationDate": "2026-09-11T03:35:13.769Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Blessing of the 8 Generals",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Blessing of the 8 Generals.mmrs",
+    "preview": "",
+    "hash": "555fa83d305b578456f7ad7e6e8e52df"
+  },
+  {
+    "uuid": "540368f3-6ae5-41a0-9c67-1573b51c96a4",
+    "creationDate": "2026-09-11T03:35:13.902Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Girl of the Plains",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Girl of the Plains.mmrs",
+    "preview": "",
+    "hash": "9857b501e40f07e1f1cd741dd897076f"
+  },
+  {
+    "uuid": "3b197dcb-e8cc-4b15-8dec-e5f32205d161",
+    "creationDate": "2026-09-11T03:35:13.996Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Loyalty",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Loyalty.mmrs",
+    "preview": "",
+    "hash": "b9b49f0e5d8c3716a5d009410aab4666"
+  },
+  {
+    "uuid": "0e1bda4f-81d1-4d79-bdb9-d48f7ec1a7e9",
+    "creationDate": "2026-09-11T03:35:14.026Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "One Heart",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/One Heart.mmrs",
+    "preview": "",
+    "hash": "296e7d12377a8da228732939dc0e1f31"
+  },
+  {
+    "uuid": "5fbdd85b-945b-466d-8165-a8f607f1eae5",
+    "creationDate": "2026-09-11T03:35:14.100Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Raid!",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Raid!.mmrs",
+    "preview": "",
+    "hash": "8c83771076d57dee0b8366651cbd2d42"
+  },
+  {
+    "uuid": "a8ad43f5-e071-4767-ab82-56ed63342802",
+    "creationDate": "2026-09-11T03:35:14.168Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Requiem",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Requiem.mmrs",
+    "preview": "",
+    "hash": "05bac8a56d869fde0382871ab77356aa"
+  },
+  {
+    "uuid": "ba339a16-c80c-44ca-a84d-69e983051ee5",
+    "creationDate": "2026-09-11T03:35:14.261Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Strike! [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Strike! [2].mmrs",
+    "preview": "",
+    "hash": "7d67d564a6fe5912002bac6d99f631b7"
+  },
+  {
+    "uuid": "ec3f52f4-6460-42a9-a6a8-86eb3d47a51b",
+    "creationDate": "2026-09-11T03:35:14.323Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "The Archsage Athos",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/The Archsage Athos.mmrs",
+    "preview": "",
+    "hash": "7120363dfdf0288ebedcb6238deb7f84"
+  },
+  {
+    "uuid": "f5318340-05c3-459c-9094-f6743dc5ce7f",
+    "creationDate": "2026-09-11T03:35:14.386Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "The Messenger",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/The Messenger.mmrs",
+    "preview": "",
+    "hash": "c9e78b768a6cc502f5520feed2623b02"
+  },
+  {
+    "uuid": "92d0244a-3194-424b-bf8e-bc4819999c2c",
+    "creationDate": "2026-09-11T03:35:14.479Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Within Sadness",
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Blazing Blade/Within Sadness.mmrs",
+    "preview": "",
+    "hash": "7ab5146dab55ecb20092d774b664529f"
+  },
+  {
+    "uuid": "7d67a5e0-ffce-4c8e-96d1-39a2e2dbcf58",
+    "creationDate": "2026-09-11T03:35:14.509Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Comrades",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Comrades.mmrs",
+    "preview": "",
+    "hash": "5ba1f59e7fb1927f65153683495089e2"
+  },
+  {
+    "uuid": "c763bed7-2554-46ab-a417-bc7a4f56395f",
+    "creationDate": "2026-09-11T03:35:14.573Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Follow Me",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Follow Me.mmrs",
+    "preview": "",
+    "hash": "644ecb4df2b836330005861de3765413"
+  },
+  {
+    "uuid": "4a25a598-59f3-49e0-9b98-2b869a55f58d",
+    "creationDate": "2026-09-11T03:35:14.601Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Reunion",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Reunion.mmrs",
+    "preview": "",
+    "hash": "76abea500456b110d19f0907197c8033"
+  },
+  {
+    "uuid": "e23452cb-779d-441e-8555-c5a9ed774fa0",
+    "creationDate": "2026-09-11T03:35:14.749Z",
+    "game": "Fire Emblem: The Sacred Stones",
+    "song": "Truth, Fear and Hope",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem The Sacred Stones/Truth, Fear and Hope.mmrs",
+    "preview": "",
+    "hash": "d39a5a340203d36c21ad0e2443bf7fe7"
+  },
+  {
+    "uuid": "faf755e8-43ad-4a40-8bef-ef7d01897ef7",
+    "creationDate": "2026-09-11T03:35:14.777Z",
+    "game": "Fire Emblem: Thracia 776",
+    "song": "Forces of Leif, Seek Victory ~ Leif",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Leif.mmrs",
+    "preview": "",
+    "hash": "bb721acdc4a5edd76cb44558e748fc42"
+  },
+  {
+    "uuid": "a3f211e9-fedf-4092-be6f-30eacaab8f6f",
+    "creationDate": "2026-09-11T03:35:14.808Z",
+    "game": "Fire Emblem: Thracia 776",
+    "song": "In the Midst of Battle ~ Destiny",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Thracia 776/In the Midst of Battle ~ Destiny.mmrs",
+    "preview": "",
+    "hash": "55ec389320c92cd345f673b504d08e97"
+  },
+  {
+    "uuid": "ead45001-9f52-400b-ae32-4701d3c19efd",
+    "creationDate": "2026-09-11T03:35:14.866Z",
+    "game": "Fire Emblem: Thracia 776",
+    "song": "The Threat Draws Near ~ Charge",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Thracia 776/The Threat Draws Near ~ Charge.mmrs",
+    "preview": "",
+    "hash": "7230e39a2d0ab20f53b12982cf6dceac"
+  },
+  {
+    "uuid": "94ab84d8-1ddd-451d-982a-03a53c2bb724",
+    "creationDate": "2026-09-11T03:35:14.939Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "As Swift as Wind",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/As Swift as Wind.mmrs",
+    "preview": "",
+    "hash": "a98c4bc1cd16555355bf7dc95c570e58"
+  },
+  {
+    "uuid": "2d314b31-792a-488f-b35c-a9978fda60de",
+    "creationDate": "2026-09-11T03:35:15.214Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Paths That Will Never Cross",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Paths That Will Never Cross.mmrs",
+    "preview": "",
+    "hash": "00ef52fc978b96980b7dab5748d4a93a"
+  },
+  {
+    "uuid": "a44623f9-68b5-4107-b083-0a08a31cc288",
+    "creationDate": "2026-09-11T03:35:15.238Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Somewhere to Belong",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Somewhere to Belong.mmrs",
+    "preview": "",
+    "hash": "50397dd2a6ea220c5c15e7504cbc7932"
+  },
+  {
+    "uuid": "1aaf24dd-ca51-4de1-a693-60a523377629",
+    "creationDate": "2026-09-11T03:35:15.271Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Teatime Joy",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Teatime Joy.mmrs",
+    "preview": "",
+    "hash": "a1275e0e501acb04d112b7373b33b84c"
+  },
+  {
+    "uuid": "8b153fcd-cccd-4ccf-b930-af1b06b2aeb3",
+    "creationDate": "2026-09-11T03:35:15.348Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "Tempest of Seasons",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/Tempest of Seasons.mmrs",
+    "preview": "",
+    "hash": "5b0dff6d0e144fdc70188f2763789ef6"
+  },
+  {
+    "uuid": "06076959-4c87-4f8d-9b74-7c29355fa054",
+    "creationDate": "2026-09-11T03:35:15.418Z",
+    "game": "Fire Emblem: Three Houses",
+    "song": "The Long Road",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Three Houses/The Long Road.mmrs",
+    "preview": "",
+    "hash": "c87b2afa186c941efd5e22280303f2f6"
+  },
+  {
+    "uuid": "7837ae85-5595-4b1f-bcc2-9771301cabbb",
+    "creationDate": "2026-09-11T03:35:16.583Z",
+    "game": "God Hand",
+    "song": "Gene's Rock a Bye",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "God Hand/Gene's Rock a Bye.mmrs",
+    "preview": "",
+    "hash": "21de96909f3fa589630b9b277d2c825b"
+  },
+  {
+    "uuid": "1f41c402-f63e-462a-ae28-09c00279a650",
+    "creationDate": "2026-09-11T03:35:16.688Z",
+    "game": "Golden Sun",
+    "song": "Battle with Saturos & Menardi",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Battle with Saturos & Menardi.mmrs",
+    "preview": "",
+    "hash": "96f98bfffd8d75dad8a34541b5db92e4"
+  },
+  {
+    "uuid": "9a7e77a9-32a4-4834-8f14-11644e14dfd8",
+    "creationDate": "2026-09-11T03:35:16.707Z",
+    "game": "Golden Sun",
+    "song": "Battle with the Fusion Dragon",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Battle with the Fusion Dragon.mmrs",
+    "preview": "",
+    "hash": "b38acb6651fde76fcf7cdd251169899c"
+  },
+  {
+    "uuid": "1c36d6b8-9ddb-4a15-b07a-9c0659420507",
+    "creationDate": "2026-09-11T03:35:16.768Z",
+    "game": "Golden Sun",
+    "song": "Battle [3]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Battle [3].mmrs",
+    "preview": "",
+    "hash": "b50c160741e4769a84b2c8b686c48b50"
+  },
+  {
+    "uuid": "931a42a2-12b5-40d7-a182-28a2c4af700f",
+    "creationDate": "2026-09-11T03:35:16.822Z",
+    "game": "Golden Sun",
+    "song": "Cave",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Cave.mmrs",
+    "preview": "",
+    "hash": "b8caaf62604e715644019c1070877609"
+  },
+  {
+    "uuid": "2e5abec1-3db8-4c42-b425-2163fe3dfbfc",
+    "creationDate": "2026-09-11T03:35:16.915Z",
+    "game": "Golden Sun",
+    "song": "Item Get",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Item Get.mmrs",
+    "preview": "",
+    "hash": "4df0091bde6c03fa3fde72a165824e05"
+  },
+  {
+    "uuid": "e6d17081-92c0-4141-9e23-56a3ea562c8b",
+    "creationDate": "2026-09-11T03:35:17.021Z",
+    "game": "Golden Sun",
+    "song": "Lucky!",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Lucky!.mmrs",
+    "preview": "",
+    "hash": "a788f5b6a2bc095dd92f1de8b792df45"
+  },
+  {
+    "uuid": "d92c508e-f76b-40c0-8bfa-8700d93ee037",
+    "creationDate": "2026-09-11T03:35:17.068Z",
+    "game": "Golden Sun",
+    "song": "Mercury Lighthouse [2]",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Mercury Lighthouse [2].mmrs",
+    "preview": "",
+    "hash": "8ee39bdc960ce3a12b3aec51c268cbfe"
+  },
+  {
+    "uuid": "815bd0f4-efd1-40dd-8028-f6a95710f0ae",
+    "creationDate": "2026-09-11T03:35:17.132Z",
+    "game": "Golden Sun",
+    "song": "Mount Aleph Erupts",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Mount Aleph Erupts.mmrs",
+    "preview": "",
+    "hash": "18fad1a60a17b81d199b9af44563391d"
+  },
+  {
+    "uuid": "39ce03cc-ad06-4efb-8d1d-fb416a24f3b4",
+    "creationDate": "2026-09-11T03:35:17.205Z",
+    "game": "Golden Sun",
+    "song": "Poison Cured",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Poison Cured.mmrs",
+    "preview": "",
+    "hash": "9468c9b4096f2affbce7a1a81a6be270"
+  },
+  {
+    "uuid": "22db9e8c-9930-43d6-89c5-9f3cebb5021d",
+    "creationDate": "2026-09-11T03:35:17.305Z",
+    "game": "Golden Sun",
+    "song": "Set Sail on the Karagol Sea",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Set Sail on the Karagol Sea.mmrs",
+    "preview": "",
+    "hash": "5e2188c5e4f769737e1dfb32a701ff0b"
+  },
+  {
+    "uuid": "a3235d21-9cb1-422e-8967-ac2cce11c7ff",
+    "creationDate": "2026-09-11T03:35:17.332Z",
+    "game": "Golden Sun",
+    "song": "Sol Sanctum",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Sol Sanctum.mmrs",
+    "preview": "",
+    "hash": "e8b061168356744819a6b7fcfc5b9344"
+  },
+  {
+    "uuid": "cbfe0fbb-5fe0-427c-ac7b-53a4dcf0e232",
+    "creationDate": "2026-09-11T03:35:17.360Z",
+    "game": "Golden Sun",
+    "song": "Super Lucky!",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Super Lucky!.mmrs",
+    "preview": "",
+    "hash": "82397db165f5a519de3ec47e3cc80827"
+  },
+  {
+    "uuid": "8f501ba0-53e5-4801-9404-98e389dab0dc",
+    "creationDate": "2026-09-11T03:35:17.389Z",
+    "game": "Golden Sun",
+    "song": "Sworn Enemies Stand in Your Way [2]",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Sworn Enemies Stand in Your Way [2].mmrs",
+    "preview": "",
+    "hash": "3f88ba18fa167282a6b902c6b60f429a"
+  },
+  {
+    "uuid": "5c430dbb-2748-40ab-9039-dbbcf61a04c2",
+    "creationDate": "2026-09-11T03:35:17.469Z",
+    "game": "Golden Sun",
+    "song": "Tolbi [2]",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Tolbi [2].mmrs",
+    "preview": "",
+    "hash": "5fb8ff95346a3e2cb313cae1b7aab781"
+  },
+  {
+    "uuid": "120d3eae-8db6-44e7-966b-c3e8e5ab2b38",
+    "creationDate": "2026-09-11T03:35:17.525Z",
+    "game": "Golden Sun",
+    "song": "Town",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Town.mmrs",
+    "preview": "",
+    "hash": "3518f81dfcd4b1bb000986d7b0ce34b2"
+  },
+  {
+    "uuid": "d263d7b0-a2ff-4322-a7eb-9d18e3182927",
+    "creationDate": "2026-09-11T03:35:17.625Z",
+    "game": "Golden Sun",
+    "song": "Try Your Luck!",
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Try Your Luck!.mmrs",
+    "preview": "",
+    "hash": "3fcf5cda217be30eee6cba5afe5cc535"
+  },
+  {
+    "uuid": "5f1e7b18-740b-4cbe-b787-67bd4de1135e",
+    "creationDate": "2026-09-11T03:35:17.659Z",
+    "game": "Golden Sun",
+    "song": "Tunnel Ruins",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Tunnel Ruins.mmrs",
+    "preview": "",
+    "hash": "68533837bb046bbb3475e6a304701648"
+  },
+  {
+    "uuid": "01bfac15-96be-41e2-a451-7c68fcad9570",
+    "creationDate": "2026-09-11T03:35:17.770Z",
+    "game": "Golden Sun",
+    "song": "Very Lucky!",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun/Very Lucky!.mmrs",
+    "preview": "",
+    "hash": "bb0022004595c1f79308ae4f310d1da8"
+  },
+  {
+    "uuid": "40bcc0dd-0478-4af2-9145-be70b7621b58",
+    "creationDate": "2026-09-11T03:35:18.058Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Alhafra",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Alhafra.mmrs",
+    "preview": "",
+    "hash": "4424f5f3b5f97936691e9726492b8ec6"
+  },
+  {
+    "uuid": "3c300936-721e-43bb-a439-e3e4edfa59e4",
+    "creationDate": "2026-09-11T03:35:18.201Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Battle on the Sea",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Battle on the Sea.mmrs",
+    "preview": "",
+    "hash": "ef5195c8cea5de68cde1ae9f687ebb7b"
+  },
+  {
+    "uuid": "ae711974-4de8-461f-85f4-8276dd618ce9",
+    "creationDate": "2026-09-11T03:35:18.229Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Battle with Doom Dragon",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Battle with Doom Dragon.mmrs",
+    "preview": "",
+    "hash": "78701f10477b02363f065ee488726cf6"
+  },
+  {
+    "uuid": "8becd76e-0b7d-4f3b-acdf-60068960b1bf",
+    "creationDate": "2026-09-11T03:35:18.280Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Gaia Rock",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Gaia Rock.mmrs",
+    "preview": "",
+    "hash": "5bda823e7670cd2419089e7196a178cc"
+  },
+  {
+    "uuid": "52d0f048-f4d2-4a0c-b8b1-9d0b5f2769be",
+    "creationDate": "2026-09-11T03:35:18.302Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Journey to Save the World",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Journey to Save the World.mmrs",
+    "preview": "",
+    "hash": "42af4a634e658e069b65ed2092b6959c"
+  },
+  {
+    "uuid": "66380d28-6715-4620-a4e8-5beb1535e959",
+    "creationDate": "2026-09-11T03:35:18.324Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Jupiter Lighthouse",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Jupiter Lighthouse.mmrs",
+    "preview": "",
+    "hash": "37a12e047b4549151028db47c1d94e22"
+  },
+  {
+    "uuid": "c9264906-4e05-4364-a035-b99d6e8b7aec",
+    "creationDate": "2026-09-11T03:35:18.347Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Magma Rock",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Magma Rock.mmrs",
+    "preview": "",
+    "hash": "ee56ff1a2f6e9e2cb3dcc374b0197681"
+  },
+  {
+    "uuid": "ae6fda46-cdeb-4ad5-a621-919c51fc5fcf",
+    "creationDate": "2026-09-11T03:35:18.432Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Tundaria Tower",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Golden Sun The Lost Age/Tundaria Tower.mmrs",
+    "preview": "",
+    "hash": "b6748baf76796b5a8cf0c3b57d13f105"
+  },
+  {
+    "uuid": "df16da4b-9125-43d8-833f-188ea3380a20",
+    "creationDate": "2026-09-11T03:35:19.010Z",
+    "game": "Guilty Gear Dust Strikers",
+    "song": "Lady Fascination",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear Dust Strikers/Lady Fascination.mmrs",
+    "preview": "",
+    "hash": "d848c76123fce7f241f1c5bae2702c81"
+  },
+  {
+    "uuid": "1a83693c-5120-47e0-b621-0dbd7e08854f",
+    "creationDate": "2026-09-11T03:35:19.044Z",
+    "game": "Guilty Gear Isuka",
+    "song": "Drumhead Pulsation",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear Isuka/Drumhead Pulsation.mmrs",
+    "preview": "",
+    "hash": "72d96ec32e93ce99926055cae7a58b60"
+  },
+  {
+    "uuid": "999b1385-53a0-4b32-bef0-12ca13f1e818",
+    "creationDate": "2026-09-11T03:35:19.076Z",
+    "game": "Guilty Gear Isuka",
+    "song": "Riches In Me",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear Isuka/Riches In Me.mmrs",
+    "preview": "",
+    "hash": "832f58ac5b7bb29904376ec7109541bb"
+  },
+  {
+    "uuid": "fcc53730-d640-443f-80de-c91514495cfe",
+    "creationDate": "2026-09-11T03:35:19.106Z",
+    "game": "Guilty Gear X",
+    "song": "Bloodstained Lineage",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear X/Bloodstained Lineage.mmrs",
+    "preview": "",
+    "hash": "4e7193d0cae12f2d7356cb65c09d4704"
+  },
+  {
+    "uuid": "8bb4b7c6-562e-47fe-813a-45267375e7a8",
+    "creationDate": "2026-09-11T03:35:19.136Z",
+    "game": "Guilty Gear XX",
+    "song": "Existence",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear XX/Existence.mmrs",
+    "preview": "",
+    "hash": "9c332822bb87161c5cf6972707f0a1b2"
+  },
+  {
+    "uuid": "fd38a55c-bbb0-48c6-9a0d-da9d959248d0",
+    "creationDate": "2026-09-11T03:35:19.169Z",
+    "game": "Guilty Gear XX",
+    "song": "Fatal Duel",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear XX/Fatal Duel.mmrs",
+    "preview": "",
+    "hash": "8efcc6f8e4ff20b432a7aa14b891766b"
+  },
+  {
+    "uuid": "2c10ae2d-cb2a-41ed-b799-d0787f91dda9",
+    "creationDate": "2026-09-11T03:35:19.204Z",
+    "game": "Guilty Gear XX",
+    "song": "Meet Again",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear XX/Meet Again.mmrs",
+    "preview": "",
+    "hash": "a328ad38eadca9bc6d0cad41265b872f"
+  },
+  {
+    "uuid": "df4c4871-e4b6-44e5-b003-c59dd1db435a",
+    "creationDate": "2026-09-11T03:35:19.232Z",
+    "game": "Guilty Gear XX",
+    "song": "Primal Light",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear XX/Primal Light.mmrs",
+    "preview": "",
+    "hash": "6139685677c3fef25e66f4c895645306"
+  },
+  {
+    "uuid": "fd14f85a-ca9f-4455-a002-c5c762ef1657",
+    "creationDate": "2026-09-11T03:35:19.266Z",
+    "game": "Guilty Gear XX",
+    "song": "The Midnight Carnival",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear XX/The Midnight Carnival.mmrs",
+    "preview": "",
+    "hash": "0b556f253da5aaa49823a011b07e6b2c"
+  },
+  {
+    "uuid": "d536ab93-5bc0-42dc-8500-d381d222dbf1",
+    "creationDate": "2026-09-11T03:35:19.326Z",
+    "game": "Guilty Gear XX",
+    "song": "Till Next Time",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Guilty Gear XX/Till Next Time.mmrs",
+    "preview": "",
+    "hash": "d1d62acbce51c020715ebfa7d50925cb"
+  },
+  {
+    "uuid": "7550400c-23e1-4755-88a0-5873a5a87225",
+    "creationDate": "2026-09-11T03:35:20.567Z",
+    "game": "Kero Blaster",
+    "song": "Time Table",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kero Blaster/Time Table.mmrs",
+    "preview": "",
+    "hash": "ca1e42f991e0a88953d1f41e08da4c8e"
+  },
+  {
+    "uuid": "4d7b176d-2f20-4992-8224-706de755ccef",
+    "creationDate": "2026-09-11T03:35:20.588Z",
+    "game": "Kid Icarus: Uprising",
+    "song": "Dark Pit's Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kid Icarus Uprising/Dark Pit's Theme.mmrs",
+    "preview": "",
+    "hash": "1050e8221b5d0758db4fd47e2c1ea4de"
+  },
+  {
+    "uuid": "ef849a3f-8b32-4f24-a5c6-281073a8944a",
+    "creationDate": "2026-09-11T03:35:20.615Z",
+    "game": "Kid Icarus: Uprising",
+    "song": "Magnus's Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kid Icarus Uprising/Magnus's Theme.mmrs",
+    "preview": "",
+    "hash": "61b3005a653b6dd800951e8847417050"
+  },
+  {
+    "uuid": "232e921d-6a52-4df3-bd26-fd59c0b2291f",
+    "creationDate": "2026-09-11T03:35:20.638Z",
+    "game": "Kid Icarus: Uprising",
+    "song": "Reset Bomb Forest",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kid Icarus Uprising/Reset Bomb Forest.mmrs",
+    "preview": "",
+    "hash": "b0a2ed489d11298a086181cd7c102163"
+  },
+  {
+    "uuid": "f971e620-40d8-4ff5-a836-067f4b3f101e",
+    "creationDate": "2026-09-11T03:35:20.786Z",
+    "game": "Kingdom Hearts",
+    "song": "Destiny Islands",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts/Destiny Islands.mmrs",
+    "preview": "",
+    "hash": "786d6ed45b136c49746b40961de91a2c"
+  },
+  {
+    "uuid": "415d1c29-3410-440c-a5ce-31f3398319da",
+    "creationDate": "2026-09-11T03:35:21.709Z",
+    "game": "Kingdom Hearts II",
+    "song": "Olympus Coliseum",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kingdom Hearts II/Olympus Coliseum.mmrs",
+    "preview": "",
+    "hash": "e9eefe56e50f7d281b8c514b9895c807"
+  },
+  {
+    "uuid": "81d9b8ac-d3c7-475d-baf4-ce212895f8c8",
+    "creationDate": "2026-09-11T03:35:22.625Z",
+    "game": "Kirby Star Allies",
+    "song": "A Battle of Friends and Bonds 2",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/A Battle of Friends and Bonds 2.mmrs",
+    "preview": "",
+    "hash": "f880f2addb255b81c26d644ef8eb4337"
+  },
+  {
+    "uuid": "f19a70dd-b34c-4182-9941-97c915af2d08",
+    "creationDate": "2026-09-11T03:35:22.656Z",
+    "game": "Kirby Star Allies",
+    "song": "Dark & Cloudy",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Dark & Cloudy.mmrs",
+    "preview": "",
+    "hash": "0cac53561cd973616762418ec69bbffd"
+  },
+  {
+    "uuid": "0b986285-78c3-46ee-ab3a-303824fd65ee",
+    "creationDate": "2026-09-11T03:35:22.689Z",
+    "game": "Kirby Star Allies",
+    "song": "Green Gardens",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Green Gardens.mmrs",
+    "preview": "",
+    "hash": "9b97750c9e3a168a146d34222cabb131"
+  },
+  {
+    "uuid": "2557b0f7-dbda-4d73-9d80-2c166c6a8ed1",
+    "creationDate": "2026-09-11T03:35:22.728Z",
+    "game": "Kirby Star Allies",
+    "song": "Helpful Advice",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Helpful Advice.mmrs",
+    "preview": "",
+    "hash": "18e49a24ac4ab1a1144d4adf3f9c5523"
+  },
+  {
+    "uuid": "3422abb4-ff6d-4cd6-bdbe-73a53fd5ad78",
+    "creationDate": "2026-09-11T03:35:22.756Z",
+    "game": "Kirby Star Allies",
+    "song": "Honey Hill",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Honey Hill.mmrs",
+    "preview": "",
+    "hash": "8cb252b65fc0ed66c5c7107435319802"
+  },
+  {
+    "uuid": "36ab4b7a-d604-46cf-887d-1c480a62d02e",
+    "creationDate": "2026-09-11T03:35:22.783Z",
+    "game": "Kirby Star Allies",
+    "song": "Kind Streets",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Kind Streets.mmrs",
+    "preview": "",
+    "hash": "fc08dcb2ed32e82ed0ace630ee41511c"
+  },
+  {
+    "uuid": "12da09ca-8d38-455b-a1d2-c321b22fff74",
+    "creationDate": "2026-09-11T03:35:22.810Z",
+    "game": "Kirby Star Allies",
+    "song": "Twinkle Stars",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Twinkle Stars.mmrs",
+    "preview": "",
+    "hash": "f07de926d6a15c66af7990febbf3da75"
+  },
+  {
+    "uuid": "dc6948d7-7b63-4042-9f67-cb8ce9d338f4",
+    "creationDate": "2026-09-11T03:35:22.844Z",
+    "game": "Kirby Star Allies",
+    "song": "Winds across Earthfall",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Star Allies/Winds across Earthfall.mmrs",
+    "preview": "",
+    "hash": "e5784418d2168836bcc06a2f8fddf3ef"
+  },
+  {
+    "uuid": "e6279e1d-41da-4cb9-93bf-53c2921c07ce",
+    "creationDate": "2026-09-11T03:35:22.988Z",
+    "game": "Kirby Super Star",
+    "song": "Peanut Plains",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Super Star/Peanut Plains.mmrs",
+    "preview": "",
+    "hash": "bf83d7cde1c4f5d54b32f94177ca0345"
+  },
+  {
+    "uuid": "e715fa0a-7372-4feb-9beb-31ca14ed0756",
+    "creationDate": "2026-09-11T03:35:23.068Z",
+    "game": "Kirby: Triple Deluxe",
+    "song": "Fatal Blooms in Moonlight",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby Triple Deluxe/Fatal Blooms in Moonlight.mmrs",
+    "preview": "",
+    "hash": "c469007dccf147816c8e9d1ca676eb7c"
+  },
+  {
+    "uuid": "91e9e26c-85cb-4c9a-ad11-90f0f6110e0b",
+    "creationDate": "2026-09-11T03:35:23.380Z",
+    "game": "Kirby's Epic Yarn",
+    "song": "Snowy Fields",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Kirby's Epic Yarn/Snowy Fields.mmrs",
+    "preview": "",
+    "hash": "4d01ff6d711a47253cd0659dd55cc479"
+  },
+  {
+    "uuid": "ee87bc61-0764-4fbb-8beb-d954f5183df4",
+    "creationDate": "2026-09-11T03:35:23.560Z",
+    "game": "Last Bible III",
+    "song": "Dragon's Fang",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Last Bible III/Dragon's Fang.mmrs",
+    "preview": "",
+    "hash": "dfeac2745b1e46defbc50304393532bc"
+  },
+  {
+    "uuid": "755f47f4-3459-4aaf-880d-67d893009678",
+    "creationDate": "2026-09-11T03:35:23.587Z",
+    "game": "Last Bible III",
+    "song": "Felest Tower",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Last Bible III/Felest Tower.mmrs",
+    "preview": "",
+    "hash": "1021645560efc6227daa5b56b1046113"
+  },
+  {
+    "uuid": "4a8d51e2-f140-4fbb-8282-c2e307d9b978",
+    "creationDate": "2026-09-11T03:35:23.888Z",
+    "game": "Live A Live",
+    "song": "On Broken Wings",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Live A Live/On Broken Wings.mmrs",
+    "preview": "",
+    "hash": "8a10cf7f053cb5fda65c66e5ec4ae8a3"
+  },
+  {
+    "uuid": "e24a64ee-3669-4ffe-8c2c-704c7368be18",
+    "creationDate": "2026-09-11T03:35:24.258Z",
+    "game": "Lunar: Silver Star Story",
+    "song": "Burg",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Lunar Silver Star Story/Burg.mmrs",
+    "preview": "",
+    "hash": "af790d3963a3434fd6d4b3611bcb4a00"
+  },
+  {
+    "uuid": "f244088e-9484-4849-85bd-b7ea1cd28c04",
+    "creationDate": "2026-09-11T03:35:24.312Z",
+    "game": "Lunar: Silver Star Story",
+    "song": "Tamur",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Lunar Silver Star Story/Tamur.mmrs",
+    "preview": "",
+    "hash": "b78aca5a99301f4f28dfaaabd0617b28"
+  },
+  {
+    "uuid": "bcadc938-e49b-47ab-ae7c-99d2c7d286a2",
+    "creationDate": "2026-09-11T03:35:27.016Z",
+    "game": "Mario Kart 7",
+    "song": "Neo Bowser City",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart 7/Neo Bowser City.mmrs",
+    "preview": "",
+    "hash": "546a7415383e0af4cc66299699433b59"
+  },
+  {
+    "uuid": "c586f00a-5040-4442-93a1-ed2a7c65eb0e",
+    "creationDate": "2026-09-11T03:35:27.038Z",
+    "game": "Mario Kart 7",
+    "song": "Rainbow Road",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart 7/Rainbow Road.mmrs",
+    "preview": "",
+    "hash": "7758a82da84a5cff7397fdb227efc79d"
+  },
+  {
+    "uuid": "9c73743d-00b1-47f3-ac61-0aafdb665e7d",
+    "creationDate": "2026-09-11T03:35:27.066Z",
+    "game": "Mario Kart 7",
+    "song": "Rosalina's Ice World",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart 7/Rosalina's Ice World.mmrs",
+    "preview": "",
+    "hash": "e48bd655b1018f2553a5a2428a3610cc"
+  },
+  {
+    "uuid": "9f7725fd-61e7-4ead-8b33-a53b33cc4b16",
+    "creationDate": "2026-09-11T03:35:27.131Z",
+    "game": "Mario Kart 8",
+    "song": "Battle Stadium",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart 8/Battle Stadium.mmrs",
+    "preview": "",
+    "hash": "ab602e25e190c283bb703d52700fb7fc"
+  },
+  {
+    "uuid": "a59bd64c-2588-4a9a-9099-003f1340a79c",
+    "creationDate": "2026-09-11T03:35:27.231Z",
+    "game": "Mario Kart DS",
+    "song": "Delfino Square [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/Delfino Square [2].mmrs",
+    "preview": "",
+    "hash": "af22d95a09bd8a815ea5ce3078e4c24f"
+  },
+  {
+    "uuid": "06828127-d41e-4496-9c43-53a907ebb199",
+    "creationDate": "2026-09-11T03:35:27.295Z",
+    "game": "Mario Kart DS",
+    "song": "DK Pass",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/DK Pass.mmrs",
+    "preview": "",
+    "hash": "f166213d8c9bf0b246912faedabc2723"
+  },
+  {
+    "uuid": "66bf8711-f0a1-4777-a292-43208a02e2be",
+    "creationDate": "2026-09-11T03:35:27.321Z",
+    "game": "Mario Kart DS",
+    "song": "Finished 1st",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/Finished 1st.mmrs",
+    "preview": "",
+    "hash": "91523aaf418a6aa2a72dbfeaaedc0276"
+  },
+  {
+    "uuid": "490cb74e-ff43-46cc-a7f6-8cffe7d7b316",
+    "creationDate": "2026-09-11T03:35:27.381Z",
+    "game": "Mario Kart DS",
+    "song": "Peach Gardens",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/Peach Gardens.mmrs",
+    "preview": "",
+    "hash": "3805ac6bc448541dca205bc9edb8eac0"
+  },
+  {
+    "uuid": "b0b0a0ba-e209-4a23-a02f-afb79a88c347",
+    "creationDate": "2026-09-11T03:35:27.411Z",
+    "game": "Mario Kart DS",
+    "song": "Rainbow Road",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart DS/Rainbow Road.mmrs",
+    "preview": "",
+    "hash": "162897106cc81872b60f7216b52f9d38"
+  },
+  {
+    "uuid": "820cb817-8918-45b9-97d5-5dfb0f84f5dd",
+    "creationDate": "2026-09-11T03:35:27.571Z",
+    "game": "Mario Kart: Super Circuit",
+    "song": "Sky Garden [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart Super Circuit/Sky Garden [2].mmrs",
+    "preview": "",
+    "hash": "f0c843d7c69d7878a27b9defc83f3e4e"
+  },
+  {
+    "uuid": "5026be23-cf8b-4cf3-9ddb-a4581f1c8b1d",
+    "creationDate": "2026-09-11T03:35:27.699Z",
+    "game": "Mario Kart Tour",
+    "song": "Merry Mountain",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart Tour/Merry Mountain.mmrs",
+    "preview": "",
+    "hash": "fa9fa01a298d79f6463f7137c00f9314"
+  },
+  {
+    "uuid": "9cc171aa-f7cd-455f-a097-e1821787ac65",
+    "creationDate": "2026-09-11T03:35:27.758Z",
+    "game": "Mario Kart Wii",
+    "song": "Toad's Factory",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mario Kart Wii/Toad's Factory.mmrs",
+    "preview": "",
+    "hash": "1ef99d5d51b19ce83ad99ad604df72a4"
+  },
+  {
+    "uuid": "3b157da8-2433-4b47-aac6-157760dc1b90",
+    "creationDate": "2026-09-11T03:35:28.567Z",
+    "game": "Mega Man 2",
+    "song": "Bubble Man",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mega Man 2/Bubble Man.mmrs",
+    "preview": "",
+    "hash": "1332f53598d3178e3d403580b4e11557"
+  },
+  {
+    "uuid": "26da3b25-5fd1-46a0-a1d4-bfb76775c6b8",
+    "creationDate": "2026-09-11T03:35:29.316Z",
+    "game": "Melty Blood: Type Lumina",
+    "song": "Neco-Arc's Theme",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Melty Blood Type Lumina/Neco-Arc's Theme.mmrs",
+    "preview": "",
+    "hash": "71ffba0061b631a7f8b02a9b51c7ff13"
+  },
+  {
+    "uuid": "9d28d9e4-dd1c-4a9b-8cb2-49b2969e7abf",
+    "creationDate": "2026-09-11T03:35:31.187Z",
+    "game": "Metroid: Zero Mission",
+    "song": "Brinstar [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Metroid Zero Mission/Brinstar [2].mmrs",
+    "preview": "",
+    "hash": "1fd48a54f7322356c19c8c9f407a9345"
+  },
+  {
+    "uuid": "74ea5448-3d4c-48b3-9ead-e137b75689eb",
+    "creationDate": "2026-09-11T03:35:31.349Z",
+    "game": "Miitopia",
+    "song": "Battle (Greenhorne)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Miitopia/Battle (Greenhorne).mmrs",
+    "preview": "",
+    "hash": "398075159dba85d24a3250ed9131bb6f"
+  },
+  {
+    "uuid": "0664010e-7056-4a6e-9a9b-9198688684ab",
+    "creationDate": "2026-09-11T03:35:31.375Z",
+    "game": "Miitopia",
+    "song": "Battle (New Lumos)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Miitopia/Battle (New Lumos).mmrs",
+    "preview": "",
+    "hash": "6fe7b9019d2be11d9cec4c8b6f29a0d6"
+  },
+  {
+    "uuid": "68db607c-633b-419f-9f91-786c211b27f8",
+    "creationDate": "2026-09-11T03:35:31.838Z",
+    "game": "Monster Hunter Freedom Unite",
+    "song": "Pokke Village",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Monster Hunter Freedom Unite/Pokke Village.mmrs",
+    "preview": "",
+    "hash": "7bfbd8890cc042bff5e151297dfe2c6a"
+  },
+  {
+    "uuid": "8711cec5-f0d6-4afb-8c1a-9a1bc9511089",
+    "creationDate": "2026-09-11T03:35:31.919Z",
+    "game": "Mother 3",
+    "song": "16 Melodies",
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/16 Melodies.mmrs",
+    "preview": "",
+    "hash": "1e5d716248c5ca9cba3c851c14786fad"
+  },
+  {
+    "uuid": "5a8267d0-c3ee-41e9-b17b-2f2bbaf803f9",
+    "creationDate": "2026-09-11T03:35:31.941Z",
+    "game": "Mother 3",
+    "song": "A Railway in Our Village!",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/A Railway in Our Village!.mmrs",
+    "preview": "",
+    "hash": "1d13cb156955563b70c510de78af0482"
+  },
+  {
+    "uuid": "b8fffafd-34c3-4283-a721-bc77420cf5d6",
+    "creationDate": "2026-09-11T03:35:31.970Z",
+    "game": "Mother 3",
+    "song": "Fun Naming",
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Fun Naming.mmrs",
+    "preview": "",
+    "hash": "3a1228eae98ed7f7a76a400ca8e80467"
+  },
+  {
+    "uuid": "cae005e5-7d12-4ee0-8e8f-579f52f271a5",
+    "creationDate": "2026-09-11T03:35:31.987Z",
+    "game": "Mother 3",
+    "song": "Happy Town",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Happy Town.mmrs",
+    "preview": "",
+    "hash": "3f738ce0efcf90f0d10ad9aac6ec28bd"
+  },
+  {
+    "uuid": "69cd5846-1a78-4a53-b792-a7edb411527e",
+    "creationDate": "2026-09-11T03:35:32.018Z",
+    "game": "Mother 3",
+    "song": "Hard Rain",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Hard Rain.mmrs",
+    "preview": "",
+    "hash": "7408c886d3ab33834ae0775b7ebdd5f8"
+  },
+  {
+    "uuid": "8bae6928-d5ea-431b-be8b-b85766cd5fe0",
+    "creationDate": "2026-09-11T03:35:32.035Z",
+    "game": "Mother 3",
+    "song": "Love Theme",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Love Theme.mmrs",
+    "preview": "",
+    "hash": "4ea8a07b428e3da9d5a811769f9fe213"
+  },
+  {
+    "uuid": "85e70205-1efe-4423-8954-9ffe15ae90d7",
+    "creationDate": "2026-09-11T03:35:32.065Z",
+    "game": "Mother 3",
+    "song": "Memory of Life",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Memory of Life.mmrs",
+    "preview": "",
+    "hash": "e46e1e2714e6dd3e66fca938a78cc6d0"
+  },
+  {
+    "uuid": "1f40c8c6-624c-4356-8de0-2c8a40205e98",
+    "creationDate": "2026-09-11T03:35:32.108Z",
+    "game": "Mother 3",
+    "song": "Mom's Hometown [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Mom's Hometown [2].mmrs",
+    "preview": "",
+    "hash": "8dca2e3bd76f158b96b341df8bd99386"
+  },
+  {
+    "uuid": "965a51db-cccd-486d-84dd-ea3f397786df",
+    "creationDate": "2026-09-11T03:35:32.177Z",
+    "game": "Mother 3",
+    "song": "Monkey's Love Song",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Monkey's Love Song.mmrs",
+    "preview": "",
+    "hash": "1061e74f0d6719121b13443e9c3efe72"
+  },
+  {
+    "uuid": "eee12829-8f86-45f8-9554-0a269899b022",
+    "creationDate": "2026-09-11T03:35:32.195Z",
+    "game": "Mother 3",
+    "song": "Natural Killer Cyborg",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Mother 3/Natural Killer Cyborg.mmrs",
+    "preview": "",
+    "hash": "118fb0ab42937f2f8f6550bfe5402936"
+  },
+  {
+    "uuid": "27c37603-3c86-404a-9c3a-3fb4c54619f7",
+    "creationDate": "2026-09-11T03:35:32.543Z",
+    "game": "New Super Mario Bros.",
+    "song": "Main Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "New Super Mario Bros/Main Theme.mmrs",
+    "preview": "",
+    "hash": "7fdaa621a99cbd86d3d23d031b96d80b"
+  },
+  {
+    "uuid": "54c16404-3b13-44a8-8057-83b52895a3f5",
+    "creationDate": "2026-09-11T03:35:33.181Z",
+    "game": "Nine Hours, Nine Persons, Nine Doors",
+    "song": "Morphogenetic Sorrow",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nine Hours, Nine Persons, Nine Doors/Morphogenetic Sorrow.mmrs",
+    "preview": "",
+    "hash": "262377a8f27f47b7976cad423ae0a6f9"
+  },
+  {
+    "uuid": "97167e90-99dc-4282-9c21-1718438cf862",
+    "creationDate": "2026-09-11T03:35:33.391Z",
+    "game": "Octopath Traveler",
+    "song": "Battle 2",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Battle 2.mmrs",
+    "preview": "",
+    "hash": "aaf21136300b252330b662a19f1b21f2"
+  },
+  {
+    "uuid": "e667795f-61b1-4f6b-967b-685f04fab795",
+    "creationDate": "2026-09-11T03:35:33.410Z",
+    "game": "Octopath Traveler",
+    "song": "Daughter of the Dark God",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Octopath Traveler/Daughter of the Dark God.mmrs",
+    "preview": "",
+    "hash": "3e220eb8eb9728fe55cc56a54a8cf911"
+  },
+  {
+    "uuid": "c0966de8-a93b-4305-b5e3-d849d74ea755",
+    "creationDate": "2026-09-11T03:35:36.649Z",
+    "game": "Parasite Eve",
+    "song": "Arise Within You",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Parasite Eve/Arise Within You.mmrs",
+    "preview": "",
+    "hash": "d393747c686b795c11b492b022ae81a7"
+  },
+  {
+    "uuid": "4a113f7e-1b2b-4096-b1a5-cf8644503ac7",
+    "creationDate": "2026-09-11T03:35:36.973Z",
+    "game": "Persona 2: Eternal Punishment",
+    "song": "Maya's Theme",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 2 Eternal Punishment/Maya's Theme.mmrs",
+    "preview": "",
+    "hash": "8b056fd6327c8275d9b99d433e737f88"
+  },
+  {
+    "uuid": "d646d813-1a1f-4594-80f2-05da939f1d6f",
+    "creationDate": "2026-09-11T03:35:37.039Z",
+    "game": "Persona 3",
+    "song": "Burn My Dread",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/Burn My Dread.mmrs",
+    "preview": "",
+    "hash": "db96d8a03fa39ab253cf8a159a369842"
+  },
+  {
+    "uuid": "df56fc95-bacc-4b51-9f6e-464ca0823b68",
+    "creationDate": "2026-09-11T03:35:37.063Z",
+    "game": "Persona 3",
+    "song": "Changing Seasons",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/Changing Seasons.mmrs",
+    "preview": "",
+    "hash": "0307e979d671c986c81ddbff02ce302e"
+  },
+  {
+    "uuid": "8dbe3a40-5d50-41e0-a1e3-73cb30818e68",
+    "creationDate": "2026-09-11T03:35:37.130Z",
+    "game": "Persona 3",
+    "song": "Living With Determination",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/Living With Determination.mmrs",
+    "preview": "",
+    "hash": "372a3a873272b1cef8bd72831b07b830"
+  },
+  {
+    "uuid": "3c40b31d-d161-4afd-a088-3422c78f8850",
+    "creationDate": "2026-09-11T03:35:37.228Z",
+    "game": "Persona 3",
+    "song": "When The Moon's Reaching Out Stars",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3/When The Moon's Reaching Out Stars.mmrs",
+    "preview": "",
+    "hash": "b7b0ed58b00f072d4e22852401397d77"
+  },
+  {
+    "uuid": "64a01f53-2ea4-4e73-8dbf-c476cad9f68b",
+    "creationDate": "2026-09-11T03:35:37.288Z",
+    "game": "Persona 3 Portable",
+    "song": "A Way Of Life",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3 Portable/A Way Of Life.mmrs",
+    "preview": "",
+    "hash": "403d4f2f8b6f5c0b1bf3f4fee3533cdb"
+  },
+  {
+    "uuid": "12579102-ab36-471b-8c4c-63fccab5f6e1",
+    "creationDate": "2026-09-11T03:35:37.368Z",
+    "game": "Persona 3 Portable",
+    "song": "Sun",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3 Portable/Sun.mmrs",
+    "preview": "",
+    "hash": "f00e4bc675cbdb5a3ee4b41a9d2cba42"
+  },
+  {
+    "uuid": "8eb3a5d7-44bc-4290-891e-deadebc592b5",
+    "creationDate": "2026-09-11T03:35:37.396Z",
+    "game": "Persona 3 Portable",
+    "song": "Time",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 3 Portable/Time.mmrs",
+    "preview": "",
+    "hash": "ac0856e88374289530320c9dbc64b6a1"
+  },
+  {
+    "uuid": "ad0e4bc8-4da8-42fa-bb62-b8ff2e96aeca",
+    "creationDate": "2026-09-11T03:35:37.656Z",
+    "game": "Persona 5",
+    "song": "Blooming Villain",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Blooming Villain.mmrs",
+    "preview": "",
+    "hash": "5b01df6adfa97e14bed0449b060aee78"
+  },
+  {
+    "uuid": "e2e974d6-353e-4e7c-baf4-468a2b0c7178",
+    "creationDate": "2026-09-11T03:35:37.844Z",
+    "game": "Persona 5",
+    "song": "Price",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Price.mmrs",
+    "preview": "",
+    "hash": "97142ac5be1a1b02709677617d9ad10e"
+  },
+  {
+    "uuid": "0e64ec3f-2c68-42e5-bb65-8e5590e45380",
+    "creationDate": "2026-09-11T03:35:37.906Z",
+    "game": "Persona 5",
+    "song": "Swear to My Bones",
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Swear to My Bones.mmrs",
+    "preview": "",
+    "hash": "93a90a884330bc49990176faf50ab854"
+  },
+  {
+    "uuid": "3fea316f-1cb5-439c-adbe-5d79f8aee91a",
+    "creationDate": "2026-09-11T03:35:37.965Z",
+    "game": "Persona 5",
+    "song": "Will Power",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5/Will Power.mmrs",
+    "preview": "",
+    "hash": "5eaa7cf45fdd0ad18c6c22285b6277d5"
+  },
+  {
+    "uuid": "12a2a9b1-1fbe-48ba-bd09-3f118c6eb778",
+    "creationDate": "2026-09-11T03:35:37.996Z",
+    "game": "Persona 5 Royal",
+    "song": "Colors Flying High",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5 Royal/Colors Flying High.mmrs",
+    "preview": "",
+    "hash": "651ccf0e45fde0a293ca594adf314e72"
+  },
+  {
+    "uuid": "ab614ca2-5798-413b-bf5b-e27fe979e215",
+    "creationDate": "2026-09-11T03:35:38.064Z",
+    "game": "Persona 5 Royal",
+    "song": "I Believe",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5 Royal/I Believe.mmrs",
+    "preview": "",
+    "hash": "377f32cb21d861f4553a287783da6460"
+  },
+  {
+    "uuid": "e6fd70f8-6ce6-4349-8e97-93139ccfd5b2",
+    "creationDate": "2026-09-11T03:35:38.104Z",
+    "game": "Persona 5 Royal",
+    "song": "Take Over",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Persona 5 Royal/Take Over.mmrs",
+    "preview": "",
+    "hash": "a2e312489f46dc50e27647b9a69ebb43"
+  },
+  {
+    "uuid": "9be2c789-1dc3-4174-be6e-a184bd8afa90",
+    "creationDate": "2026-09-11T03:35:39.498Z",
+    "game": "Pikmin 2",
+    "song": "Perplexing Pool (Olimar)",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pikmin 2/Perplexing Pool (Olimar).mmrs",
+    "preview": "",
+    "hash": "ae6fc06f4cb7fbb05e0242a2f18cf181"
+  },
+  {
+    "uuid": "1a9b3c11-f937-48aa-b68e-de63c85a8fc2",
+    "creationDate": "2026-09-11T03:35:39.541Z",
+    "game": "Pikmin 2",
+    "song": "Perplexing Pool (Olimar, Battle)",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pikmin 2/Perplexing Pool (Olimar, Battle).mmrs",
+    "preview": "",
+    "hash": "b50233632f31812ebc95c27b5193adef"
+  },
+  {
+    "uuid": "8f678f2b-d623-42ac-9931-3d0d1e7d738a",
+    "creationDate": "2026-09-11T03:35:39.764Z",
+    "game": "Plants vs. Zombies",
+    "song": "Graze the Roof",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Plants vs. Zombies/Graze the Roof.mmrs",
+    "preview": "",
+    "hash": "c12509e3c706be9ee87028af6cd2f3ed"
+  },
+  {
+    "uuid": "1e76f397-a299-48d0-96c3-5a291a8e5263",
+    "creationDate": "2026-09-11T03:35:39.823Z",
+    "game": "Plants vs. Zombies",
+    "song": "Moongrains",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Plants vs. Zombies/Moongrains.mmrs",
+    "preview": "",
+    "hash": "63bb5c85c5cf1348f8e1271045692b98"
+  },
+  {
+    "uuid": "f18003b2-203b-470e-b85a-af5b76329526",
+    "creationDate": "2026-09-11T03:35:39.853Z",
+    "game": "Plants vs. Zombies",
+    "song": "Rigor Mormist",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Plants vs. Zombies/Rigor Mormist.mmrs",
+    "preview": "",
+    "hash": "0b80d0b62d8ff4389dd93e8ecfb39ee9"
+  },
+  {
+    "uuid": "4c4e508d-7cbc-4225-a119-b7f3b5a35f3c",
+    "creationDate": "2026-09-11T03:35:39.885Z",
+    "game": "Plants vs. Zombies",
+    "song": "Ultimate Battle",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Plants vs. Zombies/Ultimate Battle.mmrs",
+    "preview": "",
+    "hash": "58179784531b85f64736720b67b0d3db"
+  },
+  {
+    "uuid": "0564aff1-bcc6-45f2-b20c-a9fa4645dd1f",
+    "creationDate": "2026-09-11T03:35:39.913Z",
+    "game": "Plants vs. Zombies",
+    "song": "Watery Graves",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Plants vs. Zombies/Watery Graves.mmrs",
+    "preview": "",
+    "hash": "870d33e7028722c698595895e1ae9104"
+  },
+  {
+    "uuid": "c9a86bd3-bd4b-48bb-b9f9-4cad9dcd50b3",
+    "creationDate": "2026-09-11T03:35:41.209Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Cyrus",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Cyrus.mmrs",
+    "preview": "",
+    "hash": "de147de5368c1b9f4c3040541f6aef1e"
+  },
+  {
+    "uuid": "44b460d9-36ba-488c-a2ef-0b7b85285447",
+    "creationDate": "2026-09-11T03:35:41.248Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Team Galactic",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Team Galactic.mmrs",
+    "preview": "",
+    "hash": "5a5959f5bdc8b7dcf484fe9b1dc4a3ff"
+  },
+  {
+    "uuid": "82e7b150-c048-4508-ada9-748b0b9da73f",
+    "creationDate": "2026-09-11T03:35:41.259Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Battle! Trainer",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Battle! Trainer.mmrs",
+    "preview": "",
+    "hash": "8aa0d8dd0caf3b0da52f239032502bd2"
+  },
+  {
+    "uuid": "2fc14936-d4d1-454f-b337-d67b63c76436",
+    "creationDate": "2026-09-11T03:35:41.339Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Congratulations! Your Pokémon Evolved!",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Congratulations! Your Pokémon Evolved!.mmrs",
+    "preview": "",
+    "hash": "a716c8ac65f1059f44eed30d5882c9a8"
+  },
+  {
+    "uuid": "7dd6c727-7c20-42f5-99a2-5de8c77cbeec",
+    "creationDate": "2026-09-11T03:35:41.401Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Contest Hall",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Contest Hall.mmrs",
+    "preview": "",
+    "hash": "0d03c50c8c657e6ddeba3c362cc818e8"
+  },
+  {
+    "uuid": "2d58a18b-40fd-4d41-9e9d-fa110b9c804b",
+    "creationDate": "2026-09-11T03:35:41.487Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Eterna City",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Eterna City.mmrs",
+    "preview": "",
+    "hash": "6934f812e12f66d004523e2964df5dd7"
+  },
+  {
+    "uuid": "7ec724b8-ba77-4219-871d-f486d53cd10f",
+    "creationDate": "2026-09-11T03:35:41.818Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Obtained a TM!",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Obtained a TM!.mmrs",
+    "preview": "",
+    "hash": "b379e4d513d1b58a1ff0c42498e5c1e3"
+  },
+  {
+    "uuid": "8b37a919-e327-4afd-91b7-d53493a0b245",
+    "creationDate": "2026-09-11T03:35:42.076Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Route 203",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Route 203.mmrs",
+    "preview": "",
+    "hash": "2def10af91fe6b69c1cae60df5206984"
+  },
+  {
+    "uuid": "53d91e2f-963b-4630-867d-7ab9bed34785",
+    "creationDate": "2026-09-11T03:35:42.127Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Route 209",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Route 209.mmrs",
+    "preview": "",
+    "hash": "8f189463668a6fdcd637df30d5c169ea"
+  },
+  {
+    "uuid": "e4a28bcc-9159-43cc-accf-482ec79da5da",
+    "creationDate": "2026-09-11T03:35:42.236Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Stark Mountain",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Stark Mountain.mmrs",
+    "preview": "",
+    "hash": "e803dcad29787c75d3a7ef97df23b77a"
+  },
+  {
+    "uuid": "6c76365c-15dd-4b77-9fd7-2c4a0389bd34",
+    "creationDate": "2026-09-11T03:35:42.292Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Sunyshore City",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Sunyshore City.mmrs",
+    "preview": "",
+    "hash": "a65467f20a48cd0c9170619460fa1541"
+  },
+  {
+    "uuid": "40ac453b-619d-4b1e-8b5c-2006031867df",
+    "creationDate": "2026-09-11T03:35:42.347Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Survival Area",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Survival Area.mmrs",
+    "preview": "",
+    "hash": "aedb4a797b68e341884ec1f1476ce75f"
+  },
+  {
+    "uuid": "e1fec199-9d99-4109-9b3c-6f8571d3ee6d",
+    "creationDate": "2026-09-11T03:35:42.492Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Veilstone City",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Veilstone City.mmrs",
+    "preview": "",
+    "hash": "e30f2e18670db6a0a56c35df9b3c8d93"
+  },
+  {
+    "uuid": "e24aaa15-8e59-401b-9ced-3ecd76bee292",
+    "creationDate": "2026-09-11T03:35:42.528Z",
+    "game": "Pokémon Diamond, Pearl & Platinum",
+    "song": "Victory! Team Galactic",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Diamond, Pearl & Platinum/Victory! Team Galactic.mmrs",
+    "preview": "",
+    "hash": "a91879da263bef2cb2042a6837acc47f"
+  },
+  {
+    "uuid": "cd3627bf-86a0-497b-8d0d-3d0f701f3052",
+    "creationDate": "2026-09-11T03:35:42.627Z",
+    "game": "Pokémon FireRed & LeafGreen",
+    "song": "Lavender Town",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon FireRed & LeafGreen/Lavender Town.mmrs",
+    "preview": "",
+    "hash": "6a3b2c023297a2bcad7b50826a5c2f84"
+  },
+  {
+    "uuid": "68592a02-bab4-4253-a47a-d4f19dfc0535",
+    "creationDate": "2026-09-11T03:35:45.707Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! Gym Leader",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Gym Leader.mmrs",
+    "preview": "",
+    "hash": "aeee261b326691c87d6503971b9ff0fe"
+  },
+  {
+    "uuid": "52eb0cd8-60f6-4caf-9258-0c7443650a35",
+    "creationDate": "2026-09-11T03:35:45.843Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! Rival",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! Rival.mmrs",
+    "preview": "",
+    "hash": "eca7fbfe6ec54ff313263871a2f6b17b"
+  },
+  {
+    "uuid": "9cb80f05-b327-4ccc-ab5c-36e71d2eab13",
+    "creationDate": "2026-09-11T03:35:59.865Z",
+    "game": "Pokémon Sun & Moon",
+    "song": "Battle! Solgaleo & Lunala",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon Sun & Moon/Battle! Solgaleo & Lunala.mmrs",
+    "preview": "",
+    "hash": "d507ddf01a5fb62ffaab1c0ead58b0c5"
+  },
+  {
+    "uuid": "828e6d0b-e3c6-4043-9363-53be7e48f5d8",
+    "creationDate": "2026-09-11T03:36:00.115Z",
+    "game": "Pokémon X & Y",
+    "song": "Anistar City",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Anistar City.mmrs",
+    "preview": "",
+    "hash": "ca965972b7c6d1a839a946a1e70a4d3b"
+  },
+  {
+    "uuid": "9e5a9ec7-b4e9-4fb6-884a-9b62fcffdffd",
+    "creationDate": "2026-09-11T03:36:00.145Z",
+    "game": "Pokémon X & Y",
+    "song": "Aquacorde Town",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Aquacorde Town.mmrs",
+    "preview": "",
+    "hash": "00502910d7a677f34cc701666eb9c1f2"
+  },
+  {
+    "uuid": "7942b011-7c38-437d-9451-ac4b84635cd3",
+    "creationDate": "2026-09-11T03:36:00.199Z",
+    "game": "Pokémon X & Y",
+    "song": "Battle! Trainer",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Battle! Trainer.mmrs",
+    "preview": "",
+    "hash": "03c84fd491c1d069138d258ec62363a4"
+  },
+  {
+    "uuid": "599fcc06-d516-4fe2-a081-cf2b3cd5ce8d",
+    "creationDate": "2026-09-11T03:36:00.232Z",
+    "game": "Pokémon X & Y",
+    "song": "Bicycle",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Bicycle.mmrs",
+    "preview": "",
+    "hash": "cb48fdc4889c28bfc6e9a54ead78a303"
+  },
+  {
+    "uuid": "0feb5e1c-6739-4f37-a9ae-082ee9d90589",
+    "creationDate": "2026-09-11T03:36:00.282Z",
+    "game": "Pokémon X & Y",
+    "song": "Kalos Power Plant",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Kalos Power Plant.mmrs",
+    "preview": "",
+    "hash": "ab9facffcd20456b3f467e185f2a0837"
+  },
+  {
+    "uuid": "3e23ed48-c789-4e18-90d0-4c692a5372fe",
+    "creationDate": "2026-09-11T03:36:00.308Z",
+    "game": "Pokémon X & Y",
+    "song": "Laverre City",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Laverre City.mmrs",
+    "preview": "",
+    "hash": "7399a37cf49994bdbd24afbb3d535b80"
+  },
+  {
+    "uuid": "bc8c8902-128f-4f18-a2a7-52ae7c4590ce",
+    "creationDate": "2026-09-11T03:36:00.341Z",
+    "game": "Pokémon X & Y",
+    "song": "Lumiose City",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Pokémon X & Y/Lumiose City.mmrs",
+    "preview": "",
+    "hash": "5240515c9a0602e1f989fda0b675c160"
+  },
+  {
+    "uuid": "30d2276f-9b73-4c2a-bf90-1b1170358f54",
+    "creationDate": "2026-09-11T03:36:00.576Z",
+    "game": "Portal",
+    "song": "Still Alive",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Portal/Still Alive.mmrs",
+    "preview": "",
+    "hash": "07fdeb0a5e696d75c9dd09557abfcf95"
+  },
+  {
+    "uuid": "13570466-cea4-4529-9c0b-b7d1929260d2",
+    "creationDate": "2026-09-11T03:36:00.691Z",
+    "game": "Psycho Soldier",
+    "song": "Psycho Soldier",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Psycho Soldier/Psycho Soldier.mmrs",
+    "preview": "",
+    "hash": "1db601385f4709353d84549690f14154"
+  },
+  {
+    "uuid": "7e5ba380-0331-493c-a57f-7055423183a2",
+    "creationDate": "2026-09-11T03:36:00.848Z",
+    "game": "Puyo Puyo Tsu",
+    "song": "Demo 1",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Puyo Puyo Tsu/Demo 1.mmrs",
+    "preview": "",
+    "hash": "5155f3a84c49577adeae93d83669336a"
+  },
+  {
+    "uuid": "cb54a6e2-d3f5-4570-82f8-98ccfa8aefdf",
+    "creationDate": "2026-09-11T03:36:00.895Z",
+    "game": "Puyo Puyo Tsu",
+    "song": "The Top Floor",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Puyo Puyo Tsu/The Top Floor.mmrs",
+    "preview": "",
+    "hash": "ae7ee94612df2d8ccf783d85d2de1fc1"
+  },
+  {
+    "uuid": "b84a43aa-22ba-4176-86cf-c7b4885ec33f",
+    "creationDate": "2026-09-11T03:36:03.018Z",
+    "game": "RuneScape",
+    "song": "Lava Falls",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "RuneScape/Lava Falls.mmrs",
+    "preview": "",
+    "hash": "c597a56f3434a8475c84da68e143413a"
+  },
+  {
+    "uuid": "6111c0c7-89d3-4afb-8d23-87380572e47e",
+    "creationDate": "2026-09-11T03:36:03.360Z",
+    "game": "Shadow the Hedgehog",
+    "song": "Lava Shelter",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shadow the Hedgehog/Lava Shelter.mmrs",
+    "preview": "",
+    "hash": "4a017bae0b4ed03885a2fda1a5176736"
+  },
+  {
+    "uuid": "73a21ee1-d322-4077-8358-ea65ab2aff58",
+    "creationDate": "2026-09-11T03:36:03.409Z",
+    "game": "Shadow the Hedgehog",
+    "song": "Never Turn Back",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shadow the Hedgehog/Never Turn Back.mmrs",
+    "preview": "",
+    "hash": "67a9619bddb6aa60a91c3ae0eef36cb0"
+  },
+  {
+    "uuid": "fcdab9d9-6a91-405b-adf2-e28aaf975173",
+    "creationDate": "2026-09-11T03:36:03.725Z",
+    "game": "Shin Megami Tensei",
+    "song": "Home",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei/Home.mmrs",
+    "preview": "",
+    "hash": "744b9969f32f0152bc461b4d9b2cc5de"
+  },
+  {
+    "uuid": "438308a0-5a98-43df-8e55-7a215c11fe44",
+    "creationDate": "2026-09-11T03:36:04.370Z",
+    "game": "Shin Megami Tensei IV",
+    "song": "Tokyo [2]",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Shin Megami Tensei IV/Tokyo [2].mmrs",
+    "preview": "",
+    "hash": "ec2715aeea2ddbfc7628179abd1843a5"
+  },
+  {
+    "uuid": "80c4b516-4696-4f05-8b8f-dcd5e0daa666",
+    "creationDate": "2026-09-11T03:36:04.748Z",
+    "game": "Skies of Arcadia",
+    "song": "Bombardment",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Skies of Arcadia/Bombardment.mmrs",
+    "preview": "",
+    "hash": "686d45d1ccbda3e7e1e6d3a71150c7d1"
+  },
+  {
+    "uuid": "a69d36c3-d64a-4a3f-9fb9-a5e4e174d97a",
+    "creationDate": "2026-09-11T03:36:04.922Z",
+    "game": "Sonic & Knuckles",
+    "song": "Death Egg Zone",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic & Knuckles/Death Egg Zone.mmrs",
+    "preview": "",
+    "hash": "7d60755ce3c3225f13ba5ff1531ef99f"
+  },
+  {
+    "uuid": "9b2d757a-9752-4c0b-9b21-5fe953caaf85",
+    "creationDate": "2026-09-11T03:36:04.948Z",
+    "game": "Sonic & Knuckles",
+    "song": "Extra Life",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic & Knuckles/Extra Life.mmrs",
+    "preview": "",
+    "hash": "679b8980b983d6a9169119852460ca1d"
+  },
+  {
+    "uuid": "fab480e2-4ad9-46a4-b95c-cb1d4f2ea812",
+    "creationDate": "2026-09-11T03:36:05.085Z",
+    "game": "Sonic & Knuckles",
+    "song": "Unused Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic & Knuckles/Unused Theme.mmrs",
+    "preview": "",
+    "hash": "c0795d5d774e6d67234243608469c533"
+  },
+  {
+    "uuid": "0db4a3d1-82a3-4534-82b9-db8692216b89",
+    "creationDate": "2026-09-11T03:36:05.112Z",
+    "game": "Sonic & Knuckles Collection",
+    "song": "Launch Base Zone (Act 2)",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic & Knuckles Collection/Launch Base Zone (Act 2).mmrs",
+    "preview": "",
+    "hash": "54076e1e15dc35c296525c30f411c747"
+  },
+  {
+    "uuid": "79d17b82-6660-46f8-9683-045778c6e2ec",
+    "creationDate": "2026-09-11T03:36:05.184Z",
+    "game": "Sonic Adventure",
+    "song": "Mechanical Resonance ...for Final Egg",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/Mechanical Resonance ...for Final Egg.mmrs",
+    "preview": "",
+    "hash": "813f8f95bb0039bd3aeebd728f91027d"
+  },
+  {
+    "uuid": "c2a08f04-645c-426d-a1cc-984e8857f918",
+    "creationDate": "2026-09-11T03:36:05.229Z",
+    "game": "Sonic Adventure",
+    "song": "Run Through the Speed Highway ...for Speed Highway",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/Run Through the Speed Highway ...for Speed Highway.mmrs",
+    "preview": "",
+    "hash": "a5dffe72345d51800631f884a5a09878"
+  },
+  {
+    "uuid": "5ebc5a95-7124-4e23-9714-c177d6a860e8",
+    "creationDate": "2026-09-11T03:36:05.255Z",
+    "game": "Sonic Adventure",
+    "song": "Theme of CHAO",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure/Theme of CHAO.mmrs",
+    "preview": "",
+    "hash": "7686f936b07dd53ba955d58a114c3d11"
+  },
+  {
+    "uuid": "e98792fd-73b2-4b9e-81e1-6c764e5d2b0a",
+    "creationDate": "2026-09-11T03:36:05.671Z",
+    "game": "Sonic Adventure 2",
+    "song": "Won't Stop, Just Go! ...for Green Forest",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Adventure 2/Won't Stop, Just Go! ...for Green Forest.mmrs",
+    "preview": "",
+    "hash": "fe808da9dd066eaa1cb0e74b00369ceb"
+  },
+  {
+    "uuid": "9d204850-c99c-4dc3-a518-805d2a044ba6",
+    "creationDate": "2026-09-11T03:36:05.745Z",
+    "game": "Sonic CD",
+    "song": "Collision Chaos Good Future (JP)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic CD/Collision Chaos Good Future (JP).mmrs",
+    "preview": "",
+    "hash": "7f19a2cdcb469bb244acd3e8eb89e123"
+  },
+  {
+    "uuid": "7b771d4d-6a4c-49a3-9dab-2e5ec91d425a",
+    "creationDate": "2026-09-11T03:36:05.777Z",
+    "game": "Sonic CD",
+    "song": "Collision Chaos Present (JP)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic CD/Collision Chaos Present (JP).mmrs",
+    "preview": "",
+    "hash": "27c4d0dde5220c1a21ce3741a1c5f297"
+  },
+  {
+    "uuid": "bb80bb99-97a8-4f39-b96c-a7981863d1d3",
+    "creationDate": "2026-09-11T03:36:05.809Z",
+    "game": "Sonic CD",
+    "song": "Metallic Madness Good Future (JP)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic CD/Metallic Madness Good Future (JP).mmrs",
+    "preview": "",
+    "hash": "a5357c1cca0df05814a08286f0b86a03"
+  },
+  {
+    "uuid": "c3e0f8a7-7324-4e99-b606-87661ec5a454",
+    "creationDate": "2026-09-11T03:36:05.848Z",
+    "game": "Sonic CD",
+    "song": "Quartz Quadrant Good Future (JP)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic CD/Quartz Quadrant Good Future (JP).mmrs",
+    "preview": "",
+    "hash": "e0a27859676ba35bb33ec95736f9dbaa"
+  },
+  {
+    "uuid": "190fa6f8-0f70-49a3-85f0-4f99cb44fb1a",
+    "creationDate": "2026-09-11T03:36:05.878Z",
+    "game": "Sonic CD",
+    "song": "Tidal Tempest Present (JP)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic CD/Tidal Tempest Present (JP).mmrs",
+    "preview": "",
+    "hash": "5759211fde71f66636eafebc551580cf"
+  },
+  {
+    "uuid": "0a6eb4e0-0162-462e-9f0f-58c2070d1e2b",
+    "creationDate": "2026-09-11T03:36:05.907Z",
+    "game": "Sonic CD",
+    "song": "Wacky Workbench Past (JP)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic CD/Wacky Workbench Past (JP).mmrs",
+    "preview": "",
+    "hash": "e9c662c68d0a2b3553381df785c33082"
+  },
+  {
+    "uuid": "2dfaf1b5-1481-4de5-abc8-58f0dfecb781",
+    "creationDate": "2026-09-11T03:36:05.985Z",
+    "game": "Sonic Forces",
+    "song": "Sunset Heights",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Forces/Sunset Heights.mmrs",
+    "preview": "",
+    "hash": "c8ef2305846481fe205e63b958448c15"
+  },
+  {
+    "uuid": "c876a64c-e02e-4427-a0cc-c30397274eb7",
+    "creationDate": "2026-09-11T03:36:06.213Z",
+    "game": "Sonic Mania",
+    "song": "Stardust Speedway Zone Act 1",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Mania/Stardust Speedway Zone Act 1.mmrs",
+    "preview": "",
+    "hash": "fee63cd8318d99f169b377ac23b4717d"
+  },
+  {
+    "uuid": "3549f119-06af-4d98-9cd5-4d987d015278",
+    "creationDate": "2026-09-11T03:36:06.240Z",
+    "game": "Sonic Mania",
+    "song": "Tabloid Jargon - Press Garden Zone Act 1",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic Mania/Tabloid Jargon - Press Garden Zone Act 1.mmrs",
+    "preview": "",
+    "hash": "9c41addf38c6ea1883f671c8b68b3d09"
+  },
+  {
+    "uuid": "4e4082a7-6358-4119-be1e-88efbdfa749d",
+    "creationDate": "2026-09-11T03:36:06.550Z",
+    "game": "Sonic the Hedgehog",
+    "song": "Scrap Brain Zone",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog/Scrap Brain Zone.mmrs",
+    "preview": "",
+    "hash": "fcf54d6ce39cbe644b976ffbe73595ad"
+  },
+  {
+    "uuid": "a6b80034-8c40-471a-bb85-b257456bdd66",
+    "creationDate": "2026-09-11T03:36:06.699Z",
+    "game": "Sonic the Hedgehog (2006)",
+    "song": "Crisis City -The Flame-",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog (2006)/Crisis City -The Flame-.mmrs",
+    "preview": "",
+    "hash": "96f2fc130fdca0813f3903dd2632df5b"
+  },
+  {
+    "uuid": "5719c388-9246-425f-90b8-79bff0af6b1c",
+    "creationDate": "2026-09-11T03:36:06.940Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Blue Spheres",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Blue Spheres.mmrs",
+    "preview": "",
+    "hash": "b6163c250b5afc144916ed65237c99d0"
+  },
+  {
+    "uuid": "2f622c34-71a3-49cf-864c-168420265aa8",
+    "creationDate": "2026-09-11T03:36:07.215Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Hydrocity Zone (Act 2)",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sonic the Hedgehog 3/Hydrocity Zone (Act 2).mmrs",
+    "preview": "",
+    "hash": "d5d83ca4eff1ade18d4ffa5e115baa1c"
+  },
+  {
+    "uuid": "17993bfb-e468-4faf-a59e-c35cc6d81b4f",
+    "creationDate": "2026-09-11T03:36:08.481Z",
+    "game": "Star Fox",
+    "song": "Boss (Titania)",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Star Fox/Boss (Titania).mmrs",
+    "preview": "",
+    "hash": "45ecd7cbb707cdb543ebc5d88f448d59"
+  },
+  {
+    "uuid": "548bd0c8-1c12-4ab7-b6fc-4b429c8c86b6",
+    "creationDate": "2026-09-11T03:36:09.594Z",
+    "game": "Star Fox Assault",
+    "song": "Star Wolf",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Star Fox Assault/Star Wolf.mmrs",
+    "preview": "",
+    "hash": "fdf68e3b0bf4178e08cd75be3602f73d"
+  },
+  {
+    "uuid": "89db5b8e-883f-40bb-9d9a-adf972961d2b",
+    "creationDate": "2026-09-11T03:36:09.650Z",
+    "game": "Star Ocean",
+    "song": "For Achieve",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Star Ocean/For Achieve.mmrs",
+    "preview": "",
+    "hash": "7bd91b49a695796334d1013430aaa582"
+  },
+  {
+    "uuid": "49f15a90-b95a-4413-a79e-cd6c856fa1ed",
+    "creationDate": "2026-09-11T03:36:09.708Z",
+    "game": "Star Ocean: The Second Story",
+    "song": "Moderate",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Star Ocean The Second Story/Moderate.mmrs",
+    "preview": "",
+    "hash": "6423a7974065accea7f795f098201160"
+  },
+  {
+    "uuid": "3ac644ec-3fb7-470e-9c41-bdb6c2ebf6b7",
+    "creationDate": "2026-09-11T03:36:10.668Z",
+    "game": "Super Mario 3D World",
+    "song": "Super Bell Hill",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario 3D World/Super Bell Hill.mmrs",
+    "preview": "",
+    "hash": "bd976ebe358dc58035cac77c145611ce"
+  },
+  {
+    "uuid": "71881b29-062a-48bc-ba5b-b96aa42f3862",
+    "creationDate": "2026-09-11T03:36:10.765Z",
+    "game": "Super Mario 3D World",
+    "song": "The Bullet Bill Express",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario 3D World/The Bullet Bill Express.mmrs",
+    "preview": "",
+    "hash": "5a5e5a7fb13da902dc5d9a0e8ba05cc6"
+  },
+  {
+    "uuid": "685e8bb2-633c-4296-b243-4978235a0399",
+    "creationDate": "2026-09-11T03:36:10.888Z",
+    "game": "Super Mario 3D World + Bowser's Fury",
+    "song": "Scamper Shores",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario 3D World + Bowser's Fury/Scamper Shores.mmrs",
+    "preview": "",
+    "hash": "e99a1ac0ac51282e67e882eac55a2d81"
+  },
+  {
+    "uuid": "3beba953-69a1-4bd5-9422-f48f650d2d02",
+    "creationDate": "2026-09-11T03:36:13.863Z",
+    "game": "Super Mario Bros. 3",
+    "song": "Death",
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Bros. 3/Death.mmrs",
+    "preview": "",
+    "hash": "71fa9453de2650618d9a6db5f448c801"
+  },
+  {
+    "uuid": "89b3e382-c8ed-483d-aff2-33e7295970d9",
+    "creationDate": "2026-09-11T03:36:15.641Z",
+    "game": "Super Mario Odyssey",
+    "song": "Jump Up, Super Star!",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Odyssey/Jump Up, Super Star!.mmrs",
+    "preview": "",
+    "hash": "f5181a40f7e8599edf689d29efc93921"
+  },
+  {
+    "uuid": "7402d9f1-f723-4dd5-8030-1a05bfa2af86",
+    "creationDate": "2026-09-11T03:36:15.692Z",
+    "game": "Super Mario Odyssey",
+    "song": "New Donk City",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario Odyssey/New Donk City.mmrs",
+    "preview": "",
+    "hash": "b2281cfdfb39ce70e2ff1ba7e42d094b"
+  },
+  {
+    "uuid": "064841a2-c56d-4ea9-9961-f38ceffc4962",
+    "creationDate": "2026-09-11T03:36:17.497Z",
+    "game": "Super Mario World",
+    "song": "Bonus Game [2]",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Bonus Game [2].mmrs",
+    "preview": "",
+    "hash": "c97054df467a025e37c417eec423b23f"
+  },
+  {
+    "uuid": "95a54118-7796-4b6e-955b-48655151f2ac",
+    "creationDate": "2026-09-11T03:36:17.549Z",
+    "game": "Super Mario World",
+    "song": "Ending",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Mario World/Ending.mmrs",
+    "preview": "",
+    "hash": "be0eaa4daaab226d569f09a59643baa0"
+  },
+  {
+    "uuid": "d1f4a1ca-879f-4d0f-ac1b-e086b21dc625",
+    "creationDate": "2026-09-11T03:36:17.952Z",
+    "game": "Super Princess Peach",
+    "song": "Giddy Sky 1",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Princess Peach/Giddy Sky 1.mmrs",
+    "preview": "",
+    "hash": "6cf0eaec8ce8b12693946a3d17129d5d"
+  },
+  {
+    "uuid": "9a1dd2db-5be1-4bfb-9f10-ffbbd65d0b1a",
+    "creationDate": "2026-09-11T03:36:18.243Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Dialga & Palkia Battle at Spear Pillar!",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/Dialga & Palkia Battle at Spear Pillar!.mmrs",
+    "preview": "",
+    "hash": "59b36d2b0d42628f488324f4ee0a92e9"
+  },
+  {
+    "uuid": "82001277-e547-4ba7-a3f7-1579dc6b6159",
+    "creationDate": "2026-09-11T03:36:18.320Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Ending (Yoshi's Story)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/Ending (Yoshi's Story).mmrs",
+    "preview": "",
+    "hash": "59e81e1d5f49c3070d6085774de8957a"
+  },
+  {
+    "uuid": "a53482dd-2082-4c1d-9fb3-e712560f0864",
+    "creationDate": "2026-09-11T03:36:18.463Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "The Roost",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Brawl/The Roost.mmrs",
+    "preview": "",
+    "hash": "29419b3362fa0814e4dbd35b4d8130cc"
+  },
+  {
+    "uuid": "edd54dca-838d-44bd-bb1a-4044ba4a4970",
+    "creationDate": "2026-09-11T03:36:18.672Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Brinstar Depths",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Brinstar Depths.mmrs",
+    "preview": "",
+    "hash": "5fba3172eadd174638e7c3a0c846f6ef"
+  },
+  {
+    "uuid": "7c6ed270-f43f-4999-a15a-cbe7ff56a6ae",
+    "creationDate": "2026-09-11T03:36:18.818Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Fire Emblem",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Smash Bros. Melee/Fire Emblem.mmrs",
+    "preview": "",
+    "hash": "1a5e9182c1464fa91b626d662a1e8c28"
+  },
+  {
+    "uuid": "c04883f9-fecd-4d0b-9389-c16755571fbe",
+    "creationDate": "2026-09-11T03:36:22.562Z",
+    "game": "The King of Fighters '94",
+    "song": "Ne!",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The King of Fighters '94/Ne!.mmrs",
+    "preview": "",
+    "hash": "dcc69110ee58a3ad1cc63a0187fd052b"
+  },
+  {
+    "uuid": "6f363de5-de51-4116-84d0-2389d43beaa1",
+    "creationDate": "2026-09-11T03:36:22.590Z",
+    "game": "The King of Fighters '96",
+    "song": "Arashi no Saxophone 2",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The King of Fighters '96/Arashi no Saxophone 2.mmrs",
+    "preview": "",
+    "hash": "e833cc5318533abb5a3a0297eef77e76"
+  },
+  {
+    "uuid": "9d141441-0a63-494b-9dc9-295e343f53f5",
+    "creationDate": "2026-09-11T03:36:22.617Z",
+    "game": "The King of Fighters '96",
+    "song": "Esaka",
+    "type": "bgm",
+    "categories": [
+      "6",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The King of Fighters '96/Esaka.mmrs",
+    "preview": "",
+    "hash": "9c28df4a57d4ad45f293cb7509a79723"
+  },
+  {
+    "uuid": "091a9135-4abb-4af4-a6b2-84618f719e59",
+    "creationDate": "2026-09-11T03:36:22.829Z",
+    "game": "The Legend of Heroes: Trails in the Sky",
+    "song": "Sophisticated Fight",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Heroes Trails in the Sky/Sophisticated Fight.mmrs",
+    "preview": "",
+    "hash": "1d2a5feb65bc6a139cee6882cb602e96"
+  },
+  {
+    "uuid": "08d2ef36-f464-471d-aa24-34a1a12402e4",
+    "creationDate": "2026-09-11T03:36:22.856Z",
+    "game": "The Legend of Heroes: Trails in the Sky",
+    "song": "The Whereabouts of Light",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Heroes Trails in the Sky/The Whereabouts of Light.mmrs",
+    "preview": "",
+    "hash": "7091fc562c831119130cfaf7b9abc2f6"
+  },
+  {
+    "uuid": "e08de4cb-6138-4909-b7a7-7315171e8b5a",
+    "creationDate": "2026-09-11T03:36:23.271Z",
+    "game": "The Legend of Zelda: A Link Between Worlds",
+    "song": "Beginning Field",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link Between Worlds/Beginning Field.mmrs",
+    "preview": "",
+    "hash": "ba7a2662cb7bcd6f6e2d54e378c7fc61"
+  },
+  {
+    "uuid": "b8f23525-7f7d-44b0-97a2-5eb8eb56642c",
+    "creationDate": "2026-09-11T03:36:24.341Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Triforce Chamber",
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Triforce Chamber.mmrs",
+    "preview": "",
+    "hash": "6d82a62b1624380c8097a0fe7e2db66c"
+  },
+  {
+    "uuid": "a6d3d35f-857c-4ff5-893a-73069fdbce08",
+    "creationDate": "2026-09-11T03:36:24.378Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Triforce Obtain",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda A Link to the Past/Triforce Obtain.mmrs",
+    "preview": "",
+    "hash": "680890cbd328ab43e112028029eb5c6a"
+  },
+  {
+    "uuid": "4fbd5f1e-feff-48b3-b050-dd3864f1aacc",
+    "creationDate": "2026-09-11T03:36:24.693Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Attack on Vah Rudania",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Rudania.mmrs",
+    "preview": "",
+    "hash": "fa5cb59347680cbf79ca30aa7e2bb7dd"
+  },
+  {
+    "uuid": "aa039dec-2318-4cc9-8089-fb19d84ecf03",
+    "creationDate": "2026-09-11T03:36:24.727Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Attack on Vah Ruta",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Ruta.mmrs",
+    "preview": "",
+    "hash": "a2e0db1e3be1eadea210d17e9f78e26d"
+  },
+  {
+    "uuid": "f3432a04-bda0-42ad-8aa4-4657e8713476",
+    "creationDate": "2026-09-11T03:36:24.948Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Goron City",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Goron City.mmrs",
+    "preview": "",
+    "hash": "cf8230b6893763d4dc68d09f06c525e9"
+  },
+  {
+    "uuid": "280319d6-1181-4b78-a14c-89e7f2541fcb",
+    "creationDate": "2026-09-11T03:36:25.021Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Hateno Village",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Hateno Village.mmrs",
+    "preview": "",
+    "hash": "9384886663523778e4edd439ce55abe6"
+  },
+  {
+    "uuid": "9aa336ed-6f1d-44cf-9a02-5f91f3fd62a9",
+    "creationDate": "2026-09-11T03:36:25.331Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Rito Village",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Rito Village.mmrs",
+    "preview": "",
+    "hash": "6f66b8fa28357dab48bc2b2848142242"
+  },
+  {
+    "uuid": "0b687d9f-b5c3-4fb9-8292-9f5c28b51fa5",
+    "creationDate": "2026-09-11T03:36:25.443Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "The Lost Woods",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/The Lost Woods.mmrs",
+    "preview": "",
+    "hash": "6ca5b78e125957f1a4b23d612b5d5e74"
+  },
+  {
+    "uuid": "1666d5c9-f7ed-4b33-a2a8-c45ba0b96540",
+    "creationDate": "2026-09-11T03:36:25.478Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Vah Medoh Interior",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Vah Medoh Interior.mmrs",
+    "preview": "",
+    "hash": "5c04b1e4c279b716355623ddb107a61b"
+  },
+  {
+    "uuid": "ccf5c60e-d07f-443e-abdb-79bcb9034b68",
+    "creationDate": "2026-09-11T03:36:25.506Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Vah Rudania Interior",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Breath of the Wild/Vah Rudania Interior.mmrs",
+    "preview": "",
+    "hash": "e64d6e38050db5a8f61a710272bfea52"
+  },
+  {
+    "uuid": "dd49c5d2-4d2a-4a1d-92d0-c3690be20ac2",
+    "creationDate": "2026-09-11T03:36:25.613Z",
+    "game": "The Legend of Zelda: Echoes of Wisdom",
+    "song": "Hyrule Field",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Echoes of Wisdom/Hyrule Field.mmrs",
+    "preview": "",
+    "hash": "b32f4612234d8a18ebf90bebde6ca2cb"
+  },
+  {
+    "uuid": "cf190f77-044c-4694-a88d-8be3c5d9556c",
+    "creationDate": "2026-09-11T03:36:29.868Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Stone Tower Temple (Dark Remix)",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Dark Remix).mmrs",
+    "preview": "",
+    "hash": "2b52332d8ca71011235990b910f33c21"
+  },
+  {
+    "uuid": "fd499135-e56d-4ca3-b38a-3a95e39b71c2",
+    "creationDate": "2026-09-11T03:36:30.161Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Termina Field (Funeral Remix) [2]",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix) [2].mmrs",
+    "preview": "",
+    "hash": "cae021a44a6613b990c55ac39be69a77"
+  },
+  {
+    "uuid": "4de8db48-1389-4a33-8177-b9574b791002",
+    "creationDate": "2026-09-11T03:36:31.127Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Gerudo Ballad",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Ocarina of Time/Gerudo Ballad.mmrs",
+    "preview": "",
+    "hash": "059dc49955966c52b452d3cc67298bb1"
+  },
+  {
+    "uuid": "1ce7d007-b8f9-4de3-adc2-c82111324a0a",
+    "creationDate": "2026-09-11T03:36:35.501Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Minish Village [2]",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Minish Cap/Minish Village [2].mmrs",
+    "preview": "",
+    "hash": "c408e21b000a896d7df3bbef3d4e87e8"
+  },
+  {
+    "uuid": "913e3f2a-45b6-4023-9f91-412e101730f3",
+    "creationDate": "2026-09-11T03:36:35.570Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Palace of Winds",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Minish Cap/Palace of Winds.mmrs",
+    "preview": "",
+    "hash": "8e298cb78bd5e0dc548cf326edae683f"
+  },
+  {
+    "uuid": "d0175d8d-0c78-42fa-beae-25adcb73a20a",
+    "creationDate": "2026-09-11T03:36:35.658Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Title Screen",
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda The Minish Cap/Title Screen.mmrs",
+    "preview": "",
+    "hash": "8c8a390b0caef23d884f9fe042fca30f"
+  },
+  {
+    "uuid": "4a6af053-64b7-4cc2-9921-a55b3b09968e",
+    "creationDate": "2026-09-11T03:36:37.810Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field Night [2]",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field Night [2].mmrs",
+    "preview": "",
+    "hash": "612be92d6a603eff25383ad0d515e9a6"
+  },
+  {
+    "uuid": "3f1dfd19-c21e-43b0-b18e-bd8c57f70aef",
+    "creationDate": "2026-09-11T03:36:39.235Z",
+    "game": "Touhou 10: Mountain of Faith",
+    "song": "Native Faith",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 10 Mountain of Faith/Native Faith.mmrs",
+    "preview": "",
+    "hash": "d1c9d64c890735d4123429013dff3af6"
+  },
+  {
+    "uuid": "7483beb9-7de6-4b60-b3af-0638d06d59c7",
+    "creationDate": "2026-09-11T03:36:39.705Z",
+    "game": "Touhou 14: Double Dealing Character",
+    "song": "Dullahan Under the Willows",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 14 Double Dealing Character/Dullahan Under the Willows.mmrs",
+    "preview": "",
+    "hash": "4baa8856012a0740536afeddaac2db73"
+  },
+  {
+    "uuid": "1202e877-3e98-4778-8f61-a0bf81057b08",
+    "creationDate": "2026-09-11T03:36:39.762Z",
+    "game": "Touhou 14: Double Dealing Character",
+    "song": "Lonesome Werewolf",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 14 Double Dealing Character/Lonesome Werewolf.mmrs",
+    "preview": "",
+    "hash": "c73a9f74409f610a8151f04d21058caa"
+  },
+  {
+    "uuid": "7a26a863-3667-4689-b4f9-a3b9d3e6ae36",
+    "creationDate": "2026-09-11T03:36:40.227Z",
+    "game": "Touhou 3: The Phantasmagoria of Dim.Dream",
+    "song": "Reincarnation",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 3 The Phantasmagoria of Dim.Dream/Reincarnation.mmrs",
+    "preview": "",
+    "hash": "edcfbd6bfde5d00fb070b3903af1086a"
+  },
+  {
+    "uuid": "66781a43-aa26-4adc-9298-22dc050df9ce",
+    "creationDate": "2026-09-11T03:36:40.650Z",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
+    "song": "Shanghai Alice of Meiji 17",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Shanghai Alice of Meiji 17.mmrs",
+    "preview": "",
+    "hash": "54af6f46e4bd9f289f8362b66172d280"
+  },
+  {
+    "uuid": "f86932f3-dbb8-4a25-b16b-b0e6d0317ff3",
+    "creationDate": "2026-09-11T03:36:40.934Z",
+    "game": "Touhou 8: Imperishable Night",
+    "song": "Eastern Night",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 8 Imperishable Night/Eastern Night.mmrs",
+    "preview": "",
+    "hash": "ed5098fe811c0a48b1654202eba54b01"
+  },
+  {
+    "uuid": "4ab09bce-1a26-4499-82a9-d8729de71d37",
+    "creationDate": "2026-09-11T03:36:41.112Z",
+    "game": "Touhou 8: Imperishable Night",
+    "song": "Nostalgic Blood of the East ~ Old World",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Touhou 8 Imperishable Night/Nostalgic Blood of the East ~ Old World.mmrs",
+    "preview": "",
+    "hash": "9a3ab4d0d5a5d075cc7dd3caf0411b84"
+  },
+  {
+    "uuid": "a80df576-38bc-4bb6-ae9b-5575015134bd",
+    "creationDate": "2026-09-11T03:36:41.243Z",
+    "game": "Tower of Heaven",
+    "song": "Luna Ascension",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Tower of Heaven/Luna Ascension.mmrs",
+    "preview": "",
+    "hash": "36e8b0568015cf9454ebbe3da254e65d"
+  },
+  {
+    "uuid": "ca2f7073-0a36-4a6c-b7f7-fd1e06ff229d",
+    "creationDate": "2026-09-11T03:36:42.540Z",
+    "game": "Virtue's Last Reward",
+    "song": "Blue Bird Lamentation",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Virtue's Last Reward/Blue Bird Lamentation.mmrs",
+    "preview": "",
+    "hash": "3ab077ca0a335e4acd9b77e6900ef476"
+  },
+  {
+    "uuid": "f945361c-4efc-4888-8bd1-644a7278b6a7",
+    "creationDate": "2026-09-11T03:36:42.937Z",
+    "game": "Wario's Woods",
+    "song": "Versus",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wario's Woods/Versus.mmrs",
+    "preview": "",
+    "hash": "cd2a6198772fbf193c747f84518011df"
+  },
+  {
+    "uuid": "551c6fa0-4085-4607-8b4d-5c7e9ad88d78",
+    "creationDate": "2026-09-11T03:36:43.191Z",
+    "game": "Wii Sports Resort",
+    "song": "Main Theme",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Wii Sports Resort/Main Theme.mmrs",
+    "preview": "",
+    "hash": "9ce0f4b97b8b552444e4af1c78e78ab5"
+  },
+  {
+    "uuid": "f10f941f-8501-4507-9233-2e13f460e438",
+    "creationDate": "2026-09-11T03:36:43.653Z",
+    "game": "X",
+    "song": "Tunnel Scene",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "X/Tunnel Scene.mmrs",
+    "preview": "",
+    "hash": "19b71a2da154ca5ad213b630300104b7"
+  },
+  {
+    "uuid": "02cf1da4-ef38-497b-939a-0ab935865cd3",
+    "creationDate": "2026-09-11T03:36:44.057Z",
+    "game": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "song": "Battle!! Torna",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Battle!! Torna.mmrs",
+    "preview": "",
+    "hash": "aeef0ca3dd6d0e1c4adcfce30420068e"
+  },
+  {
+    "uuid": "37f38ebc-b98e-48ea-97d2-8bd04316d611",
+    "creationDate": "2026-09-11T03:36:44.677Z",
+    "game": "Yakuza 0",
+    "song": "24-Hour Cinderella (Finale)",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Yakuza 0/24-Hour Cinderella (Finale).mmrs",
+    "preview": "",
+    "hash": "5558bf864acfeedb9b33bcf4e2737cd6"
+  },
+  {
+    "uuid": "9ad1067c-75d5-4ee0-a72c-976b4c9e27ab",
+    "creationDate": "2026-09-11T03:36:44.716Z",
+    "game": "Yakuza 0",
+    "song": "24-Hour Cinderella",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Yakuza 0/24-Hour Cinderella.mmrs",
+    "preview": "",
+    "hash": "1db1d685745de3939d622986cada0fb6"
+  },
+  {
+    "uuid": "848beadb-cbfa-4a81-8491-e3e478726892",
+    "creationDate": "2026-09-11T03:36:45.399Z",
+    "game": "Your Turn To Die -Death Game By Majority-",
+    "song": "Clown's Song",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Your Turn To Die -Death Game By Majority-/Clown's Song.mmrs",
+    "preview": "",
+    "hash": "8d30a92491b20c17567a10a3a88ad04e"
+  },
+  {
+    "uuid": "32857e7d-25bf-495d-93f2-f23ebc86d9f5",
+    "creationDate": "2026-09-11T03:36:45.422Z",
+    "game": "Your Turn To Die -Death Game By Majority-",
+    "song": "Prayer",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Your Turn To Die -Death Game By Majority-/Prayer.mmrs",
+    "preview": "",
+    "hash": "bbad8833509f6ed1883800c673d5e2dc"
+  },
+  {
+    "uuid": "19966785-ee39-47b6-a90f-4da5202653c8",
+    "creationDate": "2026-09-11T03:36:45.444Z",
+    "game": "Your Turn To Die -Death Game By Majority-",
+    "song": "Tansaku 3",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Your Turn To Die -Death Game By Majority-/Tansaku 3.mmrs",
+    "preview": "",
+    "hash": "047ed534c56509769407b52f9174d2f3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

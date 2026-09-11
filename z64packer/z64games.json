@@ -1465,6 +1465,7 @@
   },
   {
     "game": "Puyo Puyo",
+    "series": "Puyo Puyo Series",
     "logo": "https://i.imgur.com/x3BCTG5.png"
   },
   {
@@ -2352,6 +2353,7 @@
   },
   {
     "game": "Wii Sports",
+    "series": "Wii Sports Series",
     "logo": "https://i.imgur.com/UsPJrwz.png"
   },
   {
@@ -2599,6 +2601,7 @@
   },
   {
     "game": "Melty Blood: Actress Again",
+    "series": "Melty Blood Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/b05b57f6add810d3b7490866d74c0053.png"
   },
   {
@@ -4966,6 +4969,166 @@
     "game": "The Great Ace Attorney Chronicles",
     "series": "Ace Attorney Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/1987ae9a266a5c817d33034b88399ea1.png"
+  },
+  {
+    "game": "3D Pinball: Space Cadet",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/184260348236f9554fe9375772ff966e.png"
+  },
+  {
+    "game": "Atelier Ayesha: The Alchemist of Dusk",
+    "series": "Atelier Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/13f23623684f53a45a8560f79cce5411.png"
+  },
+  {
+    "game": "Castlevania: Rondo of Blood",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5571df479aa024d28e17f555babd1fcb.png"
+  },
+  {
+    "game": "Fatal Fury",
+    "series": "Fatal Fury Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fdf0ac71ca479e1beaeed369d67aec38.png"
+  },
+  {
+    "game": "Fatal Fury 2",
+    "series": "Fatal Fury Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3ad9b2048e580655c901c44e06d9dd69.png"
+  },
+  {
+    "game": "Fire Emblem Engage",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e441bb87cb73f43eac84e966ea0b47b2.png"
+  },
+  {
+    "game": "God Hand",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d07325dbe02300c295f7f9f67cc6ee26.png"
+  },
+  {
+    "game": "Guilty Gear Dust Strikers",
+    "series": "Guilty Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0222de3833afe9f975a00c3daf7ebc8b.png",
+    "short_name": "Guilty Gear DS"
+  },
+  {
+    "game": "Guilty Gear Isuka",
+    "series": "Guilty Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4b2d49e33f70a62f9488c6069e1879c2.png"
+  },
+  {
+    "game": "Kero Blaster",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a8f0757389daebbd0dab2694d3faf0f7.png"
+  },
+  {
+    "game": "Kid Icarus: Uprising",
+    "series": "Kid Icarus Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ea119a40c1592979f51819b0bd38d39d.png"
+  },
+  {
+    "game": "Kirby Star Allies",
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/439fca360bc99c315c5882c4432ae7a4.png"
+  },
+  {
+    "game": "Mario Kart 7",
+    "series": "Mario Kart Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c8c41c4a18675a74e01c8a20e8a0f662.png"
+  },
+  {
+    "game": "Mario Kart Tour",
+    "series": "Mario Kart Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/54025dfe922ee65725326c6b48a9ecee.png"
+  },
+  {
+    "game": "Melty Blood: Type Lumina",
+    "series": "Melty Blood Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4939a0e515a3086c8be50ca4e5b38ee9.png"
+  },
+  {
+    "game": "Nine Hours, Nine Persons, Nine Doors",
+    "series": "Zero Escape Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6e003ba07ed3d89301882b5362b775a8.png",
+    "short_name": "999"
+  },
+  {
+    "game": "Persona 2: Eternal Punishment",
+    "series": "Persona Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/414c073ee1379bd7bc7b332159cab1e6.png",
+    "short_name": "Persona 2 ED"
+  },
+  {
+    "game": "Psycho Soldier",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3f07a10994041cc1f7322010dd8b836b.png"
+  },
+  {
+    "game": "Puyo Puyo Tsu",
+    "series": "Puyo Puyo Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e22c42f0fd06b6b147acbab0f8e4fd61.png"
+  },
+  {
+    "game": "Sonic & Knuckles Collection",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a12aa4a72a1e4413b5bd8405369d15ef.png"
+  },
+  {
+    "game": "Star Fox Assault",
+    "series": "Star Fox Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/06c92f8c7144426db592cf99f1aa57af.png"
+  },
+  {
+    "game": "Star Ocean",
+    "series": "Star Ocean Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3c6d00e36f10b21401907f7064b4b4f1.png"
+  },
+  {
+    "game": "Super Princess Peach",
+    "series": "Mario Spin-offs",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3958becef1222baa335aa594bac566fd.png"
+  },
+  {
+    "game": "The King of Fighters '94",
+    "series": "The King of Fighters Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/709601bd1ee52bc1621bd6467de55bc3.png",
+    "short_name": "KOF '94"
+  },
+  {
+    "game": "The King of Fighters '96",
+    "series": "The King of Fighters Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9482132e935c42a1e245509adbc18973.png",
+    "short_name": "KOF '94"
+  },
+  {
+    "game": "The Legend of Zelda: Echoes of Wisdom",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/74f5e42575afb9b375981e9fe85d663d.png",
+    "short_name": "Zelda: Echoes of Wisdom"
+  },
+  {
+    "game": "Tower of Heaven",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/29282505fa1675d9c26d7ad4868b8727.png"
+  },
+  {
+    "game": "Virtue's Last Reward",
+    "series": "Zero Escape Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/020ef80aa4314aa662529e8b8aaf5b55.png"
+  },
+  {
+    "game": "Wario's Woods",
+    "series": "Mario Spin-offs",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5bb5f8d030f5e6e4b6d137c6990f0772.png"
+  },
+  {
+    "game": "Wii Sports Resort",
+    "series": "Wii Sports Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c89ca36e4d0430e75ca2390470a59a59.png"
+  },
+  {
+    "game": "X",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1da36fd1cd911e8f6606051e5402a127.png"
+  },
+  {
+    "game": "Your Turn To Die -Death Game By Majority-",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/32cbf687880eb1674a07bf717761dd3a.png",
+    "short_name": "Your Turn To Die"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
