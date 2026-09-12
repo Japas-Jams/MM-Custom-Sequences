@@ -5130,5 +5130,17 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/32cbf687880eb1674a07bf717761dd3a.png",
     "short_name": "Your Turn To Die"
   },
+  {
+    "game": "Touhou CD 3: Changeability of Strange Dream",
+    "series": "Touhou Project",
+    "logo": "https://jetta.vgmtreasurechest.com/soundtracks/zun-s-music-collection-03-changeability-of-strange-dream/00%20Front.jpg",
+    "short_name": "Touhou CD 3"
+  },
+  {
+    "game": "Touhou CD 5: Magical Astronomy",
+    "series": "Touhou Project",
+    "logo": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-05-magical-astronomy/00%20Front.jpg",
+    "short_name": "Touhou CD 5"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
