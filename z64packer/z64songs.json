@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -101449,7 +101449,9 @@
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (OG).mp3",
     "hash": "22a860ca881bd938e6d93c9a4c1c57bf",
-    "lastUpdateDate": "2026-10-08T05:18:22.181Z"
+    "lastUpdateDate": "2026-10-08T05:18:22.181Z",
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "76c671ef-9932-4738-b8cc-8147ebfe0603",
@@ -101477,7 +101479,9 @@
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (OG Lite).mp3",
     "hash": "a66fd9ec41ec25075aac3b9ae44f7238",
-    "lastUpdateDate": "2026-10-08T05:14:30.139Z"
+    "lastUpdateDate": "2026-10-08T05:14:30.139Z",
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "10016fcf-cd32-4eee-8cf2-0e6c244fd5c2",
@@ -101505,7 +101509,9 @@
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (MM Lite).mp3",
     "hash": "2b09270281f9069adfe90eabb5c2a534",
-    "lastUpdateDate": "2026-10-08T05:15:18.572Z"
+    "lastUpdateDate": "2026-10-08T05:15:18.572Z",
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "68fc59ed-b81e-4f1a-b345-73f08bdecbea",
@@ -101532,7 +101538,10 @@
     "usesCustomBank": true,
     "preview": "Bomberman 64/Blue TM Resort (MM).mp3",
     "hash": "66cee4f2159db54c7f7e3180a7476f06",
-    "lastUpdateDate": "2026-10-08T05:15:43.877Z"
+    "lastUpdateDate": "2026-10-08T05:15:43.877Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4a66ada9-2c9d-4d21-93f0-36b6c22517ac",
@@ -101560,7 +101569,10 @@
     "usesCustomBank": true,
     "preview": "Bomberman 64/Blue TM Resort (MM Plus).mp3",
     "hash": "1e728683cf67357b3c37daf4930647f1",
-    "lastUpdateDate": "2026-10-08T05:16:34.998Z"
+    "lastUpdateDate": "2026-10-08T05:16:34.998Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
