@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -101429,12 +101429,14 @@
     "game": "Bomberman 64",
     "song": "Blue TM Resort (OG)",
     "composers": [
-      "Akifumi Tada"
+      "Akifumi Tada",
+      "Yasunori Mitsuda",
+      "SiivaGunner"
     ],
     "converters": [
       "Ainurmusician64"
     ],
-    "notes": "Uses exclusively BM64 Instruments",
+    "notes": "Uses exclusively BM64 Instruments. The joke is \"Corridors of Time\" from Chrono Trigger.",
     "lufs": "-16.95",
     "file": "Bomberman 64/Blue TM Resort (OG).mmrs",
     "type": "bgm",
@@ -101446,9 +101448,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (OG).mp3",
-    "usesFormmask": false,
     "hash": "22a860ca881bd938e6d93c9a4c1c57bf",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-08T05:18:22.181Z"
   },
   {
     "uuid": "76c671ef-9932-4738-b8cc-8147ebfe0603",
@@ -101456,7 +101457,9 @@
     "game": "Bomberman 64",
     "song": "Blue TM Resort (OG Lite)",
     "composers": [
-      "Akifumi Tada"
+      "Akifumi Tada",
+      "Yasunori Mitsuda",
+      "SiivaGunner"
     ],
     "converters": [
       "Ainurmusician64"
@@ -101473,9 +101476,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (OG Lite).mp3",
-    "usesFormmask": false,
     "hash": "a66fd9ec41ec25075aac3b9ae44f7238",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-08T05:14:30.139Z"
   },
   {
     "uuid": "10016fcf-cd32-4eee-8cf2-0e6c244fd5c2",
@@ -101483,7 +101485,9 @@
     "game": "Bomberman 64",
     "song": "Blue TM Resort (MM Lite)",
     "composers": [
-      "Akifumi Tada"
+      "Akifumi Tada",
+      "Yasunori Mitsuda",
+      "SiivaGunner"
     ],
     "converters": [
       "Ainurmusician64"
@@ -101500,9 +101504,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (MM Lite).mp3",
-    "usesFormmask": false,
     "hash": "2b09270281f9069adfe90eabb5c2a534",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-08T05:15:18.572Z"
   },
   {
     "uuid": "68fc59ed-b81e-4f1a-b345-73f08bdecbea",
@@ -101510,7 +101513,9 @@
     "game": "Bomberman 64",
     "song": "Blue TM Resort (MM)",
     "composers": [
-      "Akifumi Tada"
+      "Akifumi Tada",
+      "Yasunori Mitsuda",
+      "SiivaGunner"
     ],
     "converters": [
       "Ainurmusician64"
@@ -101526,10 +101531,8 @@
     ],
     "usesCustomBank": true,
     "preview": "Bomberman 64/Blue TM Resort (MM).mp3",
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "hash": "66cee4f2159db54c7f7e3180a7476f06",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-08T05:15:43.877Z"
   },
   {
     "uuid": "4a66ada9-2c9d-4d21-93f0-36b6c22517ac",
@@ -101538,6 +101541,8 @@
     "song": "Blue TM Resort (MM Plus)",
     "composers": [
       "Akifumi Tada",
+      "Yasunori Mitsuda",
+      "SiivaGunner",
       "Ainurmusician64"
     ],
     "converters": [
@@ -101554,10 +101559,8 @@
     ],
     "usesCustomBank": true,
     "preview": "Bomberman 64/Blue TM Resort (MM Plus).mp3",
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "hash": "1e728683cf67357b3c37daf4930647f1",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-08T05:16:34.998Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
