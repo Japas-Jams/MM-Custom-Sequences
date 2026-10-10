@@ -101877,5 +101877,27 @@
     "usesCustomBank": true,
     "preview": "Kirby and the Forgotten Land/Fast-Flowing Waterworks.mp3"
   },
+  {
+    "uuid": "62d9b730-a001-472e-a6be-82c0b2b24057",
+    "creationDate": "2026-10-10T16:38:29.210Z",
+    "game": "Kirby and the Forgotten Land",
+    "song": "Northeast Frost Street",
+    "composers": [
+      "Yuuta Ogasawara"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.81",
+    "file": "Kirby and the Forgotten Land/Northeast Frost Street.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "preview": "Kirby and the Forgotten Land/Northeast Frost Street.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
