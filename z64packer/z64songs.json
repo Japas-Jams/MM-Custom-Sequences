@@ -101899,5 +101899,29 @@
     "usesCustomBank": true,
     "preview": "Kirby and the Forgotten Land/Northeast Frost Street.mp3"
   },
+  {
+    "uuid": "6bfbd182-347b-45bc-b0d6-8a6451880874",
+    "creationDate": "2026-10-10T17:26:40.913Z",
+    "game": "Monster Rancher 2",
+    "song": "Official Battle (IMa - FIMBA Meet)",
+    "composers": [
+      "Yutaka Fujishima",
+      "Ayako Toyoda",
+      "Masaaki Udagawa",
+      "Saki Ishii"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.84",
+    "file": "Monster Rancher 2/Official Battle (IMa - FIMBA Meet).mmrs",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "7"
+    ],
+    "preview": "Monster Rancher 2/Official Battle (IMa - FIMBA Meet).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
