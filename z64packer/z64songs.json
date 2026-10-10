@@ -101834,5 +101834,26 @@
     ],
     "preview": "Golden Sun The Lost Age/Frozen in Prox.mp3"
   },
+  {
+    "uuid": "43ea9155-e913-4dc9-912a-4b6c5157555d",
+    "creationDate": "2026-10-10T16:34:24.312Z",
+    "game": "Kirby and the Forgotten Land",
+    "song": "Moonlight Canyon",
+    "composers": [
+      "Yuki Shimooka"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.80",
+    "file": "Kirby and the Forgotten Land/Moonlight Canyon.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Kirby and the Forgotten Land/Moonlight Canyon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
