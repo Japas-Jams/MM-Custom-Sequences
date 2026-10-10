@@ -102160,5 +102160,27 @@
     "usesCustomBank": true,
     "preview": "The Legend of Heroes Trails from Zero/Inevitable Struggle.mp3"
   },
+  {
+    "uuid": "748e9572-97cb-4cf4-acd2-64fb63f93a3d",
+    "creationDate": "2026-10-10T17:52:55.082Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "The Power of Jin",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.21",
+    "file": "Xenoblade Chronicles 2/The Power of Jin.mmrs",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Xenoblade Chronicles 2/The Power of Jin.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
