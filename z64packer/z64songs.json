@@ -101966,5 +101966,25 @@
     ],
     "preview": "Resident Evil - Code Veronica X/Theme of Tyrant 3 B.mp3"
   },
+  {
+    "uuid": "d03c72f8-436b-4cbb-bf1d-822036a55271",
+    "creationDate": "2026-10-10T17:34:58.171Z",
+    "game": "Sonic & Knuckles Collection",
+    "song": "Carnival Night Zone Act 1",
+    "composers": [
+      "SEGA"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-13.36",
+    "file": "Sonic & Knuckles Collection/Carnival Night Zone Act 1.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "preview": "Sonic & Knuckles Collection/Carnival Night Zone Act 1.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
