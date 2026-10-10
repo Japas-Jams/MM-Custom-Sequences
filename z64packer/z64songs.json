@@ -101621,5 +101621,27 @@
     "usesCustomBank": true,
     "preview": "Castlevania II Belmont's Revenge/Psycho Warrior.mp3"
   },
+  {
+    "uuid": "52faaeea-a337-4fea-9a0b-96f0b971e3a9",
+    "creationDate": "2026-10-10T15:51:01.317Z",
+    "game": "Diddy Kong Racing",
+    "song": "Darkmoon Caverns",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.79",
+    "file": "Diddy Kong Racing/Darkmoon Caverns.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Diddy Kong Racing/Darkmoon Caverns.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
