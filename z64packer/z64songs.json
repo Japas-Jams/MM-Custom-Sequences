@@ -101643,5 +101643,26 @@
     "usesCustomBank": true,
     "preview": "Diddy Kong Racing/Darkmoon Caverns.mp3"
   },
+  {
+    "uuid": "571a43d5-0808-4224-a397-caa4f65c167a",
+    "creationDate": "2026-10-10T15:53:16.476Z",
+    "game": "Digimon World 3",
+    "song": "Wild Digimon Battle",
+    "composers": [
+      "Satoshi Ishikawa"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-10.84",
+    "file": "Digimon World 3/Wild Digimon Battle.mmrs",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "preview": "Digimon World 3/Wild Digimon Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
