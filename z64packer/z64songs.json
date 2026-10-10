@@ -102049,5 +102049,24 @@
     ],
     "preview": "Sonic the Hedgehog 3/Gumball Machine.mp3"
   },
+  {
+    "uuid": "81dd04f4-72b4-43d7-a073-78192bbf4aa8",
+    "creationDate": "2026-10-10T17:42:46.250Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Stage Clear",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.34",
+    "file": "Sonic the Hedgehog 3/Stage Clear.mmrs",
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "preview": "Sonic the Hedgehog 3/Stage Clear.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
