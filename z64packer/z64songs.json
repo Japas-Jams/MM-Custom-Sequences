@@ -102138,5 +102138,27 @@
     "usesCustomBank": true,
     "preview": "Puyo Puyo Tsu/2nd and 3rd Floor.mp3"
   },
+  {
+    "uuid": "47010d81-285f-4bb9-a66f-5935f653c41c",
+    "creationDate": "2026-10-10T17:50:55.366Z",
+    "game": "The Legend of Heroes: Trails from Zero",
+    "song": "Inevitable Struggle",
+    "composers": [
+      "Falcom Sound Team jdk"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.04",
+    "file": "The Legend of Heroes Trails from Zero/Inevitable Struggle.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "The Legend of Heroes Trails from Zero/Inevitable Struggle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
