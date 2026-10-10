@@ -101730,5 +101730,26 @@
     "usesCustomBank": true,
     "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Kannon's Klanking.mp3"
   },
+  {
+    "uuid": "9ae5bdc7-0f6e-4f68-bee4-dd2a0cbf8e7c",
+    "creationDate": "2026-10-10T16:24:21.796Z",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "song": "Bonus Lose...",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.80",
+    "file": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Lose....mmrs",
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Lose....mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
