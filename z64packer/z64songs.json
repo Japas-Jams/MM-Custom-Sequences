@@ -102007,5 +102007,27 @@
     "usesCustomBank": true,
     "preview": "Sonic & Knuckles Collection/Ice Cap Zone Act 1.mp3"
   },
+  {
+    "uuid": "f7540bbb-0597-417a-b5e4-494a86791de8",
+    "creationDate": "2026-10-10T17:38:33.403Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Balloon Park Zone",
+    "composers": [
+      "SEGA"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.17",
+    "file": "Sonic the Hedgehog 3/Balloon Park Zone.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Sonic the Hedgehog 3/Balloon Park Zone.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
