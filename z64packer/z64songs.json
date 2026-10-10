@@ -101751,5 +101751,25 @@
     "usesCustomBank": true,
     "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Lose....mp3"
   },
+  {
+    "uuid": "891f8b5a-f63f-49c4-b880-218d4be60bb1",
+    "creationDate": "2026-10-10T16:25:54.280Z",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "song": "Bonus Win!",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-19.30",
+    "file": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Win!.mmrs",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Win!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
