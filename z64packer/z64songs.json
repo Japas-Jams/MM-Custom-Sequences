@@ -102029,5 +102029,25 @@
     "usesCustomBank": true,
     "preview": "Sonic the Hedgehog 3/Balloon Park Zone.mp3"
   },
+  {
+    "uuid": "c55903e4-5f4d-4997-9784-f4ff51f23670",
+    "creationDate": "2026-10-10T17:40:32.174Z",
+    "game": "Sonic the Hedgehog 3",
+    "song": "Gumball Machine",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.42",
+    "file": "Sonic the Hedgehog 3/Gumball Machine.mmrs",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "preview": "Sonic the Hedgehog 3/Gumball Machine.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
