@@ -101792,5 +101792,26 @@
     "usesCustomBank": true,
     "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Pokey Pipes.mp3"
   },
+  {
+    "uuid": "6c689fd7-8b5c-4989-817f-f243fe7c5148",
+    "creationDate": "2026-10-10T16:30:19.086Z",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "song": "Treetop Tumble",
+    "composers": [
+      "Eveline Novakovic"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.83",
+    "file": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Treetop Tumble.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Treetop Tumble.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
