@@ -101707,5 +101707,28 @@
     ],
     "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Haunted Chase.mp3"
   },
+  {
+    "uuid": "8d669a60-1fed-4067-b7cb-a7d131e22b09",
+    "creationDate": "2026-10-10T16:21:58.378Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Kannon's Klanking",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "notes": "Also known as \"Kannon's Klaim\" and \"Mining Melancholy\"",
+    "lufs": "-15.84",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Kannon's Klanking.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Kannon's Klanking.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
