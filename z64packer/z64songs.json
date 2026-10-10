@@ -101771,5 +101771,26 @@
     ],
     "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Bonus Win!.mp3"
   },
+  {
+    "uuid": "2177875f-2a65-426d-9a42-10c8ad804291",
+    "creationDate": "2026-10-10T16:28:15.165Z",
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "song": "Pokey Pipes",
+    "composers": [
+      "Eveline Novakovic"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.07",
+    "file": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Pokey Pipes.mmrs",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Pokey Pipes.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
