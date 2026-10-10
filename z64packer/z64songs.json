@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -101573,6 +101573,31 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "isCrossGame": false
+  },
+  {
+    "uuid": "cf521ee2-c0bc-4962-9424-7a3ea9b398cb",
+    "creationDate": "2026-10-10T15:46:27.861Z",
+    "game": "B3313",
+    "song": "Dire, Dire Loss",
+    "composers": [
+      "NewSupKaizo55"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "notes": "Also called \"Midnight Meadow\" and \"Wiggler's Forest Fortress (Final Ver.)\"",
+    "lufs": "-19.14",
+    "file": "B3313/Dire, Dire Loss.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "preview": "B3313/Dire, Dire Loss.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
