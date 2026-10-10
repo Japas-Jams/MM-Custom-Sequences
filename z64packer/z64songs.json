@@ -101599,5 +101599,27 @@
     "usesCustomBank": true,
     "preview": "B3313/Dire, Dire Loss.mp3"
   },
+  {
+    "uuid": "835dc601-9687-4bed-9b27-21b137a8c914",
+    "creationDate": "2026-10-10T15:49:05.083Z",
+    "game": "Castlevania II: Belmont's Revenge",
+    "song": "Psycho Warrior",
+    "composers": [
+      "Hidehiro Funauchi"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.39",
+    "file": "Castlevania II Belmont's Revenge/Psycho Warrior.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "preview": "Castlevania II Belmont's Revenge/Psycho Warrior.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
