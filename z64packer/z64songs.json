@@ -101986,5 +101986,26 @@
     ],
     "preview": "Sonic & Knuckles Collection/Carnival Night Zone Act 1.mp3"
   },
+  {
+    "uuid": "665b2e45-cca0-40b1-b922-75e79c963a70",
+    "creationDate": "2026-10-10T17:36:45.160Z",
+    "game": "Sonic & Knuckles Collection",
+    "song": "Ice Cap Zone Act 1",
+    "composers": [
+      "Tomonori Sawada"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.67",
+    "file": "Sonic & Knuckles Collection/Ice Cap Zone Act 1.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Sonic & Knuckles Collection/Ice Cap Zone Act 1.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
