@@ -101664,5 +101664,27 @@
     ],
     "preview": "Digimon World 3/Wild Digimon Battle.mp3"
   },
+  {
+    "uuid": "d056d328-27e9-4d9c-b3a8-89bceb52f07c",
+    "creationDate": "2026-10-10T15:55:55.172Z",
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "song": "Forest Interlude [2]",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.16",
+    "file": "Donkey Kong Country 2 Diddy's Kong Quest/Forest Interlude [2].mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong Country 2 Diddy's Kong Quest/Forest Interlude [2].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
