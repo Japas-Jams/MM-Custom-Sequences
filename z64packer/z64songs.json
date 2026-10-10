@@ -102115,5 +102115,28 @@
     "usesCustomBank": true,
     "preview": "Puyo Puyo Tsu/1st Floor.mp3"
   },
+  {
+    "uuid": "1aeae57f-1e0c-4f1a-b2a5-c72a2f7551c7",
+    "creationDate": "2026-10-10T17:48:56.821Z",
+    "game": "Puyo Puyo Tsu",
+    "song": "2nd and 3rd Floor",
+    "composers": [
+      "Tomonori Minami",
+      "Einosuke Nagao",
+      "Tsuyoshi Matsushima"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.04",
+    "file": "Puyo Puyo Tsu/2nd and 3rd Floor.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Puyo Puyo Tsu/2nd and 3rd Floor.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
