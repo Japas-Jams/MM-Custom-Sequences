@@ -101944,5 +101944,27 @@
     "usesCustomBank": true,
     "preview": "Project X Zone/Wanderer's Road.mp3"
   },
+  {
+    "uuid": "4d60f32c-52dc-427c-8f01-49485499ad88",
+    "creationDate": "2026-10-10T17:33:06.113Z",
+    "game": "Resident Evil - Code: Veronica X",
+    "song": "Theme of Tyrant 3 B",
+    "composers": [
+      "Takeshi Miura",
+      "Hiriji Anze",
+      "Sanae Kasahara"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.30",
+    "file": "Resident Evil - Code Veronica X/Theme of Tyrant 3 B.mmrs",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "preview": "Resident Evil - Code Veronica X/Theme of Tyrant 3 B.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
