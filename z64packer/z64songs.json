@@ -101813,5 +101813,26 @@
     "usesCustomBank": true,
     "preview": "Donkey Kong Country 3 Dixie Kong's Double Trouble!/Treetop Tumble.mp3"
   },
+  {
+    "uuid": "57548c8e-5250-41fa-8d9f-3bc4b53d8fb5",
+    "creationDate": "2026-10-10T16:32:13.223Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Frozen in Prox",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.16",
+    "file": "Golden Sun The Lost Age/Frozen in Prox.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "preview": "Golden Sun The Lost Age/Frozen in Prox.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
