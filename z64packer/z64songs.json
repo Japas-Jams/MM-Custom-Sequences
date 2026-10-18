@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -103814,6 +103814,144 @@
       "SeitanTaisen"
     ],
     "lufs": "-14.73"
+  },
+  {
+    "uuid": "3485b582-0b12-4a18-985e-ecbc76c9f71a",
+    "creationDate": "2026-10-18T00:38:35.219Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Ascend to Destiny",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-13.79",
+    "file": "Golden Sun Dark Dawn/Ascend to Destiny.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "preview": "Golden Sun Dark Dawn/Ascend to Destiny.mp3"
+  },
+  {
+    "uuid": "2d3a4a1c-4dfa-4b52-b2a4-3ad9609fa11a",
+    "creationDate": "2026-10-18T00:41:41.357Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Ayuthay",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-20.16",
+    "file": "Golden Sun Dark Dawn/Ayuthay.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "preview": "Golden Sun Dark Dawn/Ayuthay.mp3"
+  },
+  {
+    "uuid": "00cd6377-c9cc-4b5b-97e5-e8dc9f004371",
+    "creationDate": "2026-10-18T00:43:46.785Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Battle! [Formidable Enemy]",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-10.02",
+    "file": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mp3"
+  },
+  {
+    "uuid": "ad85f6f4-3463-4914-ae36-7dca9fc3b701",
+    "creationDate": "2026-10-18T00:46:14.365Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Battle! [Sand Prince]",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.06",
+    "file": "Golden Sun Dark Dawn/Battle! [Sand Prince].mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Battle! [Sand Prince].mp3"
+  },
+  {
+    "uuid": "95cf8ee0-0df3-44fc-9608-183b07880d06",
+    "creationDate": "2026-10-18T00:47:58.374Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Carver's Camp",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-20.85",
+    "file": "Golden Sun Dark Dawn/Carver's Camp.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Carver's Camp.mp3"
+  },
+  {
+    "uuid": "d889484f-bfa3-4306-bdcb-cd8b9581f42d",
+    "creationDate": "2026-10-18T00:49:33.617Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Into the Skies",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.60",
+    "file": "Golden Sun Dark Dawn/Into the Skies.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "preview": "Golden Sun Dark Dawn/Into the Skies.mp3"
+  },
+  {
+    "uuid": "cacefd21-4106-4dfb-9a50-ca5e528f44dd",
+    "creationDate": "2026-10-18T00:51:10.778Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Passing the Obstacles",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.12",
+    "file": "Golden Sun Dark Dawn/Passing the Obstacles.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "preview": "Golden Sun Dark Dawn/Passing the Obstacles.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
