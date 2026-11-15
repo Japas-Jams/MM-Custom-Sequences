@@ -6088,12 +6088,7 @@
     "game": "Mega Man 10",
     "song": "Desert Commando",
     "composers": [
-      "Ippo Yamada",
-      "Ryo Kawakami",
-      "Yu Shimoda",
-      "Hiroki Isogai",
-      "Manami Matsumae",
-      "Yasuaki Fujita"
+      "Minae Fujii"
     ],
     "converters": [
       "Dark_Evan"
@@ -6104,12 +6099,13 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mega Man 10/Desert Commando.mmrs",
     "preview": "https://www.youtube.com/watch?v=Y59wWSahoxo",
     "lufs": "-19.66",
     "hash": "6bf6d199ca5b47d29a2cbac77114d9fb",
+    "lastUpdateDate": "2026-10-22T17:45:21.035Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
     "isCrossGame": false
   },
   {
@@ -6690,13 +6686,8 @@
     "uuid": "27fffc54-b819-4a2b-88b0-44919a7c420d",
     "creationDate": "2026-03-14T01:34:23.965Z",
     "game": "Mega Man 10",
-    "song": "Solarman Stage",
+    "song": "Solar Inferno",
     "composers": [
-      "Ippo Yamada",
-      "Ryo Kawakami",
-      "Yu Shimoda",
-      "Hiroki Isogai",
-      "Manami Matsumae",
       "Yasuaki Fujita"
     ],
     "converters": [
@@ -6706,13 +6697,14 @@
     "categories": [
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Mega Man 10/Solarman Stage.mmrs",
+    "file": "Mega Man 10/Solar Inferno.mmrs",
     "preview": "https://www.youtube.com/watch?v=3vbrJZg5IJ0",
     "lufs": "-20.49",
     "hash": "e5cc67592bd83aabdda79c3f4ee0759e",
+    "lastUpdateDate": "2026-10-22T17:47:16.403Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
     "isCrossGame": false
   },
   {
@@ -20167,17 +20159,17 @@
     ],
     "type": "bgm",
     "categories": [
-      "0",
-      "2"
+      "0"
     ],
-    "usesCustomBank": true,
+    "file": "Fire Emblem Radiant Dawn/Proud Flight.mmrs",
+    "preview": "Fire Emblem Radiant Dawn/Proud Flight.mp3",
+    "lufs": "-14.69",
+    "hash": "112faf0f890a5dda57458632453e8ed0",
+    "lastUpdateDate": "2026-10-26T22:53:43.837Z",
+    "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Fire Emblem Radiant Dawn/Proud Flight.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Radiant Dawn/Proud Flight.mp3",
-    "lufs": "-11.60",
-    "hash": "6296385295521900918caddef8995e10",
-    "isCrossGame": false
+    "isCrossGame": true
   },
   {
     "uuid": "54f33e6f-440d-423b-86ee-8d30ba34f6bd",
@@ -24686,7 +24678,7 @@
     "uuid": "3ad3b1f6-d3f6-4eb7-904b-0910f62aa83d",
     "creationDate": "2026-03-25T23:26:26.601Z",
     "game": "Super Mario World",
-    "song": "Goal",
+    "song": "Course Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -24699,13 +24691,14 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World/Goal.mmrs",
+    "file": "Super Mario World/Course Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Goal.mp3",
     "lufs": "-14.72",
     "hash": "21c016a4da6ea6eefae671bd7b60ffbb",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-22T17:22:00.371Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "90ad2238-7e83-450f-ab8c-9b61cfc37334",
@@ -24735,7 +24728,7 @@
     "uuid": "50ff35b2-5faa-4271-b57f-6c817ea98eed",
     "creationDate": "2026-03-25T23:27:32.409Z",
     "game": "Super Mario World",
-    "song": "Victory",
+    "song": "Castle Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -24747,12 +24740,13 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World/Victory.mmrs",
+    "file": "Super Mario World/Castle Clear.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Victory.mp3",
     "lufs": "-11.62",
     "hash": "e1bc687f8319c89544a0c334ea468d85",
+    "lastUpdateDate": "2026-10-22T17:27:03.097Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
     "isCrossGame": false
   },
   {
@@ -59028,7 +59022,7 @@
     "game": "Nintendo 3DS",
     "song": "Internet Settings",
     "composers": [
-      "Unknown"
+      "Kazumi Totaka"
     ],
     "converters": [
       "Asra"
@@ -59042,12 +59036,13 @@
     ],
     "file": "Nintendo 3DS/Internet Settings.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Nintendo 3DS/Internet Settings.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-17.52",
     "hash": "7e91af3dcf81fe95d4b7c54453a06b2d",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-21T18:28:20.153Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
@@ -65319,28 +65314,29 @@
     "uuid": "9c969cea-ff4c-46e5-9109-27c8c4ca1304",
     "creationDate": "2026-05-16T01:29:37.624Z",
     "game": "Tales of Vesperia",
-    "song": "World Map",
+    "song": "The Cold Morning Star Passes By",
     "composers": [
       "Motoi Sakuraba"
     ],
     "converters": [
       "Asra"
     ],
-    "notes": "TODO: Am I crazy or this song doesn't sound anything like any of the world maps of ToV? I think this may be a different song...",
+    "notes": "World Map theme.",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "16"
     ],
-    "file": "Tales of Vesperia/World Map.mmrs",
+    "file": "Tales of Vesperia/The Cold Morning Star Passes By.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Vesperia/World Map.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-15.47",
     "hash": "f072651790915c9632963492489e36e1",
-    "isCrossGame": true
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-22T17:14:28.407Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",
@@ -74432,11 +74428,15 @@
       "3",
       "4"
     ],
+    "lufs": "-21.09",
+    "isCrossGame": true,
+    "lastUpdateDate": "2026-10-21T18:32:54.267Z",
+    "composers": [
+      "Grant Kirkhope"
+    ],
     "usesCustomBank": false,
     "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-21.09",
-    "isCrossGame": true
+    "usesFormmask": false
   },
   {
     "game": "Donkey Kong 64",
@@ -76648,8 +76648,12 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
     "lufs": "-18.94",
+    "lastUpdateDate": "2026-10-22T17:49:36.337Z",
+    "composers": [
+      "Takashi Tateishi"
+    ],
+    "usesFormmask": false,
     "isCrossGame": false
   },
   {
@@ -76696,8 +76700,12 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "usesFormmask": false,
     "lufs": "-15.78",
+    "lastUpdateDate": "2026-10-22T17:54:54.856Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "usesFormmask": false,
     "isCrossGame": false
   },
   {
@@ -78725,21 +78733,22 @@
     "composers": [
       "Koji Kondo"
     ],
-    "song": "Lose Life",
+    "song": "Player Down",
     "uuid": "778827f2-a04c-4ecc-8d30-646bb5004ccb",
     "hash": "910b3ab25a0a1bbec2e50000c959035e",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Super Mario World/Lose Life.mmrs",
+    "file": "Super Mario World/Player Down.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Lose Life.mp3",
     "type": "fanfare",
     "categories": [
       "8",
       "9"
     ],
+    "lufs": "-16.63",
+    "lastUpdateDate": "2026-10-22T17:28:57.590Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "lufs": "-16.63",
     "isCrossGame": false
   },
   {
@@ -85896,7 +85905,7 @@
   },
   {
     "game": "Fire Emblem: Genealogy of the Holy War",
-    "song": "Beloved One",
+    "song": "Beloved One (Choir)",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -85906,7 +85915,7 @@
     "uuid": "c64dbeb3-dd00-4473-8339-502b6e54f091",
     "hash": "545eb65f1f97255f1ed35782878b4459",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Genealogy of the Holy War/Beloved One.mmrs",
+    "file": "Fire Emblem Genealogy of the Holy War/Beloved One (Choir).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Genealogy of the Holy War/Beloved One.mp3",
     "type": "bgm",
     "categories": [
@@ -85915,9 +85924,11 @@
       "128"
     ],
     "usesCustomBank": true,
+    "lufs": "-19.02",
+    "lastUpdateDate": "2026-10-26T23:09:39.656Z",
+    "notes": "Due to how this song was programmed, it will sound different than intended when played on \"Ocarina of Time\" (on platforms such as the OoTMM Combo randomizer).",
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "lufs": "-19.02",
     "isCrossGame": false
   },
   {
@@ -102319,16 +102330,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Advance Wars 2 Black Hole Rising/Andy's Anthem.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Advance Wars 2/Andy's Anthem.mp3",
     "hash": "3c5a3e61d90f99b71e10855d594d43c3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.36"
+    "lufs": "-15.36",
+    "lastUpdateDate": "2026-10-21T19:46:50.937Z",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "b2d7cf46-0545-42ad-9e13-71f154c566dd",
@@ -102343,16 +102358,20 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Advance Wars 2 Black Hole Rising/Eagle's Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Advance Wars 2/Eagle's Theme.mp3",
     "hash": "3f33562af226be7af2bcd62b70bd6827",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.21"
+    "lufs": "-18.21",
+    "lastUpdateDate": "2026-10-21T19:47:21.779Z",
+    "composers": [
+      "Yoshito Hirano"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9aeae576-aa86-4f01-ba50-385a74d20f20",
@@ -102368,16 +102387,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Banjo-Kazooie Jiggies of Time/Gerudo Fortress.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Banjo-Kazooie Jiggies of Time/Gerudo Fortress.mp3",
     "hash": "616c899aa185aaae7da5bc370709d135",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.75"
+    "lufs": "-13.75",
+    "lastUpdateDate": "2026-10-21T18:26:42.060Z",
+    "composers": [
+      "Bynine"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "77f76457-0b6b-401f-a5e6-557cd0932af8",
@@ -102392,8 +102415,6 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Dark Cloud/King's Curse.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Dark Cloud/King's Curse.mp3",
@@ -102401,7 +102422,13 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-10.95"
+    "lufs": "-10.95",
+    "lastUpdateDate": "2026-10-21T18:31:12.203Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a919d291-4cc4-4592-8df3-ecc661caba80",
@@ -102419,16 +102446,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Dark Cloud/Main Theme (Bossa Nova Version) [Guitar].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Dark Cloud/Main Theme (Bossa Nova Version) [Guitar].mp3",
     "hash": "0e502f39d4fa574c8b268904a32ec9d3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-21T18:31:55.970Z",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "acf121bc-dabb-40ae-9f41-9b330add263a",
@@ -102446,16 +102477,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/Bokuchin.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/Bokuchin.mp3",
     "hash": "124eec89e965c6972d2b89b7887f813a",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.47"
+    "lufs": "-19.47",
+    "lastUpdateDate": "2026-10-22T03:17:00.315Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "67616da0-3eb2-4f41-8d7d-56f20aab00d8",
@@ -102471,16 +102506,20 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Hayato.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Hayato.mp3",
     "hash": "e41d63f45ea5f334613bc03f8c7892cc",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.94"
+    "lufs": "-14.94",
+    "lastUpdateDate": "2026-10-22T03:17:24.631Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0ac967b3-2afe-4d9b-92e7-c2741364914e",
@@ -102498,16 +102537,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Powers.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Powers.mp3",
     "hash": "135c6ad16f82d28e0f62ea7d2a4c5607",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.48"
+    "lufs": "-15.48",
+    "lastUpdateDate": "2026-10-22T03:17:55.116Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ef1731ca-e3a9-4c00-9c81-d70bcd9cb2bf",
@@ -102525,16 +102568,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Robo No Hana.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Robo No Hana.mp3",
     "hash": "482ab5e40db223498aa7678b105e351d",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.24"
+    "lufs": "-18.24",
+    "lastUpdateDate": "2026-10-22T03:18:26.436Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "ba6054a7-88ed-469c-a9ae-f469e57efcb0",
@@ -102550,8 +102597,6 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Flying Dragon/SD Ryuhi.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Ryuhi.mp3",
@@ -102559,7 +102604,13 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.69"
+    "lufs": "-15.69",
+    "lastUpdateDate": "2026-10-22T03:18:53.944Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "888f2087-0bd2-4052-a36d-3224a14cd791",
@@ -102573,16 +102624,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Ryumaou.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Ryumaou.mp3",
     "hash": "98696c063db9bd79ceb3ccdce139a8b2",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.41"
+    "lufs": "-13.41",
+    "lastUpdateDate": "2026-10-22T03:19:22.303Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "08af694a-a036-4c9d-bb97-b6ad2a8de0ef",
@@ -102601,16 +102656,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Shouryu.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Shouryu.mp3",
     "hash": "ef8edcffcec48b6410ac790fb1b57bc9",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.04"
+    "lufs": "-18.04",
+    "lastUpdateDate": "2026-10-22T03:19:49.201Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e777c664-fc38-4c0c-a767-ad69d6826162",
@@ -102626,16 +102685,20 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Suzaku.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Suzaku.mp3",
     "hash": "3b9affb6e9eee743e351b631ce4765f1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.49"
+    "lufs": "-17.49",
+    "lastUpdateDate": "2026-10-22T03:20:21.799Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "98d039f8-af7a-4d90-8c50-b31d586302a3",
@@ -102653,16 +102716,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Willer.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Willer.mp3",
     "hash": "cf0928a23175fae9930ecedfaaaafcc5",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.22"
+    "lufs": "-14.22",
+    "lastUpdateDate": "2026-10-22T03:20:47.013Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "44e38e98-c86a-40ec-bab2-0f899cc348d1",
@@ -102681,16 +102748,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Flying Dragon/SD Yuka.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Flying Dragon/SD Yuka.mp3",
     "hash": "9b3f8aad241d6e2ac8f37cffb6b66224",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.34"
+    "lufs": "-16.34",
+    "lastUpdateDate": "2026-10-22T03:21:19.299Z",
+    "composers": [
+      "Akinori Sawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "0f449843-21ab-486a-abe1-1210c95bca53",
@@ -102707,16 +102778,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Guilty Gear XX/Simple Life -Bridget’s Theme-.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear XX/Simple Life -Bridget’s Theme-.mp3",
     "hash": "c63a0184eeada3c141ab51710a8543ea",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.49"
+    "lufs": "-14.49",
+    "lastUpdateDate": "2026-10-21T18:38:47.652Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6fb70e18-b2de-4b9e-9bf3-8b0b1f284068",
@@ -102733,16 +102808,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Lunar Silver Star Story/Street Corner.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Lunar Silver Star Story/Street Corner.mp3",
     "hash": "cbd6d7a3d7f354376ce93a87a5ba1ef2",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.24"
+    "lufs": "-15.24",
+    "lastUpdateDate": "2026-10-21T19:49:16.072Z",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "11c5c4ba-ab1e-4dbf-aa7f-c36f8e0e037e",
@@ -102758,9 +102837,6 @@
       "6",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Marvel vs. Capcom Clash of Super Heroes/Captain America's Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Marvel vs. Capcom/Captain America's Theme.mp3",
@@ -102768,7 +102844,15 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.54"
+    "lufs": "-12.54",
+    "lastUpdateDate": "2026-10-22T16:06:45.198Z",
+    "composers": [
+      "Takayuki Iwai",
+      "Yuko Takehara"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e6a0be1a-0892-4ffd-a36a-53be0da59f6d",
@@ -102784,16 +102868,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 5/Dark Man's Castle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man 5/Dark Man's Castle.mp3",
     "hash": "baa488d76a747869a7df32cec1d39019",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.97"
+    "lufs": "-16.97",
+    "lastUpdateDate": "2026-10-21T19:02:20.468Z",
+    "composers": [
+      "Mari Yamaguchi"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "fc344df1-8d6f-44b4-8b90-435e622e5eff",
@@ -102807,8 +102895,6 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Mega Man 7/Intro Stage.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man 7/Intro Stage.mp3",
@@ -102816,7 +102902,13 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.99"
+    "lufs": "-15.99",
+    "lastUpdateDate": "2026-10-21T19:03:11.952Z",
+    "composers": [
+      "Makoto Tomozawa"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2519b205-1f41-456e-afa3-b817d87f34ee",
@@ -102828,16 +102920,21 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man 7/Walk the Invisible.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man 7/Walk the Invisible.mp3",
     "hash": "46b6e4387f3a968dfd6b47c91a36eb89",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.05"
+    "lufs": "-18.05",
+    "lastUpdateDate": "2026-10-21T19:03:45.541Z",
+    "composers": [
+      "Yuko Takehara",
+      "Toshihiko Horiyama"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "9b9028ec-11bb-48cb-b13f-80bd93d87d44",
@@ -102850,17 +102947,21 @@
       "1",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Crystal Rafflar [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Crystal Rafflar [2].mp3",
     "hash": "13b20ab9c95f35c7b077df195a2af733",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.82"
+    "lufs": "-12.82",
+    "lastUpdateDate": "2026-10-21T19:07:26.133Z",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "be4384e3-15ea-4bef-93b3-142b8f25183d",
@@ -102872,16 +102973,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Normal Boss Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Normal Boss Battle.mp3",
     "hash": "ccf8e7faa50b3154b0ad82c57ae0cc54",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.83"
+    "lufs": "-15.83",
+    "lastUpdateDate": "2026-10-21T19:07:54.761Z",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "54b59ace-4a51-4743-a491-8b2b1d769b78",
@@ -102895,40 +103000,48 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Pitfall Passage.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Pitfall Passage.mp3",
     "hash": "40b6fb678780394e3f10a509c277d935",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.78"
+    "lufs": "-17.78",
+    "lastUpdateDate": "2026-10-22T17:51:09.707Z",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "1a5e94ef-e3fe-47f5-9c26-de8ceee07e7a",
     "creationDate": "2026-10-15T03:55:55.287Z",
     "game": "Mega Man X: Corrupted",
-    "song": "Sparkling Scorpion",
+    "song": "Sparkling Scorpio",
     "type": "bgm",
     "categories": [
       "0",
       "1",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
-    "file": "Mega Man X Corrupted/Sparkling Scorpion.mmrs",
+    "file": "Mega Man X Corrupted/Sparkling Scorpio.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Sparkling Scorpion.mp3",
     "hash": "c034d32a7413fbc62bed8436cbf61f27",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-11.59"
+    "lufs": "-11.59",
+    "lastUpdateDate": "2026-10-22T17:51:49.163Z",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d5199692-aca7-419b-957f-69a264ae3e3f",
@@ -102943,16 +103056,20 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man X Corrupted/Underwater Cavern.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man X Corrupted/Underwater Cavern.mp3",
     "hash": "9d5aac07900e86155d892672d69ee6e6",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.23"
+    "lufs": "-19.23",
+    "lastUpdateDate": "2026-10-21T19:09:58.047Z",
+    "composers": [
+      "Dominic Ninmark"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "4d283aab-3be1-4b94-b968-e806d22af3c6",
@@ -102964,16 +103081,20 @@
       "0"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 2/Departure.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man Zero 2/Departure.mp3",
     "hash": "2dd0f81e38589c16b595d512a22090b6",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.71"
+    "lufs": "-15.71",
+    "lastUpdateDate": "2026-10-21T19:14:38.850Z",
+    "composers": [
+      "Inti Creates"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d24c5411-1b31-47c7-8321-6e853bb49cf9",
@@ -102990,17 +103111,21 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Esperanto [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man Zero 4/Esperanto [2].mp3",
     "hash": "20a1cadbfc29d3e477ecd88dc726a11f",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.02"
+    "lufs": "-14.02",
+    "lastUpdateDate": "2026-10-21T19:15:20.221Z",
+    "composers": [
+      "Luna Umegaki"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d354d685-ee62-44ac-8890-b63043ed9ec0",
@@ -103018,16 +103143,23 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man Zero 4/Holy Land [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man Zero 4/Holy Land [2].mp3",
     "hash": "515eb1bbcbfbf7ad3d3b5bb599bb787e",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.46"
+    "lufs": "-17.46",
+    "lastUpdateDate": "2026-10-21T19:16:18.762Z",
+    "composers": [
+      "Ippo Yamada",
+      "Masaki Suzuki",
+      "Luna Umegaki",
+      "Shinichi Itakura"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "941b5c25-33f7-4ceb-8738-d1168a7ebaa1",
@@ -103038,17 +103170,21 @@
     "categories": [
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Mega Man ZX/Cannon Ball -Hard Revenge-.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mega Man ZX/Cannon Ball -Hard Revenge-.mp3",
     "hash": "33c2d6bf8d99342afc5b3f53f6597c62",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.72"
+    "lufs": "-16.72",
+    "lastUpdateDate": "2026-10-21T19:50:57.450Z",
+    "composers": [
+      "Ippo Yamada"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "1b27d6b5-5b38-4ec1-83c9-a4977903dbfb",
@@ -103060,16 +103196,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 3/Unavoidable Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 3/Unavoidable Battle.mp3",
     "hash": "b641c61cc65b0368db7b610b8f054a46",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.86"
+    "lufs": "-18.86",
+    "lastUpdateDate": "2026-10-21T19:18:32.094Z",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "e28ed15a-d02f-46bd-8978-83274692ee3b",
@@ -103088,16 +103228,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 3 FES/Heartful Cry.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 3 FES/Heartful Cry.mp3",
     "hash": "19bfc059ea895770c762eb4b3597b1a1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.60"
+    "lufs": "-16.60",
+    "lastUpdateDate": "2026-10-21T19:51:38.219Z",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "479a9fee-3bee-47a2-906e-b3d0667f59f7",
@@ -103114,17 +103258,21 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/Heaven [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4/Heaven [2].mp3",
     "hash": "0dae2b0d010c63b93a9c46310b1aa80c",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.19"
+    "lufs": "-14.19",
+    "lastUpdateDate": "2026-10-21T19:20:12.043Z",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "30daa485-67ef-45cd-925b-4c87560b9fb7",
@@ -103143,16 +103291,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/I'll Face Myself.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4/I'll Face Myself.mp3",
     "hash": "ee46328eae85f5054fca1d861aac88e8",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.63"
+    "lufs": "-14.63",
+    "lastUpdateDate": "2026-10-21T19:52:20.931Z",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "8f69b570-8b34-40b1-bc15-8cb9a27257f8",
@@ -103164,16 +103316,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4/The Fog.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4/The Fog.mp3",
     "hash": "6092028a75424682384b259c410066d0",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.85"
+    "lufs": "-13.85",
+    "lastUpdateDate": "2026-10-21T19:52:47.741Z",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d15b36f3-32f2-4cd1-b55d-272d43def504",
@@ -103191,16 +103347,21 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Persona 4 Golden/I'll Face Myself -Reincarnation-.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 4 Golden/I'll Face Myself -Reincarnation-.mp3",
     "hash": "bfe97a1ee125f19524073153ae9fa0dc",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.34"
+    "lufs": "-14.34",
+    "lastUpdateDate": "2026-10-21T19:53:21.193Z",
+    "composers": [
+      "Shoji Meguro",
+      "Atsushi Kitajoh"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "54db82e7-1cdb-4c12-b369-d43240564984",
@@ -103216,9 +103377,6 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "isCrossGame": true,
     "file": "Pocky & Rocky/Rocky's Message [Clarinet].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pocky & Rocky/Rocky's Message [Clarinet].mp3",
@@ -103226,7 +103384,14 @@
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-12.68"
+    "lufs": "-12.68",
+    "lastUpdateDate": "2026-10-21T19:22:58.081Z",
+    "composers": [
+      "Hiroyuki Iwatsuki"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f79e4c88-7cad-46d8-83ff-e235fb8979f1",
@@ -103240,17 +103405,21 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Raiden/Fighting Thunder.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Raiden/Fighting Thunder.mp3",
     "hash": "7f2f558524229c0c165db9d6810158b8",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.76"
+    "lufs": "-17.76",
+    "lastUpdateDate": "2026-10-21T19:23:53.931Z",
+    "composers": [
+      "Akira Sato"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "7fb38226-4158-405b-8c16-ceb55ec3e1b2",
@@ -103264,16 +103433,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus [2].mp3",
     "hash": "d65995fea435818a7ac94bb8f9fb1cf3",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.82"
+    "lufs": "-15.82",
+    "lastUpdateDate": "2026-10-22T17:36:44.505Z",
+    "composers": [
+      "ZUN"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6f4e89b8-047c-4704-87d6-eaf5400d1b4b",
@@ -103288,16 +103461,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Mania/Egg Reverie Zone.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Mania/Egg Reverie Zone.mp3",
     "hash": "f805bb4542100dd92ed1760980b68bb5",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.11"
+    "lufs": "-14.11",
+    "lastUpdateDate": "2026-10-21T19:26:21.048Z",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "a741d405-e206-47be-8a1f-a6fa94a5792d",
@@ -103315,16 +103492,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Robo Blast 2 The Mystic Realm/Tempest Valley Zone.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Robo Blast 2 The Mystic Realm/Tempest Valley Zone.mp3",
     "hash": "c906c37adc5a8b111850e2f379790505",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.54"
+    "lufs": "-13.54",
+    "lastUpdateDate": "2026-10-22T17:35:44.488Z",
+    "composers": [
+      "RedXVI"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "2a1a7067-21c7-4ef2-a01c-0d2ffb9b224b",
@@ -103342,16 +103523,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic the Hedgehog (8-bit)/Scrap Brain Zone[Saxophone].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic the Hedgehog (8-bit)/Scrap Brain Zone[Saxophone].mp3",
     "hash": "fba32790442c5ae4bff149dcf1d9b1fb",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.19"
+    "lufs": "-16.19",
+    "lastUpdateDate": "2026-10-21T19:28:35.751Z",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "930358e0-f2b9-4fcc-99b2-97530ee1e6dd",
@@ -103369,16 +103554,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Sonic Unleashed/Windmill Isle (Day) [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Unleashed/Windmill Isle (Day) [2].mp3",
     "hash": "8a99198e92df0446023cff63076bdd71",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.61"
+    "lufs": "-14.61",
+    "lastUpdateDate": "2026-10-21T19:27:28.793Z",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "245bb0f7-b98a-49fc-88fa-04c1db5a4e42",
@@ -103391,16 +103580,21 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Spider-Man & Venom Maximum Carnage/Heroic Assault [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Spider-Man & Venom Maximum Carnage/Heroic Assault [2].mp3",
     "hash": "42236d1a01aa76bad1695f24edeb446c",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.85"
+    "lufs": "-16.85",
+    "lastUpdateDate": "2026-10-21T19:30:19.808Z",
+    "composers": [
+      "Chris Jojo",
+      "Allister Brimble"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "d1ef1ac1-e0db-4614-a5d2-34224788ca02",
@@ -103417,16 +103611,22 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Street Fighter EX Plus Alpha/Amusementive Crime [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Street Fighter EX Plus Alpha/Amusementive Crime [2].mp3",
     "hash": "0fdc20c9129ba5a1b44681baac99fcd6",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.27"
+    "lufs": "-13.27",
+    "lastUpdateDate": "2026-10-21T19:32:28.889Z",
+    "composers": [
+      "Shinji Hosoe",
+      "Ayako Saso",
+      "Takayuki Aihara"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "31763e93-6b02-4fd5-be6a-61803a394141",
@@ -103443,16 +103643,22 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Street Fighter EX Plus Alpha/Stronger.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Street Fighter EX Plus Alpha/Stronger.mp3",
     "hash": "de89220dfd23b2c54bc6852a5e2888e1",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.22"
+    "lufs": "-14.22",
+    "lastUpdateDate": "2026-10-21T19:33:02.776Z",
+    "composers": [
+      "Shinji Hosoe",
+      "Ayako Saso",
+      "Takayuki Aihara"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "c66703d4-ec9f-43fb-8305-3c5036155478",
@@ -103470,16 +103676,20 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Smash Bros. Melee/Mother [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Melee/Mother [2].mp3",
     "hash": "fd2ee40698604882fa0eea5fd3567d89",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.70"
+    "lufs": "-16.70",
+    "lastUpdateDate": "2026-10-21T19:56:50.041Z",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "433208d9-39e6-40ac-a02f-8f3590e890a8",
@@ -103496,17 +103706,21 @@
       "5",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Super Smash Bros. Melee/Mother.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Melee/Mother.mp3",
     "hash": "f4a44e1fbaab1c40e6f858c431af95f0",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.60"
+    "lufs": "-16.60",
+    "lastUpdateDate": "2026-10-21T19:56:16.656Z",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "67566b49-ef30-4ee9-a2e5-58f2e7b58c75",
@@ -103518,16 +103732,21 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Rebirth/Desperate Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Rebirth/Desperate Battle.mp3",
     "hash": "283ac95a717ffa616cb5d75583f5dc19",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-16.37"
+    "lufs": "-16.37",
+    "lastUpdateDate": "2026-10-21T19:35:42.561Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "51227093-6b8f-4932-9d90-348b9d16d541",
@@ -103539,16 +103758,21 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Tales of Rebirth/Scutum Fang.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tales of Rebirth/Scutum Fang.mp3",
     "hash": "241c99233311b5bfc208e9806354f92f",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.85"
+    "lufs": "-15.85",
+    "lastUpdateDate": "2026-10-21T19:36:24.754Z",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "15d08d4d-b07d-4512-9cf5-60dc30d774ed",
@@ -103564,16 +103788,21 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The Legend of the Mystical Ninja/Shikoku Island.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of the Mystical Ninja/Shikoku Island.mp3",
     "hash": "9b560c2610d54451687354236b4a8bdf",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.35"
+    "lufs": "-17.35",
+    "lastUpdateDate": "2026-10-21T18:37:54.029Z",
+    "composers": [
+      "Kazuhiko Uehara",
+      "Harumi Ueko"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f9bc9913-3dd4-471d-b2cb-16ba543b3847",
@@ -103586,16 +103815,21 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "The Legend of Zelda Phantom Hourglass/Island Life.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Phantom Hourglass/Island Life.mp3",
     "hash": "ca4e8e3c0038a880efb06822cae142aa",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-19.23"
+    "lufs": "-19.23",
+    "lastUpdateDate": "2026-10-21T19:37:19.960Z",
+    "composers": [
+      "Toru Minegishi",
+      "Kenta Nagata"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "3c803508-ecbb-41be-9296-1d5530067c14",
@@ -103614,16 +103848,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 10.5 Scarlet Weather Rhapsody/Flowering Night.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 10.5 Scarlet Weather Rhapsody/Flowering Night.mp3",
     "hash": "b05938a46e0f172787650a1309832e0f",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.80"
+    "lufs": "-17.80",
+    "lastUpdateDate": "2026-10-21T19:38:36.795Z",
+    "composers": [
+      "ZUN"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f1982a66-cba3-4afe-bb73-d7aaea634203",
@@ -103642,16 +103880,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 17.5 Sunken Fossil World/The Centennial Festival for Magical [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 17.5 Sunken Fossil World/The Centennial Festival for Magical [2].mp3",
     "hash": "c3fc50d40e711b50dcf8d14089e59e5e",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.98"
+    "lufs": "-18.98",
+    "lastUpdateDate": "2026-10-22T16:02:46.248Z",
+    "composers": [
+      "ziki_7"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "fa174053-ee3c-46c1-9580-5cab53bad4cd",
@@ -103670,16 +103912,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 7.5 Immaterial and Missing Power/Broken Moon.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 7.5 Immaterial and Missing Power/Broken Moon.mp3",
     "hash": "5f5853f228698978b63d2362f422a2ad",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.59"
+    "lufs": "-14.59",
+    "lastUpdateDate": "2026-10-22T16:04:02.739Z",
+    "composers": [
+      "Uni Akiyama"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "cdb69ce3-3402-4967-8d76-a343c28d6700",
@@ -103694,16 +103940,20 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou 7.5 Immaterial and Missing Power/Eastern Forgathering Dream.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 7.5 Immaterial and Missing Power/Eastern Forgathering Dream.mp3",
     "hash": "80ce0c373a491bffb365b9896bf4d885",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-17.24"
+    "lufs": "-17.24",
+    "lastUpdateDate": "2026-10-22T16:04:28.459Z",
+    "composers": [
+      "Uni Akiyama"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "6cfd59c4-f8c0-4b1b-b1e5-0ed25b6b8091",
@@ -103717,17 +103967,21 @@
       "2",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Touhou CD 5 Magical Astronomy/Welcome to the Moon Tour [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou CD 5 Magical Astronomy/Welcome to the Moon Tour [2].mp3",
     "hash": "4d127bc8f61b0f67e5d04f79810ee6f4",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-13.68"
+    "lufs": "-13.68",
+    "lastUpdateDate": "2026-10-22T16:05:21.714Z",
+    "composers": [
+      "ZUN"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "902166ba-d9f1-4ef7-9eb0-6fb65797952a",
@@ -103739,16 +103993,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Undertale/Stronger Monsters.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Undertale/Stronger Monsters.mp3",
     "hash": "f3df95c4338a7e976e69707e74e800ba",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-15.04"
+    "lufs": "-15.04",
+    "lastUpdateDate": "2026-10-21T19:41:39.774Z",
+    "composers": [
+      "Toby Fox"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "078f2dd1-7732-4d39-9c37-b699bbc504c2",
@@ -103760,16 +104018,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Undertale No More Deals/Chara Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Undertale No More Deals/Chara Battle.mp3",
     "hash": "e486fb14dabb0ee9ffd8970ef7c29d62",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-18.01"
+    "lufs": "-18.01",
+    "lastUpdateDate": "2026-10-21T19:43:06.758Z",
+    "composers": [
+      "BenLab"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f8194730-a4f8-459f-9ac6-fc9b21665fa2",
@@ -103782,16 +104044,21 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys The Oath in Felghana/Valestein Castle [Guitar].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Ys The Oath in Felghana/Valestein Castle [Guitar].mp3",
     "hash": "c0d787b196baeecbe24acc381ae519ba",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.86"
+    "lufs": "-14.86",
+    "lastUpdateDate": "2026-10-21T19:59:37.451Z",
+    "composers": [
+      "Mieko Ishikawa",
+      "Yukihiro Jindo"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "uuid": "f354188c-8893-4657-ace7-f86b429965ed",
@@ -103804,16 +104071,452 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "isCrossGame": false,
     "file": "Ys The Oath in Felghana/Valestein Castle [Trumpet].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Ys The Oath in Felghana/Valestein Castle [Trumpet].mp3",
     "hash": "3e02d0d8de0f9f9403a99b24fa1aed6c",
     "converters": [
       "SeitanTaisen"
     ],
-    "lufs": "-14.73"
+    "lufs": "-14.73",
+    "lastUpdateDate": "2026-10-21T20:00:03.185Z",
+    "composers": [
+      "Mieko Ishikawa",
+      "Yukihiro Jindo"
+    ],
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
+  },
+  {
+    "uuid": "238a0aea-0558-48e6-a235-2c78ca987f7c",
+    "creationDate": "2026-10-19T18:50:38.449Z",
+    "game": "Banjo-Kazooie: Jiggies of Time",
+    "song": "Lon Lon Park",
+    "composers": [
+      "Grant Kirkhope",
+      "Koji Kondo",
+      "Grybo"
+    ],
+    "converters": [
+      "Cmellz"
+    ],
+    "lufs": "-16.72",
+    "file": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Banjo-Kazooie Jiggies of Time/Lon Lon Park.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "7f1a4a7753ed8beef9ad0410f41e6b1c"
+  },
+  {
+    "uuid": "691eb84d-a133-4e09-9000-2ae2c051c537",
+    "creationDate": "2026-10-19T18:57:29.807Z",
+    "game": "Donkey Kong 64",
+    "song": "Angry Aztec (Temple) [2]",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Cmellz"
+    ],
+    "lufs": "-19.88",
+    "file": "Donkey Kong 64/Angry Aztec (Temple) [2].mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "preview": "Donkey Kong 64/Angry Aztec (Temple) [2].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "42648a40695860984979f69a1f978ecb"
+  },
+  {
+    "uuid": "2eaafcc1-be23-424e-8aa7-464fddb991a8",
+    "creationDate": "2026-10-20T00:36:45.267Z",
+    "game": "AriahKS",
+    "song": "Dirge of Lost Souls",
+    "composers": [
+      "AriahKS"
+    ],
+    "converters": [
+      "AriahKS"
+    ],
+    "lufs": "-21.53",
+    "file": "AriahKS/Dirge of Lost Souls.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "preview": "AriahKS/Dirge of Lost Souls.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "839322e3a279e871f62d8c30543414a1"
+  },
+  {
+    "uuid": "d7ead720-1845-4df5-b77e-aed0ad159ab3",
+    "creationDate": "2026-10-20T00:38:03.800Z",
+    "game": "Homestuck",
+    "song": "Doctor",
+    "composers": [
+      "George Buzinkai"
+    ],
+    "converters": [
+      "AriahKS"
+    ],
+    "lufs": "-12.36",
+    "file": "Homestuck/Doctor.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "preview": "Homestuck/Doctor.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "74183fc7bc560620fa7e1a54f1f89cbb"
+  },
+  {
+    "uuid": "8242946d-0ebb-4ca4-abb4-6587e45f25be",
+    "creationDate": "2026-10-20T00:38:53.602Z",
+    "game": "Homestuck",
+    "song": "Sburban Jungle",
+    "composers": [
+      "Michael Guy Bowman"
+    ],
+    "converters": [
+      "AriahKS"
+    ],
+    "lufs": "-9.82",
+    "file": "Homestuck/Sburban Jungle.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "preview": "Homestuck/Sburban Jungle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "b5011c675559e92cec0c306b5d50a613"
+  },
+  {
+    "uuid": "cc443170-40f3-488c-bd39-1138c5baa225",
+    "creationDate": "2026-10-18T03:38:33.860Z",
+    "game": "Star Trek: Voyager",
+    "song": "Main Theme",
+    "composers": [
+      "Jerry Goldsmith"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "lufs": "-19.02",
+    "file": "Star Trek Voyager/Main Theme.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "preview": "Star Trek Voyager/Main Theme.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "dc4425c8536a05ec1a9bf5023f03fcfa"
+  },
+  {
+    "uuid": "3485b582-0b12-4a18-985e-ecbc76c9f71a",
+    "creationDate": "2026-10-18T00:38:35.219Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Ascend to Destiny",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-13.79",
+    "file": "Golden Sun Dark Dawn/Ascend to Destiny.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5"
+    ],
+    "preview": "Golden Sun Dark Dawn/Ascend to Destiny.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "dd6393202a604934530deb6097eef559"
+  },
+  {
+    "uuid": "2d3a4a1c-4dfa-4b52-b2a4-3ad9609fa11a",
+    "creationDate": "2026-10-18T00:41:41.357Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Ayuthay",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-20.16",
+    "file": "Golden Sun Dark Dawn/Ayuthay.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "preview": "Golden Sun Dark Dawn/Ayuthay.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "00b5e8fa92355c9d341cf52f8dfa2b15"
+  },
+  {
+    "uuid": "00cd6377-c9cc-4b5b-97e5-e8dc9f004371",
+    "creationDate": "2026-10-18T00:43:46.785Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Battle! [Formidable Enemy]",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-10.02",
+    "file": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Battle! [Formidable Enemy].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "5100e9e3f4b0c22dfbf3d4620dd6d754"
+  },
+  {
+    "uuid": "ad85f6f4-3463-4914-ae36-7dca9fc3b701",
+    "creationDate": "2026-10-18T00:46:14.365Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Battle! [Sand Prince]",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.06",
+    "file": "Golden Sun Dark Dawn/Battle! [Sand Prince].mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Battle! [Sand Prince].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "0de994c8f51617da8b18fbf906d17494"
+  },
+  {
+    "uuid": "95cf8ee0-0df3-44fc-9608-183b07880d06",
+    "creationDate": "2026-10-18T00:47:58.374Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Carver's Camp",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-20.85",
+    "file": "Golden Sun Dark Dawn/Carver's Camp.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "preview": "Golden Sun Dark Dawn/Carver's Camp.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "31c4768a83c471a0d3d32fe1ebd041a8"
+  },
+  {
+    "uuid": "d889484f-bfa3-4306-bdcb-cd8b9581f42d",
+    "creationDate": "2026-10-18T00:49:33.617Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Into the Skies",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.60",
+    "file": "Golden Sun Dark Dawn/Into the Skies.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "preview": "Golden Sun Dark Dawn/Into the Skies.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "e77b18903a1d7973506e15bef7a26d48"
+  },
+  {
+    "uuid": "cacefd21-4106-4dfb-9a50-ca5e528f44dd",
+    "creationDate": "2026-10-18T00:51:10.778Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Passing the Obstacles",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-15.12",
+    "file": "Golden Sun Dark Dawn/Passing the Obstacles.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "preview": "Golden Sun Dark Dawn/Passing the Obstacles.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "ff0095c01d4c5c9c293ac29ddf0f09b5"
+  },
+  {
+    "uuid": "4c5643a3-82bc-4d85-a4b7-8b2ec45639ca",
+    "creationDate": "2026-10-24T13:34:38.056Z",
+    "game": "Final Fantasy XIV",
+    "song": "Weight of the World (Prelude)",
+    "composers": [
+      "Masayoshi Soken",
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "MaxPlaysGamesBadly"
+    ],
+    "lufs": "-17.39",
+    "file": "Final Fantasy XIV/Weight of the World (Prelude).mmrs",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5",
+      "7",
+      "117",
+      "118",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "preview": "Final Fantasy XIV/Weight of the World (Prelude).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "b65770f16d7068b871e7d7b97ae49b3a"
+  },
+  {
+    "uuid": "2071c22c-5a7c-47df-a349-d7503a86b61b",
+    "creationDate": "2026-10-23T12:20:07.895Z",
+    "game": "Xenoblade Chronicles",
+    "song": "Colony 9",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "lufs": "-19.09",
+    "file": "Xenoblade Chronicles/Colony 9.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "preview": "Xenoblade Chronicles/Colony 9.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "5b38271fd3e186755b325472886f748e"
+  },
+  {
+    "uuid": "d2e357c7-6740-4d8b-9b0f-ca52ac128d11",
+    "creationDate": "2026-10-23T12:23:08.184Z",
+    "game": "Kirby's Adventure",
+    "song": "Nightmare Battle",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Unknown"
+    ],
+    "lufs": "-15.91",
+    "file": "Kirby's Adventure/Nightmare Battle.mmrs",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "preview": "Kirby's Adventure/Nightmare Battle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "f80f42326dd483cf706fea5b58d1942b"
+  },
+  {
+    "uuid": "19003356-c1f9-4ca4-b54d-4491da873dac",
+    "creationDate": "2026-10-26T23:35:22.391Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Beloved One (Guitar)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "ruugosus"
+    ],
+    "notes": "This variant is less faithful to the original song, but has no compatibility issues",
+    "lufs": "-19.17",
+    "file": "Fire Emblem Genealogy of the Holy War/Beloved One (Guitar).mmrs",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "118",
+      "128"
+    ],
+    "usesCustomBank": true,
+    "preview": "Fire Emblem Genealogy of the Holy War/Beloved One (Guitar).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "216d027dbb9f08f373b6c0c5cdaeff0f"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
