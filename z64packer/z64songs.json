@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -104535,7 +104535,12 @@
     "categories": [
       "10"
     ],
-    "preview": "The Legend of Zelda Majora's Mask/Ballad of the Wind Fish (Full version).mp3"
+    "preview": "The Legend of Zelda Majora's Mask/Ballad of the Wind Fish (Full version).mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "54ce6123c322c229c45c279087c6fa79"
   },
   {
     "uuid": "946cadb8-47cc-4141-b68e-6e77b7f26c83",
@@ -104554,7 +104559,12 @@
     "categories": [
       "1"
     ],
-    "preview": "Fire Emblem Awakening/We'd best prepare for combat, just to be safe.mp3"
+    "preview": "Fire Emblem Awakening/We'd best prepare for combat, just to be safe.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "298cdb88231ae7a7c331f86a816c9f79"
   },
   {
     "uuid": "2583fb7a-2145-4aaf-b2a8-5a88bd8c9303",
@@ -104575,7 +104585,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "preview": "Tekken 2/Devil Kazuya [Final Stage].mp3"
+    "preview": "Tekken 2/Devil Kazuya [Final Stage].mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "8f90a825d2ce6998291c9e07c89ef50d"
   },
   {
     "uuid": "ba051adb-1d41-488e-84f5-8ad558b64154",
@@ -104597,7 +104611,11 @@
       "4"
     ],
     "usesCustomBank": true,
-    "preview": "Psychonauts/The Meat Circus.mp3"
+    "preview": "Psychonauts/The Meat Circus.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "c39d46eafc5d67606d6ed16356a4d105"
   },
   {
     "uuid": "86578501-3241-4388-85cd-241fdddca2aa",
@@ -104622,7 +104640,11 @@
       "3"
     ],
     "usesCustomBank": true,
-    "preview": "Mystical Ninja Starring Goemon/Gourmet Submarine Castle ~ Part 3.mp3"
+    "preview": "Mystical Ninja Starring Goemon/Gourmet Submarine Castle ~ Part 3.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "9882f0bf095ac501d0fadd2c2048f768"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
