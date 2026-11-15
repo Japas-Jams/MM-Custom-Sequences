@@ -104577,5 +104577,27 @@
     "usesCustomBank": true,
     "preview": "Tekken 2/Devil Kazuya [Final Stage].mp3"
   },
+  {
+    "uuid": "ba051adb-1d41-488e-84f5-8ad558b64154",
+    "creationDate": "2026-11-15T15:06:38.975Z",
+    "game": "Psychonauts",
+    "song": "The Meat Circus",
+    "composers": [
+      "Peter McConnell"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.87",
+    "file": "Psychonauts/The Meat Circus.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Psychonauts/The Meat Circus.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
