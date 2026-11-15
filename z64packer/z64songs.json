@@ -104537,5 +104537,24 @@
     ],
     "preview": "The Legend of Zelda Majora's Mask/Ballad of the Wind Fish (Full version).mp3"
   },
+  {
+    "uuid": "946cadb8-47cc-4141-b68e-6e77b7f26c83",
+    "creationDate": "2026-11-15T15:00:02.075Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "We'd best prepare for combat, just to be safe",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-23.15",
+    "file": "Fire Emblem Awakening/We'd best prepare for combat, just to be safe.mmrs",
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "preview": "Fire Emblem Awakening/We'd best prepare for combat, just to be safe.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
