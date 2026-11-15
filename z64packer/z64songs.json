@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -104517,6 +104517,25 @@
     "usesFormmask": false,
     "isCrossGame": false,
     "hash": "216d027dbb9f08f373b6c0c5cdaeff0f"
+  },
+  {
+    "uuid": "fe6f2f68-2644-4fbc-a4a6-b83b7dc50b90",
+    "creationDate": "2026-11-15T14:54:26.694Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Ballad of the Wind Fish (Full version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-17.05",
+    "file": "The Legend of Zelda Majora's Mask/Ballad of the Wind Fish (Full version).mmrs",
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "preview": "The Legend of Zelda Majora's Mask/Ballad of the Wind Fish (Full version).mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
