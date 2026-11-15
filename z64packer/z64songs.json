@@ -104556,5 +104556,26 @@
     ],
     "preview": "Fire Emblem Awakening/We'd best prepare for combat, just to be safe.mp3"
   },
+  {
+    "uuid": "2583fb7a-2145-4aaf-b2a8-5a88bd8c9303",
+    "creationDate": "2026-11-15T15:03:48.064Z",
+    "game": "Tekken 2",
+    "song": "Devil Kazuya [Final Stage]",
+    "composers": [
+      "Yoshie Arakawa"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.51",
+    "file": "Tekken 2/Devil Kazuya [Final Stage].mmrs",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "preview": "Tekken 2/Devil Kazuya [Final Stage].mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
